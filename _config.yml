@@ -265,7 +265,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
     
-display_tags: ["fragmenta · skepsis · metaxy", "research log", "travel notes", "readings", "hobbies", "filizinbetween"]
+display_tags: ["fragmenta", "skepsis",  "metaxy", "research-log", "travel-notes", "readings", "hobbies", "filizinbetween"]
 display_categories: []
 
 # -----------------------------------------------------------------------------
