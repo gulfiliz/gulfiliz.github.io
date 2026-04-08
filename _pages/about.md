@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image:
   image_circular: false
   more_info:
 
@@ -26,9 +26,9 @@ Here you’ll find my travel notes, reflections on philosophy, origami, the game
 ---
 
 Merhaba, ben Filiz. Fizikçi ve bilgisayar bilimcisiyim; özellikle kuantum hesaplama ile ilgileniyorum. Edebiyatı çok seviyorum, özellikle Rus edebiyatını. Aynı zamanda dolma kalem meraklısıyım ve çocukluğumdan beri özel ve limitli üretim kalemler biriktiriyorum; kendimce bir dolma kalem koleksiyoneriyim.
-Astronomiyi çok seviyorum; boş zamanlarımda özellikle modüler origamiyle uğraşır ve Go (Igo/Baduk/Weiqi) oynamaktan büyük keyif alırım. Güzel İzmir’denim ve şu anda Dallas’ta yaşıyorum. 
+Astronomiyi çok seviyorum; boş zamanlarımda özellikle modüler origamiyle uğraşır ve Go (Igo/Baduk/Weiqi) oynamaktan büyük keyif alırım. İzmirliyim ve şu anda Dallas’ta yaşıyorum. 
 
-Burası benim entelektüel alanım.
+Burası benim entelektüel alanım!
 Fragmenta’da kırıntılar, Sképsis’te sorgulanmamış doğrular, Metaxy’de arada kalanlar.
 
 Burada gezi notlarımı, felsefe üzerine düşüncelerimi, origamiyi, Go oyununu, dolma kalemleri, araştırma günlüğümü ve okuma notlarımı bulacaksınız — hepsi tek bir yerde.
