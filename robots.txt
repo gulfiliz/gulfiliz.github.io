@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gulfiliz.github.io/sitemap.xml
+Sitemap: https://gulfiliz-temp.github.io/sitemap.xml
