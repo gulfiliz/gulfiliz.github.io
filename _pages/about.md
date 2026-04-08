@@ -12,7 +12,7 @@ profile:
 
 news: false
 selected_papers: false
-social: false
+social: false 
 ---
 
 Hey, this is Filiz. I'm a physicist and computer scientist with a strong interest in quantum computing. I love literature, especially Russian literature. I'm also a fountain pen enthusiast and have been collecting special and limited editions since my childhood.
