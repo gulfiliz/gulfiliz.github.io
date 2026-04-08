@@ -5,7 +5,7 @@ require 'uri'
 
 module Helpers
   extend ActiveSupport::NumberHelper
-end
+end 
 
 module Jekyll
   class InspireHEPCitationsTag < Liquid::Tag
