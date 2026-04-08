@@ -15,7 +15,7 @@ selected_papers: false
 social: true
 ---
 
-Physicist. Loves Literature. Fountain Pen Enthusiast. The Bard fan.
+Physicist and Computer Scientist. Loves Literature. Fountain Pen Enthusiast. The Bard fan.
 Amateur Astronomer & 折り紙. Piano. 囲碁 6p. Aegean. Secularist.
 From Smyrna & Raised by Grandma.
 
