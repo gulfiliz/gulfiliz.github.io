@@ -28,7 +28,7 @@ pagination:
     <h1 style="font-size: 2rem; color: var(--global-text-color); font-family: 'EB Garamond', serif;">{{ site.blog_name }}</h1>
     <h2 style="font-size: 1rem; color: var(--global-text-color-muted);">{{ site.blog_description }}</h2>
   </div>
-  {% endif %}
+  {% endif %} 
 
 {% if site.display_tags and site.display_tags.size > 0 or site.display_categories and site.display_categories.size > 0 %}
 
