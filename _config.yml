@@ -4,8 +4,6 @@ middle_name:
 last_name:
 contact_note:
 description: >
-  Hey this is Filiz. I'm a physicist and computer scientist and interested in quantum computing. I loves literature, specifically Russian Lierature. I'm a fountain pen enthusiast and collecting special/limited ones isnce my childhood.
-  I really enjoy stargazing, spend my time with 折り紙 and playing 囲碁! I am from beautiful Izmir!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
