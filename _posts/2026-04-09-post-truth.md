@@ -400,4 +400,72 @@ Scientists and scholars who communicate uncertainty honestly,
 acknowledge past failures, and engage with objections
 rather than dismissing them from behind credentialed walls.
 
-**Ins
+**Institutional reform.**
+Media incentives that reward accuracy.
+Platform structures that do not systematically amplify outrage.
+Funding structures for science that reduce conflicts of interest.
+
+**Civic epistemology.**
+Education not merely in facts but in how we know —
+logic, statistics, the philosophy of science,
+the history of how false consensus has been manufactured.
+
+**The practice of epistemic virtue.**
+Intellectual humility. The willingness to change one's mind.
+The discipline of engaging with the strongest version
+of views one disagrees with.
+The courage to say *I don't know.*
+
+These are not solutions. They are conditions.
+The epistemic commons cannot be rebuilt by any single intervention.
+It is rebuilt — if it is rebuilt — slowly, institutionally, culturally,
+one honest conversation at a time.
+
+---
+
+## Coda
+
+Hannah Arendt, writing in 1967 — before the internet,
+before social media, before algorithmic amplification —
+already saw what was coming:
+
+The danger of a politics that treats truth as negotiable
+is not merely that people believe false things.
+It is that the category of truth itself becomes destabilized —
+that people lose the capacity to distinguish
+between what is real and what is not.
+
+And a population that cannot make that distinction
+is not merely misinformed.
+It is ungovernable, in the deepest sense —
+unable to act collectively on the basis of shared reality,
+unable to hold power accountable,
+unable to be a demos in any meaningful sense.
+
+Post-truth is not an epistemological problem with political consequences.
+It is a political problem with epistemological roots.
+
+The question it poses is not merely:
+*what is true?*
+
+It is: *what kind of creatures do we want to be?*
+
+Creatures who hide from uncomfortable truths —
+or creatures who face them,
+however difficult,
+however unsettling,
+however costly?
+
+I know which answer I prefer.
+
+I am less certain, these days, that it will prevail.
+
+---
+
+*Further reading:*
+*Harry Frankfurt — On Bullshit (2005)*
+*Hannah Arendt — Truth and Politics (1967)*
+*Naomi Oreskes & Erik Conway — Merchants of Doubt (2010)*
+*Timothy Snyder — On Tyranny (2017)*
+*Miranda Fricker — Epistemic Injustice (2007)*
+*Lee McIntyre — Post-Truth (2018)*
