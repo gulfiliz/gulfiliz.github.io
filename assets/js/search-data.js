@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-standard-model/";
           
         },
+      },{id: "post-the-problem-of-the-self-does-quot-you-quot-exist",
+        
+          title: "The Problem of the Self — Does &quot;You&quot; Exist?",
+        
+        description: "Hume, Parfit, Buddhism, and the unsettling possibility that nobody is home.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-self/";
+          
+        },
       },{id: "post-what-does-it-mean-to-measure-something",
         
           title: "What Does It Mean to Measure Something?",
@@ -47,6 +58,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/the-game-of-go/";
+          
+        },
+      },{id: "post-post-truth-on-the-collapse-of-the-epistemic-commons",
+        
+          title: "Post-Truth — On the Collapse of the Epistemic Commons",
+        
+        description: "How we stopped agreeing on what is real, and what that means for everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/post-truth/";
           
         },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
