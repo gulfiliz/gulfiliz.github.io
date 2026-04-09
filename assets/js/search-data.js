@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
+        },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
+        
+          title: "The Standard Model — The Most Successful Theory Ever Written",
+        
+        description: "How we fit the entire universe onto one page — and what that page cannot explain.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-standard-model/";
+          
+        },
+      },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
         
           title: "The Game of Go — The Most Human Game Ever Invented",
         
