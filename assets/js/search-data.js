@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-başlangıç",
+        
+          title: "Başlangıç",
+        
+        description: "Bu alan neden var?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/baslangic/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
