@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-game-of-go/";
           
         },
+      },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
+        
+          title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
+        
+        description: "The only law in physics that knows which way time flows.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
+          
+        },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
         
           title: "Decoherence — Why Quantum Computers Are Hard",
