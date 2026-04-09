@@ -82,6 +82,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
           
         },
+      },{id: "post-dostoevsky-the-writer-who-knew-too-much",
+        
+          title: "Dostoevsky — The Writer Who Knew Too Much",
+        
+        description: "On suffering, freedom, and the novelist who saw the twentieth century coming.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/dostoevsky/";
+          
+        },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
         
           title: "Decoherence — Why Quantum Computers Are Hard",
