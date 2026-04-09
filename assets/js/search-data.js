@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/yasameya-deger-mi/";
           
         },
+      },{id: "post-süperpozisyon-ve-dolanıklık",
+        
+          title: "Süperpozisyon ve Dolanıklık",
+        
+        description: "Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/superpozisyon-ve-dolaniklik/";
+          
+        },
       },{id: "post-beginnings",
         
           title: "Beginnings",
