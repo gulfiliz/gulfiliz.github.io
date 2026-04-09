@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-standard-model/";
           
         },
+      },{id: "post-what-does-it-mean-to-measure-something",
+        
+          title: "What Does It Mean to Measure Something?",
+        
+        description: "The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-measurement-problem/";
+          
+        },
       },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
         
           title: "The Game of Go — The Most Human Game Ever Invented",
