@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/decoherence/";
           
         },
+      },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
+        
+          title: "Bivariate Bicycle Codes — A New Hope for qLDPC",
+        
+        description: "Structure, parameters, and why they matter.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/bivariate-bicycle-codes/";
+          
+        },
       },{id: "post-yaşamaya-değer-mi",
         
           title: "Yaşamaya Değer Mi?",
