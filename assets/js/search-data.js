@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-decoherence-why-quantum-computers-are-hard",
+        },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
+        
+          title: "The Game of Go — The Most Human Game Ever Invented",
+        
+        description: "On Weiqi, AlphaGo, and why 19×19 intersections contain everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-game-of-go/";
+          
+        },
+      },{id: "post-decoherence-why-quantum-computers-are-hard",
         
           title: "Decoherence — Why Quantum Computers Are Hard",
         
