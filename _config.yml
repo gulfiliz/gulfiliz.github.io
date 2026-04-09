@@ -262,8 +262,8 @@ jekyll-archives:
       categories: "/blog/:type/:name/"
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-    
-display_tags: ["fragmenta", "skepsis",  "metaxy", "research-log", "travel-notes", "readings", "hobbies", "filizinbetween"]
+
+display_tags: ["fragmenta", "skepsis", "metaxy", "research-logs", "travel-notes", "readings", "fountain-pens", "origami", "poetry", "philosophy", "go-igo", "astronomy", "music", "literature", "filizinbetween"]
 display_categories: []
 
 # -----------------------------------------------------------------------------
