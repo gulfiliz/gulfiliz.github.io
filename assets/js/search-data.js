@@ -60,6 +60,28 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-game-of-go/";
           
         },
+      },{id: "post-post-truth-on-the-collapse-of-the-epistemic-commons",
+        
+          title: "Post-Truth — On the Collapse of the Epistemic Commons",
+        
+        description: "How we stopped agreeing on what is real, and what that means for everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/post-truth/";
+          
+        },
+      },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
+        
+          title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
+        
+        description: "From Cai Lun&#39;s invention to Miura folds — everything that happens when paper meets intention.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/modular-origami/";
+          
+        },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
         
           title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
@@ -69,6 +91,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
+          
+        },
+      },{id: "post-dostoevsky-the-writer-who-knew-too-much",
+        
+          title: "Dostoevsky — The Writer Who Knew Too Much",
+        
+        description: "On suffering, freedom, and the novelist who saw the twentieth century coming.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/dostoevsky/";
           
         },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
