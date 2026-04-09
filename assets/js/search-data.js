@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-beginnings",
+        },{id: "post-yaşamaya-değer-mi",
+        
+          title: "Yaşamaya Değer Mi?",
+        
+        description: "Camus soruyor, Seneca cevaplıyor — ya da tam tersi.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/yasameya-deger-mi/";
+          
+        },
+      },{id: "post-beginnings",
         
           title: "Beginnings",
         
