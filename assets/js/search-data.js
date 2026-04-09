@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-başlangıç",
+        },{id: "post-beginnings",
+        
+          title: "Beginnings",
+        
+        description: "On starting, scattering, and the space between.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/beginnings/";
+          
+        },
+      },{id: "post-başlangıç",
         
           title: "Başlangıç",
         
