@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
+      },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
+        
+          title: "Sartre — Existence Precedes Essence, and That Is Terrifying",
+        
+        description: "On radical freedom, bad faith, and the philosopher who said you are condemned to be free.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sartre/";
+          
+        },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
         
           title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
