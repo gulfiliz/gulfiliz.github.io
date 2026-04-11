@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
+        },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
+        
+          title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
+        
+        description: "The most human of the Stoics — on wasted time, genuine friendship, and why we are all dying badly.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seneca/";
+          
+        },
+      },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
         
           title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
         
