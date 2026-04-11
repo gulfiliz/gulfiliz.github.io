@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-field-theory/";
           
         },
+      },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
+        
+          title: "Quantum Computing — Separating the Revolution from the Hype",
+        
+        description: "A quantum researcher&#39;s honest guide to what quantum computers can and cannot do — and why the headlines are almost always wrong.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quantum-computing-hype/";
+          
+        },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
         
           title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
