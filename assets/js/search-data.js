@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/symmetry-in-physics/";
           
         },
+      },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
+        
+          title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
+        
+        description: "From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/stargazing/";
+          
+        },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
           title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
