@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
+      },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
+        
+          title: "Symmetry — The Unreasonable Beauty at the Heart of Physics",
+        
+        description: "Why the deepest laws of nature are not equations but symmetries — and what it means that beauty has been the most reliable guide to truth in the history of physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/symmetry-in-physics/";
+          
+        },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
           title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
