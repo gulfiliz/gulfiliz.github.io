@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/stargazing/";
           
         },
+      },{id: "post-special-relativity-the-end-of-absolute-space-and-time",
+        
+          title: "Special Relativity — The End of Absolute Space and Time",
+        
+        description: "In 1905, a 26-year-old patent clerk destroyed Newton&#39;s universe. What he built in its place is stranger, more beautiful, and more true.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/special-relativity/";
+          
+        },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
           title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
