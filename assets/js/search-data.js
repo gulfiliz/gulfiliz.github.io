@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
+        },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
+        
+          title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
+        
+        description: "On the Allegory of the Cave, the Theory of Forms, and why Socrates drank the hemlock.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/plato/";
+          
+        },
+      },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
         
           title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
         
