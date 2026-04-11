@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/plato/";
           
         },
+      },{id: "post-marcus-aurelius-the-emperor-who-wrote-to-himself",
+        
+          title: "Marcus Aurelius — The Emperor Who Wrote to Himself",
+        
+        description: "On the Meditations — the most private philosophical document ever accidentally published.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/marcus-aurelius/";
+          
+        },
       },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
         
           title: "The Hard Problem of Consciousness — Why the Brain Is Not Enough",
