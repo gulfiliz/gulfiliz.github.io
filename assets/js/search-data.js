@@ -104,6 +104,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/plato/";
           
         },
+      },{id: "post-the-planck-scale-where-physics-ends-and-the-unknown-begins",
+        
+          title: "The Planck Scale — Where Physics Ends and the Unknown Begins",
+        
+        description: "At 10⁻³⁵ meters, our best theories break down simultaneously. This is not a technical problem. It is the edge of what we can know.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/planck-scale/";
+          
+        },
       },{id: "post-physics-lied-to-you-common-misconceptions-that-even-smart-people-believe",
         
           title: "Physics Lied to You — Common Misconceptions That Even Smart People Believe",
