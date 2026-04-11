@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/plato/";
           
         },
+      },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
+        
+          title: "The Hard Problem of Consciousness — Why the Brain Is Not Enough",
+        
+        description: "On qualia, the explanatory gap, and the most difficult question in all of philosophy and science.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/hard-problem-consciousness/";
+          
+        },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
         
           title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
