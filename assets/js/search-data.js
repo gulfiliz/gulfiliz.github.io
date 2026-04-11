@@ -60,6 +60,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
+      },{id: "post-pushkin-the-man-who-invented-russian-literature",
+        
+          title: "Pushkin — The Man Who Invented Russian Literature",
+        
+        description: "On the poet who created a language, wrote the first modern novel in verse, and died at thirty-seven in a duel he knew he would lose.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/pushkin/";
+          
+        },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
         
           title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
