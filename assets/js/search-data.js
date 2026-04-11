@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
+        },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
+        
+          title: "Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us...",
+        
+        description: "On Hesiod&#39;s cosmogony, the violence at the origin of things, and why the myth of Oedipus is not about incest but about the unbearable desire to know.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/theogony-oedipus/";
+          
+        },
+      },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
           title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
         
