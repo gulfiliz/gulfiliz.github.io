@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/sartre/";
           
         },
+      },{id: "post-quantum-field-theory-what-everything-actually-is",
+        
+          title: "Quantum Field Theory — What Everything Actually Is",
+        
+        description: "There are no particles. There are no waves. There are only fields — and this changes everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quantum-field-theory/";
+          
+        },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
         
           title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
