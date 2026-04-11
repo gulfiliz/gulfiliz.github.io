@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/plato/";
           
         },
+      },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
+        
+          title: "Nietzsche — God Is Dead, and We Have Killed Him",
+        
+        description: "On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nietzsche/";
+          
+        },
       },{id: "post-marcus-aurelius-the-emperor-who-wrote-to-himself",
         
           title: "Marcus Aurelius — The Emperor Who Wrote to Himself",
