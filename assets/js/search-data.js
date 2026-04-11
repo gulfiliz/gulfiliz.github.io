@@ -60,6 +60,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/hard-problem-consciousness/";
           
         },
+      },{id: "post-epictetus-the-slave-who-was-free",
+        
+          title: "Epictetus — The Slave Who Was Free",
+        
+        description: "On the man who owned nothing, controlled everything, and taught Marcus Aurelius how to be emperor.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/epictetus/";
+          
+        },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
         
           title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
