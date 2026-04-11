@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
+        },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
+        
+          title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
+        
+        description: "A close reading of the most misread novel of the twentieth century.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-stranger/";
+          
+        },
+      },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
         
           title: "The Standard Model — The Most Successful Theory Ever Written",
         
@@ -82,6 +93,50 @@ ninja.data = [{
             window.location.href = "/blog/2026/modular-origami/";
           
         },
+      },{id: "post-martin-eden-the-book-that-knows-too-much-about-you",
+        
+          title: "Martin Eden — The Book That Knows Too Much About You",
+        
+        description: "On Jack London&#39;s most personal novel, and why some books are not read but survived.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/martin-eden/";
+          
+        },
+      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
+        
+          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
+        
+        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/kant/";
+          
+        },
+      },{id: "post-gogol-39-s-overcoat-on-invisibility-desire-and-the-weight-of-a-name",
+        
+          title: "Gogol&#39;s Overcoat — On Invisibility, Desire, and the Weight of a Name",
+        
+        description: "A close reading of the strangest, most devastating short story ever written — and what it says about being human.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/gogol-the-overcoat/";
+          
+        },
+      },{id: "post-epicurus-and-the-art-of-living-well-a-philosophy-for-the-present",
+        
+          title: "Epicurus and the Art of Living Well — A Philosophy for the Present...",
+        
+        description: "On pleasure, death, friendship, and why the most misunderstood philosopher in history was probably right.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/epicurus/";
+          
+        },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
         
           title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
@@ -113,6 +168,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/decoherence/";
+          
+        },
+      },{id: "post-chingiz-aitmatov-the-writer-who-carried-a-whole-world-on-his-back",
+        
+          title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
+        
+        description: "On the most important writer you may never have read — and why that is a loss you should correct immediately.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/chingiz-aitmatov/";
           
         },
       },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
@@ -168,28 +234,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/baslangic/";
-          
-        },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
       },{id: "books-the-godfather",
