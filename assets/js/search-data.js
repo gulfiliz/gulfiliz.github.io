@@ -148,6 +148,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/epictetus/";
           
         },
+      },{id: "post-baudrillard-the-desert-of-the-real",
+        
+          title: "Baudrillard — The Desert of the Real",
+        
+        description: "On simulacra, hyperreality, and the philosopher who said the Gulf War did not take place — and was not wrong.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/baudrillard/";
+          
+        },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
         
           title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
