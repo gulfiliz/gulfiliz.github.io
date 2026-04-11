@@ -93,6 +93,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/nietzsche/";
           
         },
+      },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
+        
+          title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
+        
+        description: "The formalism works perfectly. Nobody agrees on what it means. A technical deep-dive into the most embarrassing open problem in physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/measurement-problem-deep/";
+          
+        },
       },{id: "post-marcus-aurelius-the-emperor-who-wrote-to-himself",
         
           title: "Marcus Aurelius — The Emperor Who Wrote to Himself",
