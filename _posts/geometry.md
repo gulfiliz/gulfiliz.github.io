@@ -1,0 +1,745 @@
+---
+layout: post
+title: Geometry — Let No One Ignorant of Geometry Enter
+date: 2026-04-11
+description: From Thales to Riemann — the oldest science, the deepest language, and why geometry is not about shapes but about the structure of reality itself.
+tags: research-log
+---
+
+Above the entrance to Plato's Academy
+in Athens, around 387 BCE,
+there was an inscription:
+
+**ΑΓΕΩΜΕΤΡΗΤΟΣ ΜΗΔΕΙΣ ΕΙΣΙΤΩ**
+
+*Let no one ignorant of geometry enter.*
+
+This was not a prerequisite for a course.
+It was a philosophical statement.
+
+Plato believed that geometry was
+the necessary preparation for philosophy —
+that the mind which had not been trained
+to follow a geometric proof
+could not follow a philosophical argument.
+
+That the discipline of thinking about
+abstract, eternal, perfect objects —
+the point, the line, the circle —
+was the discipline required
+to think about the Good, the True, the Beautiful.
+
+He was right.
+Though not in the way he imagined.
+
+---
+
+## I. Before Euclid — The Origins
+
+Geometry is older than proof.
+
+The word: *γεωμετρία* — *geōmetria* —
+*geo* (earth) + *metria* (measurement).
+Earth measurement.
+
+The Egyptians measured land —
+after the annual Nile flood,
+surveyors called *harpedonaptai* ("rope-stretchers")
+re-established boundaries
+using knotted ropes to measure distances and right angles.
+
+The **3-4-5 right triangle** —
+a rope with 12 equal segments,
+formed into a triangle with sides 3, 4, 5 —
+creates a perfect right angle.
+
+Egyptian architects used this.
+So did the Babylonians.
+So did the builders of Stonehenge.
+
+The Babylonians knew the Pythagorean relationship
+a thousand years before Pythagoras.
+
+**Plimpton 322** — a Babylonian clay tablet
+from approximately 1800 BCE —
+contains a systematic table
+of Pythagorean triples:
+integer solutions to $$a^2 + b^2 = c^2$$.
+
+They computed these not as geometric theorems
+but as practical tools.
+
+The Greeks transformed this.
+
+They asked not "how do we use this?"
+but "why is this true?"
+
+The move from computation to proof —
+from practical knowledge to demonstrated knowledge —
+is the Greek contribution.
+
+It is the birth of mathematics
+as we know it.
+
+---
+
+## II. Thales — The First Theorem
+
+Thales of Miletus (c. 624–546 BCE)
+is traditionally credited with the first
+geometric theorems:
+
+- A circle is bisected by its diameter.
+- Base angles of an isosceles triangle are equal.
+- Vertical angles are equal.
+- An angle in a semicircle is a right angle
+  (**Thales' theorem**).
+
+Whether Thales actually proved these
+or simply observed them
+is debated.
+
+But the attribution matters:
+it marks the moment when geometry
+became a deductive science —
+when statements were not just observed
+but derived from prior statements.
+
+Thales is said to have calculated
+the height of the Great Pyramid
+by measuring its shadow
+at the moment when a man's shadow
+equals his height.
+
+He is said to have predicted
+the solar eclipse of 585 BCE.
+
+He is, in the Western tradition,
+the first scientist:
+the first person to seek
+natural rather than supernatural explanations
+for natural phenomena.
+
+Geometry was his tool.
+
+---
+
+## III. Pythagoras and the Pythagoreans
+
+Pythagoras of Samos (c. 570–495 BCE)
+founded a community —
+part school, part religious brotherhood —
+devoted to the study of mathematics.
+
+The Pythagoreans believed:
+**all is number.**
+
+The universe is structured by mathematical relationships.
+Music is number — the ratios of string lengths.
+The heavens are number — the harmonies of the spheres.
+Everything is ultimately mathematical.
+
+The **Pythagorean theorem:**
+
+In a right triangle with legs $$a, b$$
+and hypotenuse $$c$$:
+
+$$a^2 + b^2 = c^2$$
+
+The Pythagoreans proved this.
+Many proofs exist —
+over 370 different proofs have been published.
+
+But the Pythagoreans also discovered
+something that destroyed their worldview:
+
+**Irrational numbers.**
+
+If $$a = b = 1$$:
+$$c = \sqrt{2}$$
+
+$$\sqrt{2}$$ cannot be expressed as a ratio of integers.
+It is irrational.
+
+This was catastrophic.
+
+If all is number —
+if everything is ratio and proportion —
+then what is $$\sqrt{2}$$?
+
+The diagonal of a unit square
+cannot be measured.
+Cannot be expressed in numbers.
+Is incommensurable with the side.
+
+Legend says that Hippasus,
+who discovered (or revealed) this,
+was drowned at sea
+by the Pythagoreans
+for revealing the secret.
+
+The legend is probably false.
+The crisis was real.
+
+The incommensurability of $$\sqrt{2}$$
+forced Greek mathematics to separate
+geometry from arithmetic —
+to treat magnitudes geometrically
+rather than numerically.
+
+This separation lasted two thousand years.
+
+---
+
+## IV. Euclid — The Elements
+
+Around 300 BCE,
+Euclid of Alexandria
+compiled the **Elements** —
+thirteen books covering
+plane geometry, number theory,
+and solid geometry.
+
+It is the most successful textbook
+in the history of human thought.
+
+Used continuously for over two thousand years.
+More editions than any book except the Bible.
+The standard text in English schools
+until the early 20th century.
+
+**The axiomatic method:**
+
+Euclid's genius was not the theorems —
+most were known before him.
+His genius was the structure.
+
+He began with definitions, postulates, and common notions —
+statements assumed without proof —
+and derived everything else.
+
+**The five postulates:**
+
+1. A straight line can be drawn from any point to any point.
+2. A finite straight line can be extended continuously.
+3. A circle can be drawn with any center and radius.
+4. All right angles are equal.
+5. **The parallel postulate:**
+   If a straight line crosses two other straight lines
+   such that the interior angles on one side
+   sum to less than two right angles,
+   the two lines, if extended, meet on that side.
+
+The first four postulates are simple, obvious, uncontroversial.
+
+The fifth is not.
+
+It is longer. More complex. Less obviously "self-evident."
+
+For two thousand years, mathematicians tried to prove it
+from the first four —
+to show it was not an independent assumption
+but a consequence of the others.
+
+Every attempt failed.
+
+In the 19th century, we found out why.
+
+---
+
+## V. The Crisis — Non-Euclidean Geometry
+
+In the early 19th century,
+three mathematicians independently discovered
+that consistent geometries exist
+in which the parallel postulate is false.
+
+**Gauss** (1777–1855) discovered this
+but did not publish —
+fearing ridicule.
+
+**Bolyai** (1802–1860) published in 1832.
+
+**Lobachevsky** (1792–1856) published in 1829.
+
+Their geometry — **hyperbolic geometry** —
+satisfies the first four Euclidean postulates
+but replaces the fifth:
+
+Through a point not on a line,
+there are **infinitely many** parallel lines.
+
+In hyperbolic geometry:
+- The angles of a triangle sum to **less than** 180°.
+- The circumference of a circle grows
+  **exponentially** with radius.
+- The geometry is saddle-shaped — negative curvature.
+
+This was revolutionary.
+
+Not because it was practically useful —
+it wasn't, yet.
+
+But because it showed:
+**Euclidean geometry is not the only possible geometry.**
+**It is not necessarily the geometry of physical space.**
+**It is one geometry among many.**
+
+The certainty that geometry was the description
+of physical space — that Euclid's axioms were
+self-evident truths about the world —
+collapsed.
+
+Geometry became a formal science:
+the study of systems of axioms and their consequences,
+without prejudging which system
+describes physical reality.
+
+---
+
+## VI. Riemann — The Revolution
+
+In 1854, Bernhard Riemann
+delivered his **Habilitationsschrift** —
+his qualifying lecture —
+at the University of Göttingen.
+
+The title:
+*"On the Hypotheses Which Lie at the Foundations of Geometry."*
+
+Gauss was in the audience.
+He was famously difficult to impress.
+He was, reportedly, astonished.
+
+Riemann's lecture is one of the greatest
+scientific documents in history.
+
+In 47 pages, largely without equations,
+he laid out a framework
+that would become the mathematical foundation
+of General Relativity —
+sixty years before Einstein needed it.
+
+**Riemann's key ideas:**
+
+**1. Manifolds:**
+
+Geometry need not live in a flat background space.
+A geometric space — a **manifold** —
+is defined intrinsically:
+by the relationships between its points,
+not by how it is embedded in something else.
+
+A surface can be studied without reference
+to the 3D space it lives in.
+The curvature of a surface is an intrinsic property —
+measurable by creatures living on the surface,
+without leaving it.
+
+**2. The metric:**
+
+The fundamental object is the **metric** —
+a rule for measuring distances between nearby points:
+
+$$ds^2 = g_{ij}dx^i dx^j$$
+
+Different choices of $$g_{ij}$$ give different geometries.
+
+Euclidean geometry: $$g_{ij} = \delta_{ij}$$
+Spherical geometry: $$g$$ varies with position
+Hyperbolic geometry: $$g$$ varies differently
+Spacetime: $$g_{\mu\nu}$$ with Lorentzian signature
+
+**3. Curvature:**
+
+Riemann defined an intrinsic measure of curvature —
+the **Riemann curvature tensor** $$R^\rho{}_{\sigma\mu\nu}$$ —
+that captures how parallel transport around a loop
+rotates a vector.
+
+Zero curvature: flat Euclidean space.
+Positive curvature: sphere.
+Negative curvature: hyperbolic space.
+Variable curvature: general Riemannian manifold.
+
+**4. Physics:**
+
+In the lecture, Riemann speculated:
+
+*"The questions about the metric relations
+of space in the infinitely small
+are not decided by the axioms of geometry.
+Either the reality underlying space must form
+a discrete manifold, or we must seek the ground
+of its metric relations outside it...
+in binding forces which act upon it."*
+
+He was describing, in 1854,
+the idea that the geometry of space
+is determined by physical forces —
+the idea that Einstein would realize
+sixty years later as General Relativity.
+
+---
+
+## VII. Gauss's Theorema Egregium
+
+Before Riemann, Gauss proved
+what he called his **Theorema Egregium** —
+the "remarkable theorem" (1827):
+
+**The Gaussian curvature of a surface
+is an intrinsic property —
+it depends only on the metric,
+not on how the surface is embedded.**
+
+This seems technical. Its implications are profound.
+
+A flat piece of paper has zero curvature.
+If you roll it into a cylinder —
+without stretching or tearing —
+the cylinder has zero curvature.
+
+Locally, the cylinder is flat.
+
+But a sphere has positive curvature.
+You cannot flatten a sphere
+without stretching or tearing.
+
+This is why maps of the Earth
+always distort something —
+area, shape, or distance —
+because the Earth's spherical geometry
+cannot be faithfully represented
+on a flat plane.
+
+**Implications for physics:**
+
+If the geometry of space is intrinsic —
+if it is determined by the metric and not by embedding —
+then we can study the geometry of spacetime
+without asking "what is spacetime embedded in?"
+
+Spacetime is not a surface in a higher-dimensional space.
+It is its own manifold,
+with its own intrinsic geometry,
+determined by the Einstein equations.
+
+Gauss's theorem made this conceptually possible.
+
+---
+
+## VIII. The Geometries of the Universe
+
+The universe, on large scales,
+is a 3-dimensional spatial manifold
+(plus time).
+
+What is its geometry?
+
+Three possibilities,
+determined by the total energy density $$\Omega$$:
+
+**$$\Omega > 1$$ (positive curvature):**
+Spherical geometry.
+The universe is finite, unbounded.
+Parallel lines eventually meet.
+The sum of angles in a triangle exceeds 180°.
+The universe will eventually recollapse
+(if $$\Lambda = 0$$).
+
+**$$\Omega = 1$$ (zero curvature):**
+Flat Euclidean geometry.
+The universe is infinite (or very large).
+Parallel lines never meet.
+The sum of angles in a triangle equals exactly 180°.
+
+**$$\Omega < 1$$ (negative curvature):**
+Hyperbolic geometry.
+The universe is infinite.
+Through any point, infinitely many parallel lines.
+The sum of angles in a triangle is less than 180°.
+
+**Current observations (Planck 2018):**
+
+$$\Omega_{total} = 1.0007 \pm 0.0019$$
+
+The universe is flat — or very nearly so.
+
+The geometry of the universe is Euclidean
+to within 0.2%.
+
+But locally — near massive objects —
+spacetime is curved.
+The global flatness and the local curvature
+coexist.
+
+---
+
+## IX. Topology — Beyond Geometry
+
+Geometry studies metric properties —
+distances, angles, curvature.
+
+**Topology** studies properties preserved
+under continuous deformations —
+properties that don't change
+when you stretch or bend
+without tearing or gluing.
+
+A coffee cup and a donut are topologically equivalent —
+both have one hole.
+A sphere and a cube are topologically equivalent —
+both have no holes.
+
+**The Euler characteristic:**
+
+For a polyhedron:
+$$\chi = V - E + F$$
+
+where $$V$$ = vertices, $$E$$ = edges, $$F$$ = faces.
+
+For any convex polyhedron: $$\chi = 2$$.
+
+Tetrahedron: $$4 - 6 + 4 = 2$$ ✓
+Cube: $$8 - 12 + 6 = 2$$ ✓
+Icosahedron: $$12 - 30 + 20 = 2$$ ✓
+
+This is the **Euler characteristic** of the sphere.
+
+For a torus (donut): $$\chi = 0$$.
+For a surface with $$g$$ holes: $$\chi = 2 - 2g$$.
+
+The Euler characteristic is a topological invariant —
+it doesn't change under continuous deformation.
+
+**The Gauss-Bonnet theorem:**
+
+For a compact 2-manifold:
+
+$$\int_M K\,dA = 2\pi\chi(M)$$
+
+The integral of Gaussian curvature over a surface
+equals $$2\pi$$ times the Euler characteristic.
+
+This connects local geometry (curvature)
+to global topology (Euler characteristic).
+
+A sphere has $$\chi = 2$$ —
+and indeed the total curvature of a sphere
+integrates to $$4\pi = 2\pi \times 2$$. ✓
+
+**The Poincaré conjecture:**
+
+Every simply connected,
+closed 3-manifold
+is homeomorphic to a 3-sphere.
+
+Proposed by Poincaré in 1904.
+Proved by Grigori Perelman in 2003.
+
+Perelman was awarded the Fields Medal in 2006.
+He declined it.
+He was awarded the Millennium Prize ($1,000,000).
+He declined that too.
+
+He continues to live quietly in St. Petersburg.
+
+---
+
+## X. Geometry and Physics — The Deep Connection
+
+The history of physics is the history
+of geometry becoming physics.
+
+**Newton:** space is flat, 3-dimensional Euclidean space.
+Time is absolute, separate from space.
+Geometry is the background — fixed, unchanging.
+
+**Special Relativity:** space and time unite
+into 4-dimensional Minkowski spacetime.
+The metric has signature $$(-, +, +, +)$$.
+The geometry is flat — but no longer Euclidean.
+
+**General Relativity:** the metric is dynamic.
+Matter curves spacetime.
+Gravity is the curvature of the metric.
+Geometry is the physics.
+
+**Gauge theories:** forces are connections
+on fiber bundles —
+geometric objects on spacetime.
+The electromagnetic potential is a connection
+on a U(1) principal bundle.
+The curvature of this connection is the electromagnetic field.
+
+**String theory:** the geometry of the
+compact extra dimensions
+determines the physics of the 4D effective theory.
+The landscape of string vacua
+corresponds to the landscape of possible geometries.
+
+**Loop quantum gravity:** spacetime geometry itself
+is quantized — discretized at the Planck scale.
+The fundamental degrees of freedom
+are geometric: areas and volumes.
+
+At every level of depth —
+at every scale of investigation —
+physics turns out to be geometry.
+
+This is either:
+(a) a profound truth about reality —
+the universe is, at its core, geometric
+(b) a feature of how human minds work —
+we understand things geometrically
+(c) the unreasonable effectiveness of mathematics —
+geometry works because mathematics works
+
+Possibly all three.
+
+---
+
+## XI. The Unreasonable Effectiveness — Again
+
+Riemann developed his geometry in 1854
+as pure mathematics.
+
+No physical application.
+No experiment in mind.
+Pure thought about the possible structures
+of geometric spaces.
+
+Einstein needed it in 1915.
+
+Non-Euclidean geometry —
+developed because mathematicians
+were bothered by an axiom's lack of elegance —
+turned out to describe the actual geometry
+of physical spacetime.
+
+Fiber bundles — developed in the 1930s
+as pure algebraic topology —
+turned out to be the correct mathematical framework
+for gauge theories in the 1950s-70s.
+
+The mathematician Chen-Ning Yang,
+upon learning that fiber bundles
+were the language of gauge theories,
+remarked to the topologist James Simons:
+
+*"This is both thrilling and puzzling —
+that the mathematics invented
+long before physics needed it
+turns out to be exactly what physics needs."*
+
+Simons agreed.
+He later founded Renaissance Technologies,
+the most successful hedge fund in history,
+using mathematics developed for pure research.
+
+He also donated billions to mathematics
+and physics research.
+
+He understood: you cannot predict
+which mathematics will become physics.
+You can only ensure that mathematics
+continues to be done —
+freely, without immediate application —
+and trust that physics will eventually arrive.
+
+---
+
+## XII. What Geometry Is
+
+I want to end with a definition —
+not the beginning definition, but the ending one.
+
+Geometry began as earth measurement —
+practical, applied, useful.
+
+It became, in Greece,
+a model of deductive reasoning —
+the discipline of mind required for philosophy.
+
+It became, in the 19th century,
+a vast landscape of possible structures —
+Euclidean and non-Euclidean,
+flat and curved, finite and infinite.
+
+It became, in the 20th century,
+the language of physics —
+the framework in which gravity,
+electromagnetism, the weak force, the strong force
+are all expressed as geometric structures.
+
+It became, perhaps, the structure of reality itself —
+if the holographic principle is right,
+if spacetime is emergent from entanglement,
+if the universe is, at its deepest level,
+a geometric object.
+
+But through all of this —
+from the rope-stretchers of Egypt
+to the string theorists of today —
+geometry has been the same thing:
+
+**The study of structure.**
+
+Not this structure or that structure.
+Structure itself.
+The patterns that persist
+under transformation,
+the invariants that survive change,
+the deep regularities
+that make the world comprehensible.
+
+Plato was right:
+you cannot do philosophy without geometry.
+
+You cannot do physics without geometry.
+
+You cannot understand reality without geometry.
+
+Not because Plato was a geometer —
+though he was —
+
+but because reality is structured.
+
+And geometry is the language of structure.
+
+*ΑΓΕΩΜΕΤΡΗΤΟΣ ΜΗΔΕΙΣ ΕΙΣΙΤΩ*
+
+Let no one ignorant of geometry enter.
+
+The door is open.
+
+---
+
+*For the historically inclined:*
+*Euclid — Elements (trans. Heath)*
+*— read Books I and IX; they are still beautiful*
+*Morris Kline — Mathematical Thought from Ancient to Modern Times (1972)*
+*— the definitive history*
+*Riemann — "On the Hypotheses Which Lie at the Foundations of Geometry" (1854)*
+*— the most important lecture in mathematics*
+
+*For the mathematically serious:*
+*do Carmo — Differential Geometry of Curves and Surfaces*
+*— the standard undergraduate text*
+*do Carmo — Riemannian Geometry*
+*— the graduate continuation*
+*Spivak — A Comprehensive Introduction to Differential Geometry (5 vols.)*
+*— everything, in beautiful detail*
+*Lee — Introduction to Smooth Manifolds*
+*— the modern standard*
+
+*For physics applications:*
+*Nakahara — Geometry, Topology and Physics*
+*— fiber bundles, gauge theories, everything*
+*Frankel — The Geometry of Physics*
+*— beautiful and comprehensive*
+
+*And: learn to draw.*
+*Geometry began with drawing.*
+*It still lives there.*
