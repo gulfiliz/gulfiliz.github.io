@@ -192,6 +192,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/boredom/";
           
         },
+      },{id: "post-bell-39-s-theorem-the-most-profound-discovery-in-the-history-of-physics",
+        
+          title: "Bell&#39;s Theorem — The Most Profound Discovery in the History of Physics",
+        
+        description: "In 1964, John Bell proved that no theory of local hidden variables can reproduce quantum mechanics. In 1982, Aspect confirmed it experimentally. The universe is nonlocal. This changes everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/bells-theorem/";
+          
+        },
       },{id: "post-baudrillard-the-desert-of-the-real",
         
           title: "Baudrillard — The Desert of the Real",
