@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-vacuum-energy-why-nothing-weighs-something",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-04-11-bose-einstein-condensate/";
+          
+        },
+      },{id: "post-vacuum-energy-why-nothing-weighs-something",
         
           title: "Vacuum Energy — Why Nothing Weighs Something",
         
