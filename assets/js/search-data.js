@@ -302,6 +302,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/epictetus/";
           
         },
+      },{id: "post-the-crisis-in-fundamental-physics-an-honest-assessment",
+        
+          title: "The Crisis in Fundamental Physics — An Honest Assessment",
+        
+        description: "The LHC found the Higgs and nothing else. String theory makes no testable predictions. The foundations of quantum mechanics remain unsettled. This is not pessimism — it is an accurate description of where we are.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/crisis-in-physics/";
+          
+        },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
         
           title: "In Defense of Boredom — Why Doing Nothing Is the Most Radical Act...",
