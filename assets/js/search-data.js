@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/stargazing/";
           
         },
+      },{id: "post-spontaneous-symmetry-breaking-when-the-universe-chose-a-direction",
+        
+          title: "Spontaneous Symmetry Breaking — When the Universe Chose a Direction",
+        
+        description: "The Lagrangian is symmetric. The vacuum is not. This asymmetry between the laws and their solution is the origin of mass, the origin of phases of matter, and possibly the origin of everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/spontaneous-symmetry-breaking-deep/";
+          
+        },
       },{id: "post-the-spin-statistics-theorem-why-half-the-universe-cannot-be-in-the-same-place",
         
           title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Be in the Same...",
