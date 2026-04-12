@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
+        },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
         
-          title: "",
+          title: "Bose-Einstein Condensation — When Quantum Mechanics Becomes Visible",
         
-        description: "",
+        description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-04-11-bose-einstein-condensate/";
+            window.location.href = "/blog/2026/bose-einstein-condensate/";
           
         },
       },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
