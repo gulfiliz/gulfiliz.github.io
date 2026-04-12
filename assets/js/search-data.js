@@ -269,6 +269,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/general-relativity/";
           
         },
+      },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
+        
+          title: "The Fine-Tuned Universe — Why the Constants Are What They Are",
+        
+        description: "The fundamental constants of nature appear to be precisely calibrated for the existence of complexity. Change any of them slightly, and the universe becomes sterile. This is either the deepest fact about reality — or the most dangerous idea in physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fine-tuned-universe/";
+          
+        },
       },{id: "post-epictetus-the-slave-who-was-free",
         
           title: "Epictetus — The Slave Who Was Free",
