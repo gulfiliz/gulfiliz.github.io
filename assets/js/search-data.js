@@ -24,17 +24,6 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/2026-04-11-intolerance-for-superficiality/";
-          
-        },
-      },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
             window.location.href = "/blog/2026/2026-04-11-bose-einstein-condensate/";
           
         },
@@ -267,6 +256,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/marcus-aurelius/";
+          
+        },
+      },{id: "post-my-biggest-red-flag-on-being-intolerant-of-superficiality-a-confession-and-a-defense",
+        
+          title: "My biggest Red Flag - On Being Intolerant of Superficiality — A Confession...",
+        
+        description: "I cannot pretend to be interested when I am not. I cannot perform depth I do not feel. I cannot sit comfortably with people who are satisfied with the surface of things. This is either a virtue or a flaw — probably both.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/intolerance-for-superficiality/";
           
         },
       },{id: "post-the-holographic-principle-is-the-universe-a-projection",
