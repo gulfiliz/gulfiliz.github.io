@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/2026-04-11-bose-einstein-condensate/";
           
         },
+      },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
+        
+          title: "Wittgenstein — The Philosopher Who Tried to Kill Philosophy",
+        
+        description: "On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/wittgenstein/";
+          
+        },
       },{id: "post-vacuum-energy-why-nothing-weighs-something",
         
           title: "Vacuum Energy — Why Nothing Weighs Something",
