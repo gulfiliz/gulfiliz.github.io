@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/wittgenstein/";
           
         },
+      },{id: "post-the-system-that-rewards-visibility-over-knowledge",
+        
+          title: "The System That Rewards Visibility Over Knowledge",
+        
+        description: "On the structural inversion at the heart of contemporary intellectual life — where being seen has replaced knowing, where platform has replaced depth, and where the loudest voice wins regardless of what it says.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/visibility-over-knowledge/";
+          
+        },
       },{id: "post-vacuum-energy-why-nothing-weighs-something",
         
           title: "Vacuum Energy — Why Nothing Weighs Something",
