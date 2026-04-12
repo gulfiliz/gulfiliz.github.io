@@ -258,6 +258,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/hard-problem-consciousness/";
           
         },
+      },{id: "post-geometry-let-no-one-ignorant-of-geometry-enter",
+        
+          title: "Geometry — Let No One Ignorant of Geometry Enter",
+        
+        description: "From Thales to Riemann — the oldest science, the deepest language, and why geometry is not about shapes but about the structure of reality itself.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/geometry/";
+          
+        },
       },{id: "post-general-relativity-gravity-is-not-a-force",
         
           title: "General Relativity — Gravity Is Not a Force",
