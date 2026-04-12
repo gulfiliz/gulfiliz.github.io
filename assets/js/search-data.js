@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
+        },{id: "post-vacuum-energy-why-nothing-weighs-something",
+        
+          title: "Vacuum Energy — Why Nothing Weighs Something",
+        
+        description: "The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics — or a clue to something we don&#39;t yet understand.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/vacuum-energy/";
+          
+        },
+      },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
         
           title: "Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us...",
         
