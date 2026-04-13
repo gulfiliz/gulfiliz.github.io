@@ -3,7 +3,7 @@ layout: post
 title: Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us Better Than We Know Ourselves
 date: 2026-04-11
 description: On Hesiod's cosmogony, the violence at the origin of things, and why the myth of Oedipus is not about incest but about the unbearable desire to know.
-tags: readings
+tags: readings, philosophy, metaxy, skepsis, fragmenta, EN
 ---
 
 Before there was anything,
@@ -19,13 +19,15 @@ the opened mouth of nothingness.
 From this opening, everything comes.
 
 Gaia — the deep-breasted earth.
+
 Tartarus — the dark pit beneath the earth.
-Eros — desire, the force that makes things
-reach toward each other.
-Erebus — darkness.
-Night.
+
+Eros — desire, the force that makes things reach toward each other.
+
+Erebus — darkness. Night.
 
 And from Night: Day.
+
 From Darkness: Space.
 
 This is how Hesiod begins.
