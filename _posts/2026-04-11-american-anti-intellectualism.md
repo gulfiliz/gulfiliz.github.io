@@ -667,6 +667,124 @@ with specific structural causes.
 
 ---
 
+## X. The Foucault-Chomsky Debate — A Case Study in Visibility
+
+In November 1971,
+Dutch television broadcast a debate
+between Michel Foucault and Noam Chomsky.
+
+Two hours.
+Two of the greatest living thinkers.
+On human nature, power, justice, and the state.
+
+In the Netherlands, it was a television event.
+In France, it was discussed for years.
+Across Europe, it became a reference point —
+a moment in the public intellectual tradition
+that people cited, argued about,
+returned to.
+
+In America: almost unknown
+until it was uploaded to YouTube decades later.
+
+The debate is extraordinary.
+
+Foucault and Chomsky disagree
+on almost everything —
+on human nature (Chomsky believes in it,
+Foucault is skeptical),
+on the foundation of justice
+(Chomsky appeals to natural rights,
+Foucault argues all justice claims
+are themselves expressions of power),
+on the role of the intellectual
+in political struggle.
+
+But they agree on one thing:
+that these questions matter,
+that they are worth two hours of television,
+that the public deserves to think about them.
+
+Imagine this on American television in 1971.
+Or in 2024.
+
+It is not imaginable.
+
+Not because Americans could not follow it.
+Because the system that produces American television
+has no category for it.
+
+It is not news.
+It is not entertainment.
+It is not practical.
+It does not tell you how to live better,
+make more money, lose weight,
+or understand what happened today.
+
+It is two people thinking in public.
+
+This — thinking in public —
+is precisely what American television
+has never been able to accommodate.
+
+**The flaneur and the hustle:**
+
+Baudelaire's **flaneur** — the wanderer,
+the observer of the city,
+the person who has nowhere to be
+and therefore sees everything —
+is a distinctly European figure.
+
+The flaneur requires something
+American culture has never accepted
+as a legitimate use of time:
+
+**purposeless presence.**
+
+The flaneur is not productive.
+They are not networking.
+They are not optimizing.
+They are simply walking, watching, thinking.
+
+This is, in the American framework, waste.
+
+*"Time is money"* — Benjamin Franklin,
+the founding pragmatist,
+said this in 1748.
+
+It became the organizing principle
+of a civilization.
+
+If time is money,
+the flaneur is spending money
+for no return.
+The philosopher thinking useless thoughts
+is wasting capital.
+The intellectual debating justice on television
+is two hours of productivity
+that will never be recovered.
+
+The European city — Paris, Berlin, Vienna —
+was built for the flaneur:
+cafés where you can sit for three hours
+with one coffee,
+squares designed for wandering,
+a public life that accommodates
+the person who has no destination.
+
+The American city — with exceptions —
+was built for productivity:
+the grid, the car, the suburb,
+the destination always predetermined,
+the wandering designed out.
+
+You cannot be a flaneur in a city
+that was built against flanerie.
+
+You cannot be a public intellectual
+in a culture that was built
+against purposeless thought.
+
 ## X. The Possibility of Change
 
 I want to end with what is possible —
