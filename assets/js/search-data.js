@@ -445,6 +445,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/baudrillard/";
           
         },
+      },{id: "post-why-american-intellectuals-are-invisible-a-philosophical-diagnosis",
+        
+          title: "Why American Intellectuals Are Invisible — A Philosophical Diagnosis",
+        
+        description: "France has public intellectuals. Germany has public intellectuals. Even small countries have them. America — with the world&#39;s greatest universities — systematically renders its thinkers invisible. This is not an accident. It is a structural feature of American civilization.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/american-anti-intellectualism/";
+          
+        },
       },{id: "post-the-country-that-ate-its-own-geniuses-america-and-the-intellectuals-it-could-not-love",
         
           title: "The Country That Ate Its Own Geniuses — America and the Intellectuals It...",
@@ -685,17 +696,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/baslangic/";
-          
-        },
-      },{id: "post-why-american-intellectuals-are-invisible-a-philosophical-diagnosis",
-        
-          title: "Why American Intellectuals Are Invisible — A Philosophical Diagnosis",
-        
-        description: "France has public intellectuals. Germany has public intellectuals. Even small countries have them. America — with the world&#39;s greatest universities — systematically renders its thinkers invisible. This is not an accident. It is a structural feature of American civilization.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/american-anti-intellectualism/";
           
         },
       },{id: "books-the-godfather",
