@@ -401,6 +401,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/baudrillard/";
           
         },
+      },{id: "post-the-country-that-ate-its-own-geniuses-america-and-the-intellectuals-it-could-not-love",
+        
+          title: "The Country That Ate Its Own Geniuses — America and the Intellectuals It...",
+        
+        description: "Poe died in a gutter. Melville died forgotten. Emily Dickinson published almost nothing in her lifetime. America does not merely ignore its geniuses — it has a specific, structural relationship with them that ends, repeatedly, in the same way.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/america-and-its-geniuses/";
+          
+        },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
           title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
