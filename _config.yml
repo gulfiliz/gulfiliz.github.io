@@ -203,11 +203,17 @@ plugins:
   - jemoji
 
 # Sitemap settings
+
 defaults:
   - scope:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      giscus_comments: true
 
 sass:
   style: compressed
