@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wittgenstein — The Philosopher Who Tried to Kill Philosophy
-date: 2026-04-11
+date: 2024-03-17
 description: On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.
 tags: skepsis
 ---
@@ -709,19 +709,32 @@ It is reverence.
 ---
 
 *Further reading:*
+
 *Wittgenstein — Tractatus Logico-Philosophicus (1921)*
 *(trans. Ogden & Ramsey, or Pears & McGuinness)*
 *— read both translations; they differ significantly*
+
+
 *Wittgenstein — Philosophical Investigations (1953)*
 *(trans. Anscombe, Hacker & Schulte)*
 *— the Hacker & Schulte translation (2009) is definitive*
+
+
 *Monk — Ludwig Wittgenstein: The Duty of Genius (1990)*
 *— the best philosophical biography ever written*
+
+
 *Kripke — Wittgenstein on Rules and Private Language (1982)*
 *— the most influential interpretation; contested*
+
+
 *Hacker — Wittgenstein: Meaning and Mind (1990)*
 *— the detailed commentary; four volumes*
+
+
 *Anscombe — An Introduction to Wittgenstein's Tractatus (1959)*
 *— still the best guide to the Tractatus*
+
+
 *McGinn — Wittgenstein and the Philosophical Investigations (1997)*
 *— accessible and accurate*
