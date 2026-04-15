@@ -3,7 +3,7 @@ layout: post
 title: Dostoevsky — The Writer Who Knew Too Much
 date: 2025-08-09
 description: On suffering, freedom, and the novelist who saw the twentieth century coming.
-tags: readings, literature, EN
+tags: readings , literature , EN
 ---
 
 There is a moment in *The Brothers Karamazov*
