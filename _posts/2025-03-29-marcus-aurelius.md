@@ -3,7 +3,7 @@ layout: post
 title: Marcus Aurelius — The Emperor Who Wrote to Himself
 date: 2025-03-29
 description: On the Meditations — the most private philosophical document ever accidentally published.
-tags: skepsis, metaxy, fragmenta, philosophy, EN
+tags: skepsis , metaxy , fragmenta , philosophy , EN
 ---
 
 The most powerful man in the world
