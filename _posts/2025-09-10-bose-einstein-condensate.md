@@ -3,7 +3,7 @@ layout: post
 title: Bose-Einstein Condensation — When Quantum Mechanics Becomes Visible
 date: 2025-09-11
 description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity."
-tags: research-logs, physics, quantum , EN
+tags: research-logs, physics, quantum, EN
 ---
 
 In 1924, Satyendra Nath Bose sent Einstein a paper.
