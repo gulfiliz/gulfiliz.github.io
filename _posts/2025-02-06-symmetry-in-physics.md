@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Symmetry — The Unreasonable Beauty at the Heart of Physics
-date: 2026-04-11
+date: 2025-02-06
 description: Why the deepest laws of nature are not equations but symmetries — and what it means that beauty has been the most reliable guide to truth in the history of physics.
 tags: research-log
 ---
@@ -657,14 +657,24 @@ to the face of reality.
 ---
 
 *Further reading:*
+
 *Emmy Noether — "Invariante Variationsprobleme" (1918)*
 *— the original paper; translated in Transport Theory and Statistical Physics*
+
+
 *Hermann Weyl — Symmetry (1952)*
 *— the most beautiful book on symmetry ever written*
+
+
 *Frank Wilczek — A Beautiful Question (2015)*
 *— on beauty and physics; essential*
+
+
 *Anthony Zee — Fearful Symmetry (1986)*
 *— gauge symmetry for the serious non-specialist*
+
+
 *For the technically serious:*
+
 *Peskin & Schroeder — An Introduction to Quantum Field Theory*
 *— Chapter 15 onwards for non-Abelian gauge theories*
