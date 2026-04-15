@@ -82,17 +82,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/spontaneous-symmetry-breaking-deep/";
           
         },
-      },{id: "post-the-spin-statistics-theorem-why-half-the-universe-cannot-be-in-the-same-place",
-        
-          title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Be in the Same...",
-        
-        description: "The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/spin-statistics/";
-          
-        },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
           title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
@@ -564,6 +553,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/dostoevsky/";
+          
+        },
+      },{id: "post-the-spin-statistics-theorem-why-half-the-universe-cannot-be-in-the-same-place",
+        
+          title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Be in the Same...",
+        
+        description: "The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/spin-statistics/";
           
         },
       },{id: "post-the-crisis-in-fundamental-physics-an-honest-assessment",
