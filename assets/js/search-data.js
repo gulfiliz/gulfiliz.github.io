@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
+        },{id: "post-what-does-it-mean-to-measure-something",
+        
+          title: "What Does It Mean to Measure Something?",
+        
+        description: "The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-measurement-problem/";
+          
+        },
+      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
         
@@ -190,17 +201,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/renormalization-group/";
-          
-        },
-      },{id: "post-what-does-it-mean-to-measure-something",
-        
-          title: "What Does It Mean to Measure Something?",
-        
-        description: "The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/the-measurement-problem/";
           
         },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
