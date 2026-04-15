@@ -335,17 +335,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/superpozisyon-ve-dolaniklik/";
           
         },
-      },{id: "post-başlangıç",
-        
-          title: "Başlangıç",
-        
-        description: "Bu alan neden var?",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/baslangic/";
-          
-        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
@@ -696,6 +685,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/beginnings/";
+          
+        },
+      },{id: "post-başlangıç",
+        
+          title: "Başlangıç",
+        
+        description: "Bu alan neden var?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/baslangic/";
           
         },
       },{id: "books-the-godfather",
