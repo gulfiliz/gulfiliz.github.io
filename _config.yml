@@ -236,13 +236,21 @@ terser:
 
 jekyll-archives:
   posts:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: [year, tags, categories]
+    layouts:
+      year: archive-year
+      tag: archive-tag
+      category: archive-category
     permalinks:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
       categories: "/blog/:type/:name/"
   books:
-    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+    enabled: [year, tags, categories]
+    layouts:
+      year: archive-year
+      tag: archive-tag
+      category: archive-category
 
 display_tags: ["fragmenta", "skepsis", "metaxy", "research-logs", "TR", "EN", "travel-notes", "readings", "origami", "philosophy", "go-igo", "physics", "quantum", "literature", "filizinbetween", "justfiliz", "nikko-chan", "ai-chan"]
 display_categories: ["2024", "2025", "2026"]
@@ -275,18 +283,6 @@ scholar:
   query: "@*"
   group_by: year
   group_order: descending
-
-
-  jekyll-archives:
-  enabled: [year, tags, categories]
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
-  permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
 
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
