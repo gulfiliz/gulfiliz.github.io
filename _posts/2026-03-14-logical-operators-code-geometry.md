@@ -902,41 +902,65 @@ are significant.
 ---
 
 *Essential reading:*
+
 *Gottesman — "Stabilizer Codes and Quantum Error Correction" (1997)*
 *PhD thesis, Caltech — Chapter 2 for the symplectic formalism*
+
+
 *Calderbank, Rains, Shor & Sloane —*
 *"Quantum Error Correction via Codes over GF(4)" (1998)*
 *IEEE Trans. Inf. Theory 44, 1369*
 *— the symplectic/GF(4) connection*
+
+
 *Tillich & Zémor —*
 *"Quantum LDPC Codes With Positive Rate*
 *and Minimum Distance Proportional to the Square Root of the Blocklength" (2014)*
 *IEEE Trans. Inf. Theory 60, 1193*
 *— hypergraph product codes*
+
+
 *Panteleev & Kalachev —*
 *"Quantum LDPC Codes With Almost Linear*
 *Minimum Distance" (2022)*
 *IEEE Trans. Inf. Theory 68, 213*
+
+
 *Bravyi et al. —*
 *"High-Threshold and Low-Overhead*
 *Fault-Tolerant Quantum Memory" (2024)*
 *Nature 627, 778*
 *— BB code construction and parameters*
+
+
 *For the homological perspective:*
+
 *Freedman & Hastings —*
 *"Quantum Systems on Non-k-Hyperfinite Complexes" (2013)*
 *arXiv:1301.1995*
+
+
 *Breuckmann & Eberhardt —*
 *"Quantum Low-Density Parity-Check Codes" (2021)*
 *PRX Quantum 2, 040101*
 *— the best review of qLDPC codes*
+
+
 *For distance computation:*
+
 *Leon — "A Probabilistic Algorithm for Computing*
 *Minimum Weights of Large Error-Correcting Codes" (1988)*
 *IEEE Trans. Inf. Theory 34, 1354*
+
+
 *Barg & Zemor — distance bounds for random codes*
+
+
 *For automorphisms and transversal gates:*
+
 *Rains — "Quantum Codes of Minimum Distance Two" (1999)*
 *IEEE Trans. Inf. Theory 45, 266*
+
+
 *Gottesman — "Theory of Fault-Tolerant Quantum Computation" (1998)*
 *Phys. Rev. A 57, 127*
