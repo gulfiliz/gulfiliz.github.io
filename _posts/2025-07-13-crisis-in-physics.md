@@ -3,7 +3,7 @@ layout: post
 title: The Crisis in Fundamental Physics — An Honest Assessment
 date: 2025-07-13
 description: The LHC found the Higgs and nothing else. String theory makes no testable predictions. The foundations of quantum mechanics remain unsettled. This is not pessimism — it is an accurate description of where we are.
-tags: research-logs, physics, EN
+tags: research-logs , physics , EN
 ---
 
 Let me be precise about what I mean by "crisis."
