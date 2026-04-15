@@ -148,17 +148,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
-      },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
-        
-          title: "Quantum Chromodynamics — The Violent Heart of Matter",
-        
-        description: "The theory of the strong nuclear force — asymptotic freedom, color confinement, instantons, and the deep mystery of why quarks can never be free. The most mathematically rich and least understood of the fundamental forces.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/quantum-chromodynamics/";
-          
-        },
       },{id: "post-pushkin-the-man-who-invented-russian-literature",
         
           title: "Pushkin — The Man Who Invented Russian Literature",
@@ -641,6 +630,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/beautiful-wrong-theories/";
+          
+        },
+      },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
+        
+          title: "Quantum Chromodynamics — The Violent Heart of Matter",
+        
+        description: "The theory of the strong nuclear force — asymptotic freedom, color confinement, instantons, and the deep mystery of why quarks can never be free. The most mathematically rich and least understood of the fundamental forces.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/quantum-chromodynamics/";
           
         },
       },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
