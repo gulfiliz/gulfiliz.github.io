@@ -181,17 +181,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/bivariate-bicycle-codes/";
           
         },
-      },{id: "post-yaşamaya-değer-mi",
-        
-          title: "Yaşamaya Değer Mi?",
-        
-        description: "Camus soruyor, Seneca cevaplıyor — ya da tam tersi.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/yasameya-deger-mi/";
-          
-        },
       },{id: "post-süperpozisyon-ve-dolanıklık",
         
           title: "Süperpozisyon ve Dolanıklık",
@@ -674,6 +663,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/pushkin/";
+          
+        },
+      },{id: "post-yaşamaya-değer-mi",
+        
+          title: "Yaşamaya Değer Mi?",
+        
+        description: "Camus soruyor, Seneca cevaplıyor — ya da tam tersi.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/yasameya-deger-mi/";
           
         },
       },{id: "post-beginnings",
