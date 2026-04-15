@@ -192,17 +192,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/plato/";
           
         },
-      },{id: "post-the-planck-scale-where-physics-ends-and-the-unknown-begins",
-        
-          title: "The Planck Scale — Where Physics Ends and the Unknown Begins",
-        
-        description: "At 10⁻³⁵ meters, our best theories break down simultaneously. This is not a technical problem. It is the edge of what we can know.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/planck-scale/";
-          
-        },
       },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
         
           title: "Nietzsche — God Is Dead, and We Have Killed Him",
@@ -520,6 +509,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
+          
+        },
+      },{id: "post-the-planck-scale-where-physics-ends-and-the-unknown-begins",
+        
+          title: "The Planck Scale — Where Physics Ends and the Unknown Begins",
+        
+        description: "At 10⁻³⁵ meters, our best theories break down simultaneously. This is not a technical problem. It is the edge of what we can know.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/planck-scale/";
           
         },
       },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
