@@ -126,17 +126,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/geometry/";
           
         },
-      },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
-        
-          title: "In Defense of Boredom — Why Doing Nothing Is the Most Radical Act...",
-        
-        description: "On the disappearance of boredom, what we lost with it, and why sitting with emptiness might be the most important thing you can do today.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/boredom/";
-          
-        },
       },{id: "post-baudrillard-the-desert-of-the-real",
         
           title: "Baudrillard — The Desert of the Real",
@@ -663,6 +652,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/intolerance-for-superficiality/";
+          
+        },
+      },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
+        
+          title: "In Defense of Boredom — Why Doing Nothing Is the Most Radical Act...",
+        
+        description: "On the disappearance of boredom, what we lost with it, and why sitting with emptiness might be the most important thing you can do today.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/boredom/";
           
         },
       },{id: "post-pushkin-the-man-who-invented-russian-literature",
