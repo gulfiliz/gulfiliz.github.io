@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Look Up — A Letter to Anyone Who Has Forgotten the Sky
-date: 2026-04-11
+date: 2024-01-11
 description: From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.
 tags: astronomy
 ---
@@ -745,14 +745,20 @@ open.
 ---
 
 *If you want to go deeper:*
+
 *Timothy Ferris — Coming of Age in the Milky Way (1988)*
 *— the best history of astronomy ever written*
+
 *Carl Sagan — Cosmos (1980)*
 *— still the greatest introduction to the universe*
+
 *Terence Dickinson — NightWatch (1983)*
 *— the practical guide to backyard astronomy*
+
 *Dark Sky Finder: darksitefinder.com*
+
 *Clear Outside app — for weather and seeing conditions*
+
 *SkySafari — for planning and identification*
 
 *And: go outside.*
