@@ -115,17 +115,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/marcus-aurelius/";
           
         },
-      },{id: "post-my-biggest-red-flag-on-being-intolerant-of-superficiality-a-confession-and-a-defense",
-        
-          title: "My biggest Red Flag - On Being Intolerant of Superficiality — A Confession...",
-        
-        description: "I cannot pretend to be interested when I am not. I cannot perform depth I do not feel. I cannot sit comfortably with people who are satisfied with the surface of things. This is either a virtue or a flaw — probably both.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/intolerance-for-superficiality/";
-          
-        },
       },{id: "post-goethe-39-s-faust-the-man-who-made-a-deal-with-the-devil-and-won",
         
           title: "Goethe&#39;s Faust — The Man Who Made a Deal With the Devil and...",
@@ -674,6 +663,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/epicurus/";
+          
+        },
+      },{id: "post-my-biggest-red-flag-on-being-intolerant-of-superficiality-a-confession-and-a-defense",
+        
+          title: "My biggest Red Flag - On Being Intolerant of Superficiality — A Confession...",
+        
+        description: "I cannot pretend to be interested when I am not. I cannot perform depth I do not feel. I cannot sit comfortably with people who are satisfied with the surface of things. This is either a virtue or a flaw — probably both.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/intolerance-for-superficiality/";
           
         },
       },{id: "post-beginnings",
