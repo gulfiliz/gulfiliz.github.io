@@ -60,17 +60,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
-      },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
-        
-          title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
-        
-        description: "On the Allegory of the Cave, the Theory of Forms, and why Socrates drank the hemlock.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/plato/";
-          
-        },
       },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
         
           title: "Nietzsche — God Is Dead, and We Have Killed Him",
@@ -652,6 +641,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/intolerance-for-superficiality/";
+          
+        },
+      },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
+        
+          title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
+        
+        description: "On the Allegory of the Cave, the Theory of Forms, and why Socrates drank the hemlock.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/plato/";
           
         },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
