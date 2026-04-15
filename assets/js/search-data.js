@@ -522,17 +522,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/kant/";
           
         },
-      },{id: "post-gogol-39-s-overcoat-on-invisibility-desire-and-the-weight-of-a-name",
-        
-          title: "Gogol&#39;s Overcoat — On Invisibility, Desire, and the Weight of a Name",
-        
-        description: "A close reading of the strangest, most devastating short story ever written — and what it says about being human.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/gogol-the-overcoat/";
-          
-        },
       },{id: "post-epicurus-and-the-art-of-living-well-a-philosophy-for-the-present",
         
           title: "Epicurus and the Art of Living Well — A Philosophy for the Present...",
@@ -652,6 +641,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/dostoevsky/";
+          
+        },
+      },{id: "post-gogol-39-s-overcoat-on-invisibility-desire-and-the-weight-of-a-name",
+        
+          title: "Gogol&#39;s Overcoat — On Invisibility, Desire, and the Weight of a Name",
+        
+        description: "A close reading of the strangest, most devastating short story ever written — and what it says about being human.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/gogol-the-overcoat/";
           
         },
       },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
