@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Decoherence — Why Quantum Computers Are Hard
-date: 2026-04-09
+date: 2025-12-29
 description: The fragility of quantum information and the war against noise.
 tags: research-logs, physics, quantum, EN
 ---
@@ -96,7 +96,7 @@ We have ~1000 today.
 
 ---
 
-## Where I Come In
+## Where My Future Research Comes In
 
 The surface code is not the only game in town.
 
@@ -109,6 +109,6 @@ at comparable error thresholds.
 The catch: they require non-local connectivity between qubits —
 harder to build in hardware, more complex to decode.
 
-This is the frontier. This is where I work.
+This is the frontier. This is where I'll work.
 
 More on that soon. 🙂
