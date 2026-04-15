@@ -3,7 +3,7 @@ layout: post
 title: Wittgenstein — The Philosopher Who Tried to Kill Philosophy
 date: 2025-05-17
 description: On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.
-tags: skepsis , fragmenta ,  metaxy , philosophy , EN 
+tags: skepsis, fragmenta, metaxy, philosophy, EN,
 ---
 
 Ludwig Wittgenstein wrote two philosophies.
