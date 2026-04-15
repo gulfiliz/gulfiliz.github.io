@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Fine-Tuned Universe — Why the Constants Are What They Are
-date: 2026-04-11
+date: 2025-06-18
 description: The fundamental constants of nature appear to be precisely calibrated for the existence of complexity. Change any of them slightly, and the universe becomes sterile. This is either the deepest fact about reality — or the most dangerous idea in physics.
 tags: research-log
 ---
@@ -814,26 +814,44 @@ of whatever the answer turns out to be.
 ---
 
 *Essential reading:*
+
 *Barrow & Tipler — The Anthropic Cosmological Principle (1986)*
 *— comprehensive; the standard reference*
+
+
 *Rees — Just Six Numbers (1999)*
 *— accessible; the best popular account*
+
+
 *Weinberg — "Anthropic Bound on the Cosmological Constant" (1987)*
 *Phys. Rev. Lett. 59, 2607*
 *— the prediction*
+
+
 *Susskind — The Cosmic Landscape (2005)*
 *— the string landscape argument; readable*
+
+
 *Smolin — The Life of the Cosmos (1997)*
 *— cosmological natural selection; alternative to anthropics*
+
+
 *Tegmark — "On the dimensionality of spacetime" (1997)*
 *Class. Quant. Grav. 14, L69*
 *— quantitative fine-tuning analysis*
+
+
 *For the philosophical dimension:*
+
 *Leslie — Universes (1989)*
 *— the philosophical analysis*
+
+
 *Sober — "The Design Argument" in Blackwell Guide*
 *to the Philosophy of Religion (2003)*
 *— the best critical analysis of design arguments*
+
+
 *Carter — "Large Number Coincidences and the*
 *Anthropic Principle in Cosmology" (1974)*
 *IAU Symposium 63, 291*
