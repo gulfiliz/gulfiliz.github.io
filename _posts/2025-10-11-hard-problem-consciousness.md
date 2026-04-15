@@ -6,7 +6,7 @@ description: On qualia, the explanatory gap, and the most difficult question in 
 tags: skepsis, metaxy, fragmenta, philosophy, EN,
 ---
 
-There is a question that will not go away.
+There is a question that will not go away. 
 
 You can build the most complete neuroscience imaginable —
 map every neuron, every synapse, every firing pattern,
