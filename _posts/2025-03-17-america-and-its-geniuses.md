@@ -3,7 +3,7 @@ layout: post
 title: The Country That Ate Its Own Geniuses — America and the Intellectuals It Could Not Love
 date: 2025-03-17
 description: Poe died in a gutter. Melville died forgotten. Emily Dickinson published almost nothing in her lifetime. America does not merely ignore its geniuses — it has a specific, structural relationship with them that ends, repeatedly, in the same way.
-tags: skepsis, post-truth
+tags: skepsis , post-truth
 ---
 
 Edgar Allan Poe died on October 7, 1849,
