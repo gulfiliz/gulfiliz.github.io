@@ -71,17 +71,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
-      },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
-        
-          title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
-        
-        description: "From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/stargazing/";
-          
-        },
       },{id: "post-spontaneous-symmetry-breaking-when-the-universe-chose-a-direction",
         
           title: "Spontaneous Symmetry Breaking — When the Universe Chose a Direction",
@@ -696,6 +685,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/wittgenstein/";
+          
+        },
+      },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
+        
+          title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
+        
+        description: "From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/stargazing/";
           
         },
       },{id: "books-the-godfather",
