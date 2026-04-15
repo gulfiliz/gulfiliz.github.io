@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Süperpozisyon ve Dolanıklık
-date: 2026-04-08
+date: 2026-03-08
 description: Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.
-tags: science, physics, quantum
+tags: science, physics, quantum, TR
 ---
 
 Klasik fizik deterministtir. Bir topun nerede olduğunu,
