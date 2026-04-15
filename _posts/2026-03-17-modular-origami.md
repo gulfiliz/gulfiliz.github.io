@@ -3,7 +3,7 @@ layout: post
 title: The Art of Folding — Paper, History, and the Mathematics of Modular Origami
 date: 2026-02-17
 description: From Cai Lun's invention to Miura folds — everything that happens when paper meets intention.
-tags: origami, hobbies, EN
+tags: origami , EN
 ---
 
 There is a moment, when folding paper,
