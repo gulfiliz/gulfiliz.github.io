@@ -313,17 +313,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/geometry/";
           
         },
-      },{id: "post-general-relativity-gravity-is-not-a-force",
-        
-          title: "General Relativity — Gravity Is Not a Force",
-        
-        description: "Einstein&#39;s greatest achievement — the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/general-relativity/";
-          
-        },
       },{id: "post-epictetus-the-slave-who-was-free",
         
           title: "Epictetus — The Slave Who Was Free",
@@ -619,6 +608,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/gogol-the-overcoat/";
+          
+        },
+      },{id: "post-general-relativity-gravity-is-not-a-force",
+        
+          title: "General Relativity — Gravity Is Not a Force",
+        
+        description: "Einstein&#39;s greatest achievement — the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/general-relativity/";
           
         },
       },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
