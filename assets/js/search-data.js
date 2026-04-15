@@ -71,17 +71,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
-      },{id: "post-spontaneous-symmetry-breaking-when-the-universe-chose-a-direction",
-        
-          title: "Spontaneous Symmetry Breaking — When the Universe Chose a Direction",
-        
-        description: "The Lagrangian is symmetric. The vacuum is not. This asymmetry between the laws and their solution is the origin of mass, the origin of phases of matter, and possibly the origin of everything.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/spontaneous-symmetry-breaking-deep/";
-          
-        },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
           title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
@@ -542,6 +531,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/bose-einstein-condensate/";
+          
+        },
+      },{id: "post-spontaneous-symmetry-breaking-when-the-universe-chose-a-direction",
+        
+          title: "Spontaneous Symmetry Breaking — When the Universe Chose a Direction",
+        
+        description: "The Lagrangian is symmetric. The vacuum is not. This asymmetry between the laws and their solution is the origin of mass, the origin of phases of matter, and possibly the origin of everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/spontaneous-symmetry-breaking-deep/";
           
         },
       },{id: "post-dostoevsky-the-writer-who-knew-too-much",
