@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Post-Truth — On the Collapse of the Epistemic Commons
-date: 2026-04-09
+date: 2025-05-09
 description: How we stopped agreeing on what is real, and what that means for everything.
 tags: skepsis, fragmenta, metaxy, philosophy, EN, post-truth
 ---
@@ -463,9 +463,15 @@ I am less certain, these days, that it will prevail.
 ---
 
 *Further reading:*
+
 *Harry Frankfurt — On Bullshit (2005)*
+
 *Hannah Arendt — Truth and Politics (1967)*
+
 *Naomi Oreskes & Erik Conway — Merchants of Doubt (2010)*
+
 *Timothy Snyder — On Tyranny (2017)*
+
 *Miranda Fricker — Epistemic Injustice (2007)*
+
 *Lee McIntyre — Post-Truth (2018)*
