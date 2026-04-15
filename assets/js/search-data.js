@@ -27,17 +27,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/visibility-over-knowledge/";
           
         },
-      },{id: "post-topological-phases-of-matter-when-topology-becomes-physics",
-        
-          title: "Topological Phases of Matter — When Topology Becomes Physics",
-        
-        description: "The 2016 Nobel Prize recognized a revolution in condensed matter physics — the discovery that matter can be classified not by symmetry breaking but by topology. This is the story of that revolution, from the quantum Hall effect to topological insulators to non-Abelian anyons.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/topological-phases/";
-          
-        },
       },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
@@ -652,6 +641,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/kant/";
+          
+        },
+      },{id: "post-topological-phases-of-matter-when-topology-becomes-physics",
+        
+          title: "Topological Phases of Matter — When Topology Becomes Physics",
+        
+        description: "The 2016 Nobel Prize recognized a revolution in condensed matter physics — the discovery that matter can be classified not by symmetry breaking but by topology. This is the story of that revolution, from the quantum Hall effect to topological insulators to non-Abelian anyons.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/topological-phases/";
           
         },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
