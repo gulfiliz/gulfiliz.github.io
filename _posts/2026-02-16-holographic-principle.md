@@ -3,7 +3,7 @@ layout: post
 title: The Holographic Principle — Is the Universe a Projection?
 date: 2026-02-16
 description: On Bekenstein, Hawking, 't Hooft, Susskind, and Maldacena — and why the universe may contain less information than you think.
-tags: research-logs, physics, EN
+tags: research-logs , physics , EN
 ---
 
 In 1972, Jacob Bekenstein was a graduate student.
