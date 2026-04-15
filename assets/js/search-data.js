@@ -643,6 +643,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/beautiful-wrong-theories/";
           
         },
+      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
+        
+          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
+        
+        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/kant/";
+          
+        },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
         
           title: "Quantum Chromodynamics — The Violent Heart of Matter",
@@ -674,17 +685,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/epicurus/";
-          
-        },
-      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
-        
-          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
-        
-        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/kant/";
           
         },
       },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
