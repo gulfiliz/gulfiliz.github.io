@@ -3,7 +3,7 @@ layout: post
 title: What Does It Mean to Measure Something?
 date: 2024-11-09
 description: The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.
-tags: research-logs , physics , quantum , EN
+tags: research-logs, physics, quantum, EN,
 ---
 
 Your introductory quantum mechanics course taught you the following:
