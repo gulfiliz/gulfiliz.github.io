@@ -126,17 +126,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/intolerance-for-superficiality/";
           
         },
-      },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
-        
-          title: "The Hard Problem of Consciousness — Why the Brain Is Not Enough",
-        
-        description: "On qualia, the explanatory gap, and the most difficult question in all of philosophy and science.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/hard-problem-consciousness/";
-          
-        },
       },{id: "post-goethe-39-s-faust-the-man-who-made-a-deal-with-the-devil-and-won",
         
           title: "Goethe&#39;s Faust — The Man Who Made a Deal With the Devil and...",
@@ -454,6 +443,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/decoherence/";
+          
+        },
+      },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
+        
+          title: "The Hard Problem of Consciousness — Why the Brain Is Not Enough",
+        
+        description: "On qualia, the explanatory gap, and the most difficult question in all of philosophy and science.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hard-problem-consciousness/";
           
         },
       },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
