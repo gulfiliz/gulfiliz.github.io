@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Beautiful But Wrong — The Most Elegant Theories That Nature Rejected
-date: 2026-04-11
+date: 2025-04-28
 description: Science is not only the history of what is true. It is also the history of beautiful ideas that turned out to be wrong — and why those ideas matter as much as the correct ones.
-tags: research-log
+tags: research-logs, physics, EN
 ---
 
 Science keeps a graveyard.
@@ -958,20 +958,35 @@ We'll find out.
 ---
 
 *Essential reading:*
+
 *Kepler — Mysterium Cosmographicum (1596)*
 *— the beautiful wrong theory, in Kepler's own words*
+
+
 *Pais — Subtle is the Lord (1982)*
 *— on Einstein's beautiful wrong unified field theory*
+
+
 *Kragh — Dirac: A Scientific Biography (1990)*
 *— on the large number hypothesis and other beautiful errors*
+
+
 *Woit — Not Even Wrong (2006)*
 *— on string theory and SUSY; skeptical*
+
+
 *Smolin — The Trouble with Physics (2006)*
 *— the crisis in fundamental physics*
+
+
 *Farmelo — The Strangest Man (2009)*
 *— Dirac biography; essential*
 *For the historical perspective:*
+
+
 *Kuhn — The Structure of Scientific Revolutions (1962)*
 *— on paradigm shifts and the role of anomalies*
+
+
 *Lakatos — The Methodology of Scientific Research Programmes (1978)*
 *— on when to abandon a theory*
