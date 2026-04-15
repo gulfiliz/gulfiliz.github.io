@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
-        
-          title: "Quantum Computing — Separating the Revolution from the Hype",
-        
-        description: "A quantum researcher&#39;s honest guide to what quantum computers can and cannot do — and why the headlines are almost always wrong.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/quantum-computing-hype/";
-          
-        },
       },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
         
           title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
@@ -278,6 +267,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/planck-scale/";
+          
+        },
+      },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
+        
+          title: "Quantum Computing — Separating the Revolution from the Hype",
+        
+        description: "A quantum researcher&#39;s honest guide to what quantum computers can and cannot do — and why the headlines are almost always wrong.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
       },{id: "post-the-philosopher-39-s-nephew-on-nepotism-merit-and-the-betrayal-of-ideas",
