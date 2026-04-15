@@ -3,7 +3,7 @@ layout: post
 title: Physics Lied to You — Common Misconceptions That Even Smart People Believe
 date: 2026-01-07
 description: Gravity doesn't pull. Space isn't empty. And lightning absolutely does strike twice. A physicist's guide to unlearning.
-tags: research-logs , physics , EN
+tags: research-logs, physics, EN,
 ---
 
 Physics education has a dirty secret.
