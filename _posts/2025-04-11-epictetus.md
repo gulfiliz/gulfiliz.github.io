@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Epictetus — The Slave Who Was Free
-date: 2026-04-11
+date: 2025-04-11
 description: On the man who owned nothing, controlled everything, and taught Marcus Aurelius how to be emperor.
 tags: skepsis, metaxy, fragmenta, philosophy, EN
 ---
@@ -458,5 +458,7 @@ it takes an hour and will stay with you for years.*
 *Then the Discourses — longer, rougher, more human.*
 *Sharon Lebell's adaptation, The Art of Living,*
 *is the most readable introduction.*
+
 *For the philosophical argument:*
+
 *A.A. Long — Epictetus: A Stoic and Socratic Guide to Life (2002)*
