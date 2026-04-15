@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nietzsche — God Is Dead, and We Have Killed Him
-date: 2026-04-11
+date: 2025-12-30
 description: On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.
 tags: skepsis
 ---
@@ -568,10 +568,19 @@ None of us does.
 ---
 
 *Further reading:*
+
 *Nietzsche — Thus Spoke Zarathustra (trans. Walter Kaufmann)*
+
+
 *Nietzsche — Beyond Good and Evil (trans. Walter Kaufmann)*
+
+
 *Nietzsche — The Genealogy of Morals (trans. Walter Kaufmann)*
 *— Kaufmann is the essential translator for English readers*
+
+
 *Walter Kaufmann — Nietzsche: Philosopher, Psychologist, Antichrist (1950)*
 *— the book that rescued Nietzsche from the Nazis*
+
+
 *Julian Young — Friedrich Nietzsche: A Philosophical Biography (2010)*
