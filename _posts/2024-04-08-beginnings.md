@@ -3,7 +3,7 @@ layout: post
 title: Beginnings
 date: 2024-04-08
 description: On starting, scattering, and the space between.
-tags: justfiliz
+tags: justfiliz,
 ---
 
 I've never been good at introductions.
