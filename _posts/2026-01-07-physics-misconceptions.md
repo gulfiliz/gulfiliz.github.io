@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Physics Lied to You — Common Misconceptions That Even Smart People Believe
-date: 2026-04-11
+date: 2026-01-07
 description: Gravity doesn't pull. Space isn't empty. And lightning absolutely does strike twice. A physicist's guide to unlearning.
-tags: research-log
+tags: research-logs, physics, EN
 ---
 
 Physics education has a dirty secret.
@@ -21,6 +21,7 @@ for the rest of your intellectual life" sense.
 
 I am a physicist.
 I love physics.
+I'm in love with physics!
 And I want to tell you about the things
 that physics education gets wrong —
 because correcting them is one of the most
@@ -652,10 +653,11 @@ that physics can give you.
 ---
 
 *For further unlearning:*
+
 *Richard Feynman — The Feynman Lectures on Physics (free online)*
-*Carlo Rovelli — Seven Brief Lessons on Physics (2014)*
-*Brian Greene — The Fabric of the Cosmos (2004)*
-*Sean Carroll — Something Deeply Hidden (2019)*
+
+
 *For the mathematically adventurous:*
+
 *Misner, Thorne & Wheeler — Gravitation (1973)*
 *— the bible of General Relativity*
