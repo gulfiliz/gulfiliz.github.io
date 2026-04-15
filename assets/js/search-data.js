@@ -115,17 +115,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/modular-origami/";
           
         },
-      },{id: "post-chingiz-aitmatov-the-writer-who-carried-a-whole-world-on-his-back",
-        
-          title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
-        
-        description: "On the most important writer you may never have read — and why that is a loss you should correct immediately.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/chingiz-aitmatov/";
-          
-        },
       },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
         
           title: "Bivariate Bicycle Codes — A New Hope for qLDPC",
@@ -630,6 +619,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/intolerance-for-superficiality/";
+          
+        },
+      },{id: "post-chingiz-aitmatov-the-writer-who-carried-a-whole-world-on-his-back",
+        
+          title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
+        
+        description: "On the most important writer you may never have read — and why that is a loss you should correct immediately.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/chingiz-aitmatov/";
           
         },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
