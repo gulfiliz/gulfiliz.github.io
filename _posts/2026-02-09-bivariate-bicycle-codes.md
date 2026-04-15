@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bivariate Bicycle Codes — A New Hope for qLDPC
-date: 2026-04-09
+date: 2026-02-09
 description: Structure, parameters, and why they matter.
 tags: research-logs, EN
 ---
