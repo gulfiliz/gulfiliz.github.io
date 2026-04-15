@@ -137,17 +137,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/renormalization-group/";
           
         },
-      },{id: "post-quantum-field-theory-what-everything-actually-is",
-        
-          title: "Quantum Field Theory — What Everything Actually Is",
-        
-        description: "There are no particles. There are no waves. There are only fields — and this changes everything.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/quantum-field-theory/";
-          
-        },
       },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
         
           title: "Quantum Computing — Separating the Revolution from the Hype",
@@ -520,6 +509,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/planck-scale/";
+          
+        },
+      },{id: "post-quantum-field-theory-what-everything-actually-is",
+        
+          title: "Quantum Field Theory — What Everything Actually Is",
+        
+        description: "There are no particles. There are no waves. There are only fields — and this changes everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/quantum-field-theory/";
           
         },
       },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
