@@ -3,7 +3,7 @@ layout: post
 title: Special Relativity — The End of Absolute Space and Time
 date: 2025-06-01
 description: In 1905, a 26-year-old patent clerk destroyed Newton's universe. What he built in its place is stranger, more beautiful, and more true.
-tags: research-logs, physics, EN
+tags: research-logs , physics , EN
 ---
 
 In 1905, Albert Einstein was twenty-six years old.
