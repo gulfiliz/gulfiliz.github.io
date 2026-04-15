@@ -511,17 +511,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/martin-eden/";
           
         },
-      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
-        
-          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
-        
-        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/kant/";
-          
-        },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
         
           title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
@@ -674,6 +663,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/epicurus/";
+          
+        },
+      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
+        
+          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
+        
+        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/kant/";
           
         },
       },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
