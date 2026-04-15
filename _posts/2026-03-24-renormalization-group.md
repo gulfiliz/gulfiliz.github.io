@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Renormalization Group — The Deepest Idea in Physics
-date: 2026-04-11
+date: 2026-03-24
 description: Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.
-tags: research-logs, physics
+tags: research-logs, physics, EN
 ---
 
 There is an idea in physics
@@ -627,21 +627,33 @@ But the RG tells us what we are looking for.
 ---
 
 *Essential reading:*
+
 *Wilson & Kogut — "The Renormalization Group*
 *and the $$\epsilon$$ Expansion" (1974)*
 *Phys. Rep. 12, 75*
 *— the foundational paper; dense but essential*
+
+
 *Wilson — "The Renormalization Group and Critical Phenomena" (1982)*
 *Rev. Mod. Phys. 55, 583*
 *— Wilson's Nobel lecture; readable*
+
+
 *Goldenfeld — Lectures on Phase Transitions*
 *and the Renormalization Group (1992)*
 *— the best pedagogical treatment*
+
+
 *Peskin & Schroeder — An Introduction to QFT*
 *— Chapters 12-13 for the QFT RG*
+
+
 *Polchinski — "Renormalization and Effective Lagrangians" (1984)*
 *Nucl. Phys. B 231, 269*
 *— the modern Wilsonian perspective on QFT*
+
+
 *For the philosophically inclined:*
+
 *Batterman — The Devil in the Details (2002)*
 *— on universality and explanation*
