@@ -1,7 +1,7 @@
 ---
 layout: post
 title: General Relativity — Gravity Is Not a Force
-date: 2026-04-11
+date: 2025-06-18
 description: Einstein's greatest achievement — the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.
 tags: research-logs, physics
 ---
@@ -772,18 +772,30 @@ We are still learning what it means.
 ---
 
 *Essential reading:*
+
 *Einstein — "The Foundation of the General Theory*
 *of Relativity" (1916)*
 *Annalen der Physik 49, 769*
 *— the original paper*
+
+
 *Misner, Thorne & Wheeler — Gravitation (1973)*
 *— the bible; 1279 pages; essential*
+
+
 *Carroll — Spacetime and Geometry (2004)*
 *— the best modern textbook*
+
+
 *Wald — General Relativity (1984)*
 *— mathematically rigorous; essential for serious study*
+
+
 *Penrose — The Road to Reality (2004)*
 *— the most ambitious book in physics*
+
+
 *For the historically inclined:*
+
 *Pais — Subtle is the Lord (1982)*
 *— the definitive Einstein biography*
