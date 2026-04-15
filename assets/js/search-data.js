@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-the-system-that-rewards-visibility-over-knowledge",
-        
-          title: "The System That Rewards Visibility Over Knowledge",
-        
-        description: "On the structural inversion at the heart of contemporary intellectual life — where being seen has replaced knowing, where platform has replaced depth, and where the loudest voice wins regardless of what it says.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/visibility-over-knowledge/";
-          
-        },
-      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
+        },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
         
@@ -377,6 +366,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/the-measurement-problem/";
+          
+        },
+      },{id: "post-the-system-that-rewards-visibility-over-knowledge",
+        
+          title: "The System That Rewards Visibility Over Knowledge",
+        
+        description: "On the structural inversion at the heart of contemporary intellectual life — where being seen has replaced knowing, where platform has replaced depth, and where the loudest voice wins regardless of what it says.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/visibility-over-knowledge/";
           
         },
       },{id: "post-the-holographic-principle-is-the-universe-a-projection",
