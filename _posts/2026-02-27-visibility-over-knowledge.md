@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The System That Rewards Visibility Over Knowledge
-date: 2026-04-11
+date: 2026-02-27
 description: On the structural inversion at the heart of contemporary intellectual life — where being seen has replaced knowing, where platform has replaced depth, and where the loudest voice wins regardless of what it says.
-tags: skepsis
+tags: skepsis, filizinbetween
 ---
 
 There is a system.
