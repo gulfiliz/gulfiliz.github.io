@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Goethe's Faust — The Man Who Made a Deal With the Devil and Won
-date: 2026-04-11
+date: 2025-11-11
 description: On the greatest work in the German language — a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end.
 tags: readings
 ---
@@ -984,28 +984,47 @@ But do not stop.
 ---
 
 *Essential reading:*
+
 *Goethe — Faust, Part One and Part Two*
 *(trans. David Luke — Oxford World's Classics)*
 *— the best starting point*
 *(trans. Martin Greenberg — Yale University Press)*
 *— the most literary*
+
+
 *Goethe — Conversations with Eckermann (1836)*
 *(trans. John Oxenford)*
+
+
 *— Goethe on Faust, art, science, and life*
 *Goethe — Italian Journey (1816)*
 *(trans. W.H. Auden & Elizabeth Mayer)*
 *— essential context for Part Two*
+
+
 *Secondary:*
+
 *Atkins — Goethe's Faust: A Literary Analysis (1958)*
 *Harvard University Press*
+
+
 *Brown — Goethe's Faust: The German Tragedy (1986)*
 *Cornell University Press*
+
+
 *Williams — Goethe's Faust (1987)*
 *Allen & Unwin*
+
+
 *For philosophy:*
+
 *Schopenhauer — The World as Will and Representation*
 *— Faust's problem, philosophically systematized*
+
+
 *Hegel — Phenomenology of Spirit*
 *— the dialectical movement that mirrors Faust's trajectory*
+
+
 *Marshall Berman — All That Is Solid Melts Into Air (1982)*
 *— on Faust and modernity; essential*
