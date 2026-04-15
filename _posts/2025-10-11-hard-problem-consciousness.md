@@ -3,7 +3,7 @@ layout: post
 title: The Hard Problem of Consciousness — Why the Brain Is Not Enough
 date: 2025-10-11
 description: On qualia, the explanatory gap, and the most difficult question in all of philosophy and science.
-tags: skepsis , metaxy , philosophy , fragmenta , EN
+tags: skepsis, metaxy, fragmenta, philosophy, EN,
 ---
 
 There is a question that will not go away.
