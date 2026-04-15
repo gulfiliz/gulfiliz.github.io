@@ -836,23 +836,38 @@ We are waiting.
 ---
 
 *Essential reading:*
+
 *Woit — Not Even Wrong (2006)*
 *— the critique of string theory*
+
+
 *Smolin — The Trouble with Physics (2006)*
 *— the crisis in fundamental physics; accessible*
+
+
 *Hossenfelder — Lost in Math (2018)*
 *— on the role of beauty in physics*
+
+
 *Ellis & Silk — "Scientific Method: Defend the Integrity*
 *of Physics" (2014)*
 *Nature 516, 321*
 *— the debate about string theory and testability*
+
+
 *Polchinski — "String Theory to the Rescue" (2015)*
 *arXiv:1512.05477*
 *— the defense of string theory*
+
+
 *For the LHC results:*
+
 *ATLAS and CMS collaboration papers*
 *on SUSY searches — available on arXiv*
+
+
 *For the Hubble tension:*
+
 *Verde, Treu & Riess — "Tensions between the*
 *Early and the Late Universe" (2019)*
 *Nature Astronomy 3, 891*
