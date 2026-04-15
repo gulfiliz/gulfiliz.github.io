@@ -60,17 +60,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
-      },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
-        
-          title: "Nietzsche — God Is Dead, and We Have Killed Him",
-        
-        description: "On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/nietzsche/";
-          
-        },
       },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
         
           title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
@@ -377,6 +366,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/sartre/";
+          
+        },
+      },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
+        
+          title: "Nietzsche — God Is Dead, and We Have Killed Him",
+        
+        description: "On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nietzsche/";
           
         },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
