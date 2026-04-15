@@ -3,7 +3,7 @@ layout: post
 title: Quantum Chromodynamics — The Violent Heart of Matter
 date: 2025-03-02
 description: The theory of the strong nuclear force — asymptotic freedom, color confinement, instantons, and the deep mystery of why quarks can never be free. The most mathematically rich and least understood of the fundamental forces.
-tags: research-logs , physics , quantum , EN
+tags: research-logs, physics, quantum, EN,
 ---
 
 Inside every proton,
