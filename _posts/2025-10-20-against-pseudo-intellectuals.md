@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room
-date: 2026-04-11
+date: 2025-10-20
 description: Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.
-tags: skepsis
+tags: skepsis, post-truth, metaxy, filizinbetween
 ---
 My favorite word in English is “pseudo”. 
 I seriously love it. 
