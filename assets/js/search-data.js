@@ -71,17 +71,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
-      },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
-        
-          title: "Symmetry — The Unreasonable Beauty at the Heart of Physics",
-        
-        description: "Why the deepest laws of nature are not equations but symmetries — and what it means that beauty has been the most reliable guide to truth in the history of physics.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/symmetry-in-physics/";
-          
-        },
       },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
         
           title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
@@ -685,6 +674,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/bose-einstein-condensate/";
+          
+        },
+      },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
+        
+          title: "Symmetry — The Unreasonable Beauty at the Heart of Physics",
+        
+        description: "Why the deepest laws of nature are not equations but symmetries — and what it means that beauty has been the most reliable guide to truth in the history of physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/symmetry-in-physics/";
           
         },
       },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
