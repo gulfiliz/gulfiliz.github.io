@@ -3,7 +3,7 @@ layout: post
 title: Spontaneous Symmetry Breaking — When the Universe Chose a Direction
 date: 2025-08-27
 description: The Lagrangian is symmetric. The vacuum is not. This asymmetry between the laws and their solution is the origin of mass, the origin of phases of matter, and possibly the origin of everything.
-tags: research-logs , physics , EN
+tags: research-logs, physics, EN,
 ---
 
 The laws of physics are symmetric.
