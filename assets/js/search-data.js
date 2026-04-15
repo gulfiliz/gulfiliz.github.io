@@ -214,17 +214,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-game-of-go/";
           
         },
-      },{id: "post-post-truth-on-the-collapse-of-the-epistemic-commons",
-        
-          title: "Post-Truth — On the Collapse of the Epistemic Commons",
-        
-        description: "How we stopped agreeing on what is real, and what that means for everything.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/post-truth/";
-          
-        },
       },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
         
           title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
@@ -586,6 +575,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/wittgenstein/";
+          
+        },
+      },{id: "post-post-truth-on-the-collapse-of-the-epistemic-commons",
+        
+          title: "Post-Truth — On the Collapse of the Epistemic Commons",
+        
+        description: "How we stopped agreeing on what is real, and what that means for everything.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/post-truth/";
           
         },
       },{id: "post-beautiful-but-wrong-the-most-elegant-theories-that-nature-rejected",
