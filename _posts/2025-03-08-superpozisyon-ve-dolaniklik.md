@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Süperpozisyon ve Dolanıklık
-date: 2026-03-08
+date: 2025-03-08
 description: Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.
 tags: science, physics, quantum, TR
 ---
