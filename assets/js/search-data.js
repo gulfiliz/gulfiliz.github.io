@@ -60,17 +60,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/renormalization-group/";
           
         },
-      },{id: "post-süperpozisyon-ve-dolanıklık",
-        
-          title: "Süperpozisyon ve Dolanıklık",
-        
-        description: "Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/superpozisyon-ve-dolaniklik/";
-          
-        },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
         
           title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
@@ -542,6 +531,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/america-and-its-geniuses/";
+          
+        },
+      },{id: "post-süperpozisyon-ve-dolanıklık",
+        
+          title: "Süperpozisyon ve Dolanıklık",
+        
+        description: "Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/superpozisyon-ve-dolaniklik/";
           
         },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
