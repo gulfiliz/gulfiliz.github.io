@@ -269,17 +269,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-stranger/";
           
         },
-      },{id: "post-the-problem-of-the-self-does-quot-you-quot-exist",
-        
-          title: "The Problem of the Self — Does &quot;You&quot; Exist?",
-        
-        description: "Hume, Parfit, Buddhism, and the unsettling possibility that nobody is home.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/the-self/";
-          
-        },
       },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
         
           title: "The Game of Go — The Most Human Game Ever Invented",
@@ -421,6 +410,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/holographic-principle/";
+          
+        },
+      },{id: "post-the-problem-of-the-self-does-quot-you-quot-exist",
+        
+          title: "The Problem of the Self — Does &quot;You&quot; Exist?",
+        
+        description: "Hume, Parfit, Buddhism, and the unsettling possibility that nobody is home.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-self/";
           
         },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
