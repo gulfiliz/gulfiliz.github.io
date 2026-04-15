@@ -522,17 +522,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/kant/";
           
         },
-      },{id: "post-epicurus-and-the-art-of-living-well-a-philosophy-for-the-present",
-        
-          title: "Epicurus and the Art of Living Well — A Philosophy for the Present...",
-        
-        description: "On pleasure, death, friendship, and why the most misunderstood philosopher in history was probably right.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/epicurus/";
-          
-        },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
         
           title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
@@ -674,6 +663,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/symmetry-in-physics/";
+          
+        },
+      },{id: "post-epicurus-and-the-art-of-living-well-a-philosophy-for-the-present",
+        
+          title: "Epicurus and the Art of Living Well — A Philosophy for the Present...",
+        
+        description: "On pleasure, death, friendship, and why the most misunderstood philosopher in history was probably right.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/epicurus/";
           
         },
       },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
