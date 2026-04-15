@@ -126,17 +126,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-self/";
           
         },
-      },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
-        
-          title: "Bivariate Bicycle Codes — A New Hope for qLDPC",
-        
-        description: "Structure, parameters, and why they matter.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/bivariate-bicycle-codes/";
-          
-        },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
         
           title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
