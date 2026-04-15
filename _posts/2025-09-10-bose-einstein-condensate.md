@@ -931,22 +931,33 @@ One universe.
 *Essential reading:*
 *Bose — "Plancks Gesetz und Lichtquantenhypothese" (1924)*
 *Z. Phys. 26, 178*
+
 *Einstein — "Quantentheorie des einatomigen idealen Gases" (1924, 1925)*
 *Sitz. Ber. Preuss. Akad. Wiss. 1924, 261; 1925, 3*
 *— the original predictions*
+
+
 *Anderson et al. — "Observation of Bose-Einstein Condensation*
 *in a Dilute Atomic Vapor" (1995)*
 *Science 269, 198*
+
+
 *Davis et al. — "Bose-Einstein Condensation in a Gas of Sodium Atoms" (1995)*
 *Phys. Rev. Lett. 75, 3969*
 *— the experimental discoveries*
+
+
 *Pitaevskii & Stringari — Bose-Einstein Condensation*
 *and Superfluidity (2016)*
 *Oxford University Press*
 *— the definitive textbook*
+
+
 *Pethick & Smith — Bose-Einstein Condensation in Dilute Gases (2002)*
 *Cambridge University Press*
 *— excellent graduate text*
+
+
 *Leggett — Quantum Liquids (2006)*
 *Oxford University Press*
 *— BEC, superfluidity, superconductivity unified*
@@ -954,6 +965,8 @@ One universe.
 *Dalfovo et al. — "Theory of Bose-Einstein condensation*
 *in trapped gases" (1999)*
 *Rev. Mod. Phys. 71, 463*
+
+
 *Bloch, Dalibard & Zwerger —*
 *"Many-body physics with ultracold gases" (2008)*
 *Rev. Mod. Phys. 80, 885*
