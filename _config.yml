@@ -244,7 +244,7 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["fragmenta", "skepsis", "metaxy", "research-logs","TR", "EN", "travel-notes", "readings", "fountain-pens", "origami", "philosophy", "go-igo", "astronomy", "physics", "quantum", "literature", "filizinbetween", "justfiliz"]
+display_tags: ["fragmenta", "skepsis", "metaxy", "research-logs", "TR", "EN", "travel-notes", "readings", "origami", "philosophy", "go-igo", "physics", "quantum", "literature", "filizinbetween", "justfiliz", "nikko-chan", "ai-chan"]
 display_categories: ["2024", "2025", "2026"]
 
 # -----------------------------------------------------------------------------
