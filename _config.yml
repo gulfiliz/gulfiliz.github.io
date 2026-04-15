@@ -238,9 +238,9 @@ jekyll-archives:
   posts:
     enabled: [year, tags, categories]
     layouts:
-      year: archive-year
-      tag: archive-tag
-      category: archive-category
+      year: archive
+      tag: archive
+      category: archive
     permalinks:
       year: "/blog/:year/"
       tags: "/blog/:type/:name/"
@@ -248,9 +248,9 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories]
     layouts:
-      year: archive-year
-      tag: archive-tag
-      category: archive-category
+      year: archive
+      tag: archive
+      category: archive
 
 display_tags: ["fragmenta", "skepsis", "metaxy", "research-logs", "TR", "EN", "travel-notes", "readings", "origami", "philosophy", "go-igo", "physics", "quantum", "literature", "filizinbetween", "justfiliz", "nikko-chan", "ai-chan"]
 display_categories: ["2024", "2025", "2026"]
