@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-game-of-go/";
           
         },
+      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
+        
+          title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
+        
+        description: "The most intimate and most mysterious of all phenomena. We live inside it. We cannot step outside it to examine it. And the closer we look, the stranger it becomes.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/time/";
+          
+        },
       },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
         
           title: "Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us...",
@@ -38,15 +49,15 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
-      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
+      },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
         
-          title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
+          title: "Bivariate Bicycle Codes — A New Hope for qLDPC",
         
-        description: "The most intimate and most mysterious of all phenomena. We live inside it. We cannot step outside it to examine it. And the closer we look, the stranger it becomes.",
+        description: "Structure, parameters, and why they matter.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/time/";
+            window.location.href = "/blog/2026/bivariate-bicycle-codes/";
           
         },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
@@ -135,17 +146,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/the-self/";
-          
-        },
-      },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
-        
-          title: "Bivariate Bicycle Codes — A New Hope for qLDPC",
-        
-        description: "Structure, parameters, and why they matter.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/bivariate-bicycle-codes/";
           
         },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
