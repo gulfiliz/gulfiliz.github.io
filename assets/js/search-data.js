@@ -60,17 +60,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
-        
-          title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
-        
-        description: "From Cai Lun&#39;s invention to Miura folds — everything that happens when paper meets intention.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/modular-origami/";
-          
-        },
       },{id: "post-bivariate-bicycle-codes-a-new-hope-for-qldpc",
         
           title: "Bivariate Bicycle Codes — A New Hope for qLDPC",
@@ -124,6 +113,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/visibility-over-knowledge/";
+          
+        },
+      },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
+        
+          title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
+        
+        description: "From Cai Lun&#39;s invention to Miura folds — everything that happens when paper meets intention.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/modular-origami/";
           
         },
       },{id: "post-the-holographic-principle-is-the-universe-a-projection",
