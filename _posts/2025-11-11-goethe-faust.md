@@ -3,7 +3,7 @@ layout: post
 title: Goethe's Faust — The Man Who Made a Deal With the Devil and Won
 date: 2025-11-11
 description: On the greatest work in the German language — a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end.
-tags: readings, literature
+tags: readings , literature
 ---
 
 *"Zwei Seelen wohnen, ach! in meiner Brust."*
