@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
-        
-          title: "Wittgenstein — The Philosopher Who Tried to Kill Philosophy",
-        
-        description: "On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/wittgenstein/";
-          
-        },
-      },{id: "post-the-system-that-rewards-visibility-over-knowledge",
+        },{id: "post-the-system-that-rewards-visibility-over-knowledge",
         
           title: "The System That Rewards Visibility Over Knowledge",
         
@@ -696,6 +685,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/bose-einstein-condensate/";
+          
+        },
+      },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
+        
+          title: "Wittgenstein — The Philosopher Who Tried to Kill Philosophy",
+        
+        description: "On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/wittgenstein/";
           
         },
       },{id: "books-the-godfather",
