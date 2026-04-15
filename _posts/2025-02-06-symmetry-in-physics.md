@@ -3,7 +3,7 @@ layout: post
 title: Symmetry — The Unreasonable Beauty at the Heart of Physics
 date: 2025-02-06
 description: Why the deepest laws of nature are not equations but symmetries — and what it means that beauty has been the most reliable guide to truth in the history of physics.
-tags: research-logs , physics , EN
+tags: research-logs, physics, EN,
 ---
 
 In 1915, Einstein completed General Relativity.
