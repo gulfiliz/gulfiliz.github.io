@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Spin-Statistics Theorem — Why Half the Universe Cannot Be in the Same Place
-date: 2026-04-11
+date: 2025-07-19
 description: The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.
-tags: research-log
+tags: research-logs, physics, EN
 ---
 
 Here is a fact about the universe
@@ -629,22 +629,34 @@ can be proved without being understood.
 ---
 
 *Essential reading:*
+
 *Pauli — "The Connection Between Spin and Statistics" (1940)*
 *Phys. Rev. 58, 716*
 *— the original proof*
+
+
 *Lüders & Zumino — "Connection Between Spin and Statistics" (1958)*
 *Phys. Rev. 110, 1450*
 *— the rigorous modern proof*
+
+
 *Duck & Sudarshan — "Toward an understanding of the*
 *spin-statistics theorem" (1998)*
 *Am. J. Phys. 66, 284*
 *— the most accessible discussion*
+
+
 *Streater & Wightman — PCT, Spin and Statistics,*
 *and All That (1964)*
 *— the axiomatic QFT treatment*
+
+
 *Wilczek — "Quantum Mechanics of Fractional-Spin Particles" (1982)*
 *Phys. Rev. Lett. 49, 957*
 *— anyons*
+
+
 *For the mathematically serious:*
+
 *Weinberg — The Quantum Theory of Fields, Vol. 1*
 *— Chapter 5 for the definitive treatment*
