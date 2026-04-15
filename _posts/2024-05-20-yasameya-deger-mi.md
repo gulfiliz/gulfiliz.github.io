@@ -3,7 +3,7 @@ layout: post
 title: Yaşamaya Değer Mi?
 date: 2024-05-20
 description: Camus soruyor, Seneca cevaplıyor — ya da tam tersi.
-tags: skepsis, philosophy, filizinbetween, TR
+tags: skepsis , philosophy , filizinbetween , TR
 ---
 
 Camus, *Sisifos Söyleni*'ne şöyle başlar:
