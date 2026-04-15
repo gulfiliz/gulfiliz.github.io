@@ -31,3 +31,7 @@ This is my intellectual space.
 Fragments in Fragmenta, unexamined truths in Sképsis, and the in-between in Metaxy.
 
 Here you’ll find my travel notes, reflections on philosophy, origami, the game of Go, fountain pens, research logs, and reading notes — all gathered in one place.
+
+Here is how you can reach out to me:
+e-mail: gulfilizakinalp@gmail.com
+SNS: https://x.com/Filiz_Phys
