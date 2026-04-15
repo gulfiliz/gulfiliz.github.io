@@ -170,17 +170,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/geometry/";
           
         },
-      },{id: "post-epictetus-the-slave-who-was-free",
-        
-          title: "Epictetus — The Slave Who Was Free",
-        
-        description: "On the man who owned nothing, controlled everything, and taught Marcus Aurelius how to be emperor.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/epictetus/";
-          
-        },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
         
           title: "In Defense of Boredom — Why Doing Nothing Is the Most Radical Act...",
@@ -630,6 +619,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/kant/";
+          
+        },
+      },{id: "post-epictetus-the-slave-who-was-free",
+        
+          title: "Epictetus — The Slave Who Was Free",
+        
+        description: "On the man who owned nothing, controlled everything, and taught Marcus Aurelius how to be emperor.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/epictetus/";
           
         },
       },{id: "post-topological-phases-of-matter-when-topology-becomes-physics",
