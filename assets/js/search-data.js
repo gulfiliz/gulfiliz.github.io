@@ -104,17 +104,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/visibility-over-knowledge/";
           
         },
-      },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
-        
-          title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
-        
-        description: "From Cai Lun&#39;s invention to Miura folds — everything that happens when paper meets intention.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/modular-origami/";
-          
-        },
       },{id: "post-the-holographic-principle-is-the-universe-a-projection",
         
           title: "The Holographic Principle — Is the Universe a Projection?",
@@ -586,6 +575,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/kant/";
+          
+        },
+      },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
+        
+          title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
+        
+        description: "From Cai Lun&#39;s invention to Miura folds — everything that happens when paper meets intention.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/modular-origami/";
           
         },
       },{id: "post-why-american-intellectuals-are-invisible-a-philosophical-diagnosis",
