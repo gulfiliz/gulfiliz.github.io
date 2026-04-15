@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Planck Scale — Where Physics Ends and the Unknown Begins
-date: 2026-04-11
+date: 2026-01-23
 description: At 10⁻³⁵ meters, our best theories break down simultaneously. This is not a technical problem. It is the edge of what we can know.
-tags: research-log
+tags: research-logs, physics, quantum, EN
 ---
 
 There is a length scale at which everything we know
@@ -644,18 +644,28 @@ and the going is the physics.
 ---
 
 *Further reading:*
+
 *Planck — "Über irreversible Strahlungsvorgänge" (1900)*
 *— the original paper containing Planck units*
+
+
 *Garay — "Quantum gravity and minimum length" (1995)*
 *Int. J. Mod. Phys. A 10, 145*
 *— the definitive review of minimum length*
+
+
 *Rovelli — Quantum Gravity (2004)*
 *— Cambridge University Press*
 *— the LQG textbook*
+
+
 *Polchinski — String Theory (1998)*
 *— Cambridge University Press*
 *— the string theory bible*
+
+
 *For the cosmological constant problem:*
+
 *Weinberg — "The cosmological constant problem" (1989)*
 *Rev. Mod. Phys. 61, 1*
 *— still the best review after 35 years*
