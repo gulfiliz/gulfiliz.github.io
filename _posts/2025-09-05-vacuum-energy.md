@@ -3,7 +3,7 @@ layout: post
 title: Vacuum Energy — Why Nothing Weighs Something
 date: 2025-09-05
 description: The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics — or a clue to something we don't yet understand.
-tags: research-logs, physics, quantum, EN
+tags: research-logs , physics , quantum , EN
 ---
 
 Empty space is not empty.
