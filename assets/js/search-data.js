@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
-        
-          title: "Sartre — Existence Precedes Essence, and That Is Terrifying",
-        
-        description: "On radical freedom, bad faith, and the philosopher who said you are condemned to be free.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/sartre/";
-          
-        },
       },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
         
           title: "Quantum Computing — Separating the Revolution from the Hype",
@@ -443,6 +432,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/physics-misconceptions/";
+          
+        },
+      },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
+        
+          title: "Sartre — Existence Precedes Essence, and That Is Terrifying",
+        
+        description: "On radical freedom, bad faith, and the philosopher who said you are condemned to be free.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/sartre/";
           
         },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
