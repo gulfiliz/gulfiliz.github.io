@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
-        
-          title: "Bose-Einstein Condensation — When Quantum Mechanics Becomes Visible",
-        
-        description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/bose-einstein-condensate/";
-          
-        },
-      },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
+        },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
         
           title: "Wittgenstein — The Philosopher Who Tried to Kill Philosophy",
         
@@ -696,6 +685,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/baslangic/";
+          
+        },
+      },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
+        
+          title: "Bose-Einstein Condensation — When Quantum Mechanics Becomes Visible",
+        
+        description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bose-einstein-condensate/";
           
         },
       },{id: "books-the-godfather",
