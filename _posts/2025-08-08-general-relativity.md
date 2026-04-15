@@ -3,7 +3,7 @@ layout: post
 title: General Relativity — Gravity Is Not a Force
 date: 2025-08-08
 description: Einstein's greatest achievement — the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.
-tags: research-logs, physics
+tags: research-logs , physics
 ---
 
 In 1907, Einstein had what he later called
