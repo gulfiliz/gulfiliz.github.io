@@ -27,17 +27,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/visibility-over-knowledge/";
           
         },
-      },{id: "post-vacuum-energy-why-nothing-weighs-something",
-        
-          title: "Vacuum Energy — Why Nothing Weighs Something",
-        
-        description: "The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics — or a clue to something we don&#39;t yet understand.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/vacuum-energy/";
-          
-        },
       },{id: "post-topological-phases-of-matter-when-topology-becomes-physics",
         
           title: "Topological Phases of Matter — When Topology Becomes Physics",
@@ -531,6 +520,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/bose-einstein-condensate/";
+          
+        },
+      },{id: "post-vacuum-energy-why-nothing-weighs-something",
+        
+          title: "Vacuum Energy — Why Nothing Weighs Something",
+        
+        description: "The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics — or a clue to something we don&#39;t yet understand.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/vacuum-energy/";
           
         },
       },{id: "post-spontaneous-symmetry-breaking-when-the-universe-chose-a-direction",
