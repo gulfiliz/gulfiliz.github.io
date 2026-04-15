@@ -522,17 +522,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
           
         },
-      },{id: "post-decoherence-why-quantum-computers-are-hard",
-        
-          title: "Decoherence — Why Quantum Computers Are Hard",
-        
-        description: "The fragility of quantum information and the war against noise.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/decoherence/";
-          
-        },
       },{id: "post-chingiz-aitmatov-the-writer-who-carried-a-whole-world-on-his-back",
         
           title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
@@ -597,6 +586,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/baslangic/";
+          
+        },
+      },{id: "post-decoherence-why-quantum-computers-are-hard",
+        
+          title: "Decoherence — Why Quantum Computers Are Hard",
+        
+        description: "The fragility of quantum information and the war against noise.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/decoherence/";
           
         },
       },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
