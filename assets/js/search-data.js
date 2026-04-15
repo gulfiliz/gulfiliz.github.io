@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
-        
-          title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
-        
-        description: "Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/against-pseudo-intellectuals/";
-          
-        },
       },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
         
           title: "The Game of Go — The Most Human Game Ever Invented",
@@ -300,6 +289,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/goethe-faust/";
+          
+        },
+      },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
+        
+          title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
+        
+        description: "Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/against-pseudo-intellectuals/";
           
         },
       },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
