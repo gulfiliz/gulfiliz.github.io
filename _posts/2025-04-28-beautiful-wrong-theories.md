@@ -3,7 +3,7 @@ layout: post
 title: Beautiful But Wrong — The Most Elegant Theories That Nature Rejected
 date: 2025-04-28
 description: Science is not only the history of what is true. It is also the history of beautiful ideas that turned out to be wrong — and why those ideas matter as much as the correct ones.
-tags: research-logs, physics, EN
+tags: research-logs , physics , EN
 ---
 
 Science keeps a graveyard.
