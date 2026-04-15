@@ -3,7 +3,7 @@ layout: post
 title: Why American Intellectuals Are Invisible — A Philosophical Diagnosis
 date: 2025-02-16
 description: France has public intellectuals. Germany has public intellectuals. Even small countries have them. America — with the world's greatest universities — systematically renders its thinkers invisible. This is not an accident. It is a structural feature of American civilization.
-tags: skepsis, metaxy, fragmenta, philosophy, post-truth
+tags: skepsis , metaxy , fragmenta , philosophy , post-truth
 ---
 
 In Paris, in 1945,
