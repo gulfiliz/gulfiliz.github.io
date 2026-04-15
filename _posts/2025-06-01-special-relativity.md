@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Special Relativity — The End of Absolute Space and Time
-date: 2026-04-11
+date: 2025-06-01
 description: In 1905, a 26-year-old patent clerk destroyed Newton's universe. What he built in its place is stranger, more beautiful, and more true.
-tags: research-logs, physics
+tags: research-logs, physics, EN
 ---
 
 In 1905, Albert Einstein was twenty-six years old.
@@ -616,15 +616,25 @@ The result changed everything.
 ---
 
 *Further reading:*
+
 *Einstein — "On the Electrodynamics of Moving Bodies" (1905)*
 *Annalen der Physik 17, 891*
 *— read the original; it is remarkably readable*
+
+
 *Minkowski — "Space and Time" (1908)*
 *— the geometric formulation of special relativity*
+
+
 *Taylor & Wheeler — Spacetime Physics (1992)*
 *— the best introductory textbook*
+
+
 *Helliwell — Special Relativity (2010)*
 *— more advanced, excellent*
+
+
 *For the mathematically serious:*
+
 *Jackson — Classical Electrodynamics (3rd ed.)*
 *— Chapter 11 for the full relativistic treatment*
