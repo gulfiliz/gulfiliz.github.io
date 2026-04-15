@@ -3,7 +3,7 @@ layout: post
 title: Epictetus — The Slave Who Was Free
 date: 2025-04-11
 description: On the man who owned nothing, controlled everything, and taught Marcus Aurelius how to be emperor.
-tags: skepsis, metaxy, fragmenta, philosophy, EN
+tags: skepsis , metaxy , fragmenta , philosophy , EN
 ---
 
 He was born a slave.
