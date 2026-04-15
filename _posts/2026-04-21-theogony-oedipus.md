@@ -561,15 +561,26 @@ That is, perhaps, enough.
 ---
 
 *Further reading:*
+
 *Hesiod — Theogony and Works and Days*
 *(trans. M.L. West — Oxford World's Classics)*
+
+
 *Sophocles — The Three Theban Plays*
 *(trans. Robert Fagles — Penguin Classics)*
+
+
 *Walter Burkert — Greek Religion (1985)*
 *— the essential scholarly introduction*
+
+
 *Jean-Pierre Vernant — Myth and Thought Among the Greeks (1983)*
 *— the best structural analysis of Greek mythology*
+
+
 *Bernard Knox — The Heroic Temper (1964)*
 *— on Oedipus and the will to know*
+
+
 *Roberto Calasso — The Marriage of Cadmus and Harmony (1993)*
 *— mythology as literature; the most beautiful book about Greek myth*
