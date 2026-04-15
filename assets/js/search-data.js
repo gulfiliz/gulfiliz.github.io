@@ -269,17 +269,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/intolerance-for-superficiality/";
           
         },
-      },{id: "post-the-holographic-principle-is-the-universe-a-projection",
-        
-          title: "The Holographic Principle — Is the Universe a Projection?",
-        
-        description: "On Bekenstein, Hawking, &#39;t Hooft, Susskind, and Maldacena — and why the universe may contain less information than you think.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/holographic-principle/";
-          
-        },
       },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
         
           title: "The Hard Problem of Consciousness — Why the Brain Is Not Enough",
@@ -520,6 +509,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/the-measurement-problem/";
+          
+        },
+      },{id: "post-the-holographic-principle-is-the-universe-a-projection",
+        
+          title: "The Holographic Principle — Is the Universe a Projection?",
+        
+        description: "On Bekenstein, Hawking, &#39;t Hooft, Susskind, and Maldacena — and why the universe may contain less information than you think.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/holographic-principle/";
           
         },
       },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
