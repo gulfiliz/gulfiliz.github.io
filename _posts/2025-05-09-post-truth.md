@@ -3,7 +3,7 @@ layout: post
 title: Post-Truth — On the Collapse of the Epistemic Commons
 date: 2025-05-09
 description: How we stopped agreeing on what is real, and what that means for everything.
-tags: skepsis, fragmenta, metaxy, philosophy, EN, post-truth
+tags: skepsis , fragmenta , metaxy , philosophy , EN , post-truth
 ---
 
 In 2016, Oxford Dictionaries named *post-truth* word of the year.
