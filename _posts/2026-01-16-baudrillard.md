@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Baudrillard — The Desert of the Real
-date: 2026-04-11
+date: 2026-01-16
 description: On simulacra, hyperreality, and the philosopher who said the Gulf War did not take place — and was not wrong.
-tags: skepsis
+tags: skepsis, philosphy, metaxy, fragmenta, post-truth, EN
 ---
 
 The map is not the territory.
