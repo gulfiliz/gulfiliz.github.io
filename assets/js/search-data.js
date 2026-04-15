@@ -368,17 +368,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/bells-theorem/";
           
         },
-      },{id: "post-beautiful-but-wrong-the-most-elegant-theories-that-nature-rejected",
-        
-          title: "Beautiful But Wrong — The Most Elegant Theories That Nature Rejected",
-        
-        description: "Science is not only the history of what is true. It is also the history of beautiful ideas that turned out to be wrong — and why those ideas matter as much as the correct ones.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/beautiful-wrong-theories/";
-          
-        },
       },{id: "post-baudrillard-the-desert-of-the-real",
         
           title: "Baudrillard — The Desert of the Real",
@@ -641,6 +630,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/fine-tuned-universe/";
+          
+        },
+      },{id: "post-beautiful-but-wrong-the-most-elegant-theories-that-nature-rejected",
+        
+          title: "Beautiful But Wrong — The Most Elegant Theories That Nature Rejected",
+        
+        description: "Science is not only the history of what is true. It is also the history of beautiful ideas that turned out to be wrong — and why those ideas matter as much as the correct ones.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/beautiful-wrong-theories/";
           
         },
       },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
