@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Country That Ate Its Own Geniuses — America and the Intellectuals It Could Not Love
-date: 2026-04-11
+date: 2025-03-17
 description: Poe died in a gutter. Melville died forgotten. Emily Dickinson published almost nothing in her lifetime. America does not merely ignore its geniuses — it has a specific, structural relationship with them that ends, repeatedly, in the same way.
 tags: skepsis
 ---
@@ -819,24 +819,46 @@ stated in stone.
 ---
 
 *Further reading:*
+
 *Baudelaire — "Edgar Poe: His Life and Works" (1852)*
 *— the essential European reception*
+
+
 *Benjamin — "On Some Motifs in Baudelaire" (1939)*
 *in Illuminations — on the flaneur and modernity*
+
+
 *Matthiessen — American Renaissance (1941)*
 *— Emerson, Thoreau, Hawthorne, Melville, Whitman;*
 *the recovery of American genius*
+
+
 *Lawrence — Studies in Classic American Literature (1923)*
 *— D.H. Lawrence's savage, brilliant reading of American writers*
+
+
 *Fiedler — Love and Death in the American Novel (1960)*
 *— the dark underside of American literary culture*
+
+
 *Wilson — Axel's Castle (1931)*
 *— on Symbolism and its American reception*
+
+
 *For Poe specifically:*
+
 *Quinn — Edgar Allan Poe: A Critical Biography (1941)*
+
+
 *Meyers — Edgar Allan Poe: His Life and Legacy (1992)*
+
+
 *For Dickinson:*
+
 *Habegger — My Wars Are Laid Away in Books (2001)*
 *— the definitive biography*
+
+
 *For Melville:*
+
 *Parker — Herman Melville: A Biography (2 vols., 1996, 2002)*
