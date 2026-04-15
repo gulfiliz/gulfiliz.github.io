@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Holographic Principle — Is the Universe a Projection?
-date: 2026-04-11
+date: 2026-02-16
 description: On Bekenstein, Hawking, 't Hooft, Susskind, and Maldacena — and why the universe may contain less information than you think.
-tags: research-log
+tags: research-logs, physics, EN
 ---
 
 In 1972, Jacob Bekenstein was a graduate student.
@@ -711,22 +711,36 @@ is where physics lives.
 ---
 
 *Essential reading:*
+
 *Bekenstein — "Black Holes and Entropy" (1973)*
 *Phys. Rev. D 7, 2333*
+
+
 *Hawking — "Particle Creation by Black Holes" (1975)*
 *Commun. Math. Phys. 43, 199*
-*'t Hooft — "Dimensional Reduction in Quantum Gravity" (1993)*
+
+*G.'t Hooft — "Dimensional Reduction in Quantum Gravity" (1993)*
 *arXiv:gr-qc/9310026*
+
 *Susskind — "The World as a Hologram" (1995)*
 *J. Math. Phys. 36, 6377*
+
+
 *Maldacena — "The Large N Limit..." (1997)*
 *Int. J. Theor. Phys. 38, 1113*
+
+
 *Ryu & Takayanagi — "Holographic Derivation of*
 *Entanglement Entropy" (2006)*
 *Phys. Rev. Lett. 96, 181602*
+
+
 *Van Raamsdonk — "Building up spacetime with*
 *quantum entanglement" (2010)*
 *Gen. Rel. Grav. 42, 2323*
+
+
 *For the serious student:*
+
 *Nastase — Introduction to the AdS/CFT Correspondence (2015)*
 *— Cambridge University Press*
