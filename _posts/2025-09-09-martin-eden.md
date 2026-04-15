@@ -3,7 +3,7 @@ layout: post
 title: Martin Eden — The Book That Knows Too Much About You
 date: 2025-09-09
 description: On Jack London's most personal novel, and why some books are not read but survived.
-tags: readings, literature
+tags: readings , literature
 ---
 
 There are books you read.
