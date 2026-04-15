@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Game of Go — The Most Human Game Ever Invented
-date: 2026-09-26
+date: 2025-09-26
 description: On Weiqi, AlphaGo, and why 19×19 intersections contain everything.
 tags: hobbies, go-igo, EN
 ---
