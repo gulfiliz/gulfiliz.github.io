@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dostoevsky — The Writer Who Knew Too Much
-date: 2026-04-09
+date: 2025-08-09
 description: On suffering, freedom, and the novelist who saw the twentieth century coming.
 tags: readings, literature, EN
 ---
@@ -345,6 +345,5 @@ There is no higher praise I know how to give.
 
 *Start with Crime and Punishment.*
 *Then The Brothers Karamazov.*
-*Then Notes from Underground — which you will understand differently
-after the others.*
+*Then Notes from Underground — which you will understand differently after the others.*
 *Save The Idiot for when you are ready to be broken.*
