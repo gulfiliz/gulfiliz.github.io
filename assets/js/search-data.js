@@ -82,17 +82,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/bivariate-bicycle-codes/";
           
         },
-      },{id: "post-süperpozisyon-ve-dolanıklık",
-        
-          title: "Süperpozisyon ve Dolanıklık",
-        
-        description: "Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/superpozisyon-ve-dolaniklik/";
-          
-        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
@@ -102,6 +91,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/renormalization-group/";
+          
+        },
+      },{id: "post-süperpozisyon-ve-dolanıklık",
+        
+          title: "Süperpozisyon ve Dolanıklık",
+        
+        description: "Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/superpozisyon-ve-dolaniklik/";
           
         },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
