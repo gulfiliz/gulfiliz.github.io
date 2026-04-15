@@ -250,7 +250,7 @@ jekyll-archives:
       tag: archive
       category: archive
 
-display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "TR" , "EN" , "travel-notes" , "readings" , "origami" , "philosophy" , "go-igo" , "physics" , "quantum" , "literature" , "filizinbetween" , "justfiliz" , "nikko-chan" , "ai-chan"]
+display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "TR" , "EN" , "travel-notes" , "readings" , "philosophy" , "go-igo" , "physics" , "quantum" , "origami" , "post-truth" , "grandma" ,  "literature" , "filizinbetween" , "justfiliz" , "nikko-chan" , "ai-chan"]
 display_categories: ["2024", "2025", "2026"]
 
 # -----------------------------------------------------------------------------
