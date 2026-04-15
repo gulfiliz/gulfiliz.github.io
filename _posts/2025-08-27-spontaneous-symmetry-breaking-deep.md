@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spontaneous Symmetry Breaking — When the Universe Chose a Direction
-date: 2026-04-11
+date: 2025-08-27
 description: The Lagrangian is symmetric. The vacuum is not. This asymmetry between the laws and their solution is the origin of mass, the origin of phases of matter, and possibly the origin of everything.
-tags: research-logs, physics
+tags: research-logs, physics, EN
 ---
 
 The laws of physics are symmetric.
@@ -665,24 +665,38 @@ but in our vacuum expectation value."*
 ---
 
 *Essential reading:*
+
 *Goldstone — "Field Theories with Superconductor Solutions" (1961)*
 *Nuovo Cimento 19, 154*
+
+
 *Higgs — "Broken Symmetries and the Masses of Gauge Bosons" (1964)*
 *Phys. Rev. Lett. 13, 508*
 *— one page; read it*
+
+
 *Englert & Brout — "Broken Symmetry and the Mass of Gauge Vector Mesons" (1964)*
 *Phys. Rev. Lett. 13, 321*
 *— published three weeks before Higgs*
+
+
 *Anderson — "Plasmons, Gauge Invariance, and Mass" (1963)*
 *Phys. Rev. 130, 439*
 *— the condensed matter precursor*
+
+
 *Coleman — "Secret Symmetry" (1975)*
 *in Aspects of Symmetry (Cambridge, 1985)*
 *— the most beautiful lecture on SSB ever given*
+
+
 *Weinberg — "A Model of Leptons" (1967)*
 *Phys. Rev. Lett. 19, 1264*
 *— the electroweak model; three pages; Nobel Prize*
+
+
 *For the technically serious:*
+
 *Peskin & Schroeder — Chapters 11-12*
 *Weinberg — The Quantum Theory of Fields, Vol. 2*
 *— Chapters 19-21*
