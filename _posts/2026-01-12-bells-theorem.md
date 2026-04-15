@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bell's Theorem — The Most Profound Discovery in the History of Physics
-date: 2026-04-11
+date: 2026-01-12
 description: In 1964, John Bell proved that no theory of local hidden variables can reproduce quantum mechanics. In 1982, Aspect confirmed it experimentally. The universe is nonlocal. This changes everything.
-tags: research-log
+tags: research-logs, physics, quantum, EN
 ---
 
 In 1935, Einstein, Podolsky, and Rosen
@@ -739,21 +739,33 @@ We are certain that it is true.
 ---
 
 *Essential reading:*
+
 *Bell — "On the Einstein-Podolsky-Rosen Paradox" (1964)*
 *Physics 1, 195*
 *— the original paper; six pages; read it*
+
+
 *Bell — Speakable and Unspeakable in Quantum Mechanics (1987)*
 *Cambridge University Press*
 *— everything Bell wrote on foundations; essential*
+
+
 *Aspect, Grangier & Roger —*
 *"Experimental Tests of Bell's Inequalities" (1982)*
 *Phys. Rev. Lett. 49, 91*
+
+
 *Hensen et al. — "Loophole-free Bell inequality violation" (2015)*
 *Nature 526, 682*
 *— the definitive experimental result*
+
+
 *Brunner et al. — "Bell nonlocality" (2014)*
 *Rev. Mod. Phys. 86, 419*
 *— the comprehensive review*
+
+
 *For the technically serious:*
+
 *Nielsen & Chuang — Quantum Computation and Quantum Information*
 *— Chapter 2 for the Bell inequality treatment*
