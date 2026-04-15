@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Hard Problem of Consciousness — Why the Brain Is Not Enough
-date: 2026-04-11
+date: 2025-10-11
 description: On qualia, the explanatory gap, and the most difficult question in all of philosophy and science.
 tags: skepsis, metaxy, philosophy, fragmenta, EN
 ---
@@ -636,10 +636,17 @@ Probably both.
 ---
 
 *Further reading:*
+
 *David Chalmers — The Conscious Mind (1996)*
+
 *Thomas Nagel — Mortal Questions (1979) — contains "What Is It Like to Be a Bat?"*
+
 *Frank Jackson — "Epiphenomenal Qualia" (1982)*
+
 *Daniel Dennett — Consciousness Explained (1991) — the best physicalist response*
+
 *Philip Goff — Galileo's Error (2019) — the best introduction to panpsychism*
+
 *Stanislas Dehaene — Consciousness and the Brain (2014)*
+
 *Antonio Damasio — The Feeling of What Happens (1999)*
