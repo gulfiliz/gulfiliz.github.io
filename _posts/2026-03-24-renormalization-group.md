@@ -3,7 +3,7 @@ layout: post
 title: The Renormalization Group — The Deepest Idea in Physics
 date: 2026-03-24
 description: Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.
-tags: research-logs, physics, EN
+tags: research-logs , physics , EN
 ---
 
 There is an idea in physics
