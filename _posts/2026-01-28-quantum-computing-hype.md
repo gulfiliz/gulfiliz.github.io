@@ -3,7 +3,7 @@ layout: post
 title: Quantum Computing — Separating the Revolution from the Hype
 date: 2026-01-28
 description: A quantum researcher's honest guide to what quantum computers can and cannot do — and why the headlines are almost always wrong.
-tags: research-logs, physics, quantum, EN
+tags: research-logs , physics , quantum , EN
 ---
 
 Recently, I started to work on quantum error correction.
