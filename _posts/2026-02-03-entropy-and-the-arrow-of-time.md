@@ -3,7 +3,7 @@ layout: post
 title: Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg
 date: 2026-02-03
 description: The only law in physics that knows which way time flows.
-tags: research-logs, physics, quantum, EN
+tags: research-logs , physics , quantum , EN
 ---
 
 Every fundamental law of physics is time-symmetric.
