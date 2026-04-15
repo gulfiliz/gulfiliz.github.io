@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
-        
-          title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
-        
-        description: "The formalism works perfectly. Nobody agrees on what it means. A technical deep-dive into the most embarrassing open problem in physics.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/measurement-problem-deep/";
-          
-        },
       },{id: "post-geometry-let-no-one-ignorant-of-geometry-enter",
         
           title: "Geometry — Let No One Ignorant of Geometry Enter",
@@ -498,6 +487,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/beautiful-wrong-theories/";
+          
+        },
+      },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
+        
+          title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
+        
+        description: "The formalism works perfectly. Nobody agrees on what it means. A technical deep-dive into the most embarrassing open problem in physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/measurement-problem-deep/";
           
         },
       },{id: "post-epictetus-the-slave-who-was-free",
