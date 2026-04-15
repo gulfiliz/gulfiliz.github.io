@@ -3,7 +3,7 @@ layout: post
 title: Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us Better Than We Know Ourselves
 date: 2026-04-21
 description: On Hesiod's cosmogony, the violence at the origin of things, and why the myth of Oedipus is not about incest but about the unbearable desire to know.
-tags: readings, philosophy, metaxy, skepsis, fragmenta, EN
+tags: readings , philosophy , metaxy , skepsis , fragmenta , EN
 ---
 
 Before there was anything,
