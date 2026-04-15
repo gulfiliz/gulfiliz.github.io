@@ -434,17 +434,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/the-stranger/";
           
         },
-      },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
-        
-          title: "The Standard Model — The Most Successful Theory Ever Written",
-        
-        description: "How we fit the entire universe onto one page — and what that page cannot explain.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/the-standard-model/";
-          
-        },
       },{id: "post-the-problem-of-the-self-does-quot-you-quot-exist",
         
           title: "The Problem of the Self — Does &quot;You&quot; Exist?",
@@ -586,6 +575,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
+          
+        },
+      },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
+        
+          title: "The Standard Model — The Most Successful Theory Ever Written",
+        
+        description: "How we fit the entire universe onto one page — and what that page cannot explain.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-standard-model/";
           
         },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
