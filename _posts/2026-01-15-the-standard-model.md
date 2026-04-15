@@ -3,7 +3,7 @@ layout: post
 title: The Standard Model — The Most Successful Theory Ever Written
 date: 2026-01-15
 description: How we fit the entire universe onto one page — and what that page cannot explain.
-tags: research-logs, physics, EN
+tags: research-logs , physics , EN
 ---
 
 There is an equation that fits on a single page.
