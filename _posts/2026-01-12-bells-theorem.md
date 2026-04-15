@@ -3,7 +3,7 @@ layout: post
 title: Bell's Theorem — The Most Profound Discovery in the History of Physics
 date: 2026-01-12
 description: In 1964, John Bell proved that no theory of local hidden variables can reproduce quantum mechanics. In 1982, Aspect confirmed it experimentally. The universe is nonlocal. This changes everything.
-tags: research-logs, physics, quantum, EN
+tags: research-logs , physics , quantum , EN
 ---
 
 In 1935, Einstein, Podolsky, and Rosen
