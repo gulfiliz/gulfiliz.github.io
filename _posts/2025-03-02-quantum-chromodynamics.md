@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Quantum Chromodynamics — The Violent Heart of Matter
-date: 2026-04-11
+date: 2025-03-02
 description: The theory of the strong nuclear force — asymptotic freedom, color confinement, instantons, and the deep mystery of why quarks can never be free. The most mathematically rich and least understood of the fundamental forces.
-tags: research-logs, physics, quantum
+tags: research-logs, physics, quantum, EN
 ---
 
 Inside every proton,
@@ -974,34 +974,58 @@ We are getting closer.
 ---
 
 *Essential reading:*
+
 *Gross & Wilczek — "Ultraviolet Behavior of Non-Abelian Gauge Theories" (1973)*
 *Phys. Rev. Lett. 30, 1343*
+
+
 *Politzer — "Reliable Perturbative Results for Strong Interactions?" (1973)*
 *Phys. Rev. Lett. 30, 1346*
 *— the asymptotic freedom papers; Nobel Prize 2004*
+
+
 *Belavin, Polyakov, Schwarz & Tyupkin —*
 *"Pseudoparticle Solutions of the Yang-Mills Equations" (1975)*
 *Phys. Lett. B 59, 85*
 *— instantons*
+
+
 *'t Hooft — "Computation of the Quantum Effects Due to a*
 *Four-Dimensional Pseudoparticle" (1976)*
 *Phys. Rev. D 14, 3432*
+
+
 *Peccei & Quinn — "CP Conservation in the Presence of*
 *Pseudoparticles" (1977)*
 *Phys. Rev. Lett. 38, 1440*
 *— the axion solution to strong CP*
+
+
 *For reviews:*
+
 *Shifman — "Quark-Hadron Duality" (2000)*
 *arXiv:hep-ph/0009131*
+
+
 *Ioffe — "QCD at Low Energies" (2006)*
 *Prog. Part. Nucl. Phys. 56, 232*
+
+
 *For textbooks:*
+
 *Peskin & Schroeder — An Introduction to Quantum Field Theory*
 *— Chapters 16-18 for QCD*
+
+
 *Manohar & Wise — Heavy Quark Physics (2000)*
 *Cambridge University Press*
+
+
 *Donoghue, Golowich & Holstein —*
 *Introduction to the Standard Model (1992)*
+
+
 *For lattice QCD:*
+
 *DeGrand & DeTar — Lattice Methods for Quantum Chromodynamics (2006)*
 *World Scientific*
