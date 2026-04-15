@@ -3,7 +3,7 @@ layout: post
 title: Decoherence — Why Quantum Computers Are Hard
 date: 2025-12-29
 description: The fragility of quantum information and the war against noise.
-tags: research-logs, physics, quantum, EN
+tags: research-logs , physics , quantum , EN
 ---
 
 Last time I introduced superposition and entanglement —
