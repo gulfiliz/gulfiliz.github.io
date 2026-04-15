@@ -71,17 +71,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/measurement-problem-deep/";
           
         },
-      },{id: "post-marcus-aurelius-the-emperor-who-wrote-to-himself",
-        
-          title: "Marcus Aurelius — The Emperor Who Wrote to Himself",
-        
-        description: "On the Meditations — the most private philosophical document ever accidentally published.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/marcus-aurelius/";
-          
-        },
       },{id: "post-goethe-39-s-faust-the-man-who-made-a-deal-with-the-devil-and-won",
         
           title: "Goethe&#39;s Faust — The Man Who Made a Deal With the Devil and...",
@@ -586,6 +575,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/topological-phases/";
+          
+        },
+      },{id: "post-marcus-aurelius-the-emperor-who-wrote-to-himself",
+        
+          title: "Marcus Aurelius — The Emperor Who Wrote to Himself",
+        
+        description: "On the Meditations — the most private philosophical document ever accidentally published.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/marcus-aurelius/";
           
         },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
