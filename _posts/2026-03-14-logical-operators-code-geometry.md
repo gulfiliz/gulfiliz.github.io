@@ -9,6 +9,7 @@ tags: research-logs,
 The previous essay introduced
 quantum error correction through
 the stabilizer formalism.
+https://gulfiliz.github.io/blog/2026/qec/
 
 It described what stabilizer codes do.
 
