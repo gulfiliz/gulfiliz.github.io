@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Quantum Computing — Separating the Revolution from the Hype
-date: 2026-04-11
+date: 2026-01-21
 description: A quantum researcher's honest guide to what quantum computers can and cannot do — and why the headlines are almost always wrong.
 tags: research-logs, physics, quantum, EN
 ---
 
-I work on quantum error correction.
+I started to work on quantum error correction.
 
-This means I spend my days thinking about
+This means I'll spend my days thinking about
 how to build quantum computers that actually work —
 not in press releases, not in investor decks,
 not in breathless technology journalism —
@@ -585,15 +585,3 @@ Hold all three thoughts simultaneously.
 That is what it means to be a quantum researcher.
 
 ---
-
-*For the technically inclined:*
-*Preskill — "Quantum Computing in the NISQ Era and Beyond" (2018)*
-*— the paper that defined the current era honestly*
-*Bravyi et al. — "High-threshold and low-overhead*
-*fault-tolerant quantum memory" (2024)*
-*— the BB code paper*
-*Scott Aaronson — Shtetl-Optimized (blog)*
-*— the most honest voice in quantum computing*
-*For the general reader:*
-*John Preskill — Quantum Computing: An Applied Approach*
-*Scott Aaronson — Quantum Computing Since Democritus (2013)*
