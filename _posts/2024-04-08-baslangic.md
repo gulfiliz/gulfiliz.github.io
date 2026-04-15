@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Başlangıç
-date: 2026-04-08
+date: 2024-04-08
 description: Bu alan neden var?
-tags: fragmenta, TR
+tags: fragmenta, filizinbetween, TR
 ---
 
 Bir şeyler birikiyor içimde uzun zamandır. Notlar, sorular, kırıntılar. 
