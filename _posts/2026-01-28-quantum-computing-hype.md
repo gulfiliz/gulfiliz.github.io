@@ -6,7 +6,7 @@ description: A quantum researcher's honest guide to what quantum computers can a
 tags: research-logs, physics, quantum, EN
 ---
 
-I started to work on quantum error correction.
+Recently, I started to work on quantum error correction.
 
 This means I'll spend my days thinking about
 how to build quantum computers that actually work —
