@@ -126,17 +126,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/sartre/";
           
         },
-      },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
-        
-          title: "The Renormalization Group — The Deepest Idea in Physics",
-        
-        description: "Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/renormalization-group/";
-          
-        },
       },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
         
           title: "Quantum Computing — Separating the Revolution from the Hype",
@@ -454,6 +443,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/baslangic/";
+          
+        },
+      },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
+        
+          title: "The Renormalization Group — The Deepest Idea in Physics",
+        
+        description: "Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/renormalization-group/";
           
         },
       },{id: "post-what-does-it-mean-to-measure-something",
