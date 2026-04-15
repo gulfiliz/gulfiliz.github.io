@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Vacuum Energy — Why Nothing Weighs Something
-date: 2026-04-11
+date: 2025-09-05
 description: The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics — or a clue to something we don't yet understand.
-tags: research-log
+tags: research-logs, physics, quantum, EN
 ---
 
 Empty space is not empty.
@@ -676,22 +676,36 @@ will require physics we have not yet found.
 ---
 
 *Essential reading:*
+
 *Casimir — "On the Attraction Between Two Perfectly Conducting Plates" (1948)*
 *Proc. K. Ned. Akad. Wet. 51, 793*
+
+
 *Weinberg — "The Cosmological Constant Problem" (1989)*
 *Rev. Mod. Phys. 61, 1*
 *— the definitive review; still essential*
+
+
 *Carroll — "The Cosmological Constant" (2001)*
 *Living Rev. Rel. 4, 1*
 *arXiv:astro-ph/0004075*
 *— comprehensive and readable*
+
+
 *Polchinski — "The Cosmological Constant and the String Landscape" (2006)*
 *arXiv:hep-th/0603249*
+
+
 *Unruh — "Notes on Black-Hole Evaporation" (1976)*
 *Phys. Rev. D 14, 870*
 *— the Unruh effect*
+
+
 *For the technically serious:*
+
 *Weinberg — The Quantum Theory of Fields, Vol. 2*
 *— Chapter 19 for the vacuum energy discussion*
+
+
 *Parker & Toms — Quantum Field Theory in Curved Spacetime*
 *— for Hawking and Unruh effects*
