@@ -3,7 +3,7 @@ layout: post
 title: The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100 Years
 date: 2025-04-18
 description: The formalism works perfectly. Nobody agrees on what it means. A technical deep-dive into the most embarrassing open problem in physics.
-tags: research-logs , physics , quantum , EN
+tags: research-logs, physics, quantum, EN,
 ---
 
 Quantum mechanics is the most precisely tested theory
