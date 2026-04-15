@@ -46,7 +46,7 @@ A qubit state is:
 
 $$|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$$
 
-where $$|\alpha|^2 + |\beta|^2 = 1$$.
+where $|\alpha|^2 + |\beta|^2 = 1$.
 
 *n* qubits can be in a superposition of $$2^n$$ states simultaneously.
 This is the source of the "exponential speedup" narrative.
