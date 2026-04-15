@@ -3,7 +3,7 @@ layout: post
 title: My biggest Red Flag - On Being Intolerant of Superficiality — A Confession and a Defense
 date: 2025-01-19
 description: I cannot pretend to be interested when I am not. I cannot perform depth I do not feel. I cannot sit comfortably with people who are satisfied with the surface of things. This is either a virtue or a flaw — probably both.
-tags: filizinbetween
+tags: filizinbetween,
 ---
 
 I have a problem.
