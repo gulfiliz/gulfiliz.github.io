@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gogol's Overcoat — On Invisibility, Desire, and the Weight of a Name
-date: 2026-04-09
+date: 2025-07-09
 description: A close reading of the strangest, most devastating short story ever written — and what it says about being human.
 tags: readings
 ---
@@ -580,8 +580,17 @@ That is Gogol.
 ---
 
 *Further reading:*
+
 *Nikolai Gogol — The Overcoat and Other Stories (trans. Richard Pevear & Larissa Volokhonsky)*
+
+
 *Vladimir Nabokov — Nikolai Gogol (1944) — the best book ever written about Gogol*
+
+
 *Dostoevsky — Poor Folk (1846) — the direct response to The Overcoat*
+
+
 *Walter Benjamin — The Storyteller (1936)*
+
+
 *Simone Weil — Affliction and the Love of God (1942) — on invisibility and suffering*
