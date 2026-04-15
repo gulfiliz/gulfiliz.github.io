@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Beginnings
-date: 2026-04-08
+date: 2024-04-08
 description: On starting, scattering, and the space between.
-tags: fragmenta
+tags: justfiliz
 ---
 
 I've never been good at introductions.
@@ -33,4 +33,4 @@ that can't quite stop noticing things.
 My grandmother never wasted words.
 Neither will I — but I will scatter them freely.
 
-Welcome to the fragments!
+Welcome to the fragments, skepsis and metaxy!
