@@ -126,17 +126,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/nietzsche/";
           
         },
-      },{id: "post-the-philosopher-39-s-nephew-on-nepotism-merit-and-the-betrayal-of-ideas",
-        
-          title: "The Philosopher&#39;s Nephew — On Nepotism, Merit, and the Betrayal of Ideas",
-        
-        description: "Plato gave the Academy to his nephew instead of Aristotle. It is the oldest academic scandal in history. It is also happening right now, everywhere.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/nepotism/";
-          
-        },
       },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
         
           title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
@@ -454,6 +443,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/planck-scale/";
+          
+        },
+      },{id: "post-the-philosopher-39-s-nephew-on-nepotism-merit-and-the-betrayal-of-ideas",
+        
+          title: "The Philosopher&#39;s Nephew — On Nepotism, Merit, and the Betrayal of Ideas",
+        
+        description: "Plato gave the Academy to his nephew instead of Aristotle. It is the oldest academic scandal in history. It is also happening right now, everywhere.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nepotism/";
           
         },
       },{id: "post-quantum-field-theory-what-everything-actually-is",
