@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-what-does-it-mean-to-measure-something",
-        
-          title: "What Does It Mean to Measure Something?",
-        
-        description: "The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/the-measurement-problem/";
-          
-        },
-      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
+        },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
         
@@ -641,6 +630,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/plato/";
+          
+        },
+      },{id: "post-what-does-it-mean-to-measure-something",
+        
+          title: "What Does It Mean to Measure Something?",
+        
+        description: "The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/the-measurement-problem/";
           
         },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
