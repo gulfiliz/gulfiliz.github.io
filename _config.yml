@@ -91,20 +91,20 @@ related_blog_posts:
   enabled: true
   max_related: 5
 
-# Giscus comments (RECOMMENDED)
-# Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
-giscus:
-  repo: gulfiliz/gulfiliz.github.io
-  repo_id: R_kgDOR8i8Dw
-  category: Announcements
-  category_id: DIC_kwDOR8i8D84C64Zc
-  mapping: pathname
-  strict: 0
-  reactions_enabled: 1
-  emit_metadata: 0
-  input_position: bottom
-  theme: preferred_color_scheme
-  lang: en
+# # Giscus comments (RECOMMENDED)
+# # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
+# giscus:
+#   repo: gulfiliz/gulfiliz.github.io
+#   repo_id: R_kgDOR8i8Dw
+#   category: Announcements
+#   category_id: DIC_kwDOR8i8D84C64Zc
+#   mapping: pathname
+#   strict: 0
+#   reactions_enabled: 1
+#   emit_metadata: 0
+#   input_position: bottom
+#   theme: preferred_color_scheme
+#   lang: en
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
@@ -212,8 +212,8 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-    values:
-      giscus_comments: true
+    # values:
+    #   giscus_comments: true
 
 sass:
   style: compressed
