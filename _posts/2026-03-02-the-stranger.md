@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Camus's The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not Pretending
-date: 2026-04-09
+date: 2026-03-02
 description: A close reading of the most misread novel of the twentieth century.
 tags: readings
 ---
