@@ -82,17 +82,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/geometry/";
           
         },
-      },{id: "post-baudrillard-the-desert-of-the-real",
-        
-          title: "Baudrillard — The Desert of the Real",
-        
-        description: "On simulacra, hyperreality, and the philosopher who said the Gulf War did not take place — and was not wrong.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/baudrillard/";
-          
-        },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
           title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
@@ -267,6 +256,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/quantum-field-theory/";
+          
+        },
+      },{id: "post-baudrillard-the-desert-of-the-real",
+        
+          title: "Baudrillard — The Desert of the Real",
+        
+        description: "On simulacra, hyperreality, and the philosopher who said the Gulf War did not take place — and was not wrong.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/baudrillard/";
           
         },
       },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
