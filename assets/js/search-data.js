@@ -610,6 +610,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/fine-tuned-universe/";
           
         },
+      },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
+        
+          title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
+        
+        description: "From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/stargazing/";
+          
+        },
       },{id: "post-special-relativity-the-end-of-absolute-space-and-time",
         
           title: "Special Relativity — The End of Absolute Space and Time",
@@ -685,17 +696,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/epicurus/";
-          
-        },
-      },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
-        
-          title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
-        
-        description: "From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/stargazing/";
           
         },
       },{id: "books-the-godfather",
