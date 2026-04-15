@@ -269,17 +269,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/modular-origami/";
           
         },
-      },{id: "post-martin-eden-the-book-that-knows-too-much-about-you",
-        
-          title: "Martin Eden — The Book That Knows Too Much About You",
-        
-        description: "On Jack London&#39;s most personal novel, and why some books are not read but survived.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/martin-eden/";
-          
-        },
       },{id: "post-chingiz-aitmatov-the-writer-who-carried-a-whole-world-on-his-back",
         
           title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
@@ -476,6 +465,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/bose-einstein-condensate/";
+          
+        },
+      },{id: "post-martin-eden-the-book-that-knows-too-much-about-you",
+        
+          title: "Martin Eden — The Book That Knows Too Much About You",
+        
+        description: "On Jack London&#39;s most personal novel, and why some books are not read but survived.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/martin-eden/";
           
         },
       },{id: "post-vacuum-energy-why-nothing-weighs-something",
