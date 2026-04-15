@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Topological Phases of Matter — When Topology Becomes Physics
-date: 2026-04-11
+date: 2025-04-01
 description: The 2016 Nobel Prize recognized a revolution in condensed matter physics — the discovery that matter can be classified not by symmetry breaking but by topology. This is the story of that revolution, from the quantum Hall effect to topological insulators to non-Abelian anyons.
-tags: research-log
+tags: research-logs, physics, quantum, EN
 ---
 
 In 1980, Klaus von Klitzing
@@ -846,35 +846,56 @@ We are still working out what it means.
 ---
 
 *Essential reading:*
+
 *von Klitzing, Dorda & Pepper —*
 *"New Method for High-Accuracy Determination*
 *of the Fine-Structure Constant" (1980)*
 *Phys. Rev. Lett. 45, 494*
 *— the original discovery*
+
+
 *Thouless, Kohmoto, Nightingale & den Nijs —*
 *"Quantized Hall Conductance in a Two-Dimensional Periodic Potential" (1982)*
 *Phys. Rev. Lett. 49, 405*
 *— the TKNN paper*
+
+
 *Haldane — "Model for a Quantum Hall Effect Without Landau Levels" (1988)*
 *Phys. Rev. Lett. 61, 2015*
 *— the Chern insulator*
+
+
 *Kane & Mele — "Quantum Spin Hall Effect in Graphene" (2005)*
 *Phys. Rev. Lett. 95, 226801*
+
+
 *Fu, Kane & Mele — "Topological Insulators in Three Dimensions" (2007)*
 *Phys. Rev. Lett. 98, 106803*
+
+
 *Kitaev — "Unpaired Majorana Fermions in Quantum Wires" (2001)*
 *Phys.-Usp. 44, 131*
+
+
 *Ryu, Schnyder, Furusaki & Ludwig —*
 *"Topological insulators and superconductors:*
 *tenfold way and dimensional hierarchy" (2010)*
 *New J. Phys. 12, 065010*
+
+
 *For reviews:*
+
 *Hasan & Kane — "Colloquium: Topological insulators" (2010)*
 *Rev. Mod. Phys. 82, 3045*
 *— the essential review*
+
+
 *Qi & Zhang — "Topological insulators and superconductors" (2011)*
 *Rev. Mod. Phys. 83, 1057*
+
+
 *For the mathematically serious:*
+
 *Bernevig & Hughes — Topological Insulators and*
 *Topological Superconductors (2013)*
 *Princeton University Press*
