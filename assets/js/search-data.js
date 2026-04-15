@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-geometry-let-no-one-ignorant-of-geometry-enter",
-        
-          title: "Geometry — Let No One Ignorant of Geometry Enter",
-        
-        description: "From Thales to Riemann — the oldest science, the deepest language, and why geometry is not about shapes but about the structure of reality itself.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/geometry/";
-          
-        },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
           title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
@@ -454,6 +443,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/special-relativity/";
+          
+        },
+      },{id: "post-geometry-let-no-one-ignorant-of-geometry-enter",
+        
+          title: "Geometry — Let No One Ignorant of Geometry Enter",
+        
+        description: "From Thales to Riemann — the oldest science, the deepest language, and why geometry is not about shapes but about the structure of reality itself.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/geometry/";
           
         },
       },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
