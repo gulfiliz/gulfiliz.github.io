@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Look Up — A Letter to Anyone Who Has Forgotten the Sky
-date: 2024-01-11
+date: 2025-06-11
 description: From Thales to Galileo to a Celestron telescope in Texas — on the oldest human practice and why it still matters.
 tags: astronomy
 ---
