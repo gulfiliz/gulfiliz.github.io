@@ -3,7 +3,7 @@ layout: post
 title: Quantum Field Theory — What Everything Actually Is
 date: 2026-01-17
 description: There are no particles. There are no waves. There are only fields — and this changes everything.
-tags: research-logs, quantum, physics, EN
+tags: research-logs , quantum , physics , EN
 ---
 
 You have been told that matter is made of particles.
