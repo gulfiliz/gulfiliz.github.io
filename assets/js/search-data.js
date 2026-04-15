@@ -621,6 +621,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/special-relativity/";
           
         },
+      },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
+        
+          title: "Wittgenstein — The Philosopher Who Tried to Kill Philosophy",
+        
+        description: "On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/wittgenstein/";
+          
+        },
       },{id: "post-beautiful-but-wrong-the-most-elegant-theories-that-nature-rejected",
         
           title: "Beautiful But Wrong — The Most Elegant Theories That Nature Rejected",
@@ -674,17 +685,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/kant/";
-          
-        },
-      },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
-        
-          title: "Wittgenstein — The Philosopher Who Tried to Kill Philosophy",
-        
-        description: "On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/wittgenstein/";
           
         },
       },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
