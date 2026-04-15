@@ -357,17 +357,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/superpozisyon-ve-dolaniklik/";
           
         },
-      },{id: "post-beginnings",
-        
-          title: "Beginnings",
-        
-        description: "On starting, scattering, and the space between.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/beginnings/";
-          
-        },
       },{id: "post-başlangıç",
         
           title: "Başlangıç",
@@ -696,6 +685,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/epicurus/";
+          
+        },
+      },{id: "post-beginnings",
+        
+          title: "Beginnings",
+        
+        description: "On starting, scattering, and the space between.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/beginnings/";
           
         },
       },{id: "books-the-godfather",
