@@ -610,17 +610,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/beautiful-wrong-theories/";
           
         },
-      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
-        
-          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
-        
-        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/kant/";
-          
-        },
       },{id: "post-epictetus-the-slave-who-was-free",
         
           title: "Epictetus — The Slave Who Was Free",
@@ -652,6 +641,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/quantum-chromodynamics/";
+          
+        },
+      },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
+        
+          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
+        
+        description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/kant/";
           
         },
       },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
