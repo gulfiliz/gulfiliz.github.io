@@ -906,20 +906,35 @@ does not have time to hear.
 ---
 
 *Further reading:*
+
 *Tocqueville — Democracy in America (1835)*
 *— Part II, Volume II for the cultural analysis*
+
+
 *Hofstadter — Anti-Intellectualism in American Life (1963)*
 *— the essential historical account*
+
+
 *Jacoby — The Last Intellectuals (1987)*
 *— on the disappearance of American public intellectuals*
+
+
 *Adorno & Horkheimer — Dialectic of Enlightenment (1944)*
 *— the Frankfurt School's American diagnosis*
+
+
 *Dewey — The Public and Its Problems (1927)*
 *— pragmatism's attempt at a public philosophy*
+
+
 *Gramsci — Prison Notebooks*
 *— on organic vs. traditional intellectuals;*
 *essential for understanding the American case*
+
+
 *Bourdieu — The Field of Cultural Production (1993)*
 *— the sociology of intellectual visibility*
+
+
 *Chomsky — Manufacturing Consent (1988)*
 *— on media and intellectual marginalization*
