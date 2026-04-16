@@ -497,10 +497,13 @@ as ideas, not as tools.
 
 Why did they exist?
 Several reasons:
+
 — They were mostly outsiders — Jewish intellectuals
   at the margins of WASP cultural institutions —
   with less investment in academic respectability
+  
 — They wrote in magazines that paid for serious ideas
+
 — They had a specific audience: the educated non-academic
   who read seriously but was not in the university
 
