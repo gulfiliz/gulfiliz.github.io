@@ -407,12 +407,16 @@ I was too scared to go back out into the station.
 I was too scared to go into the crowds.  
 After sleepless night and tiny eggslut, it was too much for me.
 
+
 <div class="row">
-    <div class="col-md-4">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Japan Starbucks" class="img-fluid rounded z-depth-1" %}
-    </div>
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks_menu.JPG" title="Japan Starbucks Menu" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Japan Starbucks" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
