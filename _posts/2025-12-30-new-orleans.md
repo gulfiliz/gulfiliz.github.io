@@ -3,7 +3,7 @@ layout: post
 title: New Orleans — Where Jazz Lives in the Streets
 date: 2025-12-30
 description: Christmas ticket to Turkey didn't happen. Instead, New Orleans and jazz everywhere.
-tags: travel-notes,
+tags: travel-notes
 ---
 
 I arrived in New Orleans on a December night.
