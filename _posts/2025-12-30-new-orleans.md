@@ -18,14 +18,15 @@ In Turkish, it means don't talk nonsense to me. Don't ramble. Don't make excuses
 
 I was about six years old when I first heard this word. I didn't understand it. *Jazz?* What does it mean to make jazz? The "jazz" word sounded strange in my mouth. Foreign. Weird. Strange. Cool. Full of air.
 
-Then one night, randomly on TV — on one of TRT (National public broadcaster of Türkiye)'s channels, I think — there was a jazz night. A documentary kind of thing. 
+Then one night, randomly on TV — on one of TRT (National public broadcaster of Türkiye)'s channels, I think — there was a jazz night. A documentary kind of thing.
 
-There was a huge instrument that you blow into. The sound was unlike anything I had ever heard for my 6 year old entire life. A saxophone. For some reason, I loved this word, too. :) 
+There was a huge instrument that you blow into. The sound was unlike anything I had ever heard for my 6 year old entire life. A saxophone. For some reason, I loved this word, too. :)
+
 Two interesting words for Filizko!
 
-From that moment on, I started saying I loved jazz music among my friends and adults. 
+From that moment on, I started saying I loved jazz music among my friends and adults.
 
-The adults around me just smiled, I don't think they knew much about it either. And my friends replied with do not make jazz to us ahahahha. 
+The adults around me just smiled, I don't think they knew much about it either. And my friends replied with do not make jazz to us ahahahha.
 
 But I kept saying it anyway. I think, I loved it before I understood it.
 
@@ -47,7 +48,6 @@ Wohooooo! Jazz, jazz, jazzz!
 
 A place where jazz plays in the streets, in its soul, in its cafés. And it was legendary. I loved it so much.
 
-
 ---
 
 ## French in America
@@ -55,7 +55,6 @@ A place where jazz plays in the streets, in its soul, in its cafés. And it was 
 I went to a French-focused school in Türkiye. We learned that Francophone culture was the height of sophistication. We learned to revere France.
 
 Then I walked down the streets of New Orleans and heard French. Americans speaking French with American accents. A Parisian would cringe, they always find everything cringe, ahahhha. A nice-acting Parisian(!) would definitely say "you speak sloppy French" to someone from New Orleans. But it was French!
-
 
 ---
 
@@ -79,9 +78,9 @@ Even though it was Christmas, the streets were quite crowded. Lots of tourists, 
 
 I walked the French Quarter street by street. I really enjoyed seeing small balconies in a place other than France, and watching people relaxing on those balconies. The restaurants had put tables out on the streets. It was like a virtual France. I loved it.
 
-There were a lot of signs about voodoo and magic around. New Orleans Ghost Tours were very popular but I didn't dare to do one. :D 
+There were a lot of signs about voodoo and magic around. New Orleans Ghost Tours were very popular but I didn't dare to do one. :D
 
-My dog Nikko-chan was with me and she was quite the center of attention. Everyone who passed by asked if they could pet her. Americans are so polite — how could I say no? Of course, the sarcastic Turkish Filiz inside wants to say "don't make jazz to her," and the funny American Filiz wants to say "don't jazz her up" — but since I'm naturalized, I settle for "yeah, sure, go ahead."
+My dog Nikko-chan was with me and she was quite the center of attention. Everyone who passed by asked if they could pet her. Americans are so polite — how could I say no? Of course, the sarcastic Turkish Filiz inside wants to say "don't make jazz to her," and the nice American Filiz wants to say "don't jazz her up" — but since I'm naturalized, I settle for "yeah, sure, go ahead."
 
 I walked around Riverfront Park all the way to the French Market.
 
@@ -101,9 +100,15 @@ There are really 2-3 main streets:
 
 And where the real fun happens — **Bourbon Street.** Whatever you are looking for, it's here. There are very good cafés on this street, very good restaurants and bars. I even saw a few strip clubs.
 
-I had always seen them in American TV shows, and I smirked when I walked in front of one. Want a quick culture shock? Here we go. The nearly naked women at the door were taking photos with people passing by. What do you expect — young men being the volunteers for this photo shoot, right? Nooo. Even a family with a child in their arms was taking photos. What a culture shock. Hey, what is a child doing there at that hour? :D :D
+I had always seen them in American TV shows, and I smirked when I walked in front of one. Want a quick culture shock? Here we go. The nearly naked women at the door were taking photos with people passing by. What do you expect — young men being the volunteers for this photo shoot, right? Nooo. Even a family with a child in their arms was taking photos. What a culture shock. Hey, what is a child doing there at that hour? :D
 
 Anyway, moving on.
+
+Ahahha, could not!
+
+(A big parenthesis: Goodness! What a tragedy, really — that woman could have been your daughter! Shakespeare would rise from his grave and write a new tragedy, the finest of all. Actually, let me pause this post and write a serious essay on moral decadence, social decay, the normalization of the absurd — 
+
+Just kidding. Jazz, jazz, jazzz!)
 
 ---
 
@@ -117,7 +122,6 @@ Most restaurants and cafés had live jazz. You didn't have to go to a bar. The m
 
 Every corner had jazz. Every café. Every bar. It didn't matter where you went. Jazz was playing.
 
-
 ---
 
 ## Going Back
@@ -127,7 +131,8 @@ The drive back to Dallas took seven hours.
 I had burned a ticket home. Instead, I went to a city where jazz lives in the streets, in the cafés, in the restaurants. Everywhere.
 
 I will go back.
-I loved this place, which is within driving distance of Dallas. I definitely want to go again. There is nothing like live jazz music. 
+
+I loved this place, which is within driving distance of Dallas. I definitely want to go again. There is nothing like live jazz music.
 
 I loved it. I had so much fun.
 
