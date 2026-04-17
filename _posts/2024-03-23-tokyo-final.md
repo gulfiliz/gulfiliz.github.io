@@ -636,26 +636,37 @@ God knows how scary they are the first time!
     </div>
 </div>
 
+
+
 And I know the thing I felt
 that first morning in Shinjuku —
+
 standing on the pavement
 with my brain not yet fully operational,
+
 looking at a city that did not fit
+
 any category I had —
 
 the thing I felt was not just disorientation.
 
 It was the particular feeling
 of encountering something
-genuinely, structurally different
+genuinely, 
+
+structurally different
 from everything you know!
 
 That is what Tokyo gave me
 on the first morning —
+
 before I found the café,
 before eggslut,
+
 before the bell I didn't press,
+
 before sutābakkusu,
+
 before my grandmother told me to stop hiding.
 
 ---
