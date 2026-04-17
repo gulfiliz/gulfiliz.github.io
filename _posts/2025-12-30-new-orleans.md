@@ -26,11 +26,13 @@ Two interesting words for Filizko!
 
 From that moment on, I started saying I loved jazz music among my friends and adults.
 
-The adults around me just smiled, I don't think they knew much about it either. And my friends replied with do not make jazz to us ahahahha.
+The adults around me just smiled, I don't think they knew much about it either. And my friends replied with do not make jazz to us, ahahahha.
 
 But I kept saying it anyway. I think, I loved it before I understood it.
 
 I love jazz music. I love it *a lot.*
+
+
 
 ---
 
@@ -48,13 +50,33 @@ Wohooooo! Jazz, jazz, jazzz!
 
 A place where jazz plays in the streets, in its soul, in its cafés. And it was legendary. I loved it so much.
 
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="eager" path="assets/img/new_orleans/hello_new_orleans.JPG" title="Hello, New Orleans" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ---
 
 ## French in America
 
 I went to a French-focused school in Türkiye. We learned that Francophone culture was the height of sophistication. We learned to revere France.
 
-Then I walked down the streets of New Orleans and heard French. Americans speaking French with American accents. A Parisian would cringe, they always find everything cringe, ahahhha. A nice-acting Parisian(!) would definitely say "you speak sloppy French" to someone from New Orleans. But it was French!
+Then I walked down the streets of New Orleans and heard French. Americans speaking French with American accents. A Parisian would cringe, they always find everything cringe, ahahhha. A nice Parisian(!) would definitely say "you speak sloppy French" to someone from New Orleans. But it was French!
+
+
+<div class="row">
+    <div class="col-md-4">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/joanie_on_the_pony.JPG" title="A Parisian would find this cringe" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-4">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/french_balconies.JPG" title="Small balconies" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-4">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/french_quarter.JPG" title="French Quarter" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ---
 
@@ -69,6 +91,15 @@ Gumbo. Seafood. So much seafood. Beignets at Café du Monde. Powdered sugar on m
 I saw fried alligator on a menu. Americans eat interesting things, I thought.
 
 Most restaurants and cafés were pet-friendly. This isn't a common practice in Dallas. For the first time, I had the chance to dine in with my dog.
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/beignets.JPG" title="Beignets at Café du Monde" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/alligator.JPG" title="Fried alligator" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
@@ -85,6 +116,24 @@ My dog Nikko-chan was with me and she was quite the center of attention. Everyon
 I walked around Riverfront Park all the way to the French Market.
 
 And — I went to the New Orleans Jazz Museum. It was like a gift for little Filiz. I loved it so much.
+
+<div class="row">
+    <div class="col-md-4">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/voodoo.JPG" title="Voodoo" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-4">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/nikko_at_french_market.JPG" title="Nikko at the French Market" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-4">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/filiz_at_jazz_museum.JPG" title="Little Filiz at the Jazz Museum" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/st_louis_cathedral.JPG" title="St. Louis Cathedral" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
@@ -106,9 +155,15 @@ Anyway, moving on.
 
 Ahahha, could not!
 
-(A big parenthesis: Goodness! What a tragedy, really — that woman could have been your daughter! Shakespeare would rise from his grave and write a new tragedy, the finest of all. Actually, let me pause this post and write a serious essay on moral decadence, social decay, the normalization of the absurd — 
+(A big parenthesis: Goodness! What a tragedy, really — that woman could have been your daughter! Shakespeare would rise from his grave and write a new tragedy, the finest of all! Actually, let me pause this post and write a serious essay on moral decadence, social decay, the normalization of the absurd — Just kidding. 
 
-Just kidding. Jazz, jazz, jazzz!)
+Jazz, jazz, jazzz!)
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bourbon.JPG" title="Bourbon Street" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
@@ -122,6 +177,18 @@ Most restaurants and cafés had live jazz. You didn't have to go to a bar. The m
 
 Every corner had jazz. Every café. Every bar. It didn't matter where you went. Jazz was playing.
 
+<div class="row">
+    <div class="col-md-4">
+        {% include video.liquid path="assets/img/new_orleans/jazz_street.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+    <div class="col-md-4">
+        {% include video.liquid path="assets/img/new_orleans/jazz_street2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+    <div class="col-md-4">
+        {% include video.liquid path="assets/img/new_orleans/jazz_street3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
+
 ---
 
 ## Going Back
@@ -130,9 +197,7 @@ The drive back to Dallas took seven hours.
 
 I had burned a ticket home. Instead, I went to a city where jazz lives in the streets, in the cafés, in the restaurants. Everywhere.
 
-I will go back.
-
-I loved this place, which is within driving distance of Dallas. I definitely want to go again. There is nothing like live jazz music.
+I will definitely go back! It is a great weekend getaway activity!
 
 I loved it. I had so much fun.
 
