@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Orleans — Where Jazz Lives in the Streets
-date: 2026-04-17
-description: Christmas ticket to Turkey didn't happen. Instead, New Orleans and jazz everywhere.
-tags: travel-notes
+date: 2025-12-31
+description: Christmas ticket to Türkiye didn't happen. Instead, New Orleans and jazz everywhere.
+tags: travel-notes,
 ---
 
 There's a Turkish idiom: *"Bana jazz yapma!"*
