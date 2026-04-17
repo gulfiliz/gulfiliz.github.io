@@ -698,17 +698,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/beginnings/";
           
         },
-      },{id: "post-başlangıç",
-        
-          title: "Başlangıç",
-        
-        description: "Bu alan neden var?",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/baslangic/";
-          
-        },
       },{id: "post-tokyo-or-how-i-spent-three-hours-in-a-starbucks-because-i-was-too-scared-to-leave",
         
           title: "Tokyo — Or, How I Spent Three Hours in a Starbucks Because I...",
@@ -718,6 +707,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/tokyo/";
+          
+        },
+      },{id: "post-başlangıç",
+        
+          title: "Başlangıç",
+        
+        description: "Bu alan neden var?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/baslangic/";
           
         },
       },{id: "news-a-simple-inline-announcement",
