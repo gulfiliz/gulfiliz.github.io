@@ -64,9 +64,6 @@ of someone who has been awake for twenty hours.
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/bus_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-<div class="row justify-content-center">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/inside_bus.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
