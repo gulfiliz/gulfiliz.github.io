@@ -695,7 +695,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tokyo/";
+            window.location.href = "/blog/2024/tokyo-final/";
           
         },
       },{id: "post-tokyo-or-how-i-spent-three-hours-in-a-starbucks-because-i-was-too-scared-to-leave",
@@ -706,7 +706,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tokyo-final/";
+            window.location.href = "/blog/2024/tokyo/";
           
         },
       },{id: "post-beginnings",
