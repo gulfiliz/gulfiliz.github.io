@@ -66,17 +66,22 @@ Then I walked down the streets of New Orleans and heard French. Americans speaki
 
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/joanie_on_the_pony.JPG" title="A Parisian would find this cringe" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/french_balconies.JPG" title="Small balconies" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4">
-        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/french_quarter.JPG" title="French Quarter" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/french_quarter.JPG" title="French Quarter" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/voodoo.JPG" title="Voodoo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
