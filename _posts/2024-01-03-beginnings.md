@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beginnings
-date: 2024-04-08
+date: 2024-01-03
 description: On starting, scattering, and the space between.
 tags: justfiliz,
 ---
