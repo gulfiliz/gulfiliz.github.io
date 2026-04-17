@@ -695,7 +695,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/tokyo-final/";
+            window.location.href = "/blog/2024/tokyo/";
           
         },
       },{id: "post-beginnings",
