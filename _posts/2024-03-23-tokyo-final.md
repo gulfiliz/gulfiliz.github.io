@@ -48,6 +48,7 @@ My first mistake: the bus.
 I landed at Haneda late at night —
 too late, I reasoned, to navigate
 an unfamiliar city to my hostel.
+
 I would sleep at the airport.
 I would take the bus in the morning.
 
@@ -58,14 +59,19 @@ Tokyo has a train system
 so comprehensive, 
 so frequent, 
 so efficient,
+
 that there is essentially no hour of the day
 at which you cannot get from anywhere to anywhere
 with minimal effort.
 
 The bus was unnecessary.
+
 The bus was slow.
+
 The bus was, however, where I slept —
+
 deeply, completely, with the total surrender
+
 of someone who has been awake for twenty hours.
 
 <div class="row">
