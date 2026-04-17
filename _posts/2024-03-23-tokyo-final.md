@@ -270,6 +270,9 @@ and not entirely sure what to do next.
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut_menu.JPG" title="The menu, featuring eggslut" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut.JPG" title="Four bites. Gone." class="img-fluid rounded z-depth-1" %}
     </div>
