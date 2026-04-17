@@ -12,12 +12,6 @@ I was twenty-three years old.
 I had never been to Japan.
 I had never been anywhere quite like Japan.
 
-<div class="row">
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 I knew this theoretically.
 
 Japan is different, people said.
@@ -31,6 +25,9 @@ after a sleepless night on a bus
 are different categories of experience entirely.
 
 <div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
     <div class="col-md-6">
         {% include figure.liquid loading="eager" path="assets/img/tokyo/hello_tokyo.JPG" title="Hello, Tokyo" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -103,15 +100,6 @@ go to sleep at night.
 Shinjuku at 7 AM is already
 the most intense place you have ever been.
 
-<div class="row">
-    <div class="col-md-5">
-        {% include video.liquid path="assets/img/tokyo/shinjuku1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-    <div class="col-md-5">
-        {% include video.liquid path="assets/img/tokyo/shinjuku2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-</div>
-
 The scale: incomprehensible.
 Buildings that seem to continue upward
 past the point where buildings
@@ -142,6 +130,15 @@ and then I did what any reasonable person does
 when the world stops making sense:  
 I ducked into the first café I saw.  
 
+
+<div class="row">
+    <div class="col-md-5">
+        {% include video.liquid path="assets/img/tokyo/shinjuku1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+    <div class="col-md-5">
+        {% include video.liquid path="assets/img/tokyo/shinjuku2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+</div>
 ---
 
 ## III. The Café (And the Bell I Did Not Know About)
@@ -218,12 +215,6 @@ And then I saw, in English:
 
 **EGGSLUT**
 
-<div class="row">
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut_menu.JPG" title="The menu, featuring eggslut" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 I stared.  
 Is this… food?  
 Is this a real thing?  
@@ -243,12 +234,6 @@ Something creamy.
 Something bread-adjacent on the side.
 1/3 of a bread slice.
 
-<div class="row">
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut.JPG" title="Four bites. Gone." class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 Exquisite, probably.
 Breakfast, technically.
 
@@ -265,6 +250,14 @@ delighted and slightly lost,
 exactly where I wanted to be
 and not entirely sure what to do next.
 
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut_menu.JPG" title="The menu, featuring eggslut" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut.JPG" title="Four bites. Gone." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ---
 
 ## V. Three Alphabets (In One Sentence??)
@@ -388,6 +381,12 @@ Yes! That! Yes!
 
 They walked me there.
 
+I sat in that Starbucks for two-three hours.
+
+I was too scared to go back out into the station.  
+I was too scared to go into the crowds.  
+After sleepless night and tiny eggslut, it was too much for me.
+
 <div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Japan Starbucks" class="img-fluid rounded z-depth-1" %}
@@ -396,12 +395,6 @@ They walked me there.
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks_menu.JPG" title="Japan Starbucks Menu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
-I sat in that Starbucks for two-three hours.
-
-I was too scared to go back out into the station.  
-I was too scared to go into the crowds.  
-After sleepless night and tiny eggslut, it was too much for me.
 
 ---
 
@@ -614,8 +607,8 @@ where every subculture congregates
 in adjacent spaces,
 sharing the park without friction.
 
-And, most importantly, I know the toilets! :)
-God knows how scary they are at first time! 
+And most importantly, I know the toilets! :))
+God knows how scary they are the first time!
 
 <div class="row">
     <div class="col-md-6">
