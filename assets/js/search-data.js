@@ -38,17 +38,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
-      },{id: "post-new-orleans-where-jazz-lives-in-the-streets",
-        
-          title: "New Orleans — Where Jazz Lives in the Streets",
-        
-        description: "Christmas ticket to Turkey didn&#39;t happen. Instead, New Orleans and jazz everywhere.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/new-orleans/";
-          
-        },
       },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
@@ -256,6 +245,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/sartre/";
+          
+        },
+      },{id: "post-new-orleans-where-jazz-lives-in-the-streets",
+        
+          title: "New Orleans — Where Jazz Lives in the Streets",
+        
+        description: "Christmas ticket to Türkiye didn&#39;t happen. Instead, New Orleans and jazz everywhere.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/new-orleans/";
           
         },
       },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
