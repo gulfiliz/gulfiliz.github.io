@@ -125,13 +125,16 @@ And — I went to the New Orleans Jazz Museum. It was like a gift for little Fil
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/nikko_at_french_market.JPG" title="Nikko at the French Market" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-md-4">
-        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/filiz_at_jazz_museum.JPG" title="Little Filiz at the Jazz Museum" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/IMG_6257.JPG" title="Little Filiz at the Jazz Museum" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/st_louis_cathedral.JPG" title="St. Louis Cathedral" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bourbon.JPG" title="Bourbon Street" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -159,11 +162,6 @@ Ahahha, could not!
 
 Jazz, jazz, jazzz!)
 
-<div class="row">
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bourbon.JPG" title="Bourbon Street" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 ---
 
