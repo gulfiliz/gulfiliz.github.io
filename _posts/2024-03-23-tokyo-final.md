@@ -101,33 +101,50 @@ Shinjuku at 7 AM is already
 the most intense place you have ever been.
 
 The scale: incomprehensible.
+
 Buildings that seem to continue upward
+
 past the point where buildings
+
 should reasonably stop.
+
 Signs — enormous, luminous, layered —
+
 in scripts I could not read,
+
 advertising things I could not identify.
+
 It was so grand.  
+
 So crowded.  
+
 So *not of this world*.  
 
 I got scared.  
 Actually scared. 
 
 The people: already present, already purposeful,
+
 already navigating this landscape
+
 with the calm efficiency of people
+
 for whom this is simply Tuesday morning.
 
 And the sound.
 Not loud, exactly.
+
 But present in every frequency.
+
 A city-sound unlike any I had heard —
 dense, organized, alive.
 
 I walked for about ten minutes in pure shock,  
+
 and then I did what any reasonable person does  
+
 when the world stops making sense:  
+
 I ducked into the first café I saw.  
 
 
