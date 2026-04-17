@@ -92,6 +92,7 @@ I was off the bus before I was fully conscious.
 
 I stood on a pavement in Tokyo
 and I had been awake for maybe thirty seconds.
+
 My first thought, I am not exaggerating, was:  
 
 **Am I still on Earth?**
@@ -111,29 +112,19 @@ go to sleep at night.
 
 Shinjuku at 7 AM is already
 the most intense place you have ever been.
-
 The scale: incomprehensible.
-
 Buildings that seem to continue upward
-
 past the point where buildings
-
 should reasonably stop.
-
 Signs — enormous, luminous, layered —
-
 in scripts I could not read,
-
 advertising things I could not identify.
 
 It was so grand.  
-
 So crowded.  
-
 So *not of this world*.  
 
-I got scared.  
-Actually scared. 
+I got scared.  Actually scared. 
 
 The people: already present, already purposeful,
 
