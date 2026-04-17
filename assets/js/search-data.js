@@ -709,6 +709,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/baslangic/";
           
         },
+      },{id: "post-tokyo-or-how-i-spent-three-hours-in-a-starbucks-because-i-was-too-scared-to-leave",
+        
+          title: "Tokyo — Or, How I Spent Three Hours in a Starbucks Because I...",
+        
+        description: "On arriving in Tokyo at 23, speaking zero Japanese, ordering something called &quot;eggslut&quot; for breakfast, and falling irreversibly in love with a city that makes no sense and perfect sense simultaneously.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/tokyo/";
+          
+        },
       },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
