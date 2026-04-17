@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Başlangıç
-date: 2024-04-08
+date: 2023-04-08
 description: Bu alan neden var?
 tags: fragmenta, filizinbetween, TR,
 ---
