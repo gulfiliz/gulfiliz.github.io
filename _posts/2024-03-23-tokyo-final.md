@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tokyo — Or, How I Spent Three Hours in a Starbucks Because I Was Too Scared to Leave
-date: 2024-03-22
+date: 2024-03-23
 description: On arriving in Tokyo at 23, speaking zero Japanese, ordering something called "eggslut" for breakfast, and falling irreversibly in love with a city that makes no sense and perfect sense simultaneously.
 tags: travel-notes
 ---
