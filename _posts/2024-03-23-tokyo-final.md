@@ -465,7 +465,7 @@ I sat for a moment.
 
 I said to myself, out loud, almost:  
 
-**kalk. kalk. kalk.** ( Get up! Move! )
+**Kalk! Kalk! Kalk!** ( Get up! Move! )
 You are in Tokyo!
 
 Then I put my phone in my bag,
