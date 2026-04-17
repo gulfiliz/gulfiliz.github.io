@@ -407,7 +407,7 @@ I was too scared to go into the crowds.
 After sleepless night and tiny eggslut, it was too much for me.
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Japan Starbucks" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-md-6">
