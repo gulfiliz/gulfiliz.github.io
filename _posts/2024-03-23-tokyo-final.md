@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tokyo — Or, How I Spent Three Hours in a Starbucks Because I Was Too Scared to Leave
-date: 2024-03-23
+date: 2024-03-22
 description: On arriving in Tokyo at 23, speaking zero Japanese, ordering something called "eggslut" for breakfast, and falling irreversibly in love with a city that makes no sense and perfect sense simultaneously.
 tags: travel-notes,
 ---
@@ -12,7 +12,7 @@ I was twenty-three years old.
 I had never been to Japan.
 I had never been anywhere quite like Japan.
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -27,7 +27,7 @@ But theory and Shinjuku Station at 6 AM
 after a sleepless night on a bus
 are different categories of experience entirely.
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="eager" path="assets/img/tokyo/hello_tokyo.JPG" title="Hello, Tokyo" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -60,7 +60,7 @@ The bus was, however, where I slept —
 deeply, completely, with the total surrender
 of someone who has been awake for twenty hours.
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/bus_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -76,7 +76,7 @@ I woke up to a voice.
 I grabbed my bag.
 I was off the bus before I was fully conscious.
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/shinjuku.JPG" title="Shinjuku" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -85,7 +85,6 @@ I was off the bus before I was fully conscious.
 I stood on a pavement in Tokyo
 and I had been awake for maybe thirty seconds.
 My first thought, I am not exaggerating, was:  
-
 
 **Am I still on Earth?**
 
@@ -105,13 +104,10 @@ go to sleep at night.
 Shinjuku at 7 AM is already
 the most intense place you have ever been.
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-8">
         {% include video.liquid path="assets/img/tokyo/shinjuku1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-</div>
-
-<div class="row justify-content-center">
     <div class="col-md-8">
         {% include video.liquid path="assets/img/tokyo/shinjuku2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
@@ -192,7 +188,6 @@ She said *breakfast hours*.
 And that's where I saw it. :)
 And now, you will see it too!
 
-
 ---
 
 ## IV. Eggslut
@@ -224,7 +219,7 @@ And then I saw, in English:
 
 **EGGSLUT**
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut_menu.JPG" title="The menu, featuring eggslut" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -248,6 +243,12 @@ Soft egg.
 Something creamy.
 Something bread-adjacent on the side.
 1/3 of a bread slice.
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut.JPG" title="Four bites. Gone." class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Exquisite, probably.
 Breakfast, technically.
@@ -299,7 +300,6 @@ Sometimes in the *same word.*
 
 I had assumed — naively, adorably —  
 that one sentence would use one alphabet.  
-
 
 I had not prepared for
 three alphabets simultaneously deployed
@@ -389,7 +389,7 @@ Yes! That! Yes!
 
 They walked me there.
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Sanctuary" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -615,13 +615,10 @@ sharing the park without friction.
 And, most importantly, I know the toilets! :)
 God knows how scary they are at first time! 
 
-<div class="row justify-content-center">
+<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_toilet.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-<div class="row justify-content-center">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_toilet2.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
