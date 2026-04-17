@@ -23,14 +23,16 @@ Japan is unlike anywhere else, people said.
 People were not wrong.
 
 But theory and Shinjuku Station at 6 AM
+
 after a sleepless night on a bus
+
 are different categories of experience entirely.
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-5">
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         {% include figure.liquid loading="eager" path="assets/img/tokyo/hello_tokyo.JPG" title="Hello, Tokyo" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
