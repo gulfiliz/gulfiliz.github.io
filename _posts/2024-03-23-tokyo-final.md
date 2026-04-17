@@ -10,6 +10,7 @@ I arrived in Tokyo at 1 AM.
 
 I was twenty-three years old.
 I had never been to Japan.
+
 I had never been anywhere quite like Japan.
 
 I knew this theoretically.
