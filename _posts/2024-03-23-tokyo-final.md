@@ -338,6 +338,7 @@ So I decided:
 I need something familiar.  
 I need Starbucks.
 ( Me, a slave of the capitalism, ahahha, I should write about this later!)
+
 Not for the coffee —  
 for the green logo.  
 For the reassurance  
@@ -454,7 +455,7 @@ A pause.
 
 *"I didn't expect that from you."*
 
-And she hung up.😂  
+And she hung up. :))
 
 I sat for a moment.
 
