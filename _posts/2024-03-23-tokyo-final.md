@@ -74,15 +74,6 @@ deeply, completely, with the total surrender
 
 of someone who has been awake for twenty hours.
 
-<div class="row">
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/bus_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/inside_bus.JPG" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 I woke up to a voice.
 
 *"Shinjuku! Shinjuku!"*
@@ -96,6 +87,17 @@ and I had been awake for maybe thirty seconds.
 My first thought, I am not exaggerating, was:  
 
 **Am I still on Earth?**
+
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/bus_ticket.JPG" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/inside_bus.JPG" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 
 ---
 
@@ -155,6 +157,7 @@ I ducked into the first café I saw.
         {% include video.liquid path="assets/img/tokyo/shinjuku2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
+
 ---
 
 ## III. The Café (And the Bell I Did Not Know About)
@@ -277,6 +280,7 @@ and not entirely sure what to do next.
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/eggslut.JPG" title="Four bites. Gone." class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 ---
 
 ## V. Three Alphabets (In One Sentence??)
@@ -642,7 +646,6 @@ God knows how scary they are the first time!
         {% include figure.liquid loading="lazy" path="assets/img/tokyo/tokyo_toilet2.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 
 And I know the thing I felt
