@@ -129,9 +129,6 @@ And — I went to the New Orleans Jazz Museum. It was like a gift for little Fil
     <div class="col-md-4">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/nikko_at_french_market.JPG" title="Nikko at the French Market" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-md-4">
-        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/IMG_6257.JPG" title="Little Filiz at the Jazz Museum" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 
 <div class="row">
@@ -203,5 +200,11 @@ I had burned a ticket home. Instead, I went to a city where jazz lives in the st
 I will definitely go back! It is a great weekend getaway activity!
 
 I loved it. I had so much fun.
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/filiz_at_jazz_museum.JPG" title="Little Filiz at the Jazz Museum — dream come true" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
