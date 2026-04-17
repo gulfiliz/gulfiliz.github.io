@@ -687,17 +687,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/yasameya-deger-mi/";
           
         },
-      },{id: "post-beginnings",
-        
-          title: "Beginnings",
-        
-        description: "On starting, scattering, and the space between.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/beginnings/";
-          
-        },
       },{id: "post-tokyo-or-how-i-spent-three-hours-in-a-starbucks-because-i-was-too-scared-to-leave",
         
           title: "Tokyo — Or, How I Spent Three Hours in a Starbucks Because I...",
@@ -707,6 +696,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/tokyo/";
+          
+        },
+      },{id: "post-beginnings",
+        
+          title: "Beginnings",
+        
+        description: "On starting, scattering, and the space between.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/beginnings/";
           
         },
       },{id: "post-başlangıç",
