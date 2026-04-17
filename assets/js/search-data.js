@@ -247,17 +247,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/sartre/";
           
         },
-      },{id: "post-new-orleans-where-jazz-lives-in-the-streets",
-        
-          title: "New Orleans — Where Jazz Lives in the Streets",
-        
-        description: "Christmas ticket to Türkiye didn&#39;t happen. Instead, New Orleans and jazz everywhere.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/new-orleans/";
-          
-        },
       },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
         
           title: "Nietzsche — God Is Dead, and We Have Killed Him",
@@ -267,6 +256,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/nietzsche/";
+          
+        },
+      },{id: "post-new-orleans-where-jazz-lives-in-the-streets",
+        
+          title: "New Orleans — Where Jazz Lives in the Streets",
+        
+        description: "Christmas ticket to Turkey didn&#39;t happen. Instead, New Orleans and jazz everywhere.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/new-orleans/";
           
         },
       },{id: "post-decoherence-why-quantum-computers-are-hard",
