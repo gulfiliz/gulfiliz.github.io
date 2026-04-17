@@ -19,10 +19,13 @@ I had never been anywhere quite like Japan.
 </div>
 
 I knew this theoretically.
+
 Japan is different, people said.
+
 Japan is unlike anywhere else, people said.
 
 People were not wrong.
+
 But theory and Shinjuku Station at 6 AM
 after a sleepless night on a bus
 are different categories of experience entirely.
@@ -49,7 +52,9 @@ This was a reasonable plan.
 It ignored one fact:
 
 Tokyo has a train system
-so comprehensive, so frequent, so efficient,
+so comprehensive, 
+so frequent, 
+so efficient,
 that there is essentially no hour of the day
 at which you cannot get from anywhere to anywhere
 with minimal effort.
@@ -76,12 +81,6 @@ I woke up to a voice.
 I grabbed my bag.
 I was off the bus before I was fully conscious.
 
-<div class="row">
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/shinjuku.JPG" title="Shinjuku" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 I stood on a pavement in Tokyo
 and I had been awake for maybe thirty seconds.
 My first thought, I am not exaggerating, was:  
@@ -105,10 +104,10 @@ Shinjuku at 7 AM is already
 the most intense place you have ever been.
 
 <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-5">
         {% include video.liquid path="assets/img/tokyo/shinjuku1.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-    <div class="col-md-8">
+    <div class="col-md-5">
         {% include video.liquid path="assets/img/tokyo/shinjuku2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
@@ -391,7 +390,10 @@ They walked me there.
 
 <div class="row">
     <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Sanctuary" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks.JPG" title="Japan Starbucks" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/tokyo/starbucks_menu.JPG" title="Japan Starbucks Menu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
