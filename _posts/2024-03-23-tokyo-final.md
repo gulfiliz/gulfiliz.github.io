@@ -64,15 +64,7 @@ that there is essentially no hour of the day
 at which you cannot get from anywhere to anywhere
 with minimal effort.
 
-The bus was unnecessary.
-
-The bus was slow.
-
-The bus was, however, where I slept —
-
-deeply, completely, with the total surrender
-
-of someone who has been awake for twenty hours.
+The bus was unnecessary. The bus was slow. The bus was, however, where I slept — deeply, completely, with the total surrender of someone who has been awake for twenty hours.
 
 I woke up to a voice.
 
