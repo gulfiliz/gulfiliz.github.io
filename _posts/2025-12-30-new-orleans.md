@@ -3,7 +3,7 @@ layout: post
 title: New Orleans — Where Jazz Lives in the Streets
 date: 2025-12-30
 description: Christmas ticket to Turkey didn't happen. Instead, New Orleans and jazz everywhere.
-tags: travel-notes
+tags: travel-notes,
 ---
 
 I arrived in New Orleans on a December night.
@@ -31,8 +31,6 @@ The adults around me just smiled, I don't think they knew much about it either. 
 But I kept saying it anyway. I think, I loved it before I understood it.
 
 I love jazz music. I love it *a lot.*
-
-
 
 ---
 
@@ -63,7 +61,6 @@ A place where jazz plays in the streets, in its soul, in its cafés. And it was 
 I went to a French-focused school in Türkiye. We learned that Francophone culture was the height of sophistication. We learned to revere France.
 
 Then I walked down the streets of New Orleans and heard French. Americans speaking French with American accents. A Parisian would cringe, they always find everything cringe, ahahhha. A nice Parisian(!) would definitely say "you speak sloppy French" to someone from New Orleans. But it was French!
-
 
 <div class="row">
     <div class="col-md-6">
@@ -123,20 +120,11 @@ I walked around Riverfront Park all the way to the French Market.
 And — I went to the New Orleans Jazz Museum. It was like a gift for little Filiz. I loved it so much.
 
 <div class="row">
-    <div class="col-md-4">
-        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/voodoo.JPG" title="Voodoo" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/nikko_at_french_market.JPG" title="Nikko at the French Market" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-
-<div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/st_louis_cathedral.JPG" title="St. Louis Cathedral" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-md-6">
-        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bourbon.JPG" title="Bourbon Street" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -164,6 +152,11 @@ Ahahha, could not!
 
 Jazz, jazz, jazzz!)
 
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bourbon.JPG" title="Bourbon Street" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ---
 
@@ -178,13 +171,16 @@ Most restaurants and cafés had live jazz. You didn't have to go to a bar. The m
 Every corner had jazz. Every café. Every bar. It didn't matter where you went. Jazz was playing.
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-6">
         {% include video.liquid path="assets/img/new_orleans/jazz_street.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-    <div class="col-md-4">
+    <div class="col-md-6">
         {% include video.liquid path="assets/img/new_orleans/jazz_street2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-    <div class="col-md-4">
+</div>
+
+<div class="row">
+    <div class="col-md-6">
         {% include video.liquid path="assets/img/new_orleans/jazz_street3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
