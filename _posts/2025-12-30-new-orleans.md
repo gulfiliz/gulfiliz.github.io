@@ -10,7 +10,7 @@ I arrived in New Orleans on a December night.
 
 But to explain why I was there, I have to go back to when I was six years old.
 
-There's a Turkish idiom: *"Bana caz yapma!"*
+There's a Turkish idiom: *"Bana caz yapma!"* 
 
 Literal translation is: Do not make jazz to me!
 
