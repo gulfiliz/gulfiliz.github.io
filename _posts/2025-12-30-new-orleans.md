@@ -172,16 +172,13 @@ Most restaurants and cafés had live jazz. You didn't have to go to a bar. The m
 Every corner had jazz. Every café. Every bar. It didn't matter where you went. Jazz was playing.
 
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
         {% include video.liquid path="assets/img/new_orleans/jazz_street.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-    <div class="col-md-6">
+    <div class="col-md-4">
         {% include video.liquid path="assets/img/new_orleans/jazz_street2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-</div>
-
-<div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
         {% include video.liquid path="assets/img/new_orleans/jazz_street3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
