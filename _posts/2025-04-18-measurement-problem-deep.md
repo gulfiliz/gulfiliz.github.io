@@ -684,17 +684,29 @@ Neither have we.
 ---
 
 *For the serious reader:*
+
 *Bell — Speakable and Unspeakable in Quantum Mechanics (1987)*
 *— the essential collection; Bell is the clearest writer*
 *on quantum foundations*
+
+
 *Everett — "Relative State Formulation of Quantum Mechanics" (1957)*
 *— the original Many-Worlds paper; remarkably readable*
+
+
 *Bohm — "A Suggested Interpretation of the Quantum Theory*
 *in Terms of Hidden Variables" (1952)*
+
+
 *— the original pilot wave paper*
+
 *Wallace — The Emergent Multiverse (2012)*
 *— the most rigorous defense of Many-Worlds*
+
+
 *Maudlin — Quantum Non-Locality and Relativity (1994)*
 *— the best philosophical treatment of Bell nonlocality*
+
+
 *Barrett — The Quantum Mechanics of Minds and Worlds (1999)*
 *— comprehensive survey of interpretations*
