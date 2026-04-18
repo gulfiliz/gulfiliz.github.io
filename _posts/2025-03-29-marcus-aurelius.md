@@ -505,15 +505,19 @@ can bring to it.
 
 ---
 
-*Read the Meditations in Gregory Hays's translation —
-published by the Modern Library in 2002.*
-*It is the best translation in English —
-alive, clear, and not afraid of Marcus's roughness.*
+*Read the Meditations in Gregory Hays's translation — published by the Modern Library in 2002.*
+*It is the best translation in English — alive, clear, and not afraid of Marcus's roughness.*
 
-*Read it slowly. A few entries at a time.*
+*Read it slowly. 
+
+A few entries at a time.*
+
 *Read it when you are struggling.*
+
 *Read it when you are about to do something you know is wrong.*
+
 *Read it at night, alone, when the day has been difficult.*
 
 *That is how it was written.*
+
 *That is how it should be read.*
