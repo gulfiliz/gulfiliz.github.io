@@ -22,7 +22,7 @@ Then one night, randomly on TV — on one of TRT (National public broadcaster of
 
 There was a huge instrument that you blow into. The sound was unlike anything I had ever heard for my 6 year old entire life. A saxophone. For some reason, I loved this word, too. :)
 
-Two interesting words for Filizko!
+Two interesting words for little Filiz!
 
 From that moment on, I started saying I loved jazz music among my friends and adults.
 
@@ -40,7 +40,7 @@ This past Christmas, I had a ticket from Houston to Amsterdam (a new place to vi
 
 But I had a health issue and my doctor said the flight might be difficult for me. So I had to burn the ticket (yeah, I always buy the cheapest one and never had an issue!).
 
-And guess where I went instead.
+And guess where I went with my friends instead.
 
 New Orleans, Louisiana!
 
@@ -93,6 +93,10 @@ I saw fried alligator on a menu. Americans eat interesting things, I thought.
 
 Most restaurants and cafés were pet-friendly. This isn't a common practice in Dallas. For the first time, I had the chance to dine in with my dog.
 
+By the way, seafood pizza is a must try! 
+
+There was a place called Luna Pizza just a 30-seconds walk from the hotel we stayed at. I absolutely loved every pizza I tried there. :)
+
 <div class="row">
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/beignets.JPG" title="Beignets at Café du Monde" class="img-fluid rounded z-depth-1" %}
@@ -102,6 +106,15 @@ Most restaurants and cafés were pet-friendly. This isn't a common practice in D
     </div>
 </div>
 
+
+<div class="row">
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/luna_pizza.JPG" title="Shrimp Pizza" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/cafe_mundo.JPG" title="Beignet varieties" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ---
 
 ## The Streets
