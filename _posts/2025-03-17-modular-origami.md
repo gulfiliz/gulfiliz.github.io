@@ -459,9 +459,18 @@ That is enough.
 ---
 
 *If you want to start:*
+
 *Learn the Sonobe unit first — 12 units, one afternoon.*
+
 *Then Tomoko Fuse's Unit Origami (1990) for intermediate modular forms.*
-*For the mathematics: Robert Lang's Origami Design Secrets (2003)*
+
+*For the mathematics: 
+
+Robert Lang's Origami Design Secrets (2003)*
 *is the most complete treatment available.*
-*For inspiration: search Ekaterina Lukasheva's work.*
+
+
+*For inspiration: 
+
+search Ekaterina Lukasheva's work.*
 *Prepare to lose several days.*
