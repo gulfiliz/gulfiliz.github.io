@@ -120,11 +120,11 @@ And — I went to the New Orleans Jazz Museum. It was like a gift for little Fil
 
 
 <div class="row">
-    <div class="col-md-6">
-        <img src="{{ '/assets/img/new_orleans/nikko_at_french_market.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 100%; height: 400px; object-fit: cover;" alt="Nikko at the French Market">
+    <div class="col-md-5">
+        <img src="{{ '/assets/img/new_orleans/nikko_at_french_market.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 100%; height: 500px; object-fit: cover;" alt="Nikko at the French Market">
     </div>
-    <div class="col-md-6">
-        <img src="{{ '/assets/img/new_orleans/st_louis_cathedral.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 100%; height: 400px; object-fit: cover;" alt="St. Louis Cathedral">
+    <div class="col-md-5">
+        <img src="{{ '/assets/img/new_orleans/st_louis_cathedral.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 100%; height: 500px; object-fit: cover;" alt="St. Louis Cathedral">
     </div>
 </div>
 
@@ -172,14 +172,14 @@ Most restaurants and cafés had live jazz. You didn't have to go to a bar. The m
 Every corner had jazz. Every café. Every bar. It didn't matter where you went. Jazz was playing.
 
 <div class="row">
-    <div class="col-md-4">
+    <div class="col-md-5">
         {% include video.liquid path="assets/img/new_orleans/jazz_street.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
-    <div class="col-md-4">
-        {% include video.liquid path="assets/img/new_orleans/jazz_street2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
-    </div>
-    <div class="col-md-4">
+    <div class="col-md-5">
         {% include video.liquid path="assets/img/new_orleans/jazz_street3.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
+    </div>
+    <div class="col-md-5">
+        {% include video.liquid path="assets/img/new_orleans/jazz_street2.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=false %}
     </div>
 </div>
 
