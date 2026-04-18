@@ -994,9 +994,9 @@ But do not stop.
 
 *Goethe — Conversations with Eckermann (1836)*
 *(trans. John Oxenford)*
-
-
 *— Goethe on Faust, art, science, and life*
+
+
 *Goethe — Italian Journey (1816)*
 *(trans. W.H. Auden & Elizabeth Mayer)*
 *— essential context for Part Two*
