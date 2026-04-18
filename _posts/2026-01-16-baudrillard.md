@@ -702,15 +702,28 @@ From the very first page.
 ---
 
 *Further reading:*
+
 *Baudrillard — Simulacra and Simulation (1981)*
 *trans. Sheila Faria Glaser — start here*
+
+
 *Baudrillard — America (1986)*
 *— his most readable book*
+
+
 *Baudrillard — The Gulf War Did Not Take Place (1991)*
 *— his most controversial*
+
+
 *Guy Debord — The Society of the Spectacle (1967)*
 *— the necessary predecessor*
+
+
 *Douglas Kellner — Jean Baudrillard: From Marxism to Postmodernism (1989)*
 *— the best critical introduction*
-*For the brave: Symbolic Exchange and Death (1976)*
+
+
+*For the brave: 
+
+Symbolic Exchange and Death (1976)*
 *— the most difficult and most important*
