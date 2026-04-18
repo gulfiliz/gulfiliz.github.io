@@ -192,7 +192,11 @@ I had burned a ticket home. Instead, I went to a city where jazz lives in the st
 
 I will definitely go back! It is a great weekend getaway activity!
 
-I loved it. I had so much fun.
+I loved it. I had so much fun!
+
+Below is the photo of Filiz in front of New Orleans Jazz Museum.
+
+Bana caz yapmaaaa! :))
 
 <div class="row">
     <div class="col-md-6">
