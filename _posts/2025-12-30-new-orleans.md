@@ -153,7 +153,9 @@ There are really 2-3 main streets:
 
 **Canal Street** is a long street. It took me 4-5 minutes to walk there from the hotel.
 
-And where the real fun happens — **Bourbon Street.** Whatever you are looking for, it's here. There are very good cafés on this street, very good restaurants and bars. I even saw a few strip clubs.
+And where the real fun happens — **Bourbon Street.** Whatever you are looking for, it's here. There are very good cafés on this street, very good restaurants and bars. 
+
+I even saw a few strip clubs.
 
 I had always seen them in American TV shows, and I smirked when I walked in front of one. Want a quick culture shock? Here we go. The nearly naked women at the door were taking photos with people passing by. What do you expect — young men being the volunteers for this photo shoot, right? Nooo. Even a family with a child in their arms was taking photos. What a culture shock. Hey, what is a child doing there at that hour? :D
 
