@@ -119,11 +119,11 @@ I walked around Riverfront Park all the way to the French Market.
 And — I went to the New Orleans Jazz Museum. It was like a gift for little Filiz. I loved it so much.
 
 <div class="row">
-    <div class="col-md-7">
-        <img src="{{ '/assets/img/new_orleans/nikko_at_french_market.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 100%; height: 500px; object-fit: cover;" alt="Nikko at the French Market">
+    <div class="col-md-6">
+        <img src="{{ '/assets/img/new_orleans/nikko_at_french_market.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 120%; height: 500px; object-fit: cover;" alt="Nikko at the French Market">
     </div>
-    <div class="col-md-7">
-        <img src="{{ '/assets/img/new_orleans/st_louis_cathedral.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 100%; height: 500px; object-fit: cover;" alt="St. Louis Cathedral">
+    <div class="col-md-6">
+        <img src="{{ '/assets/img/new_orleans/st_louis_cathedral.JPG' | relative_url }}" class="img-fluid rounded z-depth-1" style="width: 120%; height: 500px; object-fit: cover;" alt="St. Louis Cathedral">
     </div>
 </div>
 
