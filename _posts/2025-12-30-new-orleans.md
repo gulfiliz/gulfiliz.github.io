@@ -169,8 +169,10 @@ Jazz, jazz, jazzz!)
     <div class="col-md-6">
         {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bourbon.JPG" title="Bourbon Street" class="img-fluid rounded z-depth-1" %}
     </div>
+    <div class="col-md-6">
+        {% include figure.liquid loading="lazy" path="assets/img/new_orleans/bubble.JPG" title="Catching Bubbles" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
-
 ---
 
 ## The Music
