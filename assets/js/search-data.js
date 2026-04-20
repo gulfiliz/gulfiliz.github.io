@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/bose-einstein-condensate/";
           
         },
+      },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
+        
+          title: "The Renormalization Group — The Deepest Idea in Physics",
+        
+        description: "Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/renormalization-group/";
+          
+        },
       },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
         
           title: "Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us...",
@@ -69,17 +80,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/i-owe-myself-happiness/";
-          
-        },
-      },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
-        
-          title: "The Renormalization Group — The Deepest Idea in Physics",
-        
-        description: "Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/renormalization-group/";
           
         },
       },{id: "post-new-york-notes-from-several-visits-part-ii",
