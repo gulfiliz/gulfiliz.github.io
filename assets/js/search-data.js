@@ -71,17 +71,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/against-pseudo-intellectuals/";
           
         },
-      },{id: "post-new-york-notes-from-several-visits-part-ii",
-        
-          title: "New York — Notes From Several Visits, Part II",
-        
-        description: "Bookstores, Strand, Little Italy, Chinatown, SoHo, Bryant Park movie nights, Pret a Manger mornings, and Broadway — the list that never finishes.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/nyc-part-2/";
-          
-        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
@@ -91,6 +80,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/renormalization-group/";
+          
+        },
+      },{id: "post-new-york-notes-from-several-visits-part-ii",
+        
+          title: "New York — Notes From Several Visits, Part II",
+        
+        description: "Bookstores, Strand, Little Italy, Chinatown, SoHo, Bryant Park movie nights, Pret a Manger mornings, and Broadway — the list that never finishes.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nyc-part-2/";
           
         },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
