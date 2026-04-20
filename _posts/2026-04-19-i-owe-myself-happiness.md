@@ -1,7 +1,7 @@
 ---
 layout: post
 title: On an MRI Machine, a Forgotten Memory, and the Most Important Thing I Have Learned About Myself
-date: 2026-04-20
+date: 2026-04-19
 description: I owe myself happiness. This is how I learned that.
 tags: justfiliz, 
 ---
