@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room
-date: 2026-04-20
+date: 2026-04-02
 description: Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.
 tags: skepsis, post-truth, metaxy, filizinbetween,
 ---
