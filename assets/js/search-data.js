@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/i-owe-myself-happiness/";
           
         },
-      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
-        
-          title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
-        
-        description: "The most intimate and most mysterious of all phenomena. We live inside it. We cannot step outside it to examine it. And the closer we look, the stranger it becomes.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/time/";
-          
-        },
       },{id: "post-new-york-notes-from-several-visits-part-ii",
         
           title: "New York — Notes From Several Visits, Part II",
@@ -69,6 +58,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/nyc-part-2/";
+          
+        },
+      },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
+        
+          title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
+        
+        description: "The most intimate and most mysterious of all phenomena. We live inside it. We cannot step outside it to examine it. And the closer we look, the stranger it becomes.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/time/";
           
         },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
