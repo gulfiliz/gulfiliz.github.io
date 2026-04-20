@@ -60,17 +60,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/time/";
           
         },
-      },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
-        
-          title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
-        
-        description: "The most human of the Stoics — on wasted time, genuine friendship, and why we are all dying badly.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/seneca/";
-          
-        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
@@ -80,6 +69,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/renormalization-group/";
+          
+        },
+      },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
+        
+          title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
+        
+        description: "The most human of the Stoics — on wasted time, genuine friendship, and why we are all dying badly.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/seneca/";
           
         },
       },{id: "post-logical-operators-code-degeneracy-and-the-geometry-of-quantum-codes",
