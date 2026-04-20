@@ -7,7 +7,7 @@ description: >
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: physics, philosophy, origami, fountain pens, poetry, literature
+keywords: physics, quantum, philosophy, origami, fountain pens, poetry, literature
 lang: tr, en
 icon: 🖋️
 url: https://gulfiliz.github.io
@@ -256,7 +256,7 @@ jekyll-archives:
       tag: archive
       category: archive
 
-display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "TR" , "EN" , "travel-notes" , "readings" , "philosophy" , "go-igo" , "physics" , "quantum" , "origami" , "post-truth" , "astronomy" , "literature" , "filizinbetween" ]
+display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "TR" , "EN" , "travel-notes" , "readings" , "philosophy" , "physics" , "quantum" , "hobbies" , "post-truth" , "literature" , "filizinbetween" ]
 display_categories: ["2024", "2025", "2026"]
 
 # -----------------------------------------------------------------------------
