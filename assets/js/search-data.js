@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
-      },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
-        
-          title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
-        
-        description: "Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/against-pseudo-intellectuals/";
-          
-        },
       },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
         
           title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
@@ -91,6 +80,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/nyc-part-2/";
+          
+        },
+      },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
+        
+          title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
+        
+        description: "Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/against-pseudo-intellectuals/";
           
         },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
