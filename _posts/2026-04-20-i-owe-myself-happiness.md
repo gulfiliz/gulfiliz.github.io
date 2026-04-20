@@ -229,7 +229,7 @@ I asked: *Weren't you scared? In the closed machine?*
 
 She said:
 *I was scared. But then I thought of you,
-and it passed.*
+and it passed.* ( she never denied the emotions who makes us huma, she was not like other parent she ver said things like, i was not afraid etc. she always accepted every feeling, and i think that is why my emotional regulation is so healthy) 
 
 That memory came to me in the machine.
 
@@ -269,7 +269,7 @@ was a fraction of my life.
 
 The main thing was me.
 
-**Me >>> everything else.**
+**Me >> everything else.**
 
 I had always been sensitive to other people,
 always tried to help,
@@ -281,7 +281,7 @@ Physically, psychologically, emotionally.
 I kept that promise to myself for a long time.
 
 Then — being in a foreign country,
-the workload, the PhD, the pressure —
+the workload, the school, the pressure —
 somewhere the thread broke again.
 Not as badly as before,
 but I still wasn't meeting all my own needs.
