@@ -49,17 +49,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/time/";
           
         },
-      },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
-        
-          title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
-        
-        description: "I owe myself happiness. This is how I learned that.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/i-owe-myself-happiness/";
-          
-        },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
           title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
@@ -69,6 +58,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/against-pseudo-intellectuals/";
+          
+        },
+      },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
+        
+          title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
+        
+        description: "I owe myself happiness. This is how I learned that.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/i-owe-myself-happiness/";
           
         },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
