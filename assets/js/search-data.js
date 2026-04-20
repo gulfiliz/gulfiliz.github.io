@@ -368,6 +368,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/spontaneous-symmetry-breaking-deep/";
           
         },
+      },{id: "post-new-york-notes-from-several-visits-part-iii",
+        
+          title: "New York — Notes From Several Visits, Part III",
+        
+        description: "Ellis Island, the Statue of Liberty, a childhood photograph, the 9/11 Memorial, and what New York means when you look at it from the water.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nyc-part-3/";
+          
+        },
       },{id: "post-dostoevsky-the-writer-who-knew-too-much",
         
           title: "Dostoevsky — The Writer Who Knew Too Much",
@@ -520,17 +531,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/measurement-problem-deep/";
-          
-        },
-      },{id: "post-new-york-notes-from-several-visits-part-iii",
-        
-          title: "New York — Notes From Several Visits, Part III",
-        
-        description: "Ellis Island, the Statue of Liberty, a childhood photograph, the 9/11 Memorial, and what New York means when you look at it from the water.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/nyc-part-3/";
           
         },
       },{id: "post-epictetus-the-slave-who-was-free",
