@@ -60,17 +60,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/nyc-part-2/";
           
         },
-      },{id: "post-new-york-notes-from-several-visits-part-iii",
-        
-          title: "New York — Notes From Several Visits, Part III",
-        
-        description: "Ellis Island, the Statue of Liberty, a childhood photograph, the 9/11 Memorial, and what New York means when you look at it from the water.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/nyc-part-3/";
-          
-        },
       },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
@@ -531,6 +520,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/measurement-problem-deep/";
+          
+        },
+      },{id: "post-new-york-notes-from-several-visits-part-iii",
+        
+          title: "New York — Notes From Several Visits, Part III",
+        
+        description: "Ellis Island, the Statue of Liberty, a childhood photograph, the 9/11 Memorial, and what New York means when you look at it from the water.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nyc-part-3/";
           
         },
       },{id: "post-epictetus-the-slave-who-was-free",
