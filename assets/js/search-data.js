@@ -38,6 +38,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/theogony-oedipus/";
           
         },
+      },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
+        
+          title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
+        
+        description: "I owe myself happiness. This is how I learned that.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/i-owe-myself-happiness/";
+          
+        },
       },{id: "post-what-is-time-augustine-heidegger-and-the-physics-of-the-passing-moment",
         
           title: "What Is Time? — Augustine, Heidegger, and the Physics of the Passing Moment...",
