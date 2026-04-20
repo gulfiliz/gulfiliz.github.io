@@ -60,6 +60,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/time/";
           
         },
+      },{id: "post-new-york-notes-from-several-visits",
+        
+          title: "New York — Notes From Several Visits",
+        
+        description: "The Met&#39;s arms and armor, a 3000-year-old Egyptian wig, artifacts from Smyrna, Van Gogh up close, Basquiat, Campbell&#39;s soup cans, Refik Anadol, the NYPL, Bryant Park, lobster rolls, and Roman-style pizza by the slice.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/nyc/";
+          
+        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
