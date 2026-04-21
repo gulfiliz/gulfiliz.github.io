@@ -555,17 +555,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/american-anti-intellectualism/";
           
         },
-      },{id: "post-epicurus-and-the-art-of-living-well-a-philosophy-for-the-present",
-        
-          title: "Epicurus and the Art of Living Well — A Philosophy for the Present...",
-        
-        description: "On pleasure, death, friendship, and why the most misunderstood philosopher in history was probably right.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/epicurus/";
-          
-        },
       },{id: "post-my-biggest-red-flag-on-being-intolerant-of-superficiality-a-confession-and-a-defense",
         
           title: "My biggest Red Flag - On Being Intolerant of Superficiality — A Confession...",
