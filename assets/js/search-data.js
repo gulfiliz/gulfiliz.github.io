@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
-        
-          title: "Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us...",
-        
-        description: "On Hesiod&#39;s cosmogony, the violence at the origin of things, and why the myth of Oedipus is not about incest but about the unbearable desire to know.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/theogony-oedipus/";
-          
-        },
-      },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
+        },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
         
           title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
         
