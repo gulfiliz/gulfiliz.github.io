@@ -247,8 +247,9 @@ The technician said:
 You're pretty tough.*
 
 ---
+Then, the results were in.
 
-It was not MS.
+It was not MS!!!
 
 It was something called pseudotumor cerebri.
 Hypothyroidism and extra weight
