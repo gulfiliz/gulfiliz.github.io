@@ -357,17 +357,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/general-relativity/";
           
         },
-      },{id: "post-the-spin-statistics-theorem-why-half-the-universe-cannot-be-in-the-same-place",
-        
-          title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Be in the Same...",
-        
-        description: "The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/spin-statistics/";
-          
-        },
       },{id: "post-new-york-notes-from-several-visits-part-ii",
         
           title: "New York — Notes From Several Visits, Part II",
