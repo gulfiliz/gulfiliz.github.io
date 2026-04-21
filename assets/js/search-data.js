@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/time/";
           
         },
+      },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
+        
+          title: "Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters...",
+        
+        description: "Camus called it the only serious philosophical question. Seneca said time is the only thing that belongs to us. Both are asking the same thing from different directions.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/is-life-worth-living/";
+          
+        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
