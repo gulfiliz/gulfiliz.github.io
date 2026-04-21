@@ -148,17 +148,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/holographic-principle/";
           
         },
-      },{id: "post-the-problem-of-the-self-does-quot-you-quot-exist",
-        
-          title: "The Problem of the Self — Does &quot;You&quot; Exist?",
-        
-        description: "Hume, Parfit, Buddhism, and the unsettling possibility that nobody is home.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/the-self/";
-          
-        },
       },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
         
           title: "Quantum Computing — Separating the Revolution from the Hype",
