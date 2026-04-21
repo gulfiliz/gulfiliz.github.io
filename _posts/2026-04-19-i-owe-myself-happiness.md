@@ -328,7 +328,7 @@ No more fixing.
 No more running after things
 that aren't already moving toward me.
 
-My happiness is the most important debt I owe.
+**My happiness is the most important debt I owe.**
 
 And I intend to pay it.
 
