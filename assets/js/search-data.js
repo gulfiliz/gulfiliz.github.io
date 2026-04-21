@@ -181,17 +181,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
-      },{id: "post-the-planck-scale-where-physics-ends-and-the-unknown-begins",
-        
-          title: "The Planck Scale — Where Physics Ends and the Unknown Begins",
-        
-        description: "At 10⁻³⁵ meters, our best theories break down simultaneously. This is not a technical problem. It is the edge of what we can know.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/planck-scale/";
-          
-        },
       },{id: "post-the-philosopher-39-s-nephew-on-nepotism-merit-and-the-betrayal-of-ideas",
         
           title: "The Philosopher&#39;s Nephew — On Nepotism, Merit, and the Betrayal of Ideas",
@@ -432,17 +421,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/gogol-the-overcoat/";
-          
-        },
-      },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
-        
-          title: "The Fine-Tuned Universe — Why the Constants Are What They Are",
-        
-        description: "The fundamental constants of nature appear to be precisely calibrated for the existence of complexity. Change any of them slightly, and the universe becomes sterile. This is either the deepest fact about reality — or the most dangerous idea in physics.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/fine-tuned-universe/";
           
         },
       },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
