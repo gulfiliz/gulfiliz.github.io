@@ -214,17 +214,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-field-theory/";
           
         },
-      },{id: "post-baudrillard-the-desert-of-the-real",
-        
-          title: "Baudrillard — The Desert of the Real",
-        
-        description: "On simulacra, hyperreality, and the philosopher who said the Gulf War did not take place — and was not wrong.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/baudrillard/";
-          
-        },
       },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
         
           title: "The Standard Model — The Most Successful Theory Ever Written",
@@ -443,17 +432,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/gogol-the-overcoat/";
-          
-        },
-      },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
-        
-          title: "The Fine-Tuned Universe — Why the Constants Are What They Are",
-        
-        description: "The fundamental constants of nature appear to be precisely calibrated for the existence of complexity. Change any of them slightly, and the universe becomes sterile. This is either the deepest fact about reality — or the most dangerous idea in physics.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/fine-tuned-universe/";
           
         },
       },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
