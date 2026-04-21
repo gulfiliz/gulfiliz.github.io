@@ -555,17 +555,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/american-anti-intellectualism/";
           
         },
-      },{id: "post-symmetry-the-unreasonable-beauty-at-the-heart-of-physics",
-        
-          title: "Symmetry — The Unreasonable Beauty at the Heart of Physics",
-        
-        description: "Why the deepest laws of nature are not equations but symmetries — and what it means that beauty has been the most reliable guide to truth in the history of physics.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/symmetry-in-physics/";
-          
-        },
       },{id: "post-epicurus-and-the-art-of-living-well-a-philosophy-for-the-present",
         
           title: "Epicurus and the Art of Living Well — A Philosophy for the Present...",
