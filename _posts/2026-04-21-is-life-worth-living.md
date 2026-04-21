@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters
-date: 2026-04-11
+date: 2026-04-21
 description: Camus called it the only serious philosophical question. Seneca said time is the only thing that belongs to us. Both are asking the same thing from different directions.
 tags: skepsis,
 ---
