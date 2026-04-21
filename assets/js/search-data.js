@@ -170,17 +170,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/nepotism/";
           
         },
-      },{id: "post-quantum-field-theory-what-everything-actually-is",
-        
-          title: "Quantum Field Theory — What Everything Actually Is",
-        
-        description: "There are no particles. There are no waves. There are only fields — and this changes everything.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/quantum-field-theory/";
-          
-        },
       },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
         
           title: "The Standard Model — The Most Successful Theory Ever Written",
