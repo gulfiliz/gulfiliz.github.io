@@ -214,17 +214,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/bells-theorem/";
           
         },
-      },{id: "post-physics-lied-to-you-common-misconceptions-that-even-smart-people-believe",
-        
-          title: "Physics Lied to You — Common Misconceptions That Even Smart People Believe",
-        
-        description: "Gravity doesn&#39;t pull. Space isn&#39;t empty. And lightning absolutely does strike twice. A physicist&#39;s guide to unlearning.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/physics-misconceptions/";
-          
-        },
       },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
         
           title: "Sartre — Existence Precedes Essence, and That Is Terrifying",
