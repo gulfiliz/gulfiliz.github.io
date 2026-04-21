@@ -12,7 +12,7 @@ I wear glasses.
 Every six months, a check-up.
 Nothing special.
 
-The doctor was looking at photographs of my retina
+The doctor was looking at medical images of my retina
 when she paused.
 
 She asked if I got headaches.
@@ -27,7 +27,7 @@ Then a second doctor came into the room.
 Then a third.
 Each one looked at the screen,
 said hello to me,
-and turned back to the photograph.
+and turned back to the images.
 
 I watched all of this and told myself:
 *it's nothing.*
@@ -70,9 +70,9 @@ Multiple sclerosis.
 
 I sat with that for a while.
 
-I called my closest friends.
+I called my closest friends:
 
-N started crying almost immediately.
+My friend, N, started crying almost immediately.
 *Life is so unfair, Filiz. This is so unfair.*
 
 F said, “No, I don’t think it’s anything. 
@@ -112,7 +112,7 @@ And they were frightened
 for someone who has already
 carried more than her share.
 
-I listened to both of them.
+I listened to all of them.
 I told them it would be okay.
 I didn't know yet if that was true,
 but it felt like the right thing to say.
@@ -156,7 +156,7 @@ I would only know when I knew.
 
 ---
 
-Then came the MRI.
+Then came the MRI day!
 
 There was a problem.
 
@@ -194,9 +194,9 @@ But this uncertainty was different.
 
 I said: *I'll do it.*
 
-I lay back down.
+I laid back down.
 The technician said:
-*I don't think so, but okay, let's try.*
+*I don't think this is going to work, but okay, let's give it a try!*
 
 I closed my eyes.
 I did not open them for one hour.
@@ -229,7 +229,7 @@ I asked: *Weren't you scared? In the closed machine?*
 
 She said:
 *I was scared. But then I thought of you,
-and it passed.* ( she never denied the emotions who makes us huma, she was not like other parent she ver said things like, i was not afraid etc. she always accepted every feeling, and i think that is why my emotional regulation is so healthy) 
+and it passed.* 
 
 That memory came to me in the machine.
 
