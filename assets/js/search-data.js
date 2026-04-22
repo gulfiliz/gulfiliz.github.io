@@ -49,6 +49,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/time/";
           
         },
+      },{id: "post-the-art-of-being-wrong-convincingly-a-field-guide-to-logical-fallacies",
+        
+          title: "The Art of Being Wrong Convincingly — A Field Guide to Logical Fallacies...",
+        
+        description: "From Aristotle&#39;s Sophistical Refutations to cable news — a technical and historical account of the arguments that sound right and aren&#39;t, why they work, and how to recognize them before they work on you.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fallacies/";
+          
+        },
       },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
         
           title: "The Renormalization Group — The Deepest Idea in Physics",
