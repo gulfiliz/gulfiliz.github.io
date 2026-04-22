@@ -196,7 +196,7 @@ I said: *I'll do it.*
 
 I laid back down.
 The technician said:
-*I don't think this is going to work, but okay, let's give it a try!*
+*I don't think this is going to work, but okay, let's try one more time.*
 
 I closed my eyes.
 I did not open them for one hour.
@@ -247,7 +247,7 @@ The technician said:
 You're pretty tough.*
 
 ---
-Then, the results were in.
+Then, the results came in.
 
 It was not MS!!!
 
