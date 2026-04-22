@@ -91,14 +91,18 @@ Note: a fallacious argument
 can have a true conclusion.
 
 $$P_1: \text{All dogs are mammals.}$$
+
 $$P_2: \text{My cat is not a dog.}$$
+
 $$\therefore C: \text{My cat is not a mammal.}$$
 
 The conclusion is false.
 But even if we replace "cat" with "whale":
 
 $$P_1: \text{All dogs are mammals.}$$
+
 $$P_2: \text{A whale is not a dog.}$$
+
 $$\therefore C: \text{A whale is not a mammal.}$$
 
 Still fallacious — still invalid —
@@ -286,20 +290,27 @@ the formal ones:
 **Affirming the Consequent:**
 
 $$P \to Q$$
+
 $$Q$$
+
 $$\therefore P$$
 
 If it rains, the ground is wet.
+
 The ground is wet.
+
 Therefore it rained.
 
 Invalid.
+
 The ground could be wet for many reasons.
 
 This fallacy is ubiquitous in science communication:
 
 *"If my theory is correct, we would observe X.
+
 We observed X.
+
 Therefore my theory is correct."*
 
 No. Observing X confirms the theory
@@ -313,14 +324,19 @@ for the wrong reasons.
 **Denying the Antecedent:**
 
 $$P \to Q$$
+
 $$\neg P$$
+
 $$\therefore \neg Q$$
 
 If you study, you will pass.
+
 You did not study.
+
 Therefore you will not pass.
 
 Invalid.
+
 You might pass for other reasons —
 the exam was easy, you got lucky,
 you already knew the material.
@@ -328,14 +344,19 @@ you already knew the material.
 **Undistributed Middle:**
 
 $$\text{All A are B.}$$
+
 $$\text{All C are B.}$$
+
 $$\therefore \text{All A are C.}$$
 
 All fascists are nationalists.
+
 All patriots are nationalists.
+
 Therefore all patriots are fascists.
 
 Invalid.
+
 Two groups can share a property
 without being the same group.
 
@@ -1050,23 +1071,39 @@ and you are the easiest person to fool."*
 ---
 
 *Further reading:*
+
 *Aristotle — Sophistical Refutations*
 *(trans. W.A. Pickard-Cambridge)*
 *— the original; still essential*
+
+
 *Aristotle — Prior Analytics*
 *— formal fallacies in syllogistic logic*
+
+
 *Francis Bacon — Novum Organum (1620)*
 *— the Idols; Book I*
+
+
 *Irving Copi & Carl Cohen —*
 *Introduction to Logic (14th ed.)*
 *— the standard textbook; comprehensive*
+
+
 *Douglas Walton — Informal Logic (1989)*
 *Cambridge University Press*
 *— the best technical treatment*
+
+
 *Kahneman — Thinking, Fast and Slow (2011)*
 *— the cognitive science behind why fallacies work*
+
+
 *For the historically inclined:*
+
 *C.L. Hamblin — Fallacies (1970)*
 *— the definitive historical and philosophical study*
+
+
 *William of Ockham — Summa Logicae (c. 1323)*
 *— medieval fallacy theory at its most sophisticated*
