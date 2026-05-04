@@ -3,25 +3,85 @@ layout: post
 title: Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters
 date: 2026-04-21
 description: Camus called it the only serious philosophical question. Seneca said time is the only thing that belongs to us. Both are asking the same thing from different directions.
-tags: skepsis,
+tags: skepsis
 ---
 
-Albert Camus opens *The Myth of Sisyphus* (1942)
-with a sentence that stops you:
+My first attempt to read *The Myth of Sisyphus* was at 26.
+
+Camus opens the book with:
 
 *"There is but one truly serious philosophical problem,
 and that is suicide."*
 
-When I first read it, I was unsettled. Left the book. I was 27! 
-I was scared. Then, at the age of 35 I decided to read Camus again and I noticed that I never forgot the opening sentence. 
+I put it down after the first sentence.
+Not because it was difficult.
+Because I was afraid of it.
+
+I had lost my professor, Ritchie Eanes,
+to suicide at 22.
+He was someone I loved very much.
+I thought I had healed.
+The first sentence felt like something
+pulling at a scar I didn't want opened.
+
+There was also my grandmother's faith,
+which I had grown up inside:
+the belief that suicide is the gravest sin.
+Even in Go, the game I play,
+it is a forbidden move.
+The book seemed to be building
+a justification for something
+I did not want justified.
+I walked away.
+
+I came back at 35!
+
+By then I had buried my grandmother.
+I had stood at her grave,
+then I turned around,
+and walked back to my life.
+
+We had both died that day.
+And, they only buried her. 
+I was the same Filiz on the outside.
+I was not the same Filiz.
+
+Life is an absurd thing. And when you lose the person you love most, 
+the things that used to frighten you simply stop frightening you.
+Most people are afraid of cemeteries at night. 
+But I think: if cemeteries still scare you, 
+you probably haven't lost the person you love most yet. 
+
+I am not afraid of cemeteries anymore. Not even at night.
+And because I know why I live, the word "suicide" doesn't frighten me either. 
+I was obligated to live the way my grandmother wanted me to live. 
+
+No justification for it, however strong, could convince me otherwise.
+So when I finally opened Camus again, I was ready. 
+
+So, Camus again. At 35. 
+
+I opened the book again.
 
 *"There is but one truly serious philosophical problem,
 and that is suicide."*
 
-This time, I realized it wasn’t an invitation, it was a test! If you don’t know why you keep living, then you’re not really living. You’re drifting.
+This time I understood:
+it is not an invitation.
+It is a test.
+If you don't know why you keep living,
+you are not really living.
+You are drifting.
+
+**Are you drifting?**
+
+---
+
+*"There is but one truly serious philosophical problem,
+and that is suicide."*
 
 This is not provocation for its own sake.
-It is a precise philosophical claim —
+It is a precise philosophical claim,
 and understanding what Camus means by it
 requires reading the sentence carefully.
 
@@ -30,10 +90,10 @@ He is asking whether you have answered
 the prior question:
 **why you should live.**
 
-If you have not answered that question —
+If you have not answered that question,
 if you are simply continuing
 by inertia, by habit, by the absence
-of a decisive reason to stop —
+of a decisive reason to stop,
 then Camus's claim is that
 you have not yet begun to philosophize
 in any serious sense.
@@ -52,66 +112,63 @@ He is the opposite.
 
 The nihilist says: there is no meaning.
 Camus says: the question of meaning
-is the most urgent question there is —
+is the most urgent question there is,
 which is exactly the opposite of nihilism.
 
-**The absurd is not meaninglessness.**
+The absurd is not meaninglessness.
 
-The absurd is a *relation* —
+It is a relation,
 a confrontation between two things:
 
-1. The human demand for clarity, meaning, unity —
-   the need to understand,
-   to find coherence,
-   to have the world answer back
-   when you question it.
+1. The human demand for clarity, meaning, unity,
+the need to understand,
+to find coherence,
+to have the world answer back
+when you question it.
 
-2. The world's silence —
-   its total indifference
-   to that demand.
+2. The world's silence,
+its total indifference
+to that demand.
 
 *"The absurd is born of the confrontation
 between the human need
 and the unreasonable silence of the world."*
 
 Neither term alone produces the absurd.
-A human being without the need for meaning:
-no absurd.
-A silent world with no one demanding answers:
-no absurd.
+A human being without the need for meaning: no absurd.
+A silent world with no one demanding answers: no absurd.
 
-The absurd requires both —
+The absurd requires both,
 the demand and the silence,
 in permanent, irresolvable confrontation.
 
-**The absurd is not a conclusion.**
+The absurd is not a conclusion.
 It is a starting point.
 
-Once you have recognized the absurd —
+Once you have recognized the absurd,
 once you have seen that the world
-will not give you what you are asking for —
+will not give you what you are asking for,
 the question is: what do you do with that recognition?
 
 Camus identifies three possible responses:
 
 **1. Physical suicide:**
 Eliminate the human term of the equation.
-No more human demand → no more absurd.
+No more human demand, no more absurd.
 
 Camus rejects this.
-It is not a solution — it is an evasion.
+It is not a solution. It is an evasion.
 It destroys the consciousness
 that recognized the absurd
 rather than confronting the recognition.
 
 **2. Philosophical suicide:**
-Leap to faith —
+Leap to faith,
 to God, to transcendence, to any system
 that claims to resolve the tension
 by providing meaning from outside.
 
-Camus rejects this too —
-more forcefully, perhaps.
+Camus rejects this too, more forcefully.
 It is intellectual dishonesty:
 the recognition of the absurd is real,
 and papering over it with faith
@@ -121,7 +178,7 @@ It makes you less honest.
 **3. Revolt:**
 Accept the absurd.
 Refuse to resolve it.
-Live inside the tension —
+Live inside the tension,
 in full awareness of the silence,
 without flinching,
 without leaping.
@@ -136,13 +193,10 @@ Camus takes the myth of Sisyphus
 and reads it as the image of the human condition.
 
 Sisyphus was condemned by the gods
-to push a boulder up a hill
-for eternity.
+to push a boulder up a hill for eternity.
 Each time he reaches the top,
 the boulder rolls back down.
-He descends.
-He pushes again.
-Forever.
+He descends. He pushes again. Forever.
 
 The traditional reading:
 this is punishment.
@@ -156,8 +210,7 @@ He knows the boulder will roll back.
 He knows the task will never be completed.
 He pushes anyway.
 
-The gods thought they were punishing him
-with futility.
+The gods thought they were punishing him with futility.
 But Sisyphus, in full consciousness of his condition,
 has taken ownership of it.
 
@@ -166,7 +219,7 @@ The act of pushing belongs to Sisyphus.
 
 *"One must imagine Sisyphus happy."*
 
-This is the most famous line in the essay —
+This is the most famous line in the essay,
 and the most misunderstood.
 
 Camus is not saying Sisyphus is cheerful.
@@ -178,20 +231,22 @@ is not the absence of suffering
 or the presence of meaning.
 
 It is the condition of the person
-who has faced the absurd fully —
-who knows exactly what their situation is —
+who has faced the absurd fully,
+who knows exactly what their situation is,
 and who chooses to continue
 in full awareness of that situation.
 
 The happiness is in the lucidity,
 not in the outcome.
 
+I came to this book expecting not to believe it.
+Camus convinced me anyway.
+
 **The descent:**
 
 Camus focuses particularly on
 the moment when Sisyphus descends
-from the top of the hill
-back to the boulder.
+from the top of the hill back to the boulder.
 
 During the ascent: effort, engagement, the task.
 During the descent: consciousness.
@@ -209,7 +264,7 @@ in itself forms a world.
 The struggle itself toward the heights
 is enough to fill a man's heart."*
 
-The descent is the moment of freedom —
+The descent is the moment of freedom,
 the moment between the futility of the top
 and the resumption of the task.
 
@@ -222,13 +277,13 @@ From the need for his condition to be otherwise.
 ## III. Seneca — The Urgency of Time
 
 Lucius Annaeus Seneca wrote
-his *Letters to Lucilius* (c. 65 CE)
-in the last years of his life —
+his *Letters to Lucilius* around 65 CE,
+in the last years of his life,
 under Nero, aware that death
 could come at any moment by imperial order.
 
 It did come.
-Nero ordered him to die in 65 CE.
+Nero ordered him to die.
 He opened his veins.
 
 The *Letters* are the work of a man
@@ -243,11 +298,32 @@ The most important sentence:
 *"Everything, Lucilius, belongs to others;
 time alone is ours."*
 
+When I first read this, my reaction was:
+really? Is that all we have?
+
+And then: yes. That is all we have.
+
+The accountability this requires is terrifying.
+To really accept it,
+you have to admit how much time
+you have already given away,
+and to what.
+
+I think most people cannot open their arms
+to a truth this deep.
+We prefer the surface.
+It is more comfortable there.
+The bacteria find their ideal conditions
+at the surface of things,
+and so, mostly, do we.
+
+Absurdism lives exactly here:
+in the gap between the depth of the question
+and our preference for staying shallow.
+
 This is not a casual observation.
 It is the conclusion of a sustained argument
 about the nature of loss and possession.
-
-**What belongs to you:**
 
 Your property can be taken.
 Your reputation can be destroyed.
@@ -255,7 +331,7 @@ Your relationships can be ended.
 Your health can be lost.
 Your status can be stripped.
 
-All of these are held conditionally —
+All of these are held conditionally,
 on loan from fortune,
 which gives and takes without explanation.
 
@@ -263,7 +339,7 @@ Time is different.
 
 Or rather: time should be different.
 Because most people treat time
-as the most expendable of their possessions —
+as the most expendable of their possessions,
 giving it away freely,
 wasting it without regret,
 allowing others to consume it without resistance.
@@ -274,7 +350,7 @@ allowing others to consume it without resistance.
 
 Seneca is not asking you to become selfish.
 He is asking you to treat your time
-with at least the care you give to your money —
+with at least the care you give to your money,
 to notice when it is being taken,
 to choose deliberately what you give it to,
 to not hand it over by default.
@@ -282,7 +358,7 @@ to not hand it over by default.
 **The accounting of time:**
 
 Seneca returns obsessively
-to the image of accounting —
+to the image of accounting,
 of calculating what you have,
 what you have spent,
 what remains.
@@ -293,7 +369,7 @@ and you will find that very few
 have been given to you."*
 
 Not the days you were alive.
-The days that were genuinely yours —
+The days that were genuinely yours,
 spent on what you chose,
 in the presence of what mattered,
 doing what you intended to do.
@@ -304,26 +380,20 @@ To obligations you did not choose.
 To the noise that fills the space
 between one genuine moment and the next.
 
-**On wasting life:**
-
 *"Nusquam est qui ubique est."*
 
 *"One who is everywhere is nowhere."*
 
 The person who is always available,
 always responsive,
-always accommodating —
+always accommodating,
 who has no center of gravity,
-no place they have chosen to be —
-
+no place they have chosen to be,
 is, in Seneca's analysis,
 not fully living.
 
-They are present everywhere
-and nowhere at once.
-
 Life, for Seneca,
-requires the capacity to say no —
+requires the capacity to say no,
 to refuse the infinite demands
 of other people's time
 in order to protect something
@@ -333,27 +403,21 @@ that is genuinely yours.
 
 ## IV. The Same Question, Two Directions
 
-Camus and Seneca are separated
-by nineteen centuries.
-
+Camus and Seneca are separated by nineteen centuries.
 They are asking the same question.
 
-Camus asks: **given that the world is silent,
-why continue?**
+Camus asks: given that the world is silent, why continue?
 
-Seneca asks: **given that time is finite,
-what are you doing with it?**
+Seneca asks: given that time is finite, what are you doing with it?
 
 Both questions assume
-that the default — continuation without reflection,
-life lived by inertia —
+that the default, continuation without reflection,
+life lived by inertia,
 is not sufficient.
 
 Both demand that you become
 the conscious author of your own existence
 rather than its passive passenger.
-
-**Where they agree:**
 
 Neither offers consolation in the conventional sense.
 
@@ -365,25 +429,22 @@ He says: the time you have is enough
 if you stop wasting it.
 
 Both locate the solution
-not in changing the external conditions —
-the world's silence, the finitude of time —
+not in changing the external conditions,
+the world's silence, the finitude of time,
 but in changing the relationship
 between the self and those conditions.
 
 The world stays silent.
 The time stays finite.
-
 What changes: you.
 
-**Where they differ:**
-
-Camus is interested in the moment —
+Camus is interested in the moment,
 the present confrontation with the absurd,
 the descent of Sisyphus,
 the atom of time in which consciousness
 recognizes its situation and chooses revolt.
 
-Seneca is interested in the span —
+Seneca is interested in the span,
 the whole of a life,
 viewed as a quantity to be managed,
 a resource to be allocated
@@ -395,8 +456,7 @@ Seneca asks: have you been alive
 across the whole of your time?
 
 They are not contradictory questions.
-They are complementary —
-the microscope and the telescope
+They are the microscope and the telescope
 aimed at the same object.
 
 ---
@@ -404,45 +464,42 @@ aimed at the same object.
 ## V. The Absurd and Time — Together
 
 Read together, Camus and Seneca
-produce a complete philosophical position:
+produce a complete philosophical position.
 
-**The world will not give you meaning.**
+The world will not give you meaning.
 This is Camus's premise.
 Accept it. Stop waiting for the silence to break.
 
-**Your time is the only thing you have.**
+Your time is the only thing you have.
 This is Seneca's premise.
 Take it seriously. Stop giving it away by default.
 
 The synthesis:
 
-If the world is silent —
-if meaning is not given but made —
+If the world is silent,
+if meaning is not given but made,
 then the only raw material you have
 for making it is time.
 
 Your time, spent on what you chose,
 in full awareness of the silence,
 without the consolation of an answer
-that was never coming —
-
+that was never coming,
 this is what a life is.
 
 Not the achievement of meaning.
 The construction of it,
 moment by moment,
 from the only material available:
-
 the hours that are genuinely yours.
 
 **Sisyphus with his hours:**
 
 Return to Sisyphus.
 
-The boulder is the task —
-whatever task you have chosen
-or been given.
-The hill is time — finite, steep.
+The boulder is the task,
+whatever task you have chosen or been given.
+The hill is time, finite, steep.
 The descent is the moment of consciousness.
 
 But Seneca adds something Camus does not:
@@ -465,10 +522,9 @@ Or does he claim it?
 
 Claim yourself for yourself.
 
-Even Sisyphus, condemned to eternal futility,
-has hours.
-What he does with them —
-whether he inhabits them or squanders them —
+Even Sisyphus, condemned to eternal futility, has hours.
+What he does with them,
+whether he inhabits them or squanders them,
 is the only freedom he has.
 
 It is the only freedom any of us has.
@@ -479,17 +535,14 @@ It is the only freedom any of us has.
 
 Camus said there is only one serious philosophical question.
 
-He meant: before you can do any other philosophy —
-before ethics, epistemology, metaphysics —
+He meant: before you can do any other philosophy,
+before ethics, epistemology, metaphysics,
 you must answer this.
 
-Because if you have not answered it —
+Because if you have not answered it,
 if you are continuing by default,
-by inertia, by the absence of a reason to stop —
+by inertia, by the absence of a reason to stop,
 then your philosophy is built on nothing.
-
-You are philosophizing from a position
-you have never examined.
 
 Seneca's version of the same demand:
 
@@ -498,25 +551,20 @@ Seneca's version of the same demand:
 Before you can give your time to anything,
 you must first claim it as yours.
 
-Before you can choose what to do with your hours,
-you must recognize that they are yours to choose with.
-
 Both philosophers are making
 the same foundational demand:
 
-**Wake up.**
+Wake up.
 
 Not in the motivational sense.
 In the philosophical sense.
 
-Become the conscious author
-of your own existence.
-
+Become the conscious author of your own existence.
 Stop deferring the question.
 
 The question is:
-is this life — this specific life,
-lived in this specific way —
+is this life, this specific life,
+lived in this specific way,
 worth living?
 
 Not life in general.
@@ -530,7 +578,7 @@ You are not drifting.
 
 If the answer is no:
 you know what needs to change.
-Not whether to continue —
+Not whether to continue,
 but what continuing should mean.
 
 If you have not asked the question:
@@ -539,8 +587,7 @@ are both waiting.
 
 *"There is but one truly serious philosophical question."*
 
-*"Everything belongs to others;
-time alone is ours."*
+*"Everything belongs to others; time alone is ours."*
 
 Same question.
 Same urgency.
@@ -554,22 +601,13 @@ Different words.
 *(trans. Justin O'Brien — Vintage)*
 *— read the full essay, not just the famous lines*
 
-
 *Seneca — Letters to Lucilius (c. 65 CE)*
 *(trans. Robin Campbell — Penguin Classics)*
 *— Letters I, III, and LXXVII especially*
 
-
 *Seneca — On the Shortness of Life*
 *(trans. C.D.N. Costa — Penguin Classics)*
-*— the most concentrated version of Seneca's argument*
-
-
-*For context:*
 
 *Matthew Sharpe — Camus, Philosophe (2015)*
-*— the best scholarly treatment of Camus as philosopher*
-
 
 *Miriam Griffin — Seneca: A Philosopher in Politics (1976)*
-*— essential biographical and philosophical context*
