@@ -629,7 +629,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2024/yasameya-deger-mi/";
+            window.location.href = "/blog/2024/yasamaya-deger-mi/";
           
         },
       },{id: "post-tokyo-or-how-i-spent-three-hours-in-a-starbucks-because-i-was-too-scared-to-leave",
