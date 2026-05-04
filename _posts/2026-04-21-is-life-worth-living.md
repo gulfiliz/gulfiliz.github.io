@@ -12,6 +12,14 @@ with a sentence that stops you:
 *"There is but one truly serious philosophical problem,
 and that is suicide."*
 
+When I first read it, I was unsettled. Left the book. I was 27! 
+I was scared. Then, at the age of 35 I decided to read Camus again and I noticed that I never forgot the opening sentence. 
+
+*"There is but one truly serious philosophical problem,
+and that is suicide."*
+
+This time, I realized it wasn’t an invitation, it was a test! If you don’t know why you keep living, then you’re not really living. You’re drifting.
+
 This is not provocation for its own sake.
 It is a precise philosophical claim —
 and understanding what Camus means by it
