@@ -41,27 +41,19 @@ I had stood at her grave,
 then I turned around,
 and walked back to my life.
 
-We had both died that day.
-And, they only buried her. 
-I was the same Filiz on the outside.
-I was not the same Filiz.
+We had both died that day. And, they only buried her.
 
-Life is an absurd thing. And when you lose the person you love most, 
-the things that used to frighten you simply stop frightening you.
-Most people are afraid of cemeteries at night. 
-But I think: if cemeteries still scare you, 
-you probably haven't lost the person you love most yet. 
+Something happens when you lose the person you love most.
+The things that used to frighten you stop frightening you.
+Most people are afraid of cemeteries at night.
+If cemeteries still scare you,
+you probably haven't lost that person yet.
 
 I am not afraid of cemeteries anymore. Not even at night.
-And because I know why I live, the word "suicide" doesn't frighten me either. 
-I was obligated to live the way my grandmother wanted me to live. 
+The word "suicide" doesn't frighten me either.
+I knew why I was living.
 
-No justification for it, however strong, could convince me otherwise.
-So when I finally opened Camus again, I was ready. 
-
-So, Camus again. At 35. 
-
-I opened the book again.
+So, Camus again. At 35.
 
 *"There is but one truly serious philosophical problem,
 and that is suicide."*
