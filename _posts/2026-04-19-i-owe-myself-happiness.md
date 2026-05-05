@@ -17,8 +17,8 @@ when she paused.
 
 She asked if I got headaches.
 
-I said yes, always —
-but I drink a lot of caffeine,
+I said yes, always.
+I drink a lot of caffeine,
 I don't drink enough water,
 I have sleep problems.
 I had normalized the headaches a long time ago.
@@ -51,7 +51,7 @@ The MRI would tell us more.
 I walked out of the office
 and went directly to a café.
 
-This is something I inherited from my grandmother —
+This is something I inherited from my grandmother.
 I never go straight home after difficult news.
 When I was a child,
 after every doctor's appointment
@@ -70,7 +70,7 @@ Multiple sclerosis.
 
 I sat with that for a while.
 
-I called my closest friends:
+Then, I called my closest friends:
 
 My friend, N, started crying almost immediately.
 *Life is so unfair, Filiz. This is so unfair.*
@@ -82,20 +82,19 @@ he looked it up the moment we hung up.
 
 M called me a little later,
 after he had done his own research.
-He is deeply religious —
-faith is the center of his life.
-But that day he was angry.
+He is deeply religious.
+Faith is the center of his life.
+But that day he was angry (very unusual of him.)
+
 *I'm angry at God, Filiz.
 He hasn't given you things
-other people take for granted —
-and now this on top of everything?
+other people take for granted, and now this on top of everything?
 He shouldn't do this.*
 His voice broke a little.
 
-**I have had a great life — hard, yes, but genuinely, fully great.
+**I have had a great life. Hard, yes, but genuinely, fully great.
 If today were my last day, I would have no remorse.
-My close friends know this about me!
-I don't just exist. I live.**
+My close friends know this about me!**
 
 I understood why they were reacting this way.
 They know my life.
@@ -119,8 +118,8 @@ but it felt like the right thing to say.
 
 Only later did I notice
 that I had spent those conversations
-on the other side of the equation —
-the one doing the reassuring,
+on the other side of the equation. 
+The one doing the reassuring,
 not the one being reassured.
 
 I didn't mind.
@@ -130,9 +129,11 @@ But I also knew, somewhere,
 that I needed to be as careful with myself
 as my friends were being with me.
 
-I am sensitive but I am also strong.
-I accepted a long time ago
-that life is not fair.
+I am sensitive, yes, and deeply emotional.
+But I am also incredibly strong, and more resilient than most people know.
+I may never fully come to terms with how unfair life is, 
+but I accepted that truth a long time ago.
+
 I have always tried to live fully
 in whatever moment I am in.
 That is how my grandmother raised me.
@@ -142,8 +143,8 @@ feeling sorry for myself.
 
 The week after the appointment,
 we bought tickets to New York.
-We went.
-We walked, ate, visited every bookstore I loved,
+We flew there.
+We strolled the city, ate incredible east coast cuisine, visited every bookstore I loved
 spent hours in museums in front of paintings I love.
 We stayed in Hoboken and every morning
 I woke up to the Manhattan skyline.
@@ -167,7 +168,7 @@ My whole body had to be inside.
 I have claustrophobia.
 
 I undressed completely.
-They gave me a white garment —
+They gave me a white garment:
 ugly, unironed, freshly washed.
 I lay down on the table.
 The machine began to move slowly,
@@ -182,19 +183,19 @@ you're not looking well.*
 
 I really couldn't.
 My heart was trying to leave my chest.
-It's a terrible machine —
+It's a terrible machine,
 it makes terrible sounds
 and you cannot move at all.
 
 But I genuinely needed to know.
 Whether I had MS or not.
-The uncertainty was one thing —
+The uncertainty was one thing,
 I can tolerate uncertainty.
 But this uncertainty was different.
 
 I said: *I'll do it.*
 
-I laid back down.
+I lay back down.
 The technician said:
 *I don't think this is going to work, but okay, let's try one more time.*
 
@@ -210,8 +211,8 @@ My heart was beating loud enough
 to feel in my chest for the first four or five minutes.
 
 And then, from somewhere,
-a memory came —
-something I hadn't thought about
+a memory came.
+Something I hadn't thought about
 in twenty-four years.
 
 My grandmother had surgery once,
@@ -244,10 +245,12 @@ the white garment was soaked through.
 
 The technician said:
 *I thought you couldn't do it.
-You're pretty tough.*
+You're a pretty tough lady.*
 
 ---
-Then, the results came in.
+A few weeks passed. 
+
+Then the results came in.
 
 It was not MS!!!
 
@@ -268,7 +271,7 @@ every obligation, every responsibility,
 every job, every person —
 was a fraction of my life.
 
-The main thing was me.
+The main thing was me!
 
 **Me >> everything else.**
 
@@ -289,16 +292,16 @@ but I still wasn't meeting all my own needs.
 
 A few weeks ago,
 my body reminded me again —
-iron deficiency, heart palpitations, shortness of breath.
+iron deficiency, heavy period, heart palpitations, shortness of breath.
 
 I remembered the girl in the MRI machine
 who held herself together for sixty minutes
 so she could learn the truth.
 
 *Don't forget her,* I told myself.
-*Your degree, your work, other people —
+*Your degree, your work, other people,
 all of it is a fraction of your life.
-You come first.*
+You come first, Filiz.*
 
 ---
 
@@ -330,7 +333,7 @@ that aren't already moving toward me.
 
 **My happiness is the most important debt I owe.**
 
-And I intend to pay it.
+**And I intend to pay it.**
 
 ---
 
