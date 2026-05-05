@@ -577,17 +577,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/the-measurement-problem/";
           
         },
-      },{id: "post-new-york-notes-from-several-visits-part-i",
-        
-          title: "New York — Notes From Several Visits, Part I",
-        
-        description: "The Met&#39;s arms and armor, a 3000-year-old Egyptian wig, artifacts from Smyrna, Van Gogh up close, Basquiat, Campbell&#39;s soup cans, Refik Anadol, the NYPL, Bryant Park, lobster rolls, and Roman-style pizza by the slice.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/nyc/";
-          
-        },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
         
           title: "In Defense of Boredom — Why Doing Nothing Is the Most Radical Act...",
