@@ -3,8 +3,7 @@ layout: post
 title: Zaman Obsesyonum Üzerine
 date: 2025-04-16
 description: Saatle ilk tanışmamdan bugüne.
-tags: personal time
-categories: justfiliz, TR,
+tags: justfiliz, TR,
 ---
 
 Saatle ilk tanışmam sanırım 5 yaşımda oldu. Anneannemle Konak'a gitmistik, anneannem maasini cekecekti. Her zaman oldugu gibi oraya gittigimizde tum islerini hallederdi anneannecigim. Saatciye gelmistik. Anneannemin saat pilinin degistirilmesini beklerken, vitrinde pembe mor, içinde Barbie olan çok cici bir saat gormustum. Anneannem gozlerimi yakalamis olsa gerek, o beğendiğim saati bana almıştı. Hatta bileklerim öyle minnaktı ki, saatçi ekstra bir delik açtı. Çok güzel bir şeydi. Gercekten cok guzel. Hareket ettikçe içinde simler uçuşuyordu. Kayışı figür kabartmalıydı. Barbie'nin tokası, ayakkabısı, parfümü falan vardı kayışta. Bileğime taktığım andan itibaren, eve gidene kadar gözlerimi ayırmadığımı hayal ediyorum.
