@@ -23,7 +23,7 @@ Bu alan ikisini de barındıracak. Formüller de olacak, şiir de.
 Türkçe de olacak, İngilizce de. Düzenli olmayacak, kronolojik olmayacak.
 Sadece dürüst olacak.
 
-Anneanneciğimin mutfağından taşınan bir şey var içimde hâlâ —
+Anneanneciğimin mutfağından taşınan bir şey var içimde hâlâ,
 sorularla büyüyen, denizle büyüyen bir şey.
 
 Burası onun yeri!
