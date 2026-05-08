@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Obsessionım Üzerine
+title: Zaman Obsesyonum Üzerine
 date: 2025-04-16
 description: Saatle ilk tanışmamdan bugüne.
 tags: personal time
