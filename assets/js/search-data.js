@@ -412,9 +412,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/measurement-problem-deep/";
           
         },
-      },{id: "post-time-obsessionım-üzerine",
+      },{id: "post-zaman-obsesyonum-üzerine",
         
-          title: "Time Obsessionım Üzerine",
+          title: "Zaman Obsesyonum Üzerine",
         
         description: "Saatle ilk tanışmamdan bugüne.",
         section: "Posts",
