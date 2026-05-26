@@ -559,7 +559,7 @@ ninja.data = [{
         
           title: "What Does It Mean to Measure Something?",
         
-        description: "The deepest unsolved problem in quantum mechanics — and why your textbook lied to you.",
+        description: "The deepest unsolved problem in quantum mechanics, and why your textbook lied to you.",
         section: "Posts",
         handler: () => {
           
