@@ -10,9 +10,13 @@ Camus, *Sisifos Söyleni*'ne şöyle başlar:
 
 "Gerçekten ciddi olan tek felsefi soru vardır: intihar."
 
-İlk okuduğumda ürkmüştüm. Sonra anladım ki bu bir davet değil — 
-bir test. Yaşamaya *neden* devam ettiğini bilmiyorsan,
-zaten yaşamıyorsun demektir. Sürükleniyorsun.
+İlk okuduğumda ürkmüştüm. 
+
+Sonra anladım ki bu bir davet değil.
+Bir test! Yaşamaya *neden* devam ettiğini bilmiyorsan,
+zaten yaşamıyorsun demektir. 
+
+Sürükleniyorsun.
 
 Seneca ise yüzyıllar önce şunu yazmıştı:
 *"Omnia aliena sunt, tempus tantum nostrum est."*
@@ -24,13 +28,13 @@ Ama her ikisinin altında aynı soru yatıyor:
 
 **Sen neredesin, şu an?**
 
-Absürd dediğimiz şey — dünyanın anlamsızlığı değil,
+Absürd dediğimiz şey; dünyanın anlamsızlığı değil,
 bizim anlam arayışımızla dünyanın sessizliğinin çarpışması.
 Sisifos kayayı yukarı taşıyor, kaya aşağı yuvarlanıyor.
 Camus diyor ki: *Sisifos'u mutlu hayal etmeliyiz.*
 
 Bu bana çok şey ifade etti bir dönem.
-Anlam bulunmaz — *yapılır.* 
+Anlam bulunmaz, *yapılır.* 
 Taşı taşımak bile, bilinçli taşınırsa, bir cevaptır.
 
 Seneca ise saatlerimizi, günlerimizi, yıllarımızı sayıyor.
@@ -38,5 +42,8 @@ Seneca ise saatlerimizi, günlerimizi, yıllarımızı sayıyor.
 "Ne kadar zamanın *kaldı*?" diye soruyor.
 
 Belki de doğru soru şu:
-Sisifos'un ellerinde nasıl bir kalem olurdu?
+Sisifos'un ellerinde nasıl bir kalem olurdu? :) 
+
+(Ters köșeeee, en bi sevdiğimmmm.)
+
 Ve tepeye çıkarken ne yazardı?
