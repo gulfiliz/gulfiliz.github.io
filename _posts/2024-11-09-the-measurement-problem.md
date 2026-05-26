@@ -156,8 +156,6 @@ decoherence occurs on timescales of $$\sim 10^{-23}$$ seconds.
 This is why we never see Schrödinger's cat in a superposition:
 decoherence destroys the coherence faster than any measurement.
 
-(Confession: I work in quantum error correction, where decoherence isn't a philosophical subtlety. It's the enemy, the thing trying to kill your logical qubit every nanosecond. So watching it get offered as a *solution* to anything always makes me a little protective of the word.)
-
 But here is the part that matters:
 **decoherence does not solve the measurement problem.**
 
