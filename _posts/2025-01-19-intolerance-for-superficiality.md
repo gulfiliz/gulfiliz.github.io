@@ -122,10 +122,21 @@ These moments are rare, and the intolerance makes them rarer still, by holding t
 
 ## Coda
 
-One last thing: this is a confession, not a prescription. I am not recommending the intolerance, or claiming it is optimal, or suggesting you go and acquire it if you do not already have it.
+One last thing: this is a confession, not a prescription. 
+I am not recommending the intolerance, or claiming it is optimal, 
+or suggesting you go and acquire it if you do not already have it.
 
-I am saying that if you do have it, if any of this is recognizable, if you have sat in a room full of people and felt that particular loneliness of being present and still not encountered, then you are not broken. Not arrogant, or at least not only arrogant. Not antisocial, or at least not only that. You are someone for whom depth is not optional, for whom the surface genuinely is not enough, and not as a preference but as something closer to a constitutional fact.
+I am saying that if you do have it, if any of this is recognizable, 
+if you have sat in a room full of people and 
+felt that particular loneliness of being present and still not encountered, 
+then you are not broken. Not arrogant, or at least not only arrogant. 
+Not antisocial, or at least not only that. 
+You are someone for whom depth is not optional, for whom the surface genuinely is not enough, 
+and not as a preference but as something closer to a constitutional fact.
 
-It makes some things harder. It makes the right things more real. The demand is the cost, and the demand is also the gift, and the only honest place to stand is in the between.
+It makes some things harder. 
+It makes the right things more real. 
+The demand is the cost, and the demand is also the gift, 
+and the only honest place to stand is in the between.
 
-This one was never meant for a reading list. It is for the conversation you have been waiting to have.
+This one was never meant for a reading list. It is for the conversation you have been waiting to have. :)
