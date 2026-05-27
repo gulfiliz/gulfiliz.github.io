@@ -537,7 +537,7 @@ ninja.data = [{
         
           title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
         
-        description: "On the most important writer you may never have read — and why that is a loss you should correct immediately.",
+        description: "On the most important writer you may never have read, and why that is a loss you should correct immediately.",
         section: "Posts",
         handler: () => {
           
