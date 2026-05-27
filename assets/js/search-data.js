@@ -524,9 +524,9 @@ ninja.data = [{
         },
       },{id: "post-my-biggest-red-flag-on-being-intolerant-of-superficiality-a-confession-and-a-defense",
         
-          title: "My biggest Red Flag - On Being Intolerant of Superficiality — A Confession...",
+          title: "My Biggest Red Flag: On Being Intolerant of Superficiality, a Confession and a...",
         
-        description: "I cannot pretend to be interested when I am not. I cannot perform depth I do not feel. I cannot sit comfortably with people who are satisfied with the surface of things. This is either a virtue or a flaw — probably both.",
+        description: "I can&#39;t pretend to be interested when I&#39;m not, or perform a depth I don&#39;t feel, or sit easily with people content to stay on the surface. Either a virtue or a flaw. Probably both.",
         section: "Posts",
         handler: () => {
           
