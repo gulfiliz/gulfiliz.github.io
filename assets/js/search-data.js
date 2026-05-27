@@ -436,9 +436,9 @@ ninja.data = [{
         },
       },{id: "post-topological-phases-of-matter-when-topology-becomes-physics",
         
-          title: "Topological Phases of Matter — When Topology Becomes Physics",
+          title: "Topological Phases of Matter: When Topology Becomes Physics",
         
-        description: "The 2016 Nobel Prize recognized a revolution in condensed matter physics — the discovery that matter can be classified not by symmetry breaking but by topology. This is the story of that revolution, from the quantum Hall effect to topological insulators to non-Abelian anyons.",
+        description: "The 2016 Nobel Prize recognized a revolution in condensed matter physics: the discovery that matter can be classified not by symmetry breaking but by topology. This is the story of that revolution, from the quantum Hall effect to topological insulators to non-Abelian anyons.",
         section: "Posts",
         handler: () => {
           
