@@ -264,14 +264,17 @@ Trains pass through it east to west and west to east,
 carrying everyone and everything,
 connecting and separating in the same motion.
 
-*"Here in this place the trains went
-from east to west and from west to east."*
+*"Trains in these parts went from East to West, and from West to East...
+On either side of the railway lines lay the great wide spaces of the desert - Sary-Ozeki,
+the Middle lands of the yellow steppes.
+In these parts any distance was measured in relation to the railway,
+as if from the Greenwich meridian...
+And the trains went from East to West, and from West to East..."*
 
-This is the line I lost myself in. It looks like nothing.
-It is one of the most resonant geographical sentences
-in modern literature: the steppe as crossroads,
-the junction as the point where all directions meet
-and none of them is home.
+This is the passage I lost myself in. It looks like nothing.
+It is one of the most resonant openings in modern literature:
+the steppe as crossroads, the junction as the point
+where all directions meet and none of them is home.
 I read it over and over in the weeks I was grieving,
 the trains going and coming, going and coming,
 while one particular person stayed gone.
@@ -586,10 +589,14 @@ calling a name that must not be forgotten.
 
 ---
 
-*Further reading:*
+*Further reading:* 
+(I read all of his books!)
 *Chingiz Aitmatov, The White Ship (trans. Mirra Ginsburg)*
+
 *Chingiz Aitmatov, The Day Lasts More Than a Hundred Years (trans. John French)*
+
 *Chingiz Aitmatov, The Scaffold (trans. Arch Tait)*
+
 *Chingiz Aitmatov, Farewell, Gulsary (trans. John French)*
-*For context: Hamid Ismailov, The Railway, another Central Asian masterpiece.*
+
 
