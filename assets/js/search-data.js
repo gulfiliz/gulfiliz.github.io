@@ -592,7 +592,7 @@ ninja.data = [{
         
           title: "Tokyo — Or, How I Spent Three Hours in a Starbucks Because I...",
         
-        description: "On arriving in Tokyo at 23, speaking zero Japanese, ordering something called &quot;eggslut&quot; for breakfast, and falling irreversibly in love with a city that makes no sense and perfect sense simultaneously.",
+        description: "On arriving in Tokyo at 23, speaking zero Japanese, ordering something called &quot;eggslut&quot; for breakfast, and falling irreversibly in love with a city that makes no sense and perfect sense at the same time.",
         section: "Posts",
         handler: () => {
           
