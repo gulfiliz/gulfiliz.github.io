@@ -2,436 +2,435 @@
 layout: post
 title: Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back
 date: 2024-12-28
-description: On the most important writer you may never have read — and why that is a loss you should correct immediately.
+description: On the most important writer you may never have read, and why that is a loss you should correct immediately.
 tags: readings, literature,
 ---
 
-There is a writer whose name most Western readers do not know.
+There is a writer most Western readers have never heard of.
 
-He was born in 1928 in a small village in Kyrgyzstan —
-a place so remote that the nearest railway station
+He was born in 1928 in a small village in Kyrgyzstan,
+so remote that the nearest railway station
 was a day's journey away.
 He wrote in both Kyrgyz and Russian.
-He was translated into over 170 languages.
-He sold hundreds of millions of copies worldwide.
+He was translated into more than 170 languages.
+He sold hundreds of millions of copies.
 
-In the Soviet Union, he was the most widely read living author.
+In the Soviet Union he was the most widely read living author.
 Gabriel García Márquez called him one of the greatest writers of the century.
-Mikhail Gorbachev considered him a personal friend and advisor.
+Mikhail Gorbachev counted him a personal friend and advisor.
 
 His name was **Chingiz Aitmatov.**
 
-If you have not read him,
-you have a magnificent gift waiting for you.
+I should say up front that I can't write about him from a distance.
+I was raised by my grandmother, the way the children in his books so often are.
+His novels are tangled up with the most important person in my life,
+and with losing her.
+So this isn't a neutral recommendation. It's closer to a confession.
+
+If you haven't read him, there is a gift waiting for you.
+Let me try to tell you why.
 
 ---
 
 ## I. The World He Came From
 
-To read Aitmatov without understanding where he came from
+To read Aitmatov without knowing where he came from
 is to read him with one eye closed.
 
-Kyrgyzstan — the land between the Tian Shan mountains
-and the vast steppes of Central Asia —
-is one of the oldest inhabited places on earth,
+Kyrgyzstan, the land between the Tian Shan mountains
+and the vast steppes of Central Asia,
+is one of the oldest inhabited places on earth
 and one of the least known to Western readers.
 
-The Kyrgyz people were nomads for millennia —
-their culture organized around movement, horses, the sky,
+The Kyrgyz were nomads for millennia,
+their culture built around movement, horses, the sky,
 the relationship between the human and the elemental.
-Their oral tradition — the **Epic of Manas**,
-the longest epic poem in any language,
-three times the length of the Odyssey and the Iliad combined —
-carried the memory of the people
-across centuries of conquest and transformation.
+Their oral tradition, the **Epic of Manas**,
+is the longest epic poem in any language,
+three times the length of the Odyssey and the Iliad combined,
+and it carried the memory of the people
+across centuries of conquest.
 
 Then came the Russians. Then the Soviets.
 
 Collectivization destroyed the nomadic way of life.
-The great **Manaschi** — the epic singers who had memorized
-hundreds of thousands of verses —
-were classified as class enemies.
-The old language, the old stories, the old relationship with the land —
-all of it was being systematically dismantled.
+The great **Manaschi**, the epic singers
+who had memorized hundreds of thousands of verses,
+were branded class enemies.
+The old language, the old stories, the old bond with the land,
+all of it was being taken apart on purpose.
 
-Aitmatov grew up in the ruins of this dismantling.
-
-His father, Törökul Aitmatov —
-a Communist Party official and intellectual —
+Aitmatov grew up in the ruins of that dismantling.
+His father, Törökul Aitmatov,
+a Communist Party official and intellectual,
 was arrested in 1937 during Stalin's purges
 and shot the following year.
-Chingiz was nine years old.
+Chingiz was nine.
 
-His mother raised four children alone
-in a village with no men —
-they had all been taken by the purges or the war.
+His mother raised four children alone,
+in a village with almost no men left,
+all of them taken by the purges or the war.
 At fourteen, Aitmatov was the village tax collector.
-At fifteen, he was secretary of the village council.
+At fifteen, secretary of the village council.
+He carried the weight of adults
+before he had finished being a child.
 
-He carried the weight of adults before he was done being a child.
-
-This is not background.
-This is the source.
-Everything Aitmatov wrote came from this —
-from knowing what it means to lose a father to the state,
-to watch a culture be erased,
-to carry too much too soon,
-to love a landscape that is being destroyed.
+This isn't background. It's the source of everything he wrote:
+knowing what it means to lose a father to the state,
+to watch a culture erased, to carry too much too soon,
+to love a landscape while it is being destroyed.
 
 ---
 
-## II. The White Ship — *Белый пароход* (1970)
+## II. The White Ship (*Белый пароход*, 1970)
 
 There is a boy.
 
-He is seven years old, perhaps eight.
+He is seven, maybe eight.
 He lives with his grandfather Momun
-in a remote forest ranger's post in the mountains of Kyrgyzstan.
-His parents are gone — separated, absent, unreachable.
-He has a school bag. He treasures it.
+at a remote forest ranger's post in the mountains of Kyrgyzstan.
+His parents are gone, separated, absent, unreachable.
+He has a school bag, and he treasures it.
 
-He has three friends: a pair of binoculars through which
-he observes the distant world,
-a stone in the shape of a fish,
+He has three friends: a pair of binoculars
+he uses to watch the distant world,
+a stone shaped like a fish,
 and a white ship he can see far away on the lake below.
-
-He has invented a game: he will turn into a fish,
-swim down the river to the lake,
-find the white ship, and tell his father —
-who he believes is on that ship —
+He has invented a game. He will turn into a fish,
+swim down the river to the lake, find the white ship,
+and tell his father, who he believes is on that ship,
 everything that has happened.
 
-The boy lives in two worlds simultaneously:
-the world of the forest ranger's post —
-with its adult cruelties, its compromises, its small corruptions —
-and the world of myth,
-the world of the Horned Mother Deer
-who, according to Kyrgyz legend,
-brought the ancestors of the Kyrgyz people
-back to life after they were exterminated by enemies.
+I have to stop here, because this is where the book
+stopped being a book for me and became a mirror.
 
-The Horned Mother Deer is the spirit of the forest,
-the principle of regeneration,
-the promise that destruction is not the final word.
+I was raised by my grandmother, the way this boy
+is raised by his grandfather. I learned my *töreler*,
+my customs, the old right and wrong of things, from her,
+exactly the way Momun teaches the boy. And I had a game
+almost identical to his. I grew up in a house on the Aegean.
+The whole sea opened up from our balcony,
+and I spent my entire childhood watching the ships go by.
+I used to tell myself: if I can count more than ten ships
+before they pass, my wish will come true.
+The boy had his white ship on the lake.
+I had the Aegean, the sea I fell in love with as a child.
+It was my white ship.
 
-Grandfather Momun tells the boy this story.
-The boy believes it — not naively, but with the full force
-of a child's capacity for mythic truth.
+And the school bag. The boy's whole heart is in that bag.
+When I was six I got my first one, green, with the Lion King on it,
+and I fell so completely in love with it
+that I wanted school to start immediately
+just so I could carry it.
+I have never forgotten that feeling,
+and Aitmatov had already found it and put it in a book
+before I was even born.
 
-Then Orozkul — the boy's uncle by marriage,
-the man who controls the post,
-brutal, drunk, resentful —
-kills a deer.
+So, the boy. He lives in two worlds at once.
+The forest post, with its adult cruelties and small corruptions,
+and the world of myth: the world of the Horned Mother Deer,
+who in Kyrgyz legend brought the ancestors of the Kyrgyz
+back to life after enemies had wiped them out.
+She is the spirit of the forest, the principle of regeneration,
+the promise that destruction is not the last word.
+Momun tells the boy this story, and the boy believes it,
+not naively, but with a child's full capacity for mythic truth.
 
-Not just a deer. The last deer in the forest.
-In violation of every prohibition, every law,
-every mythic interdiction the grandfather has taught the boy.
-
-And Momun — gentle, compromised, afraid of Orozkul —
-helps him do it.
+Then Orozkul, the boy's uncle by marriage,
+the brutal, drunk, resentful man who runs the post,
+kills a deer. Not just a deer. The last deer in the forest,
+against every prohibition the grandfather has ever taught.
+And Momun, gentle, frightened, compromised, helps him do it.
 
 The boy watches his grandfather butcher the deer.
-The man who told him the myth participates in the myth's destruction.
+The man who gave him the myth helps destroy it.
 
-There is no rescue. No redemption.
-No return of the Horned Mother Deer.
-
+There is no rescue. No Horned Mother Deer returning.
 The boy walks into the river.
 
-*"He did not want to live as a human being anymore.
-He wanted to be a fish and swim away."*
+*"I won't return," he said to himself.
+"It's better to be a fish, it's better to be a fish."*
 
----
+When I first read that, I didn't read it as despair.
+I said to the boy, almost out loud: you're free now.
+Because life is like that. Some people's burden is unbearably heavy
+while they are still children, and this is the novel of a child
+who answers his disappointment by drowning himself in his own dream.
 
-### What The White Ship Does
+### What it does
 
-Aitmatov said in an interview
-that he agonized over the ending.
+Aitmatov said he agonized over that ending.
+His editors wanted him to change it,
+to give the boy a rescue, a hope, a Soviet future.
+Soviet literature was supposed to end in forward motion,
+in the promise of the new Soviet man.
+He refused.
 
-His editors wanted him to change it —
-to give the boy a rescue, a hope, a future.
-Soviet literature required optimism.
-The Party required that stories end with forward motion,
-with the possibility of the new Soviet man.
-
-Aitmatov refused.
-
-The ending is not a celebration of death.
-It is a statement about what happens
-when the sources of meaning — myth, story, the grandfather's love —
-are corrupted from within.
-
-The boy does not die because the world is cruel.
-He dies because the person who gave him the myth
-helped destroy it.
-
-This is the specific, precise, unbearable betrayal at the center of the novel:
-not the cruelty of enemies but the compromise of love.
-
+The ending isn't a celebration of death.
+It's a statement about what happens when the sources of meaning,
+the myth, the story, the grandfather's love,
+are corrupted from the inside.
+The boy doesn't die because the world is cruel.
+He dies because the person who gave him the myth helped kill it.
+That is the precise, unbearable betrayal at the center of the book:
+not the cruelty of enemies, but the weakness of love.
 Momun loves the boy. Momun is also weak.
-These two things are simultaneously true
-and their simultaneous truth is what breaks everything.
+Both are true at once, and it is their being true at once
+that breaks everything.
 
-The novel is short — a novella, really.
-It can be read in an afternoon.
+This book has no good guys and bad guys.
+It has innocence, and just as much pain.
+It has the world of one small child,
+which may be more meaningful than all of ours.
+And the characters are so sincere, so alive, so much like us.
+Which of us hasn't flared up like Orozkul?
+Which of us hasn't railed against fate like Aunt Bekey?
+Which of us hasn't begged forgiveness like Grandfather Momun?
+And which of us, head to toe in innocence,
+hasn't waited for our own white ship?
 
+The one I keep arguing with is Momun.
+Half the book I wanted to shake him.
+Raise your voice, old man. Rebel. Break the chains.
+And the maddening thing is that the one or two times he does
+raise it, even slightly, both Orozkul and the grandmother
+flinch and back off. But it never lasts.
+Isn't that exactly how it goes? You work yourself to the bone,
+you stay quiet, you try to make yourself useful to people,
+and as long as you never raise your voice you get crushed,
+looked down on, never paid back for what you gave.
+Sometimes you have to raise it. Sometimes you have to act
+for what you believe, or you end up like Momun,
+destroying the thing you love with your own hands.
+
+There is a line in it I underlined:
+*the one who wants to cover his own shame
+smears it on the faces of others.*
+That is Orozkul exactly.
+
+The book is short, a novella really.
+You can read it in an afternoon.
 It will stay with you for decades.
 
 ---
 
-## III. The Day Lasts More Than a Hundred Years
-## *И дольше века длится день* (1980)
+## III. The Day Lasts More Than a Hundred Years (*И дольше века длится день*, 1980)
 
-This is Aitmatov's masterpiece.
-This is, I will say without qualification,
-one of the great novels of the twentieth century —
+This is his masterpiece.
+It is, and I'll say it without hedging,
+one of the great novels of the twentieth century,
 and one of the least known in the West.
 
-The title comes from a Pasternak poem:
-*"February. Get ink and weep..."*
-The full line: *"And the longer a day lasts, the longer it seems to last."*
-The novel's Russian title is more literal:
-*The Day Lasts Longer Than a Century.*
+It is also my grief book.
+I started it while my grandmother was still alive
+and finished it after she was gone.
+By the time I read the last page,
+the person who raised me,
+the person who gave me my *töreler*
+the way Momun gave them to that boy,
+was no longer in the world.
+I cannot separate this novel from that.
+For a while I would fall into certain sentences
+and stay there for hours.
 
-The novel takes place over a single day and night —
-the day that Yedigei Zhangel'din,
-a worker at a small railway junction in the Kazakh steppe,
-must bury his lifelong friend Kazangap.
+The book takes place over a single day and night:
+the day Yedigei Zhangel'din, a worker at a small railway junction
+in the Kazakh steppe, has to bury his lifelong friend Kazangap.
+But the single day holds a whole century.
+Yedigei's journey to the burial ground,
+across the flat enormous steppe on a camel named Karanar,
+opens out into memory: his whole life,
+his friendship with Kazangap, the history of the junction,
+of the steppe, of the Kazakh people.
 
-But the single day contains a century.
-
-Yedigei's journey to the burial ground —
-across the vast, flat steppe,
-on a camel named Karanar —
-unravels into memory:
-his entire life, his friendship with Kazangap,
-the history of the junction,
-the history of the steppe,
-the history of the Kazakh people.
-
-The railway junction is called Boranly-Burannyi —
+The junction is called Boranly-Burannyi,
 the Windy Place, the Place of Blizzards.
-Trains pass through it from east to west and west to east,
-carrying everything and everyone,
-connecting and separating simultaneously.
+Trains pass through it east to west and west to east,
+carrying everyone and everything,
+connecting and separating in the same motion.
 
-*"Here in this place the trains went from east to west
-and from west to east."*
+*"Here in this place the trains went
+from east to west and from west to east."*
 
-This line — deceptively simple —
-is one of the most resonant geographical metaphors
-in modern literature.
-The steppe as crossroads. The junction as the point
-where all directions meet and none is home.
+This is the line I lost myself in. It looks like nothing.
+It is one of the most resonant geographical sentences
+in modern literature: the steppe as crossroads,
+the junction as the point where all directions meet
+and none of them is home.
+I read it over and over in the weeks I was grieving,
+the trains going and coming, going and coming,
+while one particular person stayed gone.
 
-Yedigei has lived here for decades —
-arrived after the war, stayed, raised children,
-buried friends, watched the world change
-while the steppe remained.
-
-He is not a hero in any conventional sense.
-He is a man of the steppe — patient, sturdy,
-with a memory that holds everything
-and a grief that cannot be expressed quickly.
-
----
+Another line I underlined, and I no longer remember
+exactly what undid me in that moment, but I marked it hard:
+*terrible things can happen to people too.
+A person left alone with contradictions he cannot overcome
+is shaken to the depths, and he can tell no one,
+because no one can help him.
+It is like a terrible landslide.
+You see the danger, and you can do nothing.*
 
 ### The Mankurt
 
 Woven through the novel is the legend of the **Mankurt.**
 
-In Aitmatov's retelling of the ancient Zhuan legend:
+In Aitmatov's retelling of the old Zhuan legend,
+enemy warriors who took prisoners would sometimes
+perform a procedure to destroy a captive's memory,
+to make him forget his name, his family, his language, his self.
+They shaved his head, wrapped it in raw camel hide,
+and left him in the desert sun.
+As the hide dried it shrank and tightened,
+causing unbearable pain.
+Some it killed. Some it drove mad.
+The ones who survived came out as **Mankurts**:
+human bodies with no memory of ever having been human.
+Perfect slaves. Obedient, tireless,
+with no will and no history.
 
-Enemy warriors, when they captured prisoners,
-would sometimes perform a procedure
-designed to destroy the prisoner's memory —
-to make them forget their name, their family,
-their language, their identity.
+They couldn't be freed, because they didn't know
+they were enslaved. They had no self to free.
 
-The procedure: the prisoner's head was shaved,
-then encased in a raw camel hide.
-The hide was placed in the desert sun.
-As it dried and shrank, it constricted —
-causing unbearable pain,
-sometimes killing,
-sometimes driving mad.
-
-Those who survived —
-those whom the hide did not kill —
-emerged as **Mankurts:**
-human bodies with no memory of being human.
-Perfect slaves. Obedient, tireless, without will or history.
-
-They could not be freed.
-They did not know they were enslaved.
-They had no self to free.
-
-A Mankurt, in the novel's legend,
-kills his own mother when she comes to rescue him —
-because he does not recognize her,
+In the legend, a Mankurt kills his own mother
+when she comes to rescue him,
+because he doesn't recognize her,
 because the word *mother* means nothing to him,
-because the category of *mother* requires a self
-that can stand in relation to a mother —
-and he has no self.
+because being a son requires a self
+that can stand in relation to a mother, and his is gone.
 
-Aitmatov wrote this legend in 1980 —
-during the height of Soviet cultural policy
-that systematically suppressed minority languages,
-traditions, histories.
-
-The Mankurt is not a metaphor.
-It is a description.
-
-A people made to forget their language
-are being Mankurtized.
-A culture whose epics are classified as dangerous
+Aitmatov wrote this in 1980,
+at the height of a Soviet cultural policy
+that was systematically erasing minority languages and histories.
+The Mankurt is not really a metaphor. It's a description.
+A people made to forget their language is being Mankurtized.
+A culture whose epics are filed away as dangerous
 is being Mankurtized.
-A child taught that their grandparents' world was backward,
-primitive, pre-revolutionary —
-is being Mankurtized.
+A child taught that her grandparents' world
+was backward and primitive is being Mankurtized.
 
-The mother in the legend — Naiman-Ana —
-rides to find her son, calling his name.
-He does not recognize her.
-He kills her.
-Her white headscarf, floating upward as she falls,
+The mother in the legend, Naiman-Ana,
+rides out calling her son's name.
+He doesn't know her. He kills her.
+Her white headscarf, lifting into the air as she falls,
 becomes a white bird that flies over the steppe forever,
-calling: *"Remember whose son you are.
-Remember your name."*
+calling: *remember whose child you are, remember your name.*
 
-This image — the white bird, the headscarf, the calling —
-enters you and does not leave.
+That image gets into you and never leaves.
+And I think I understand now why it lodged so deep.
+Everything I am that is worth keeping,
+my language, my customs, the small old rules of how to be a person,
+came from my grandmother. To forget her
+would be to be Mankurtized. So I don't.
+The bird is still calling, and I am still answering.
 
----
+### The science fiction frame
 
-### The Science Fiction Frame
-
-The novel's second narrative strand is extraordinary —
-and largely unknown even to people who have read the novel
+The novel's second strand is extraordinary,
+and largely unknown even to people who have read the book,
 because it was cut from many editions.
 
-While Yedigei makes his way across the steppe,
-two Soviet and American cosmonauts aboard a joint space station
-have made contact with an alien civilization —
-**Lesnaya Grud** (Forest Breast) —
-a planet of beings of extraordinary intelligence and benevolence.
-
-The cosmic beings wish to establish contact with Earth.
+While Yedigei crosses the steppe,
+two cosmonauts, one Soviet and one American,
+aboard a joint space station,
+make contact with an alien civilization:
+**Lesnaya Grud**, the Forest Breast,
+a planet of beings of remarkable intelligence and goodwill.
+The cosmic beings want to make contact with Earth.
 The Soviet and American governments,
-terrified of what this contact might mean —
-what it might reveal, what it might disrupt,
-what it might give their citizens —
-refuse.
+terrified of what that contact might reveal or disrupt
+or give to their own citizens, refuse.
+They build **Parity**, a joint barrier around the Earth
+to keep any contact out.
+The cosmonauts, unable to obey the order
+to cut off the civilization that has opened itself to them,
+are stranded, unable to come home
+and unable to go on.
 
-They establish **Parity** —
-a joint space barrier around Earth
-to prevent any contact.
-
-The cosmonauts, unable to comply with this order,
-are effectively imprisoned in space —
-neither able to return to Earth
-nor to reach the civilization that has opened itself to them.
-
-The parallel is not subtle:
-the steppe and the cosmos,
-the burial and the barrier,
-the forgetting of the Mankurt and the refusal of contact —
-all of them are the same story.
-
+The parallel isn't subtle, and it isn't meant to be.
+The steppe and the cosmos, the burial and the barrier,
+the forgetting of the Mankurt and the refusal of contact,
+are all the same story.
 The story of power choosing ignorance over knowledge,
 isolation over connection,
-control over the terrifying freedom
+control over the frightening freedom
 of knowing more than you knew before.
 
 ---
 
-## IV. The Scaffold — *Плаха* (1986)
+## IV. The Scaffold (*Плаха*, 1986)
 
-By 1986, Aitmatov was writing differently.
+In Turkish it's published as *Dişi Kurdun Rüyaları*,
+"The Dreams of the She-Wolf,"
+and honestly that title is the truer one,
+because the wolves are the soul of the book,
+and I notice I left their dreams out the first time
+I tried to write about it.
 
-*The Scaffold* is his most ambitious and most uneven novel —
+By 1986 Aitmatov was writing differently.
+*The Scaffold* is his most ambitious and most uneven novel,
 a book that reaches for everything
-and does not entirely hold together,
-but whose moments of greatness
-are among the greatest things he wrote.
+and doesn't entirely hold together,
+but whose best moments are among the greatest things he wrote.
 
-The novel opens — magnificently —
-with wolves.
-
+It opens, magnificently, with wolves.
 Akbara and Tashchainar, a she-wolf and her mate,
-living in the Central Asian steppe.
-The wolves are not symbols.
-They are wolves — specific, particular,
-with their own perceptions and desires and fears.
+on the Central Asian steppe.
+The wolves aren't symbols. They are wolves,
+specific and particular, with their own perceptions
+and fears and desires, and Aitmatov gives us their inner life,
+and the she-wolf's dreams,
+with a directness that is genuinely astonishing.
 
-Aitmatov gives us their inner life
-with a directness and credibility
-that is genuinely remarkable.
-
-The wolves are hunting. They are raising cubs.
-Then the Soviet narcotics operation comes —
-to harvest the wild marijuana that grows on the steppe.
-Helicopters. Men with guns. Chaos.
-The herd of antelopes stampedes and is slaughtered.
-The wolf cubs are killed.
-
-Akbara survives. Tashchainar survives.
-They lose cub after cub to human intervention —
-not to cruelty, exactly, but to indifference.
-The humans do not hate the wolves.
+The wolves are hunting, raising cubs.
+Then the Soviet narcotics operation arrives
+to harvest the wild marijuana growing on the steppe.
+Helicopters, men with guns, chaos.
+The antelope herd stampedes and is slaughtered.
+The cubs are killed.
+Akbara and Tashchainar survive,
+and lose litter after litter to human activity,
+not to cruelty exactly, but to indifference.
+The people don't hate the wolves.
 The wolves simply do not exist
-in the frame of what matters
+inside the frame of what matters
 to the people making the decisions.
 
-This is the ecological and moral argument
-that runs through the novel:
-not that humans are evil
-but that the frame of consideration has been drawn too small —
-that a world in which wolves and their cubs
-do not count
-is a world in which eventually
-nothing will count.
+That is the moral argument running under the whole book:
+not that people are evil,
+but that the circle of what counts has been drawn too small,
+and a world where wolves and their cubs don't count
+is a world where eventually nothing will.
 
-Alongside the wolves:
-a young man searching for God in the Soviet steppe,
-a drug addict, a Christ figure,
-a party official.
+I underlined one question in it
+that I still don't have an answer to:
+*why does evil, almost every single time,
+come out stronger than good?*
 
-The novel is not perfectly constructed.
-It is too long, too various, too ambitious.
-
-But the wolves —
-the wolves are perfect.
-And the image of Akbara,
-having lost everything,
-finally taking a human child —
-not from malice but from a grief
-that has nowhere else to go —
-this image will not leave you.
+The novel isn't perfectly built.
+It's too long, too various, too ambitious.
+But the wolves are perfect.
+And the image of Akbara, having lost everything,
+finally taking a human child,
+not out of malice but out of a grief with nowhere else to go,
+will not leave you.
 
 ---
 
-## V. The Place Connecting Two Worlds
+## V. The Place That Connects Two Worlds
 
-All of Aitmatov's novels share a geography —
-not literal, but mythic.
+All of Aitmatov's novels share a geography,
+not a literal one but a mythic one.
 
-A vast, open landscape — steppe or mountain or lake —
-in which the human figure is small
-against enormous forces:
+A vast open landscape, steppe or mountain or lake,
+in which the human figure is small against enormous forces:
 time, history, the state, the cosmos.
-
-A railway or a river or a white ship in the distance —
-the possibility of elsewhere,
-of connection, of escape.
-
-A story within the story —
-a myth, a legend, a song —
-that contains the truth the present cannot contain directly.
-
-And a moment of loss that is also,
-in some way that is not consolation
-but is not quite the opposite of consolation,
+A railway or a river or a white ship in the distance,
+the possibility of elsewhere.
+A story inside the story, a myth or a legend or a song,
+holding the truth the present can't hold directly.
+And a moment of loss that is somehow also,
+in a way that is not consolation
+but is not the opposite of consolation either,
 a moment of clarity.
 
 Aitmatov understood something about loss
@@ -444,144 +443,133 @@ The white ship does not return.
 The Mankurt does not remember.
 Akbara does not stop grieving.
 
-But the telling — the fact that someone
-sat down and found the precise words
-for these irreversible things —
-this is its own kind of answer.
-
-Not to the loss. But to the silence
-that loss leaves behind.
+But the telling, the fact that someone sat down
+and found the exact words for these irreversible things,
+is its own kind of answer.
+Not to the loss. To the silence the loss leaves behind.
+I know that silence. This is the writer who filled it for me.
 
 ---
 
 ## VI. Language and Double Vision
 
-Aitmatov wrote in two languages —
-Kyrgyz and Russian —
-and this bilingualism was not incidental.
+Aitmatov wrote in two languages, Kyrgyz and Russian,
+and the bilingualism was not incidental.
+It gave him a kind of double vision,
+the ability to live in two cultural worlds at once,
+to see each through the other,
+and to find in the gap between them
+the space where literature happens.
 
-It gave him what the critic calls **double vision** —
-the ability to inhabit two cultural worlds simultaneously,
-to see each through the lens of the other,
-to find in the gap between them
-the space where literature lives.
+His Kyrgyz gave him the oral tradition, the epic cadences,
+the particular bond between the human and the natural,
+the way time moves in a nomadic culture,
+not in a straight chronological line but in layers,
+the past still present in the present
+in a way literate cultures tend to suppress.
 
-His Kyrgyz gave him:
-the oral tradition, the epic cadences,
-the specific relationship between the human and the natural,
-the way time moves in a nomadic culture —
-not chronologically but in layers,
-the past present in the present
-in a way that literate cultures often suppress.
+His Russian gave him the great tradition of the Russian novel,
+a literary language honed by Pushkin and Tolstoy
+and Dostoevsky and Chekhov,
+two centuries of forms built
+for thinking about suffering and meaning.
 
-His Russian gave him:
-the great tradition of the Russian novel,
-the precision of a literary language honed
-by Pushkin, Tolstoy, Dostoevsky, Chekhov —
-the forms and structures of a literature
-that had been thinking about suffering and meaning
-for two centuries.
+The result is a prose unlike anyone else's,
+vast and intimate at the same time,
+moving between myth and the texture of an ordinary day
+with a naturalness that feels inevitable afterward
+and is, in practice, extraordinarily hard to do.
 
-The result is a prose style unlike anyone else's —
-vast and intimate simultaneously,
-moving between myth and the specific texture of daily life
-with a naturalness that feels inevitable in retrospect
-and is, in practice, extraordinarily difficult.
-
-Magical realism is the term sometimes applied.
-It is not quite right.
-
-García Márquez's magic comes from excess —
+People sometimes reach for "magical realism." It isn't quite right.
+García Márquez's magic comes from excess,
 the world overfull with impossible things.
-Aitmatov's myth comes from depth —
-the world as it is, but seen through a longer time,
+Aitmatov's myth comes from depth:
+the world exactly as it is, but seen through a longer time,
 a deeper history, a different relationship to the sacred.
-
-The Horned Mother Deer does not violate the laws of nature.
+The Horned Mother Deer doesn't break the laws of nature.
 She is the law of nature, seen from inside a tradition
-that has not separated the human from the natural
-into the opposition that modernity requires.
+that never split the human off from the natural in the first place.
 
 ---
 
 ## VII. What He Knew
 
 Aitmatov died in 2008, in Nuremberg, of pneumonia.
-He was seventy-nine years old.
-
-He had outlived the Soviet Union.
-He had served as Kyrgyzstan's ambassador to several countries.
-He had watched his country achieve independence
-and struggle to understand what independence meant
+He was seventy-nine.
+He had outlived the Soviet Union,
+served as Kyrgyzstan's ambassador to several countries,
+and watched his country become independent
+and then struggle to work out what independence even meant
 after centuries of being someone else's territory.
 
-In one of his last interviews,
-he was asked what he most wanted readers to take from his work.
-
-He said: *"I want them to feel
-that they are not alone in their grief.
-That their grief has been felt before.
-That the steppe is wide enough to hold it."*
-
-The steppe is wide enough to hold it.
-
-This is the sentence I return to.
-
-Not: your grief will be healed.
-Not: your grief has a meaning.
-Not: your grief will pass.
-
-The steppe is wide enough to hold it.
-
-The landscape — vast, indifferent, enduring —
-receives what the human cannot contain.
+What his books say to me, over and over,
+is not that grief will be healed,
+or that it has a hidden meaning,
+or that it will pass.
+It is something quieter and harder
+and, in the end, more bearable:
+that the steppe is wide enough to hold it.
+The landscape, vast and indifferent and enduring,
+receives what the human can't contain.
 The wind takes it. The grass absorbs it.
 The white bird keeps flying overhead,
-calling a name
-that someone, somewhere, still remembers.
+calling a name that someone, somewhere, still remembers.
+
+And then there is the line I carry around with me,
+the one that I think actually made me who I am.
+He wrote, simply:
+
+*"Yes, there will be winter, there will be cold,
+there will be snowstorms. But then there will be spring again."*
+
+I read that as a younger person and never put it down.
+It is the whole of him in one sentence.
+The winter is real. He never once pretends it isn't.
+And the spring is real too.
 
 ---
 
 ## VIII. Where to Begin
 
-If you have not read Aitmatov, begin with *The White Ship.*
-
-It is the shortest, the purest, the most devastating.
-It will tell you immediately
-whether this writer's world is your world.
-
-For most readers who encounter it,
-the answer is: yes. Incomprehensibly, yes.
-As if the book had been waiting for you
-in a language you didn't know you spoke.
+If you haven't read Aitmatov, begin with *The White Ship.*
+It is the shortest, the purest, the most devastating,
+and it will tell you almost immediately
+whether his world is your world.
+For most people who meet it, the answer is yes,
+an almost embarrassing, total yes,
+as if the book had been waiting for them
+in a language they didn't know they spoke.
+It was for me.
 
 Then *The Day Lasts More Than a Hundred Years.*
 Read it slowly. Let Yedigei's journey take its time.
 Let the steppe do what the steppe does.
 
-Then *The Scaffold* — knowing its imperfections,
-reading past them for the wolves.
+Then *The Scaffold*, knowing its flaws,
+reading past them for the wolves and their dreams.
 
-Then *Farewell, Gulsary* — the story of a man and his horse,
-which is to say: a story about loyalty,
-about the relationship between the human and the animal,
-about what it means to grow old
-in a world that is growing old differently than you.
+Then *Farewell, Gulsary*, the story of a man and his horse,
+which is to say a story about loyalty
+and about growing old in a world
+that is growing old in a different direction than you are.
+And if it takes hold of you the way it took hold of me,
+go on to *Jamila* and *Mother Earth*,
+and then you will simply have read all of him,
+which is one of the better things that can happen to a person.
 
-Then, when you have read them all,
-sit for a while with the image
-of a white bird flying over the steppe —
+When you've read them all, sit for a while
+with the image of a white bird over the steppe,
 a headscarf, a mother's voice,
 calling a name that must not be forgotten.
 
-*"Remember whose son you are.*
-*Remember your name."*
+*Remember whose child you are.*
+*Remember your name.*
 
 ---
 
 *Further reading:*
-*Chingiz Aitmatov — The White Ship (trans. Mirra Ginsburg)*
-*Chingiz Aitmatov — The Day Lasts More Than a Hundred Years (trans. John French)*
-*Chingiz Aitmatov — The Scaffold (trans. Arch Tait)*
-*Chingiz Aitmatov — Farewell, Gulsary (trans. John French)*
-*For context: Hamid Ismailov — The Railway (another Central Asian masterpiece)*
+*Chingiz Aitmatov, The White Ship (trans. Mirra Ginsburg)*
+*Chingiz Aitmatov, The Day Lasts More Than a Hundred Years (trans. John French)*
+*Chingiz Aitmatov, The Scaffold (trans. Arch Tait)*
+*Chingiz Aitmatov, Farewell, Gulsary (trans. John French)*
+*For context: Hamid Ismailov, The Railway, another Central Asian masterpiece.*
