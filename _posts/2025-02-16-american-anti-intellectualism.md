@@ -332,7 +332,7 @@ or political tools.
 
 ---
 
-## V. The Structural Problem, the University and the Public
+## V. The Structural Problem: the University and the Public
 
 In Europe, the university professor
 has traditionally had a public role.
@@ -411,7 +411,7 @@ that you are not serious.
 
 ---
 
-## VI. France vs. America, the Structural Difference
+## VI. France vs. America: the Structural Difference
 
 Why does France produce public intellectuals
 and America does not?
@@ -666,7 +666,7 @@ with specific structural causes.
 
 ---
 
-## X. The Foucault-Chomsky Debate, a Case Study in Visibility
+## X. The Foucault-Chomsky Debate: a Case Study in Visibility
 
 In November 1971,
 Dutch television broadcast a debate
@@ -888,14 +888,14 @@ when the building is done.
 
 America is not sure the building is done.
 
-It may never be.
+It may never be!
 
 And so the philosopher waits,
 visible to everyone in Europe,
 invisible at home,
 still asking the questions
 that a civilization in a hurry
-does not have time to hear.
+does not have time to hear...
 
 ---
 
