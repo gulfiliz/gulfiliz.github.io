@@ -458,9 +458,9 @@ ninja.data = [{
         },
       },{id: "post-the-country-that-ate-its-own-geniuses-america-and-the-intellectuals-it-could-not-love",
         
-          title: "The Country That Ate Its Own Geniuses — America and the Intellectuals It...",
+          title: "The Country That Ate Its Own Geniuses: America and the Intellectuals It Could...",
         
-        description: "Poe died in a gutter. Melville died forgotten. Emily Dickinson published almost nothing in her lifetime. America does not merely ignore its geniuses — it has a specific, structural relationship with them that ends, repeatedly, in the same way.",
+        description: "Poe died in a gutter. Melville died forgotten. Emily Dickinson published almost nothing in her lifetime. America does not merely ignore its geniuses, it has a specific, structural relationship with them that ends, repeatedly, in the same way.",
         section: "Posts",
         handler: () => {
           
