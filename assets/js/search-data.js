@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2025-03-02-quantum-chromodynamics/";
-          
-        },
-      },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
+        },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
         
           title: "Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters...",
         
@@ -487,6 +476,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/superpozisyon-ve-dolaniklik/";
+          
+        },
+      },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
+        
+          title: "Quantum Chromodynamics — The Violent Heart of Matter",
+        
+        description: "The theory of the strong nuclear force — asymptotic freedom, color confinement, instantons, and the deep mystery of why quarks can never be free. The most mathematically rich and least understood of the fundamental forces.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/quantum-chromodynamics/";
           
         },
       },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
