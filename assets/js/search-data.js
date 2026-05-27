@@ -491,9 +491,9 @@ ninja.data = [{
         },
       },{id: "post-the-art-of-folding-paper-history-and-the-mathematics-of-modular-origami",
         
-          title: "The Art of Folding — Paper, History, and the Mathematics of Modular Origami...",
+          title: "The Art of Folding: Paper, History, and the Mathematics of Modular Origami",
         
-        description: "From Cai Lun&#39;s invention to Miura folds — everything that happens when paper meets intention.",
+        description: "From Cai Lun&#39;s invention to Miura folds: everything that happens when paper meets intention.",
         section: "Posts",
         handler: () => {
           
