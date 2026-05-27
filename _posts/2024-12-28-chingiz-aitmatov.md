@@ -3,7 +3,7 @@ layout: post
 title: Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back
 date: 2024-12-28
 description: On the most important writer you may never have read, and why that is a loss you should correct immediately.
-tags: readings, literature,
+tags: readings, literature, EN, 
 ---
 
 There is a writer most Western readers have never heard of.
