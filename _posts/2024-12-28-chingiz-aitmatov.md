@@ -95,7 +95,7 @@ He has a school bag, and he treasures it.
 He has three friends: a pair of binoculars
 he uses to watch the distant world,
 a stone shaped like a fish,
-and a white ship he can see far away on the lake below.
+and a white ship he can see far away on the Issik lake below.
 He has invented a game. He will turn into a fish,
 swim down the river to the lake, find the white ship,
 and tell his father, who he believes is on that ship,
@@ -112,8 +112,8 @@ almost identical to his. I grew up in a house on the Aegean.
 The whole sea opened up from our balcony,
 and I spent my entire childhood watching the ships go by.
 I used to tell myself: if I can count more than ten ships
-before they pass, my wish will come true.
-The boy had his white ship on the lake.
+before they pass, my wish will come true (I do not remember my wishes!).
+The boy had his white ship on the Issik lake.
 I had the Aegean, the sea I fell in love with as a child.
 It was my white ship.
 
@@ -584,7 +584,7 @@ with the image of a white bird over the steppe,
 a headscarf, a mother's voice,
 calling a name that must not be forgotten.
 
-*Remember whose son you are.*
+*Remember whose child you are.*
 *Remember your name.*
 
 ---
