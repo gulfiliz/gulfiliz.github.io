@@ -447,9 +447,9 @@ ninja.data = [{
         },
       },{id: "post-marcus-aurelius-the-emperor-who-wrote-to-himself",
         
-          title: "Marcus Aurelius — The Emperor Who Wrote to Himself",
+          title: "Marcus Aurelius: The Emperor Who Wrote to Himself",
         
-        description: "On the Meditations — the most private philosophical document ever accidentally published.",
+        description: "On the Meditations: the most private philosophical document ever accidentally published.",
         section: "Posts",
         handler: () => {
           
