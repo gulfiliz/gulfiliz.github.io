@@ -589,8 +589,37 @@ calling a name that must not be forgotten.
 
 ---
 
+One last thing, and it is the truest one.
+
+I am Turkish, and the Kyrgyz are my kin.
+Our languages are close enough that we can sit
+across from one another and understand each other,
+the way cousins do without even trying.
+The Horned Mother Deer is not only a Kyrgyz saint.
+She is holy to all the Turkic peoples,
+the same sacred mother under different names
+across the same enormous map.
+When Aitmatov tells these stories,
+he is not reporting on a distant culture for outsiders.
+He is telling mine.
+
+So he is not really, for me,
+"the most important writer you may never have read."
+He is something much closer than that.
+He is the one who carried our tradition
+up out of the silence the Mankurts were built for.
+He is my *ata*, my ancestor.
+He is the one who still knows my *töre*
+on the days I have half-forgotten it.
+
+My grandmother taught me the traditions.
+Aitmatov wrote them down so I would never lose them.
+
+---
+
 *Further reading:* 
 (I read all of his books!)
+
 *Chingiz Aitmatov, The White Ship (trans. Mirra Ginsburg)*
 
 *Chingiz Aitmatov, The Day Lasts More Than a Hundred Years (trans. John French)*
