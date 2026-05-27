@@ -491,7 +491,7 @@ ninja.data = [{
         },
       },{id: "post-kant-the-man-who-never-left-königsberg-and-changed-everything",
         
-          title: "Kant — The Man Who Never Left Königsberg and Changed Everything",
+          title: "Kant: The Man Who Never Left Königsberg and Changed Everything",
         
         description: "On synthetic a priori judgments, the categorical imperative, and the most boring revolutionary in the history of philosophy.",
         section: "Posts",
