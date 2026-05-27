@@ -513,9 +513,9 @@ ninja.data = [{
         },
       },{id: "post-why-american-intellectuals-are-invisible-a-philosophical-diagnosis",
         
-          title: "Why American Intellectuals Are Invisible — A Philosophical Diagnosis",
+          title: "Why American Intellectuals Are Invisible: A Philosophical Diagnosis",
         
-        description: "France has public intellectuals. Germany has public intellectuals. Even small countries have them. America — with the world&#39;s greatest universities — systematically renders its thinkers invisible. This is not an accident. It is a structural feature of American civilization.",
+        description: "France has public intellectuals. Germany has public intellectuals. Even small countries have them. America, with the world&#39;s greatest universities, systematically renders its thinkers invisible. This is not an accident. It is a structural feature of American civilization.",
         section: "Posts",
         handler: () => {
           
