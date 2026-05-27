@@ -467,17 +467,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/america-and-its-geniuses/";
           
         },
-      },{id: "post-süperpozisyon-ve-dolanıklık",
-        
-          title: "Süperpozisyon ve Dolanıklık",
-        
-        description: "Kuantum mekaniğinin en tuhaf iki gerçeği üzerine.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/superpozisyon-ve-dolaniklik/";
-          
-        },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
         
           title: "Quantum Chromodynamics — The Violent Heart of Matter",
