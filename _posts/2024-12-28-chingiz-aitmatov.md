@@ -221,6 +221,12 @@ It is, and I'll say it without hedging,
 one of the great novels of the twentieth century,
 and one of the least known in the West.
 
+The title comes from a Pasternak poem, *Unique Days* (*Единственные дни*).
+The line is *И дольше века длится день*,
+"and the day lasts longer than a century."
+The novel's Russian title is essentially that line:
+*The Day Lasts Longer Than a Century.*
+
 It is also my grief book.
 I started it while my grandmother was still alive
 and finished it after she was gone.
@@ -242,6 +248,15 @@ across the flat enormous steppe on a camel named Karanar,
 opens out into memory: his whole life,
 his friendship with Kazangap, the history of the junction,
 of the steppe, of the Kazakh people.
+
+Yedigei has lived here for decades.
+He arrived after the war, stayed, raised children,
+buried friends, watched the world change
+while the steppe stayed exactly where it was.
+He is not a hero in any conventional sense.
+He is a man of the steppe: patient, sturdy,
+with a memory that holds everything
+and a grief that cannot be said quickly.
 
 The junction is called Boranly-Burannyi,
 the Windy Place, the Place of Blizzards.
@@ -406,6 +421,10 @@ that I still don't have an answer to:
 *why does evil, almost every single time,
 come out stronger than good?*
 
+Alongside the wolves there is a human story:
+a young man searching for God in the Soviet steppe,
+a drug addict, a Christ figure, a party official.
+
 The novel isn't perfectly built.
 It's too long, too various, too ambitious.
 But the wolves are perfect.
@@ -562,7 +581,7 @@ with the image of a white bird over the steppe,
 a headscarf, a mother's voice,
 calling a name that must not be forgotten.
 
-*Remember whose child you are.*
+*Remember whose son you are.*
 *Remember your name.*
 
 ---
@@ -573,3 +592,4 @@ calling a name that must not be forgotten.
 *Chingiz Aitmatov, The Scaffold (trans. Arch Tait)*
 *Chingiz Aitmatov, Farewell, Gulsary (trans. John French)*
 *For context: Hamid Ismailov, The Railway, another Central Asian masterpiece.*
+
