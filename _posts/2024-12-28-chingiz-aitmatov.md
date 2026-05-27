@@ -618,7 +618,6 @@ Aitmatov wrote them down so I would never lose them.
 ---
 
 *Further reading:* 
-(I read all of his books!)
 
 *Chingiz Aitmatov, The White Ship (trans. Mirra Ginsburg)*
 
@@ -627,5 +626,4 @@ Aitmatov wrote them down so I would never lose them.
 *Chingiz Aitmatov, The Scaffold (trans. Arch Tait)*
 
 *Chingiz Aitmatov, Farewell, Gulsary (trans. John French)*
-
 
