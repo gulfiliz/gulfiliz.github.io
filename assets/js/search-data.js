@@ -403,7 +403,7 @@ ninja.data = [{
         },
       },{id: "post-the-measurement-problem-why-quantum-mechanics-has-no-agreed-interpretation-after-100-years",
         
-          title: "The Measurement Problem — Why Quantum Mechanics Has No Agreed Interpretation After 100...",
+          title: "The Measurement Problem: Why Quantum Mechanics Has No Agreed Interpretation After 100 Years...",
         
         description: "The formalism works perfectly. Nobody agrees on what it means. A technical deep-dive into the most embarrassing open problem in physics.",
         section: "Posts",
