@@ -866,7 +866,7 @@ We are still working out what it means.
 *Fu, Kane & Mele, "Topological Insulators in Three Dimensions" (2007)*
 *Phys. Rev. Lett. 98, 106803*
 
-*Kitaev, "Unpaired Majorana Fermions in Quantum Wires" (2001)*
+*Kitaev, "Unpaired Majorana Fermions in Quantum Wires" (2001)* 
 *Phys.-Usp. 44, 131*
 
 *Ryu, Schnyder, Furusaki & Ludwig,*
