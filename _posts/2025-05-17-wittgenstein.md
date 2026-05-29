@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Wittgenstein — The Philosopher Who Tried to Kill Philosophy
+title: "Wittgenstein: The Philosopher Who Tried to Kill Philosophy"
 date: 2025-05-17
-description: On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong — and why both versions are essential.
+description: On the man who wrote the most important philosophical work of the 20th century at 29, then spent the rest of his life arguing it was wrong, and why both versions are essential.
 tags: skepsis, fragmenta, metaxy, philosophy, EN,
 ---
 
@@ -15,7 +15,7 @@ The second: **Philosophical Investigations** (published posthumously, 1953).
 
 Both are works of genius.
 Both are, in their different ways, attempts
-to end philosophy —
+to end philosophy,
 to show that philosophical problems
 are not deep mysteries to be solved
 but confusions to be dissolved.
@@ -23,8 +23,8 @@ but confusions to be dissolved.
 The first attempt uses logic.
 The second uses ordinary language.
 
-Both fail — in the sense that philosophy continues.
-Both succeed — in the sense that
+Both fail, in the sense that philosophy continues.
+Both succeed, in the sense that
 they permanently changed
 what philosophy is allowed to claim.
 
@@ -43,7 +43,7 @@ Ludwig Josef Johann Wittgenstein
 was born in Vienna on April 26, 1889.
 
 He was the youngest of eight children
-of Karl Wittgenstein —
+of Karl Wittgenstein,
 one of the wealthiest industrialists in Europe,
 the Carnegie of Austria.
 
@@ -61,11 +61,11 @@ He went to Cambridge to study with Bertrand Russell.
 
 Russell, after their first meeting, wrote:
 *"He is perhaps the most perfect example
-I have ever known of genius as traditionally conceived —
+I have ever known of genius as traditionally conceived:
 passionate, profound, intense, and dominating."*
 
 At Cambridge, Wittgenstein wrote the Tractatus
-during World War I —
+during World War I,
 serving in the Austrian army on the Eastern Front,
 carrying the manuscript in his rucksack.
 
@@ -79,7 +79,7 @@ and became a village schoolteacher in Austria.
 He returned to Cambridge in 1929.
 He submitted the Tractatus as his PhD thesis.
 
-The examiners were Russell and G.E. Moore —
+The examiners were Russell and G.E. Moore,
 two of the greatest philosophers of the century.
 
 Wittgenstein concluded the viva by
@@ -99,12 +99,12 @@ His last words, to his landlady:
 
 ---
 
-## II. The Tractatus — The First Philosophy
+## II. The Tractatus: The First Philosophy
 
 The **Tractatus Logico-Philosophicus**
 is 75 pages long.
 
-It is written in numbered propositions —
+It is written in numbered propositions:
 7 main propositions,
 subdivided to arbitrary depth:
 1, 1.1, 1.11, 1.12, 1.13, 2, 2.01, ...
@@ -123,8 +123,8 @@ thereof one must be silent."*
 
 Between these two propositions:
 an attempt to draw the limits of language,
-thought, and the world —
-simultaneously.
+thought, and the world,
+all at once.
 
 **The picture theory of meaning:**
 
@@ -163,13 +163,13 @@ the existence of God,
 the nature of the self,
 the logical form itself.
 
-These things cannot be said —
+These things cannot be said,
 but they can be **shown.**
 
 The logical form of language shows itself
 in the structure of propositions.
 Ethics shows itself in how we live.
-The mystical — that the world exists at all —
+The mystical, that the world exists at all,
 shows itself but cannot be said.
 
 *"6.522 There is indeed the inexpressible.
@@ -189,7 +189,7 @@ He must transcend these propositions;
 then he sees the world rightly."*
 
 The propositions of the Tractatus
-are themselves nonsense —
+are themselves nonsense,
 they try to say what can only be shown.
 
 The book is a ladder.
@@ -205,25 +205,24 @@ This is either:
 
 ## III. What the Tractatus Got Right
 
-The Tractatus had an enormous influence —
+The Tractatus had an enormous influence,
 particularly on the **Vienna Circle**,
 the logical positivists:
 Schlick, Carnap, Neurath, Ayer.
 
-They took from the Tractatus:
-the **verification principle** —
+They took from the Tractatus
+the **verification principle**:
 a statement is meaningful only if
 it is either analytic (true by definition)
 or empirically verifiable.
 
-Therefore: ethics, theology, metaphysics —
-all meaningless.
+Therefore: ethics, theology, metaphysics. All meaningless.
 
 Not false. Meaningless.
 
 Wittgenstein was appalled by this reading.
 He said the Vienna Circle had misunderstood him.
-What he wanted to show was not that ethics was meaningless —
+What he wanted to show was not that ethics was meaningless,
 but that it was more important than anything
 that could be put into propositions.
 
@@ -231,20 +230,20 @@ The mystical was not nothing.
 It was everything that mattered most.
 
 The Vienna Circle heard: ethics is nonsense.
-Wittgenstein meant: ethics is beyond language —
+Wittgenstein meant: ethics is beyond language,
 which is the highest possible form of importance.
 
 **What it got genuinely right:**
 
 The Tractatus made permanent the insight
 that many philosophical puzzles
-arise from confusing language with the world —
+arise from confusing language with the world,
 from treating words as if they directly picture facts
 when they do not.
 
-The question "what is time?" —
+The question "what is time?",
 answered as if there is an entity called Time
-that philosophy must describe —
+that philosophy must describe,
 is already confused.
 
 The grammar of our language
@@ -261,7 +260,7 @@ This is the lasting contribution.
 Between the Tractatus and the Investigations:
 Wittgenstein stopped doing philosophy for ten years.
 
-He built a house for his sister in Vienna —
+He built a house for his sister in Vienna,
 with extreme precision,
 demanding that the ceiling of one room
 be raised by 3 centimeters
@@ -270,7 +269,7 @@ because it was not exactly right.
 
 He returned to Cambridge in 1929.
 
-He heard a lecture by the Italian economist Piero Sraffa —
+He heard a lecture by the Italian economist Piero Sraffa,
 who gestured in the Neapolitan manner of contempt
 and asked: what is the logical form of that?
 
@@ -283,9 +282,9 @@ But it means something.
 The picture theory of meaning was wrong.
 
 Language does not primarily picture facts.
-Language does many things —
+Language does many things:
 commanding, questioning, joking, promising,
-greeting, cursing, praying —
+greeting, cursing, praying,
 none of which are pictures of facts.
 
 The Tractatus had identified one use of language
@@ -293,15 +292,15 @@ and taken it for all of language.
 
 ---
 
-## V. The Investigations — The Second Philosophy
+## V. The Investigations: The Second Philosophy
 
 The **Philosophical Investigations**
 is nothing like the Tractatus.
 
 No numbered propositions.
 No systematic structure.
-A series of remarks —
-some short, some extended —
+A series of remarks,
+some short, some extended,
 circling around problems,
 approaching them from different angles,
 never quite arriving.
@@ -309,7 +308,7 @@ never quite arriving.
 Wittgenstein compared it to an album of sketches.
 
 The style is the philosophy:
-philosophy cannot be systematized —
+philosophy cannot be systematized,
 because philosophical problems
 are not solved but dissolved,
 not answered but untangled.
@@ -325,8 +324,8 @@ a 'language-game'."*
 
 Language is not a single system
 with a single function.
-It is a vast collection of practices —
-language games —
+It is a vast collection of practices,
+language games,
 each with its own rules,
 its own standards of correctness,
 its own point.
@@ -340,10 +339,10 @@ The language game of ordinary conversation.
 These are not different theories of the same thing.
 They are different games entirely.
 
-Trying to reduce one to another —
+Trying to reduce one to another,
 reducing ethics to science,
 mathematics to logic,
-religion to metaphysics —
+religion to metaphysics,
 is a category error:
 playing one game by the rules of another.
 
@@ -355,18 +354,18 @@ Not: meaning is a mental image.
 Not: meaning is the object the word refers to.
 Not: meaning is a logical form.
 
-Meaning is what you do with a word —
+Meaning is what you do with a word:
 how you use it,
 in what contexts,
 with what effects.
 
-This seems deflationary — almost trivial.
+This seems deflationary, almost trivial.
 It is radical.
 
 It means: if you want to know
 what "pain" means,
 don't look inward for a mental state.
-Look at how people use the word "pain" —
+Look at how people use the word "pain",
 in what circumstances,
 what behavior it accompanies,
 what role it plays in social life.
@@ -379,15 +378,15 @@ One of the most important arguments
 in twentieth century philosophy:
 
 Can there be a language
-that only one person can understand —
+that only one person can understand,
 a language for purely private mental states?
 
 Wittgenstein's answer: no.
 
 A language requires rules.
 Rules require the possibility of following correctly or incorrectly.
-Correctness requires a check — a standard.
-A purely private standard cannot function as a standard —
+Correctness requires a check, a standard.
+A purely private standard cannot function as a standard,
 because whatever seems right to me is right,
 and that only means the word 'right' has no application here.
 
@@ -397,9 +396,9 @@ inner private experience
 but by their role in public practice.
 
 This argument has enormous consequences:
-— For the philosophy of mind (against Cartesian inner theater)
-— For epistemology (against foundationalism in private experience)
-— For the philosophy of mathematics (against Platonism)
+- For the philosophy of mind (against Cartesian inner theater)
+- For epistemology (against foundationalism in private experience)
+- For the philosophy of mathematics (against Platonism)
 
 It remains one of the most contested arguments
 in analytic philosophy.
@@ -409,22 +408,21 @@ in analytic philosophy.
 What makes all games games?
 
 There is no single feature common to all games.
-Chess and ring-around-the-rosie and solitaire and war —
+Chess and ring-around-the-rosie and solitaire and war:
 what do they share?
 
 Look: board games share some features.
 Card games share some features.
 Ball games share some features.
 
-But there is no essential "gameness" —
+But there is no essential "gameness",
 no necessary and sufficient conditions.
 
-Instead: a network of overlapping similarities —
-**family resemblances.**
+Instead: a network of overlapping similarities. **Family resemblances.**
 
 Like the features of a family:
 this one has the nose, that one the chin,
-another the eyes —
+another the eyes,
 no single feature in all of them,
 but a web of resemblances.
 
@@ -432,7 +430,7 @@ This destroys essentialism:
 the view that every concept has
 a set of necessary and sufficient conditions.
 
-Most concepts — game, art, language, knowledge —
+Most concepts (game, art, language, knowledge)
 have family resemblance structure.
 Philosophers who search for essential definitions
 are searching for something that does not exist.
@@ -445,7 +443,7 @@ The deepest claim of the Investigations:
 
 **Philosophical problems are not deep truths
 awaiting discovery.
-They are confusions — diseases of language —
+They are confusions, diseases of language,
 awaiting dissolution.**
 
 *"Philosophy simply puts everything before us
@@ -461,7 +459,7 @@ When a philosopher asks:
 "What is time? What is knowledge? What is consciousness?"
 
 They are not discovering facts about the world.
-They are being misled by the grammar of their language —
+They are being misled by the grammar of their language,
 by the fact that "time," "knowledge," "consciousness"
 are nouns, which suggests they are things,
 which suggests they can be defined,
@@ -471,7 +469,7 @@ But language does not work this way.
 
 The task of philosophy:
 to bring words back from their metaphysical
-to their everyday use —
+to their everyday use,
 to show that the puzzling question
 dissolves once we look carefully
 at how the relevant words actually work.
@@ -479,7 +477,7 @@ at how the relevant words actually work.
 *"A philosophical problem has the form:
 'I don't know my way about.'"*
 
-Philosophy is navigation —
+Philosophy is navigation,
 not discovery.
 Finding your way around the language
 you already know,
@@ -499,7 +497,7 @@ Every time I've added before,
 I've obtained what seems like the correct sum.
 
 But: consider the rule "plus" that I seem to be following.
-Is the rule I'm following actually "plus" —
+Is the rule I'm following actually "plus",
 or is it "quus":
 
 $$a \text{ quus } b = a + b \text{ for } a, b < 57$$
@@ -510,9 +508,9 @@ For all the cases I've encountered (all less than 57),
 
 What makes it the case that I mean "plus" not "quus"?
 
-Not my past behavior — consistent with either.
-Not my mental states — I have no memory of stipulating "plus."
-Not the rule itself — any rule can be interpreted
+Not my past behavior, consistent with either.
+Not my mental states, I have no memory of stipulating "plus."
+Not the rule itself, any rule can be interpreted
 to be consistent with any behavior.
 
 *"This was our paradox:
@@ -527,11 +525,11 @@ about what rule I mean.
 **The solution (Kripkenstein):**
 
 Saul Kripke's influential interpretation:
-there is no fact about meaning —
+there is no fact about meaning,
 but there is a communal practice.
 
 We count someone as following a rule
-when they agree with the rest of us —
+when they agree with the rest of us,
 when their responses fit the community's expectations.
 
 Meaning is not private fact.
@@ -539,7 +537,7 @@ It is communal norm.
 
 Wittgenstein's own "solution":
 the paradox itself shows that rule-following
-cannot be grounded in interpretation —
+cannot be grounded in interpretation,
 in a further rule for applying the rule.
 
 Rules are followed in practice.
@@ -557,7 +555,7 @@ Then I am inclined to say:
 ## VIII. Wittgenstein and Science
 
 Wittgenstein was not anti-science.
-He was anti-scientism —
+He was anti-scientism:
 the view that science is the only legitimate form
 of knowledge,
 that all questions are scientific questions.
@@ -571,11 +569,11 @@ It does not address how to live.
 It does not address what matters.
 It does not address the meaning of existence.
 
-Not because these questions have no answers —
+Not because these questions have no answers,
 but because they are not questions of the same kind.
 
 The confusion of scientific questions
-with questions of value, meaning, ethics —
+with questions of value, meaning, ethics:
 this is the deepest philosophical confusion.
 
 The Tractatus said: these things cannot be said.
@@ -597,8 +595,8 @@ Wittgenstein changed philosophy permanently.
 
 After Wittgenstein,
 the search for the ultimate foundation
-of knowledge, of language, of mathematics —
-the search for bedrock —
+of knowledge, of language, of mathematics,
+the search for bedrock,
 is recognized as chasing a phantom.
 
 There is no deeper ground.
@@ -607,8 +605,8 @@ There is only practice, use, the form of life.
 **He ended the picture theory of language:**
 
 After Wittgenstein,
-the naive view that words picture facts —
-that language is primarily descriptive —
+the naive view that words picture facts,
+that language is primarily descriptive,
 is not available.
 
 Language is action.
@@ -631,7 +629,7 @@ The technical is built on it.
 **He showed the limits of philosophy itself:**
 
 Perhaps Wittgenstein's deepest contribution:
-the insistence that philosophy has limits —
+the insistence that philosophy has limits,
 that it cannot stand outside language
 and judge it,
 cannot stand outside the form of life
@@ -642,7 +640,7 @@ that are not themselves in need of foundation.
 Philosophy can clarify.
 It cannot ground.
 
-This is either liberating or terrifying —
+This is either liberating or terrifying,
 depending on what you were hoping philosophy could do.
 
 ---
@@ -651,11 +649,11 @@ depending on what you were hoping philosophy could do.
 
 Wittgenstein was not a comfortable person.
 
-He demanded absolute honesty —
+He demanded absolute honesty,
 from himself, from his students, from his friends.
 
 He would stop in the middle of a lecture
-and stand in silence for minutes —
+and stand in silence for minutes,
 wrestling with a thought.
 
 He once said to Norman Malcolm:
@@ -666,13 +664,13 @@ about some abstruse questions of logic,
 and it does not improve your thinking
 about the important questions of everyday life?"*
 
-Philosophy as a way of life —
+Philosophy as a way of life,
 not as an academic specialty.
 
 He lived this.
 He gave away his fortune.
 He became a schoolteacher, a gardener, a hospital orderly.
-He begged his students not to become professional philosophers —
+He begged his students not to become professional philosophers,
 to do something real instead.
 
 He thought most of what passed for philosophy
@@ -680,8 +678,8 @@ was vanity and confusion.
 He thought most of what passed for depth
 was self-indulgence.
 
-He was often wrong about this —
-often dismissive of genuine work —
+He was often wrong about this,
+often dismissive of genuine work,
 but the demand was real:
 
 **mean what you say
@@ -692,9 +690,9 @@ thereof one must be silent."*
 
 He lived by this.
 
-Most of what matters most —
-love, beauty, the fact that anything exists at all,
-the ethical life, what makes a life worth living —
+Most of what matters most
+(love, beauty, the fact that anything exists at all,
+the ethical life, what makes a life worth living)
 cannot be put into propositions.
 
 It shows itself.
@@ -708,33 +706,58 @@ It is reverence.
 
 ---
 
+## I Do Not Want to Be Silent
+
+There are philosophers you settle with, and philosophers you argue with all your life. Wittgenstein is the second kind for me.
+
+Three things draw me in.
+
+The first: he is the most effective antidote I know for pseudo-intellectual posturing. His philosophy keeps asking the question I want to shout in every graduate seminar: *drop the big empty words. What are you actually saying?* I cannot stand inflated language, and Wittgenstein takes a hammer to it on principle.
+
+The second: he is not a showy philosopher. He is a knife. The sentences are short, cold, sometimes cruel. I have always preferred intelligence that is ambitious without shouting, the kind that makes its point and steps back. The Tractatus is seven propositions and the rest is silence; the Investigations is sketches refusing to become a system. I find that severity beautiful.
+
+The third: he moves freely between mathematics, logic, language, world, meaning. I do not see those as separate domains. Physics, quantum mechanics, semantics, consciousness, they are the same problem from different angles. Wittgenstein understood this in a way most philosophers, and most physicists, do not.
+
+Three things make me resist him.
+
+He can feel too sterile. My favorite thinkers carry literature in them: tragedy, the body, aesthetics, melancholy, human warmth. Wittgenstein sometimes reads like a man made of stone. *Tell them I've had a wonderful life,* he said at the end. Beautiful last words. But did he live one? My mind is sharp, I hope, but it is not cold. Things mix in me: my grandmother, travel, the body, desire, physics, philosophy. I want a thinker who has lived as well as thought.
+
+He refuses to give a system. He opens doors and then closes them; he says we must stop here. I am someone who wants the big picture even when the picture is hard. His refusal to commit to a structure can feel, in my worst moods, like principled evasion. I keep wanting to ask: yes, but now what do we do?
+
+And then the line itself: *whereof one cannot speak, thereof one must be silent.* It moves me and it irritates me in the same breath. I am exactly the person who tries to speak about what cannot be spoken: time, death, meaning, God, quantum mechanics, consciousness, love, desire, intellectual vanity. I do not want to be silent. I want to push at the limit with a beautiful sentence and see what gives way.
+
+So I keep him close, and I keep him at arm's length. He sharpens me. And he keeps making me want to ask: yes, but where is the human?
+
+---
+
 *Further reading:*
 
-*Wittgenstein — Tractatus Logico-Philosophicus (1921)*
-*(trans. Ogden & Ramsey, or Pears & McGuinness)*
-*— read both translations; they differ significantly*
+*Wittgenstein,* Tractatus Logico-Philosophicus *(1921),*
+*trans. Ogden & Ramsey, or Pears & McGuinness.*
+*Read both translations; they differ significantly.*
 
 
-*Wittgenstein — Philosophical Investigations (1953)*
-*(trans. Anscombe, Hacker & Schulte)*
-*— the Hacker & Schulte translation (2009) is definitive*
+*Wittgenstein,* Philosophical Investigations *(1953),*
+*trans. Anscombe, Hacker & Schulte.*
+*The Hacker & Schulte translation (2009) is definitive.*
 
 
-*Monk — Ludwig Wittgenstein: The Duty of Genius (1990)*
-*— the best philosophical biography ever written*
+*Monk,* Ludwig Wittgenstein: The Duty of Genius *(1990).*
+*The best philosophical biography ever written.*
 
 
-*Kripke — Wittgenstein on Rules and Private Language (1982)*
-*— the most influential interpretation; contested*
+*Kripke,* Wittgenstein on Rules and Private Language *(1982).*
+*The most influential interpretation; contested.*
 
 
-*Hacker — Wittgenstein: Meaning and Mind (1990)*
-*— the detailed commentary; four volumes*
+*Hacker,* Wittgenstein: Meaning and Mind *(1990).*
+*The detailed commentary; four volumes.*
 
 
-*Anscombe — An Introduction to Wittgenstein's Tractatus (1959)*
-*— still the best guide to the Tractatus*
+*Anscombe,* An Introduction to Wittgenstein's Tractatus *(1959).*
+*Still the best guide to the Tractatus.*
 
 
-*McGinn — Wittgenstein and the Philosophical Investigations (1997)*
-*— accessible and accurate*
+*McGinn,* Wittgenstein and the Philosophical Investigations *(1997).*
+*Accessible and accurate.*
+
