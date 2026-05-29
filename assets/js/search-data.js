@@ -326,9 +326,9 @@ ninja.data = [{
         },
       },{id: "post-gogol-39-s-overcoat-on-invisibility-desire-and-the-weight-of-a-name",
         
-          title: "Gogol&#39;s Overcoat — On Invisibility, Desire, and the Weight of a Name",
+          title: "Gogol&#39;s Overcoat: On Invisibility, Desire, and the Weight of a Name",
         
-        description: "A close reading of the strangest, most devastating short story ever written — and what it says about being human.",
+        description: "A close reading of the strangest, most devastating short story ever written, and what it says about being human.",
         section: "Posts",
         handler: () => {
           
