@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post-Truth — On the Collapse of the Epistemic Commons
+title: "Post-Truth: On the Collapse of the Epistemic Commons"
 date: 2025-05-09
 description: How we stopped agreeing on what is real, and what that means for everything.
 tags: skepsis, fragmenta, metaxy, philosophy, EN, post-truth,
@@ -14,7 +14,7 @@ than appeals to emotion and personal belief."*
 
 The word felt new. The phenomenon was not.
 
-But something had shifted — not merely in politics,
+But something had shifted, not merely in politics,
 not merely in media, but in the deep structure of 
 how human beings relate to the concept of truth itself.
 
@@ -31,8 +31,8 @@ a belief is true if it corresponds to the way things actually are.
 This sounds obvious. It is surprisingly difficult to defend.
 
 The correspondence theory requires that there be
-a mind-independent reality — a world that is the way it is
-regardless of what anyone thinks about it —
+a mind-independent reality (a world that is the way it is
+regardless of what anyone thinks about it)
 and that our beliefs can accurately represent this reality.
 
 Both assumptions have been challenged.
@@ -46,7 +46,7 @@ If truth is correspondence to reality,
 and reality is the same for everyone,
 then in principle we can resolve disagreements.
 We look at the evidence. We follow the argument.
-We converge — however slowly, however imperfectly — on the truth.
+We converge, however slowly, however imperfectly, on the truth.
 
 This was the Enlightenment promise.
 Reason as the universal solvent of disagreement.
@@ -60,49 +60,49 @@ Post-truth is the collapse of this commons.
 ## II. The Philosophical Roots
 
 Post-truth did not emerge from nowhere.
-It has intellectual ancestors — and they are respectable ones.
+It has intellectual ancestors, and they are respectable ones.
 
 **Nietzsche** is the most frequently cited, most frequently misread.
 
-"There are no facts, only interpretations" —
+*"There are no facts, only interpretations":*
 this line, from his notebooks, is the post-truth movement's
 favorite philosophical ammunition.
 
 But Nietzsche was not saying that climate change is a hoax.
-He was making a point about the theory-ladenness of observation —
+He was making a point about the theory-ladenness of observation:
 that we never encounter raw, uninterpreted data,
 that every fact is already framed by a perspective, a value, a will.
 
 This is a sophisticated epistemological point.
 It does not follow that all perspectives are equally valid.
-Nietzsche was, if anything, a ferocious elitist about truth —
+Nietzsche was, if anything, a ferocious elitist about truth,
 contemptuous of comfortable lies, demanding of rigorous honesty.
 
 The appropriation of Nietzsche by post-truth politics
 is itself a post-truth move: 
 taking a complex argument and flattening it into a slogan.
 
-**Postmodern philosophy** — Foucault, Derrida, Lyotard —
+**Postmodern philosophy** (Foucault, Derrida, Lyotard)
 is the other standard villain in this story.
 
 Lyotard's *The Postmodern Condition* (1979) defined postmodernity
-as "incredulity toward metanarratives" —
+as "incredulity toward metanarratives":
 suspicion of grand, totalizing accounts of history, progress, science.
 
 Foucault's analysis of power/knowledge showed how
 what counts as truth in any society is shaped by
-relations of power — who gets to speak, who is believed,
+relations of power: who gets to speak, who is believed,
 whose knowledge is legitimized.
 
 These were genuine insights.
 The postmodern critique of Enlightenment universalism
-revealed real blind spots — whose "universal reason"?
+revealed real blind spots. Whose "universal reason"?
 Whose "objective science"? Whose history?
 
 But the insight was unstable.
 
 If all knowledge is power, if all truth-claims are political,
-if there is no view from nowhere —
+if there is no view from nowhere,
 then the tools of critique cannot be exempted from the critique.
 The postmodern analysis of ideology is itself ideological.
 The deconstruction deconstructs itself.
@@ -123,7 +123,7 @@ Three structural shifts made post-truth possible at scale:
 **1. The fragmentation of media.**
 
 For most of the twentieth century, information in democratic societies
-was mediated by a small number of institutions —
+was mediated by a small number of institutions:
 newspapers of record, broadcast television, wire services.
 
 These institutions were imperfect, biased, often wrong.
@@ -133,37 +133,37 @@ disagreeing about the same facts.
 
 The internet destroyed this baseline.
 
-Not because the internet is bad — it is not.
+Not because the internet is bad. It is not.
 But because it created a media environment of infinite supply
 and zero marginal cost, in which the incentive structure
 favored engagement over accuracy,
 outrage over nuance,
 novelty over verification.
 
-And algorithms — optimizing for time-on-platform —
+And algorithms, optimizing for time-on-platform,
 discovered that the most engaging content
 is emotionally activating content.
 Fear. Anger. Tribal identification. Outrage.
 
 The result: **epistemic fragmentation.**
-Not merely different opinions — different realities.
+Not merely different opinions: different realities.
 Different sets of facts. Different evidentiary standards.
 Different trusted sources that are mutually unintelligible.
 
 **2. The collapse of institutional trust.**
 
-Trust in institutions — government, media, science, universities —
+Trust in institutions (government, media, science, universities)
 has declined precipitously across the developed world
 over the past fifty years.
 
 Some of this is earned.
-Institutions have failed — spectacularly, repeatedly.
+Institutions have failed, spectacularly, repeatedly.
 The Iraq War's weapons of mass destruction.
 The 2008 financial crisis. The opioid epidemic.
 The Catholic Church. Enron. Theranos.
 
 Each failure eroded the credibility not just of the institution involved
-but of the entire class of institutions —
+but of the entire class of institutions:
 the experts, the elites, the credentialed.
 
 When trust collapses, a vacuum opens.
@@ -181,8 +181,8 @@ Post-truth is not always spontaneous.
 It is sometimes manufactured.
 
 The tobacco industry's decades-long campaign
-to cast doubt on the link between smoking and cancer —
-documented in Naomi Oreskes and Erik Conway's *Merchants of Doubt* (2010) —
+to cast doubt on the link between smoking and cancer,
+documented in Naomi Oreskes and Erik Conway's *Merchants of Doubt* (2010),
 was not a scientific debate.
 It was a deliberate strategy:
 fund contrarian scientists, amplify uncertainty,
@@ -195,13 +195,15 @@ in the promotion of alternative medicine,
 in the endless recycling of long-refuted claims.
 
 The goal is not to win the argument.
-The goal is to make argument itself seem pointless —
+The goal is to make argument itself seem pointless:
 to create the impression that everything is contested,
 that experts disagree about everything,
 that you might as well believe whatever you want.
 
 This is epistemicide: the deliberate killing of the conditions
 under which shared knowledge is possible.
+
+(I am a physicist. We have a folder for this playbook. It is being run on AI now. Different scientists; same engineered confusion.)
 
 ---
 
@@ -224,7 +226,7 @@ What are the standards for settling disagreement?
 Post-truth operates primarily at the second-order level.
 
 It does not always deny specific facts directly.
-More often, it attacks the methods by which facts are established —
+More often, it attacks the methods by which facts are established:
 peer review, statistical analysis, expert consensus, empirical testing.
 
 Once you have undermined the second-order standards,
@@ -234,7 +236,7 @@ Any evidence can be reframed: *follow the money.*
 Any expert can be discredited: *who funds their research?*
 
 This is why post-truth is so resistant to refutation.
-It does not engage with evidence — it delegitimizes the category of evidence.
+It does not engage with evidence. It delegitimizes the category of evidence.
 
 ---
 
@@ -251,28 +253,30 @@ You trust the institutions that trained them,
 the journals that reviewed their work,
 the replication studies that confirmed it.
 
-This is not blind faith. It is **rational trust calibration** —
+This is not blind faith. It is **rational trust calibration**:
 assigning credibility based on track record,
 institutional incentives, peer review, transparency,
 and the accumulated weight of convergent evidence.
 
 The epistemology of testimony is sophisticated and fragile.
-It depends on a functioning epistemic ecosystem —
+It depends on a functioning epistemic ecosystem:
 institutions with integrity, incentives for accuracy,
 mechanisms for error correction.
 
 Post-truth attacks this ecosystem.
 
 It does not make you more epistemically independent.
-It makes you more dependent — on different authorities,
+It makes you more dependent: on different authorities,
 less accountable ones, with worse track records
 and stronger incentives to deceive.
 
 The person who rejects expert consensus on vaccines
 in favor of a YouTube doctor is not thinking for themselves.
-They are outsourcing their cognition to a different institution —
+They are outsourcing their cognition to a different institution,
 one with no peer review, no replication requirement,
 no accountability for being wrong.
+
+(I work in a field where I personally verify almost nothing. I trust the chain. It has, mostly, held.)
 
 ---
 
@@ -282,31 +286,31 @@ Harry Frankfurt's essay *On Bullshit* (1986, expanded 2005)
 makes a distinction that has become indispensable.
 
 The liar knows the truth and deliberately says the opposite.
-The liar still operates within a framework where truth matters —
+The liar still operates within a framework where truth matters:
 they are trying to create a false belief about reality.
 
 The **bullshitter** is different.
 The bullshitter does not care whether what they say is true or false.
 They are not trying to describe reality.
-They are trying to create an impression —
+They are trying to create an impression:
 of competence, of authority, of relatability, of strength.
 
 Truth is simply irrelevant to the bullshitter's enterprise.
 
 Frankfurt argues that bullshit is more corrosive to truth than lying.
 The liar, at least, respects truth enough to be threatened by it.
-The bullshitter's indifference is a deeper attack —
+The bullshitter's indifference is a deeper attack:
 it does not contest the truth; it makes truth beside the point.
 
 Post-truth politics is, in Frankfurt's sense, 
 structurally bullshit-producing.
 
-When the goal of political speech is not to inform but to perform —
+When the goal of political speech is not to inform but to perform,
 to signal tribal membership, to activate emotion,
-to dominate the news cycle —
+to dominate the news cycle,
 the truth-value of specific claims becomes irrelevant.
 
-What matters is whether the claim *works* —
+What matters is whether the claim *works*:
 whether it fires up the base, dominates the discourse,
 makes the opponent look weak.
 
@@ -327,8 +331,8 @@ There are also versions that are simply self-refuting.
 The self-refuting version: *"There is no objective truth."*
 
 Is that statement objectively true?
-If yes — there is objective truth.
-If no — why believe it?
+If yes, there is objective truth.
+If no, why believe it?
 
 The sophisticated version: *"Truth is always perspective-dependent;
 there is no view from nowhere;
@@ -336,15 +340,15 @@ our epistemic standards are themselves historically contingent."*
 
 This is harder to dismiss. But it still has limits.
 
-Even granting radical epistemic humility —
-even granting that our standards of evidence are contingent —
+Even granting radical epistemic humility,
+even granting that our standards of evidence are contingent,
 it does not follow that all claims are equally well-supported
 *by those standards.*
 
 Within any given epistemic framework,
 some claims are better supported than others.
 Evolution is better supported than creationism
-by the standards of empirical science —
+by the standards of empirical science,
 standards that have themselves been developed, refined, and tested
 over centuries of application.
 
@@ -354,7 +358,9 @@ But you cannot simultaneously accept the standards
 use a smartphone) and reject their outputs
 whenever they are inconvenient.
 
-This is **epistemic cherry-picking** —
+(The relativists still board the planes.)
+
+This is **epistemic cherry-picking**,
 and it is the characteristic cognitive move of post-truth.
 
 ---
@@ -366,12 +372,12 @@ I want to resist two temptations here.
 The first temptation: **naive Enlightenment optimism.**
 The idea that if we just explain the facts more clearly,
 correct the misinformation more diligently,
-improve science communication — 
+improve science communication,
 people will come around.
 
 The evidence does not support this.
-The **backfire effect** — the finding that correcting
-someone's false belief sometimes strengthens it —
+The **backfire effect** (the finding that correcting
+someone's false belief sometimes strengthens it)
 has been partly debunked in its strong form,
 but the underlying phenomenon is real:
 belief is not purely responsive to evidence.
@@ -382,7 +388,7 @@ You cannot reason someone out of a position
 they did not reason themselves into.
 
 The second temptation: **despair.**
-If truth is this fragile, if post-truth is this entrenched —
+If truth is this fragile, if post-truth is this entrenched,
 perhaps the Enlightenment project was always naive.
 Perhaps humans are not truth-tracking animals.
 Perhaps democracy itself requires an epistemic foundation
@@ -390,7 +396,7 @@ we can no longer provide.
 
 This, too, I resist.
 
-Not because the situation is not serious — it is.
+Not because the situation is not serious. It is.
 But because the alternative is worse.
 
 What remains:
@@ -406,7 +412,7 @@ Platform structures that do not systematically amplify outrage.
 Funding structures for science that reduce conflicts of interest.
 
 **Civic epistemology.**
-Education not merely in facts but in how we know —
+Education not merely in facts but in how we know:
 logic, statistics, the philosophy of science,
 the history of how false consensus has been manufactured.
 
@@ -418,29 +424,31 @@ The courage to say *I don't know.*
 
 These are not solutions. They are conditions.
 The epistemic commons cannot be rebuilt by any single intervention.
-It is rebuilt — if it is rebuilt — slowly, institutionally, culturally,
+It is rebuilt, if it is rebuilt, slowly, institutionally, culturally,
 one honest conversation at a time.
 
 ---
 
 ## Coda
 
-Hannah Arendt, writing in 1967 — before the internet,
-before social media, before algorithmic amplification —
+Hannah Arendt, writing in 1967 (before the internet,
+before social media, before algorithmic amplification)
 already saw what was coming:
 
 The danger of a politics that treats truth as negotiable
 is not merely that people believe false things.
-It is that the category of truth itself becomes destabilized —
+It is that the category of truth itself becomes destabilized,
 that people lose the capacity to distinguish
 between what is real and what is not.
 
 And a population that cannot make that distinction
 is not merely misinformed.
-It is ungovernable, in the deepest sense —
+It is ungovernable, in the deepest sense:
 unable to act collectively on the basis of shared reality,
 unable to hold power accountable,
 unable to be a demos in any meaningful sense.
+
+(I grew up watching this. The pattern Arendt describes is not abstract.)
 
 Post-truth is not an epistemological problem with political consequences.
 It is a political problem with epistemological roots.
@@ -450,7 +458,7 @@ The question it poses is not merely:
 
 It is: *what kind of creatures do we want to be?*
 
-Creatures who hide from uncomfortable truths —
+Creatures who hide from uncomfortable truths,
 or creatures who face them,
 however difficult,
 however unsettling,
@@ -462,16 +470,33 @@ I am less certain, these days, that it will prevail.
 
 ---
 
+## Welcome to Simulacra
+
+I came to this concept late. Late twenties, I would say. Even if it sounds like I am writing as someone who got there late, the truth is I met post-truth at exactly the right age. For a long time it was not a term I cared about. Then I started listening to Yalın Alpay and İlker Canikligil talking about it on Flu TV, on YouTube, and I began reading. Post-truth was, in fact, one of the things that pushed me toward philosophy at Istanbul University.
+
+For someone like me, whose head has long been broken on the question of reality, I cannot explain what this subject was. Imagine you are a child again, and you find yourself in a world made entirely of toys.
+
+Frankfurt shook me. Arendt I wanted to embrace, she showed me that in this beautiful universe I was not intellectually alone. Baudrillard I wanted to grab by the shoulders and shake. *Come on, let's get on the roller coaster. We need shaking.*
+
+Post-truth is the concept that made adult-Filiz. The one that matured my mind.
+
+Welcome to simulacra!
+
+---
+
 *Further reading:*
 
-*Harry Frankfurt — On Bullshit (2005)*
+*Jean Baudrillard,* Simulacra and Simulacrum
 
-*Hannah Arendt — Truth and Politics (1967)*
+*Harry Frankfurt,* On Bullshit *(2005)*
 
-*Naomi Oreskes & Erik Conway — Merchants of Doubt (2010)*
+*Hannah Arendt, "Truth and Politics" (1967)*
 
-*Timothy Snyder — On Tyranny (2017)*
+*Naomi Oreskes & Erik Conway,* Merchants of Doubt *(2010)*
 
-*Miranda Fricker — Epistemic Injustice (2007)*
+*Timothy Snyder,* On Tyranny *(2017)*
 
-*Lee McIntyre — Post-Truth (2018)*
+*Miranda Fricker,* Epistemic Injustice *(2007)*
+
+*Lee McIntyre,* Post-Truth *(2018)*
+
