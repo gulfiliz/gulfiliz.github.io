@@ -425,7 +425,7 @@ ninja.data = [{
         },
       },{id: "post-epictetus-the-slave-who-was-free",
         
-          title: "Epictetus — The Slave Who Was Free",
+          title: "Epictetus: The Slave Who Was Free",
         
         description: "On the man who owned nothing, controlled everything, and taught Marcus Aurelius how to be emperor.",
         section: "Posts",
