@@ -348,7 +348,7 @@ ninja.data = [{
         },
       },{id: "post-special-relativity-the-end-of-absolute-space-and-time",
         
-          title: "Special Relativity — The End of Absolute Space and Time",
+          title: "Special Relativity: The End of Absolute Space and Time",
         
         description: "In 1905, a 26-year-old patent clerk destroyed Newton&#39;s universe. What he built in its place is stranger, more beautiful, and more true.",
         section: "Posts",
