@@ -381,7 +381,7 @@ ninja.data = [{
         },
       },{id: "post-post-truth-on-the-collapse-of-the-epistemic-commons",
         
-          title: "Post-Truth — On the Collapse of the Epistemic Commons",
+          title: "Post-Truth: On the Collapse of the Epistemic Commons",
         
         description: "How we stopped agreeing on what is real, and what that means for everything.",
         section: "Posts",
