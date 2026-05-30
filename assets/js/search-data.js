@@ -315,9 +315,9 @@ ninja.data = [{
         },
       },{id: "post-the-crisis-in-fundamental-physics-an-honest-assessment",
         
-          title: "The Crisis in Fundamental Physics — An Honest Assessment",
+          title: "The Crisis in Fundamental Physics: An Honest Assessment",
         
-        description: "The LHC found the Higgs and nothing else. String theory makes no testable predictions. The foundations of quantum mechanics remain unsettled. This is not pessimism — it is an accurate description of where we are.",
+        description: "The LHC found the Higgs and nothing else. String theory makes no testable predictions. The foundations of quantum mechanics remain unsettled. This is not pessimism: it is an accurate description of where we are.",
         section: "Posts",
         handler: () => {
           
