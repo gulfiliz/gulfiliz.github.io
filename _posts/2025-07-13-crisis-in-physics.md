@@ -1,15 +1,15 @@
 ---
 layout: post
-title: The Crisis in Fundamental Physics — An Honest Assessment
+title: "The Crisis in Fundamental Physics: An Honest Assessment"
 date: 2025-07-13
-description: The LHC found the Higgs and nothing else. String theory makes no testable predictions. The foundations of quantum mechanics remain unsettled. This is not pessimism — it is an accurate description of where we are.
+description: "The LHC found the Higgs and nothing else. String theory makes no testable predictions. The foundations of quantum mechanics remain unsettled. This is not pessimism: it is an accurate description of where we are."
 tags: research-logs, physics, EN,
 ---
 
 Let me be precise about what I mean by "crisis."
 
 I do not mean that physics has failed.
-Physics has not failed.
+Physics has not failed!
 
 Quantum electrodynamics predicts the anomalous
 magnetic moment of the electron
@@ -19,9 +19,9 @@ that LIGO measures to extraordinary precision.
 The Standard Model has not failed a single experimental test
 in fifty years.
 
-Physics works.
+Physics works. :)
 
-What is in crisis is **fundamental physics** —
+What is in crisis is **fundamental physics**,
 the part of physics concerned with
 the deepest structure of reality:
 the unification of forces,
@@ -29,14 +29,14 @@ the nature of spacetime at the Planck scale,
 the origin of the constants of nature,
 the interpretation of quantum mechanics.
 
-In this domain —
-the domain where the questions are hardest
-and the stakes are highest —
+In this domain, where the questions are hardest
+and the stakes are highest,
 we have made almost no progress
 in forty years.
 
-This is not pessimism.
-It is an accurate description of where we are.
+I am describing accurately where we are.
+Not pessimistically.
+Accurately!
 
 ---
 
@@ -57,7 +57,7 @@ Between 1973 and 2012:
 and zero theoretical surprises.**
 
 Every particle the Standard Model predicted
-was found — eventually.
+was eventually found.
 
 The W and Z bosons: 1983.
 The top quark: 1995.
@@ -68,9 +68,9 @@ Each discovery confirmed the Standard Model.
 None extended it.
 None pointed beyond it.
 
-The Standard Model is not a temporary scaffold
+The Standard Model is a mature, complete, verified theory.
+It is not a temporary scaffold
 to be replaced by something better.
-It is a mature, complete, verified theory.
 
 And it is clearly incomplete.
 
@@ -114,7 +114,7 @@ It was expected. It was found.
 The hierarchy problem required new physics at the TeV scale.
 SUSY was the dominant solution.
 Naturalness arguments placed SUSY particles
-at $$100 - 1000$$ GeV —
+at $$100 - 1000$$ GeV,
 directly accessible to the LHC.
 
 The most conservative prediction:
@@ -123,23 +123,23 @@ the lightest stop quark at $$\sim 200-500$$ GeV.
 **3. Extra dimensions.**
 
 If extra dimensions exist at the TeV scale
-(Arkani-Hamed, Dimopoulos, Dvali — ADD model),
-the LHC should produce Kaluza-Klein graviton resonances —
+(Arkani-Hamed, Dimopoulos, Dvali; the ADD model),
+the LHC should produce Kaluza-Klein graviton resonances,
 peaks in the dilepton invariant mass spectrum.
 
 **4. Dark matter candidates.**
 
-WIMPs — Weakly Interacting Massive Particles —
+WIMPs (Weakly Interacting Massive Particles)
 are the dominant dark matter candidates.
 If WIMPs have mass $$\sim 100$$ GeV
 and weak-scale interactions,
 the LHC should produce them in pairs,
 visible as missing transverse energy.
 
-**5. Compositeness / new resonances.**
+**5. Compositeness and new resonances.**
 
-Various models predicted new heavy particles —
-$$W'$$, $$Z'$$, leptoquarks, excited quarks —
+Various models predicted new heavy particles
+($$W'$$, $$Z'$$, leptoquarks, excited quarks)
 at TeV scales.
 
 **What we found:**
@@ -205,7 +205,7 @@ For $$m_{\tilde{t}} = 3$$ TeV:
 $$\Delta_{EW} \sim 1000$$
 (0.1% fine-tuning)
 
-SUSY was supposed to solve the hierarchy problem —
+SUSY was supposed to solve the hierarchy problem,
 to explain why the Higgs mass is small
 without fine-tuning.
 
@@ -218,23 +218,31 @@ The solution has become a smaller version of the problem.
 
 Independent of the LHC,
 dark matter direct detection experiments
-have excluded large regions of WIMP parameter space:
+have excluded large regions of WIMP parameter space.
 
-XENON1T, LUX, PandaX:
-For $$m_{WIMP} \sim 100$$ GeV:
-$$\sigma_{SI} < 4 \times 10^{-47}$$ cm$$^2$$
+The current world-leading result (LZ, July 2025)
+based on 4.2 tonne-years of exposure:
 
-This is extraordinarily sensitive —
-equivalent to detecting an interaction
-weaker than one per century
-per kilogram of detector material.
+$$\sigma_{SI} < 2.1 \times 10^{-48} \text{ cm}^2$$
 
-No signal found.
+at $$m_{WIMP} = 36$$ GeV.
 
-The classic WIMP dark matter candidate —
+This is extraordinarily sensitive,
+about a factor of twenty deeper than XENON1T's
+2018 limits.
+
+The classic WIMP dark matter candidate,
 the lightest supersymmetric particle
-with weak-scale mass and interactions —
-is essentially excluded for most of parameter space.
+with weak-scale mass and interactions,
+is essentially excluded
+for most of natural parameter space.
+
+LZ also reported, in the same dataset,
+the first observation of solar $$^8$$B neutrinos
+through coherent elastic neutrino-nucleus scattering.
+The same backgrounds that limit dark matter sensitivity
+are now visible as signal.
+The "neutrino fog" has been reached.
 
 ---
 
@@ -249,18 +257,18 @@ Its promise:
 - Explanation of the Standard Model from geometry
 - Derivation of the constants of nature
 
-Its status in 2024:
+Its status in 2025:
 
-**The technical achievements are real:**
+**The technical achievements are real.**
 
 The **AdS/CFT correspondence** (Maldacena, 1997)
 is one of the most powerful results
 in theoretical physics.
 It has applications in:
-- Strongly coupled gauge theories
-- Condensed matter physics
-- Quantum information
-- Black hole thermodynamics
+strongly coupled gauge theories,
+condensed matter physics,
+quantum information,
+black hole thermodynamics.
 
 The **superstring theories** (Type I, IIA, IIB, Heterotic)
 and M-theory are mathematically
@@ -270,12 +278,12 @@ Finiteness of string amplitudes
 at loop level is established
 (at least to low orders).
 
-**The fundamental problems are also real:**
+**The fundamental problems are also real.**
 
 **1. The landscape:**
 
 String theory does not predict a unique vacuum.
-It predicts $$\sim 10^{500}$$ metastable vacua —
+It predicts $$\sim 10^{500}$$ metastable vacua,
 each with different effective physics,
 different constants, different gauge groups.
 
@@ -284,9 +292,10 @@ does not uniquely predict the Standard Model.
 It predicts a vast space of possible theories,
 of which the SM is one point.
 
-This is either:
-— a profound feature (multiverse)
-— a failure of predictivity
+This is either a profound feature
+(the multiverse interpretation)
+or a failure of predictivity.
+The interpretation is contested.
 
 **2. No testable predictions:**
 
@@ -296,25 +305,26 @@ accessible to any foreseeable experiment.
 The string scale: $$\sim m_P \sim 10^{19}$$ GeV.
 The LHC: $$13 \times 10^3$$ GeV.
 
-15 orders of magnitude between experiment and theory.
+Fifteen orders of magnitude
+between experiment and theory.
 
-The specific predictions of string theory —
-Kaluza-Klein modes, string resonances,
-extra dimensions at the string scale —
+The specific predictions of string theory
+(Kaluza-Klein modes, string resonances,
+extra dimensions at the string scale)
 require Planck-energy accelerators.
 
 These will never be built.
 
 **3. The de Sitter problem:**
 
-The universe has positive cosmological constant —
-it is de Sitter space.
+The universe has positive cosmological constant.
+It is de Sitter space.
 
 Constructing stable de Sitter vacua in string theory
 has proven extraordinarily difficult.
 
 The KKLT construction (2003)
-proposed a mechanism for de Sitter vacua —
+proposed a mechanism for de Sitter vacua,
 but its validity is disputed.
 
 The **swampland program** (Vafa et al., 2018)
@@ -322,11 +332,11 @@ proposes that de Sitter vacua
 are not in the "landscape" (consistent string vacua)
 but in the "swampland" (inconsistent).
 
-If the swampland conjectures are correct:
+If the swampland conjectures are correct,
 string theory is incompatible with dark energy.
 
 The universe has dark energy.
-If string theory cannot accommodate it —
+If string theory cannot accommodate it,
 something is seriously wrong.
 
 **4. Background dependence:**
@@ -334,8 +344,8 @@ something is seriously wrong.
 String theory is defined perturbatively
 around a fixed background spacetime.
 
-In GR, the spacetime itself is dynamic —
-there is no fixed background.
+In GR, the spacetime itself is dynamic.
+There is no fixed background.
 
 A complete theory of quantum gravity
 must be background-independent.
@@ -345,27 +355,27 @@ String theory, as currently formulated, is not.
 
 ## V. The Interpretation of Quantum Mechanics
 
-We have discussed this elsewhere —
+I have discussed this elsewhere,
 but its status as an open problem
 deserves emphasis here.
 
 Quantum mechanics is 100 years old.
 
-The measurement problem —
-why measurements have definite outcomes —
+The measurement problem,
+why measurements have definite outcomes,
 is unsolved.
 
-The major interpretations:
-Copenhagen, Many-Worlds, Bohmian mechanics,
-GRW collapse models, QBism, Relational QM —
+The major interpretations
+(Copenhagen, Many-Worlds, Bohmian mechanics,
+GRW collapse models, QBism, Relational QM)
 make the same experimental predictions.
 
 They cannot be distinguished by experiment.
 
-This means:
-either the interpretational question is not empirical —
-it is metaphysics, not physics —
-or we have not yet found the experiment
+This means one of two things.
+Either the interpretational question is not empirical,
+in which case it is metaphysics, not physics.
+Or we have not yet found the experiment
 that distinguishes them.
 
 **Recent experimental developments:**
@@ -383,9 +393,9 @@ on your interpretation.
 
 **Quantum Darwinism tests:**
 
-Zurek's quantum Darwinism —
+Zurek's quantum Darwinism,
 the emergence of classical reality
-through environmental redundancy —
+through environmental redundancy,
 has been tested in small quantum systems.
 
 Results: qualitative support, not conclusive.
@@ -401,7 +411,7 @@ matter-wave interferometry (Arndt group, Vienna),
 optomechanical systems,
 and macroscopic quantum states.
 
-No deviation from standard QM found — yet.
+No deviation from standard QM has been found.
 
 The measurement problem is not solved.
 The experiments are getting better.
@@ -412,58 +422,103 @@ The problem is not going away.
 ## VI. The Muon Anomalous Magnetic Moment
 
 In April 2021, the Muon g-2 experiment
-at Fermilab announced:
+at Fermilab announced its first result:
 
-$$a_\mu^{exp} = 116592061(41) \times 10^{-11}$$
+$$a_\mu^{exp,2021} = 116\,592\,061(41) \times 10^{-11}$$
 
-The Standard Model prediction (as of 2020):
+The Standard Model prediction at the time
+(Theory Initiative White Paper, 2020):
 
-$$a_\mu^{SM} = 116591810(43) \times 10^{-11}$$
+$$a_\mu^{SM,2020} = 116\,591\,810(43) \times 10^{-11}$$
 
 Discrepancy: $$\Delta a_\mu = 251 \times 10^{-11}$$
 
 Significance: $$4.2\sigma$$
 
-This is tantalizing —
-$$4.2\sigma$$ is significant,
+This was tantalizing.
+$$4.2\sigma$$ is significant.
 $$5\sigma$$ is the conventional discovery threshold.
-
-If this discrepancy is real and not a theoretical error,
-it is evidence for new physics beyond the Standard Model.
+If the discrepancy was real and not a theoretical error,
+it pointed to new physics beyond the Standard Model.
 
 **The complication:**
 
-In 2021, a lattice QCD calculation
-(BMW collaboration)
-obtained a SM prediction
-that agrees with experiment within $$1.5\sigma$$.
+Already in 2021, a lattice QCD calculation
+by the BMW collaboration
+produced a Standard Model prediction
+that agreed with experiment within $$1.5\sigma$$.
 
-Different theoretical methods
-(dispersive vs. lattice)
-give different SM predictions.
+Two theoretical methods,
+dispersive (data-driven from $$e^+e^-$$ cross sections)
+and lattice QCD,
+gave different SM predictions.
 
-The discrepancy may be:
-(a) real — new physics
-(b) a theoretical error in the dispersive approach
-(c) a statistical fluctuation
+For four years the community was split.
 
-The community is not in agreement.
+**What changed in 2025:**
 
-Run 2 and Run 3 data from Muon g-2
-(released 2023) confirmed the experimental value.
-The theoretical uncertainty remains the issue.
+Two announcements, weeks apart,
+reshaped the picture.
 
-This is the most tantalizing hint of new physics
-in current data —
-and the theoretical situation is unresolved.
+In May 2025, the Muon g-2 Theory Initiative
+published an updated White Paper (WP25).
+It relied on lattice QCD methods,
+which by then had reached the precision needed
+to drive the consensus:
+
+$$a_\mu^{SM,2025} = 116\,592\,033(62) \times 10^{-11}$$
+
+This was statistically incompatible
+with the 2020 prediction at $$3\sigma$$.
+It moved the SM value much closer to experiment.
+
+In June 2025, the Muon g-2 collaboration
+released its final experimental result,
+based on the full Run 1-6 dataset:
+
+$$a_\mu^{exp,2025} = 116\,592\,070.5(14.8) \times 10^{-11}$$
+
+127 ppb precision.
+This is the experimental world average.
+It will likely remain so for years.
+
+**The discrepancy now:**
+
+$$\Delta a_\mu = 37.5 \times 10^{-11}$$
+
+Combined uncertainty: $$\sim 64 \times 10^{-11}$$
+
+Significance: $$\sim 0.6\sigma$$
+
+The $$4.2\sigma$$ anomaly of 2021 has effectively vanished.
+
+This is not the end of the theoretical story.
+The remaining tension is internal to theory:
+dispersive and lattice methods still give
+different values for the hadronic vacuum polarization,
+and the community has not fully resolved
+why.
+
+But for the muon g-2 as a hint of new physics,
+the hint is gone.
+
+The most tantalizing anomaly in particle physics
+disappeared not because new physics was ruled out
+but because the theoretical methods
+improved enough to show
+that the original prediction was wrong.
+
+This is the typical fate of anomalies in physics.
+It is worth remembering for what comes next.
 
 ---
 
 ## VII. Other Anomalies — A Survey
 
 Beyond the muon g-2,
-several other anomalies exist
+other anomalies have appeared
 at varying levels of significance.
+Two are worth discussing in detail.
 
 **B meson anomalies (LHCb):**
 
@@ -483,33 +538,42 @@ New result: $$R_K = 0.994^{+0.090}_{-0.082}$$
 
 Consistent with the SM. The anomaly disappeared.
 
-This is important:
-an apparent $$3\sigma$$ anomaly —
-taken seriously for years as potential new physics —
+This is important.
+An apparent $$3\sigma$$ anomaly,
+taken seriously for years as potential new physics,
 vanished with improved analysis.
 
-**W boson mass (CDF, 2022):**
+**W boson mass:**
 
-The CDF experiment at Fermilab measured:
+The CDF experiment at Fermilab (2022) measured:
 
-$$m_W = 80.4335 \pm 0.0094 \text{ GeV}$$
+$$m_W^{CDF} = 80.4335 \pm 0.0094 \text{ GeV}$$
 
-SM prediction: $$80.357 \pm 0.006$$ GeV
+SM prediction: $$80.357 \pm 0.006$$ GeV.
 
-Discrepancy: $$7\sigma$$
+Discrepancy: $$\sim 7\sigma$$.
 
-If true: the largest discrepancy from the SM ever measured.
+If true, the largest discrepancy from the SM ever measured.
 
 **But:**
-ATLAS (LHC) measurement (2023):
-$$m_W = 80.360 \pm 0.016$$ GeV
 
-Consistent with the SM.
-Inconsistent with CDF.
+ATLAS (LHC, 2024 publication):
+$$m_W^{ATLAS} = 80.367 \pm 0.016 \text{ GeV}$$
 
-The CDF result may reflect
-an unidentified systematic error.
-The situation is unresolved.
+CMS (LHC, September 2024):
+$$m_W^{CMS} = 80.360 \pm 0.010 \text{ GeV}$$
+
+Both LHC measurements are consistent with the Standard Model.
+Both are inconsistent with CDF.
+
+The CMS measurement, in particular,
+is the most precise W mass determination at the LHC
+and has comparable precision to CDF.
+
+The CDF result is increasingly isolated.
+It may reflect an unidentified systematic error.
+The situation is unresolved
+but the weight of evidence has shifted.
 
 **The lesson:**
 
@@ -519,8 +583,9 @@ The history of particle physics is littered
 with "discoveries" that vanished under scrutiny.
 
 The physicist's response to anomalies
-must be: take them seriously,
-but assume systematic error until proven otherwise.
+must be to take them seriously
+while assuming systematic error
+until proven otherwise.
 
 ---
 
@@ -540,9 +605,22 @@ $$H_0 = 73.04 \pm 1.04 \text{ km/s/Mpc}$$
 
 Discrepancy: $$\sim 5\sigma$$
 
-Both measurements use completely independent methods.
-Both are well-understood systematic uncertainties.
-The discrepancy has grown more significant
+JWST has now joined the effort.
+SH0ES with JWST Cepheid recalibration (Riess et al., 2024):
+$$H_0 = 73.17 \pm 0.86 \text{ km/s/Mpc}$$
+
+Other JWST analyses, using different rungs of the distance ladder
+(TRGB, JAGB, carbon stars; Freedman et al., 2024-2025),
+give somewhat lower values around $$68-70 \text{ km/s/Mpc}$$.
+The picture is now more nuanced
+than a simple early-vs-late dichotomy,
+but the overall tension between
+the CMB and the most precise local measurements persists,
+and recent compilations place it above $$5\sigma$$.
+
+Both methods are well-understood
+in their systematic uncertainties.
+The discrepancy has not shrunk
 as measurements have improved.
 
 **Possible explanations:**
@@ -551,35 +629,34 @@ as measurements have improved.
    (Most physicists' first instinct.)
 
 2. New physics between recombination and today:
-   - Early dark energy: an additional dark energy component
-     active before recombination
-   - Interacting dark matter
-   - Modified gravity
+   early dark energy (an additional dark energy component
+   active before recombination),
+   interacting dark matter,
+   modified gravity.
 
 3. A fundamental flaw in the standard cosmological model.
 
 The Hubble tension is the most statistically significant
 current discrepancy in cosmology.
 
-If it persists — if future measurements
+If it persists, if future measurements
 (DESI, Euclid, Roman telescope)
-confirm both values —
-it requires new physics.
+confirm both values, it requires new physics.
 
 ---
 
 ## IX. What Is Not a Crisis
 
-I want to be precise about what is NOT in crisis.
+Let me be precise about what is NOT in crisis.
 
 **Precision tests of the Standard Model:**
 
 The anomalous magnetic moment of the electron:
 
-$$a_e^{theory} = 0.001159652182032(720)$$
-$$a_e^{exp} = 0.00115965218059(13)$$
+$$a_e^{theory} = 0.001\,159\,652\,182\,032(720)$$
+$$a_e^{exp} = 0.001\,159\,652\,180\,59(13)$$
 
-Agreement to 12 significant figures.
+Agreement to ten significant figures.
 No crisis here.
 
 **Gravitational waves:**
@@ -588,10 +665,10 @@ LIGO/Virgo have detected $$\sim 100$$ gravitational wave events.
 Binary black hole mergers, neutron star mergers.
 All consistent with General Relativity.
 
-GW170817 — binary neutron star merger:
-- Gravitational wave + gamma-ray burst: $$\Delta t < 1.7$$ s
-- Constraint on graviton mass: $$m_g < 7.7 \times 10^{-23}$$ eV/c$$^2$$
-- Constraint on GW speed: $$|v_{GW} - c|/c < 10^{-15}$$
+GW170817 (binary neutron star merger):
+gravitational wave plus gamma-ray burst with $$\Delta t < 1.7$$ s,
+constraint on graviton mass $$m_g < 7.7 \times 10^{-23}$$ eV/c$$^2$$,
+constraint on GW speed $$|v_{GW} - c|/c < 10^{-15}$$.
 
 General Relativity passes every test.
 
@@ -602,8 +679,8 @@ The mixing parameters are being measured precisely.
 The mass ordering (normal vs. inverted)
 is being determined.
 
-This is an active, productive field —
-not a crisis.
+This is an active, productive field.
+Not a crisis.
 
 **Cosmology:**
 
@@ -614,8 +691,7 @@ with extraordinary precision.
 The cosmological parameters are measured
 to percent-level accuracy.
 
-The model is successful — 
-apart from the Hubble tension
+The model is successful, apart from the Hubble tension
 and the unexplained nature of dark matter and dark energy.
 
 ---
@@ -623,22 +699,22 @@ and the unexplained nature of dark matter and dark energy.
 ## X. The Honest Assessment
 
 Here is the situation as I see it,
-trying to be as objective as possible:
+trying to be as objective as possible.
 
 **What has been achieved:**
 
 The Standard Model is a complete, correct theory
 of all known particle physics.
-It will not be "overthrown" —
-it will be extended.
+It will not be overthrown.
+It will be extended.
 
 General Relativity is a complete, correct theory
 of classical gravity.
 It will be extended to include quantum effects.
 
-The experimental tools —
-the LHC, gravitational wave detectors,
-CMB telescopes, dark matter experiments —
+The experimental tools
+(the LHC, gravitational wave detectors,
+CMB telescopes, dark matter experiments)
 are extraordinarily powerful.
 
 **What has not been achieved:**
@@ -654,8 +730,8 @@ No derivation of the constants of nature.
 **The uncomfortable facts:**
 
 The theories that dominated BSM physics
-from 1980 to 2010 —
-SUSY, extra dimensions, technicolor —
+from 1980 to 2010
+(SUSY, extra dimensions, technicolor)
 have not been confirmed.
 
 String theory has not made
@@ -663,25 +739,25 @@ a single testable prediction
 in fifty years of development.
 
 The two dominant frameworks
-for physics beyond the Standard Model —
-SUSY and string theory —
+for physics beyond the Standard Model,
+SUSY and string theory,
 are either excluded at natural scales (SUSY)
 or untestable (string theory).
 
 This is a genuine problem.
-Not a catastrophe — but a problem.
+Not a catastrophe, but a problem.
 
 **The questions that remain:**
 
-Are we in a desert —
-no new physics between the electroweak scale
+Are we in a desert,
+with no new physics between the electroweak scale
 and some much higher scale?
 
-Or are we missing something conceptual —
+Or are we missing something conceptual,
 asking the wrong questions,
 using the wrong framework?
 
-Or is new physics present but hidden —
+Or is new physics present but hidden,
 at slightly higher energies,
 or in very rare processes,
 or in gravitational effects we cannot yet measure?
@@ -696,22 +772,22 @@ What does the community propose?
 
 **Higher energy:**
 
-The FCC (Future Circular Collider) —
+The FCC (Future Circular Collider),
 a 100 km circumference collider
 at 100 TeV center-of-mass energy.
 
-If approved and built ($$\sim$$2040s):
-would extend the energy frontier by factor $$\sim 8$$.
-Could produce SUSY particles if they exist
-below $$\sim 10$$ TeV.
+If approved and built (in the 2040s),
+it would extend the energy frontier by a factor of $$\sim 8$$
+and could produce SUSY particles
+if they exist below $$\sim 10$$ TeV.
 
-Cost: $$\sim$€20 billion.
+Cost: $$\sim$$ €20 billion.
 
 **Precision:**
 
-The ILC (International Linear Collider):
+The ILC (International Linear Collider),
 an electron-positron collider
-as a "Higgs factory" —
+as a "Higgs factory",
 measuring Higgs couplings to 0.1% precision.
 
 Deviations from SM Higgs couplings
@@ -720,27 +796,30 @@ would indicate new physics.
 **Dark matter:**
 
 Next-generation direct detection experiments
-(XENON-nT, LZ, PandaX-4T):
-extending sensitivity by factor $$\sim 100$$.
+(XENON-nT, the LZ continuation, PandaX-4T)
+will extend sensitivity by another factor of $$\sim 100$$.
 
-If no signal: most of natural WIMP parameter space excluded.
+If no signal appears,
+most of natural WIMP parameter space will be excluded.
+The "neutrino fog" is now the floor.
 
 **Gravitational:**
 
-LISA (Laser Interferometer Space Antenna):
-space-based gravitational wave detector.
+LISA (Laser Interferometer Space Antenna),
+a space-based gravitational wave detector
+scheduled for the mid-2030s.
 Sensitive to mergers of supermassive black holes,
 early universe gravitational waves,
 possible exotic compact objects.
 
-Could detect gravitational wave signals
-from phase transitions in the early universe —
+LISA could detect gravitational wave signals
+from phase transitions in the early universe,
 including the electroweak phase transition
 if it was first order.
 
 **Theoretical:**
 
-The amplituhedron (Arkani-Hamed et al.):
+The amplituhedron (Arkani-Hamed et al.),
 a new mathematical object that computes
 scattering amplitudes in $$\mathcal{N}=4$$ SYM
 without Feynman diagrams.
@@ -749,7 +828,7 @@ Whether this points to a new formulation
 of quantum gravity is unclear.
 
 Celestial amplitudes, twistor theory,
-positive geometry —
+positive geometry:
 new mathematical frameworks
 for scattering amplitudes
 that may point beyond QFT.
@@ -759,7 +838,7 @@ that may point beyond QFT.
 ## XII. The Meta-Problem
 
 Here is the deepest problem,
-which is rarely stated plainly:
+which is rarely stated plainly.
 
 **We do not know what we are looking for.**
 
@@ -769,15 +848,15 @@ the stability of the atom.
 
 The problems pointed toward quantum mechanics.
 
-In 1905, the problems were:
+In 1905, the problem was:
 the incompatibility of electromagnetism and mechanics.
-The problem pointed toward special relativity.
+It pointed toward special relativity.
 
 In 1907, the problem was:
 the incompatibility of special relativity and gravity.
-The problem pointed toward general relativity.
+It pointed toward general relativity.
 
-In each case:
+In each case,
 a specific, concrete, well-defined problem
 pointed toward a specific, concrete solution.
 
@@ -795,12 +874,12 @@ We have the problems.
 We do not have the clue
 about what direction the solution lies in.
 
-This is the deepest sense of the crisis:
-not that we have the wrong theories —
-but that we do not yet have
+This is the deepest sense of the crisis.
+It is not that we have the wrong theories.
+It is that we do not yet have
 the right problems.
 
-Or rather: we have not yet found
+Or, more precisely: we have not yet found
 the experimental anomaly,
 the theoretical inconsistency,
 the empirical discrepancy
@@ -811,24 +890,28 @@ We are waiting for the data
 that will tell us where to look.
 
 That data may be:
-the Hubble tension, if it persists.
-The muon g-2, if the theory settles.
-A dark matter signal, if it appears.
+the Hubble tension, which has not subsided.
+A dark matter signal, if direct detection finds one
+before the neutrino fog swallows the experiments.
 A gravitational wave background, if LISA detects it.
 A Higgs coupling deviation, if the ILC measures it.
 
+(The muon g-2 anomaly, once on this list,
+dissolved in 2025. Not because new physics was excluded,
+but because the theoretical prediction moved.
+This is itself a lesson.)
+
 Or something entirely unexpected.
 
-The history of physics suggests:
-when the breakthrough comes,
+The history of physics suggests
+that when the breakthrough comes,
 it will not be where we expected.
 
 It will be in some anomaly
 that seemed minor,
 that was attributed to systematic error,
-that someone decided to take seriously —
-
-and could not explain
+that someone decided to take seriously,
+and that could not be explained
 with anything that already existed.
 
 We are waiting.
@@ -837,37 +920,40 @@ We are waiting.
 
 *Essential reading:*
 
-*Woit — Not Even Wrong (2006)*
-*— the critique of string theory*
+*Woit,* Not Even Wrong *(2006).*
+*The critique of string theory.*
 
 
-*Smolin — The Trouble with Physics (2006)*
-*— the crisis in fundamental physics; accessible*
+*Smolin,* The Trouble with Physics *(2006).*
+*The crisis in fundamental physics; accessible.*
 
 
-*Hossenfelder — Lost in Math (2018)*
-*— on the role of beauty in physics*
+*Hossenfelder,* Lost in Math *(2018).*
+*On the role of beauty in physics.*
 
 
-*Ellis & Silk — "Scientific Method: Defend the Integrity*
-*of Physics" (2014)*
-*Nature 516, 321*
-*— the debate about string theory and testability*
+*Ellis & Silk, "Scientific Method: Defend the Integrity of Physics" (2014).*
+*Nature 516, 321.*
+*The debate about string theory and testability.*
 
 
-*Polchinski — "String Theory to the Rescue" (2015)*
-*arXiv:1512.05477*
-*— the defense of string theory*
+*Polchinski, "String Theory to the Rescue" (2015).*
+*arXiv:1512.05477.*
+*The defense of string theory.*
 
 
 *For the LHC results:*
 
-*ATLAS and CMS collaboration papers*
-*on SUSY searches — available on arXiv*
+*ATLAS and CMS collaboration papers on SUSY searches, available on arXiv.*
+
+
+*For muon g-2 (2025):*
+
+*Muon g-2 Collaboration, arXiv:2506.03069 (Fermilab final result).*
+*Aliberti et al., arXiv:2505.21476 (Theory Initiative White Paper 2025).*
 
 
 *For the Hubble tension:*
 
-*Verde, Treu & Riess — "Tensions between the*
-*Early and the Late Universe" (2019)*
-*Nature Astronomy 3, 891*
+*Verde, Treu & Riess, "Tensions between the Early and the Late Universe" (2019).*
+*Nature Astronomy 3, 891.*
