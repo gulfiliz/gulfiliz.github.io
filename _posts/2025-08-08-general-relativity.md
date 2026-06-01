@@ -822,5 +822,5 @@ The happiest thought of Einstein's life was about a man falling. I think about t
 
 ---
 
-*Bana GR öğreten ve şu anda hayatta olmayan hocam, Durmuş Ali Demir'e saygıyla. Hayatta değilken bile beni inspire ettiğiniz için sonsuz teşekkürler. Sizi tanidigim icin, sizin ogrenciniz oldugum icin sonsuz gurur duyuyorum.*
+*Bana GR öğreten ve şu anda hayatta olmayan hocam, Durmuş Ali Demir'e saygıyla. Hayatta değilken bile beni inspire ettiğiniz için sonsuz teşekkürler. Sizi tanıdığım için, sizin öğrenciniz olduğum için sonsuz gurur duyuyorum.*
 
