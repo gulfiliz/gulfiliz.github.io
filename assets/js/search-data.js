@@ -271,9 +271,9 @@ ninja.data = [{
         },
       },{id: "post-vacuum-energy-why-nothing-weighs-something",
         
-          title: "Vacuum Energy — Why Nothing Weighs Something",
+          title: "Vacuum Energy: Why Nothing Weighs Something",
         
-        description: "The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics — or a clue to something we don&#39;t yet understand.",
+        description: "The quantum vacuum is not empty. It seethes with fluctuations, virtual particles, and an energy density that our best theory predicts to be 10¹²² times larger than observed. This is either the worst prediction in physics, or a clue to something we don&#39;t yet understand.",
         section: "Posts",
         handler: () => {
           
