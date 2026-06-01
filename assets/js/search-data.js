@@ -304,9 +304,9 @@ ninja.data = [{
         },
       },{id: "post-general-relativity-gravity-is-not-a-force",
         
-          title: "General Relativity — Gravity Is Not a Force",
+          title: "General Relativity: Gravity Is Not a Force",
         
-        description: "Einstein&#39;s greatest achievement — the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.",
+        description: "Einstein&#39;s greatest achievement, the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.",
         section: "Posts",
         handler: () => {
           
