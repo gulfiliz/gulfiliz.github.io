@@ -293,7 +293,7 @@ ninja.data = [{
         },
       },{id: "post-dostoevsky-the-writer-who-knew-too-much",
         
-          title: "Dostoevsky — The Writer Who Knew Too Much",
+          title: "Dostoevsky: The Writer Who Knew Too Much",
         
         description: "On suffering, freedom, and the novelist who saw the twentieth century coming.",
         section: "Posts",
