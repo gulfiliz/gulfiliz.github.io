@@ -1,8 +1,8 @@
 ---
 layout: post
-title: General Relativity — Gravity Is Not a Force
+title: "General Relativity: Gravity Is Not a Force"
 date: 2025-08-08
-description: Einstein's greatest achievement — the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe.
+description: "Einstein's greatest achievement, the geometric theory of gravity, spacetime curvature, and why falling is the most natural thing in the universe."
 tags: research-logs, physics,
 ---
 
@@ -14,7 +14,7 @@ and imagined a man falling freely from a roof.
 
 The falling man feels no gravity.
 He is weightless.
-He drops his keys — they fall with him,
+He drops his keys, they fall with him,
 hovering beside him.
 From his perspective, gravity has vanished.
 
@@ -22,14 +22,14 @@ Einstein realized:
 **a freely falling reference frame
 is locally equivalent to an inertial frame.**
 
-Gravity can be transformed away —
-locally, temporarily —
+Gravity can be transformed away,
+locally and temporarily,
 by choosing the right reference frame.
 
 This is the **equivalence principle.**
 
-From this single thought —
-from a man falling off a roof —
+From this single thought,
+from a man falling off a roof,
 Einstein spent eight years
 constructing the most beautiful physical theory
 ever written.
@@ -42,7 +42,7 @@ General Relativity.
 
 Special relativity is incomplete.
 
-It describes physics in inertial frames —
+It describes physics in inertial frames,
 frames moving at constant velocity.
 It says nothing about accelerated frames.
 It says nothing about gravity.
@@ -68,13 +68,12 @@ Three candidates for relativistic gravity were proposed.
 None worked correctly.
 
 Einstein's approach was different.
-
 He did not try to make gravity fit special relativity.
 He rebuilt the framework entirely.
 
 ---
 
-## II. The Equivalence Principle — Precise Formulation
+## II. The Equivalence Principle, Precisely
 
 The equivalence principle exists in several forms
 of increasing strength.
@@ -91,14 +90,14 @@ $$m_i \mathbf{a} = m_g \mathbf{g}$$
 If $$m_i = m_g$$: all bodies fall the same way.
 Galileo's experiment from the Tower of Pisa.
 Eötvös experiment (1889): confirmed to $$10^{-9}$$.
-Modern tests: confirmed to $$10^{-15}$$.
+Modern tests (MICROSCOPE, 2017): confirmed to $$10^{-15}$$.
 
 **Einstein Equivalence Principle (EEP):**
 
 In any freely falling frame,
 the laws of special relativity hold locally.
 
-No local experiment — mechanical or electromagnetic —
+No local experiment, mechanical or electromagnetic,
 can distinguish a freely falling frame
 from an inertial frame in empty space.
 
@@ -114,7 +113,7 @@ GR satisfies it exactly.
 
 ---
 
-## III. Differential Geometry — The Mathematical Language
+## III. Differential Geometry, the Mathematical Language
 
 General relativity is written in the language
 of differential geometry.
@@ -128,15 +127,15 @@ A **manifold** $$\mathcal{M}$$ is a topological space
 that locally looks like $$\mathbb{R}^n$$.
 
 Spacetime is a 4-dimensional manifold.
-Locally — in a small enough region —
+Locally, in a small enough region,
 it looks like flat Minkowski space.
 Globally, it can be curved.
 
 **Tangent spaces:**
 
 At each point $$p \in \mathcal{M}$$,
-there is a **tangent space** $$T_p\mathcal{M}$$
-— the space of all tangent vectors at $$p$$.
+there is a **tangent space** $$T_p\mathcal{M}$$,
+the space of all tangent vectors at $$p$$.
 
 A tangent vector $$V^\mu$$ at $$p$$
 represents a direction and magnitude
@@ -145,7 +144,7 @@ in which you can move from $$p$$.
 **The metric tensor:**
 
 The fundamental object in Riemannian geometry
-is the **metric tensor** $$g_{\mu\nu}$$ —
+is the **metric tensor** $$g_{\mu\nu}$$,
 a symmetric (0,2) tensor field
 that assigns an inner product to tangent vectors:
 
@@ -159,7 +158,7 @@ $$g_{\mu\nu} = \eta_{\mu\nu} = \text{diag}(-1, +1, +1, +1)$$
 
 $$ds^2 = -c^2dt^2 + dx^2 + dy^2 + dz^2$$
 
-In curved spacetime: $$g_{\mu\nu}$$ varies from point to point.
+In curved spacetime, $$g_{\mu\nu}$$ varies from point to point.
 The metric carries all information about the geometry.
 
 **Covariant derivative:**
@@ -180,12 +179,12 @@ $$\Gamma^\lambda_{\mu\nu} = \frac{1}{2}g^{\lambda\sigma}
 
 The Christoffel symbols encode how basis vectors
 change from point to point.
-They are not tensors — they vanish in local inertial frames.
+They are not tensors. They vanish in local inertial frames.
 
 **Geodesics:**
 
 A **geodesic** is the straightest possible path
-on a curved manifold —
+on a curved manifold,
 the path of zero covariant acceleration:
 
 $$\frac{d^2x^\mu}{d\tau^2} + \Gamma^\mu_{\alpha\beta}
@@ -196,7 +195,7 @@ where $$\tau$$ is proper time.
 This is the equation of motion for a freely falling particle.
 
 In flat spacetime: $$\Gamma = 0$$, straight lines.
-In curved spacetime: geodesics are curved —
+In curved spacetime: geodesics are curved,
 but they are the straightest possible paths.
 
 **The Riemann curvature tensor:**
@@ -238,7 +237,7 @@ and satisfies the contracted Bianchi identity:
 
 $$\nabla^\mu G_{\mu\nu} = 0$$
 
-This is crucial — it guarantees
+This is crucial. It guarantees
 that the Einstein equations are consistent
 with energy-momentum conservation.
 
@@ -246,11 +245,10 @@ with energy-momentum conservation.
 
 ## IV. The Einstein Field Equations
 
-After eight years of struggle —
-involving wrong turns, false starts,
+After eight years of struggle
+(involving wrong turns, false starts,
 a race against Hilbert,
-and the development of entirely new mathematics —
-
+and the development of entirely new mathematics),
 Einstein wrote down his field equations in November 1915:
 
 $$G_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4}T_{\mu\nu}$$
@@ -266,10 +264,11 @@ matter tells spacetime how to curve."*
 
 **The stress-energy tensor $$T_{\mu\nu}$$:**
 
-Encodes all matter and energy content:
-— $$T_{00}$$: energy density
-— $$T_{0i}$$: energy flux / momentum density
-— $$T_{ij}$$: stress tensor (pressure and shear)
+It encodes all matter and energy content:
+
+- $$T_{00}$$: energy density
+- $$T_{0i}$$: energy flux and momentum density
+- $$T_{ij}$$: stress tensor (pressure and shear)
 
 For a perfect fluid:
 $$T_{\mu\nu} = (\rho + p/c^2)u_\mu u_\nu + pg_{\mu\nu}$$
@@ -277,7 +276,7 @@ $$T_{\mu\nu} = (\rho + p/c^2)u_\mu u_\nu + pg_{\mu\nu}$$
 **The cosmological constant $$\Lambda$$:**
 
 Einstein introduced $$\Lambda$$ in 1917
-to produce a static universe — his "greatest blunder."
+to produce a static universe, his "greatest blunder."
 
 After Hubble's discovery of cosmic expansion (1929),
 he abandoned it.
@@ -290,7 +289,7 @@ Current value: $$\Lambda \approx 1.1 \times 10^{-52} \text{ m}^{-2}$$
 **The Newtonian limit:**
 
 For weak fields and slow motion:
-$$g_{\mu\nu} \approx \eta_{\mu\nu} + h_{\mu\nu}$$, $$|h_{\mu\nu}| \ll 1$$
+$$g_{\mu\nu} \approx \eta_{\mu\nu} + h_{\mu\nu}$$, $$|h_{\mu\nu}| \ll 1$$.
 
 The Einstein equations reduce to:
 $$\nabla^2\Phi = 4\pi G\rho$$
@@ -303,11 +302,11 @@ as a weak-field, slow-motion approximation.
 
 ## V. The Schwarzschild Solution
 
-The Einstein equations are nonlinear —
-finding exact solutions is extraordinarily difficult.
+The Einstein equations are nonlinear.
+Finding exact solutions is extraordinarily difficult.
 
 The first exact solution was found by
-Karl Schwarzschild in 1916 —
+Karl Schwarzschild in 1916,
 while serving on the Russian front in World War I.
 He died four months later.
 
@@ -320,9 +319,9 @@ $$ds^2 = -\left(1 - \frac{r_s}{r}\right)c^2dt^2
 + r^2d\Omega^2$$
 
 where:
-$$r_s = \frac{2GM}{c^2}$$ is the **Schwarzschild radius**
+$$r_s = \frac{2GM}{c^2}$$ is the **Schwarzschild radius**,
 
-$$d\Omega^2 = d\theta^2 + \sin^2\theta\,d\phi^2$$
+$$d\Omega^2 = d\theta^2 + \sin^2\theta\,d\phi^2$$.
 
 This describes spacetime outside a spherical mass $$M$$:
 a planet, a star, a black hole.
@@ -333,24 +332,24 @@ A clock at radius $$r$$ runs at rate:
 
 $$d\tau = \sqrt{1 - \frac{r_s}{r}}\,dt$$
 
-At $$r \to \infty$$: $$d\tau \to dt$$ — coordinate time.
+At $$r \to \infty$$: $$d\tau \to dt$$, coordinate time.
 Near $$r_s$$: time slows dramatically.
 At $$r = r_s$$: time stops.
 
 **The Schwarzschild radius:**
 
-For the Sun: $$r_s = 2.95 \text{ km}$$
-For the Earth: $$r_s = 8.87 \text{ mm}$$
-For a proton: $$r_s \sim 10^{-54} \text{ m}$$
+For the Sun: $$r_s = 2.95$$ km.
+For the Earth: $$r_s = 8.87$$ mm.
+For a proton: $$r_s \sim 10^{-54}$$ m.
 
-If you could compress the Sun to a sphere of radius 2.95 km —
+If you could compress the Sun to a sphere of radius 2.95 km,
 it would become a black hole.
 
 **Geodesics in Schwarzschild spacetime:**
 
 The geodesic equation gives planetary orbits.
 
-For nearly circular orbits:
+For nearly circular orbits,
 the perihelion precesses at rate:
 
 $$\Delta\phi = \frac{6\pi GM}{c^2 a(1-e^2)}$$
@@ -374,13 +373,13 @@ This is the **event horizon.**
 
 **What happens at the event horizon:**
 
-For an infalling observer:
-nothing special — they cross smoothly.
+For an infalling observer, nothing special.
+They cross smoothly.
 The Schwarzschild coordinates are singular there
 but the physics is not.
 
-In Kruskal-Szekeres coordinates —
-which cover the full Schwarzschild manifold —
+In Kruskal-Szekeres coordinates,
+which cover the full Schwarzschild manifold,
 the metric is:
 
 $$ds^2 = \frac{32G^3M^3}{r}e^{-r/2GM}(-dT^2 + dX^2)
@@ -388,43 +387,43 @@ $$ds^2 = \frac{32G^3M^3}{r}e^{-r/2GM}(-dT^2 + dX^2)
 
 No coordinate singularity at $$r = r_s$$.
 
-The event horizon is a null hypersurface —
-it moves outward at the speed of light.
-Once inside, nothing — not even light —
+The event horizon is a null hypersurface.
+It moves outward at the speed of light.
+Once inside, nothing, not even light,
 can escape.
 
 **The singularity:**
 
 At $$r = 0$$: a genuine curvature singularity.
-The Kretschner scalar:
+The Kretschmann scalar:
 
 $$K = R_{\mu\nu\rho\sigma}R^{\mu\nu\rho\sigma}
 = \frac{48G^2M^2}{c^4r^6} \to \infty$$
 
-as $$r \to 0$.
+as $$r \to 0$$.
 
 The singularity is not a point in space.
-It is a moment in time —
+It is a moment in time:
 for any infalling observer,
 it lies in the future.
 
 **The Penrose-Hawking singularity theorems:**
 
-Roger Penrose (1965) proved:
-if a trapped surface forms —
-a surface from which all light rays converge —
+Roger Penrose (1965) proved
+that if a trapped surface forms
+(a surface from which all light rays converge),
 then a singularity must form.
 
 Stephen Hawking extended this to cosmology:
 the Big Bang is a singularity.
 
-These theorems show that singularities
-are generic — they are not artifacts
+These theorems show that singularities are generic.
+They are not artifacts
 of the special symmetry of Schwarzschild.
 They are inevitable consequences of GR.
 
-They also show where GR breaks down:
-at singularities, the curvature diverges,
+They also show where GR breaks down.
+At singularities, the curvature diverges,
 and quantum effects must become important.
 GR is incomplete.
 
@@ -432,8 +431,8 @@ GR is incomplete.
 
 ## VII. Gravitational Waves
 
-The linearized Einstein equations —
-GR in the weak-field limit —
+The linearized Einstein equations,
+GR in the weak-field limit,
 have wave solutions.
 
 Write $$g_{\mu\nu} = \eta_{\mu\nu} + h_{\mu\nu}$$
@@ -452,8 +451,8 @@ propagating at speed $$c$$.
 
 **Properties of gravitational waves:**
 
-Gravitational waves are transverse —
-they oscillate perpendicular to their direction of travel.
+Gravitational waves are transverse.
+They oscillate perpendicular to their direction of travel.
 
 They have two polarizations:
 $$+$$ (plus) and $$\times$$ (cross).
@@ -462,16 +461,16 @@ A plus-polarized wave stretches space in the x-direction
 while compressing in the y-direction,
 then vice versa.
 
-The strain — fractional change in length:
+The strain, fractional change in length:
 
 $$h = \frac{\Delta L}{L}$$
 
 For the first detected gravitational wave (GW150914):
-$$h \sim 10^{-21}$$
+$$h \sim 10^{-21}$$.
 
-A fractional change of $$10^{-21}$.
+A fractional change of $$10^{-21}$$.
 For a detector 4 km long:
-$$\Delta L \sim 4 \times 10^{-18} \text{ m}$$
+$$\Delta L \sim 4 \times 10^{-18}$$ m.
 
 One thousandth the diameter of a proton.
 
@@ -487,41 +486,41 @@ No monopole radiation (mass conservation).
 No dipole radiation (momentum conservation).
 Only quadrupole and higher.
 
-**Binary pulsar — indirect detection:**
+**Binary pulsar, indirect detection:**
 
 In 1974, Hulse and Taylor discovered
 the first binary pulsar: PSR B1913+16.
 
 Two neutron stars orbiting each other.
-The orbital period decreases over time —
-the system is losing energy.
+The orbital period decreases over time.
+The system is losing energy.
 
-The rate of energy loss:
+The rate of energy loss
 exactly matches the GR prediction
 for gravitational wave emission.
 
 Hulse and Taylor received the Nobel Prize in 1993
 for this indirect confirmation.
 
-**LIGO — direct detection:**
+**LIGO, direct detection:**
 
 On September 14, 2015, at 09:50:45 UTC,
 the LIGO Livingston and Hanford detectors
 recorded a signal:
 
-**GW150914** — the merger of two black holes.
+**GW150914**, the merger of two black holes.
 
-Masses: $$36 M_\odot$$ and $$29 M_\odot$$
-Final mass: $$62 M_\odot$$
-Energy radiated: $$3 M_\odot c^2 \approx 5 \times 10^{47}$$ J
-— more power than all stars in the observable universe
+Masses: $$36 M_\odot$$ and $$29 M_\odot$$.
+Final mass: $$62 M_\odot$$.
+Energy radiated: $$3 M_\odot c^2 \approx 5 \times 10^{47}$$ J,
+more power than all stars in the observable universe
 combined, for 0.2 seconds.
 
 Distance: 1.3 billion light-years.
 
 The signal lasted 0.2 seconds.
 The frequency swept from 35 Hz to 150 Hz.
-The peak strain: $$10^{-21}$.
+The peak strain: $$10^{-21}$$.
 
 Einstein predicted gravitational waves in 1916.
 We detected them in 2015.
@@ -541,15 +540,18 @@ Observed: 43.1 ± 0.5'' per century. ✓
 
 **2. Gravitational deflection of light:**
 Light bends in a gravitational field.
-GR predicts: $$\delta\phi = \frac{4GM}{c^2b}$$
+GR predicts: $$\delta\phi = \frac{4GM}{c^2b}$$,
 where $$b$$ is the impact parameter.
 
 For light grazing the Sun:
-$$\delta\phi = 1.75''$$
+$$\delta\phi = 1.75''$$.
 
-Observed by Eddington (1919): $$1.75 \pm 0.09''$$ ✓
-
-This confirmed GR and made Einstein famous worldwide.
+Eddington (1919) confirmed the deflection
+within the limits of his ~30% uncertainty.
+This was the measurement that made Einstein
+world-famous overnight, despite its modest precision.
+Modern VLBI radio measurements
+now confirm the deflection to better than 0.01%. ✓
 
 **3. Gravitational redshift:**
 Light climbing out of a gravitational field loses energy.
@@ -564,7 +566,7 @@ GPS satellites: gravitational redshift
 combined with special relativistic time dilation
 (clocks run slower due to orbital velocity)
 gives a net correction of +38.4 microseconds/day.
-Without correction: GPS error accumulates at 10 km/day. ✓
+Without correction, GPS error accumulates at ~11 km/day. ✓
 
 **4. Gravitational time delay (Shapiro delay):**
 Radar signals passing near the Sun
@@ -572,10 +574,10 @@ are delayed by the curved spacetime.
 
 $$\Delta t = \frac{4GM}{c^3}\ln\left(\frac{4r_E r_P}{b^2}\right)$$
 
-Measured to 0.1% precision. ✓
+Measured to 0.1% precision (Cassini 2003, to better still). ✓
 
 **5. Frame dragging (Lense-Thirring effect):**
-A rotating mass drags spacetime around it —
+A rotating mass drags spacetime around it,
 like a ball rotating in honey.
 
 Gravity Probe B (2004-2005):
@@ -587,12 +589,12 @@ Predicted 1916. Confirmed 2015. ✓
 
 **7. Black holes:**
 Event Horizon Telescope (2019):
-first image of a black hole shadow —
+first image of a black hole shadow,
 M87*, mass $$6.5 \times 10^9 M_\odot$$.
 
 Shadow size: consistent with GR prediction. ✓
 
-**8. Strong-field tests — binary pulsars:**
+**8. Strong-field tests, binary pulsars:**
 Post-Newtonian parameters measured
 to parts per million.
 Consistent with GR. ✓
@@ -615,8 +617,8 @@ the **Friedmann-Lemaître-Robertson-Walker (FLRW) metric:**
 $$ds^2 = -c^2dt^2 + a(t)^2\left[\frac{dr^2}{1-kr^2}
 + r^2d\Omega^2\right]$$
 
-where $$a(t)$$ is the **scale factor** —
-the size of the universe relative to today —
+where $$a(t)$$ is the **scale factor**,
+the size of the universe relative to today,
 and $$k = -1, 0, +1$$ is the spatial curvature.
 
 The Einstein equations for this metric
@@ -634,14 +636,19 @@ $$\rho$$ is the energy density, $$p$$ is pressure.
 These equations govern the expansion of the universe.
 
 **The Hubble parameter today:**
-$$H_0 \approx 67.4 \text{ km/s/Mpc}$$ (Planck 2018)
+$$H_0 \approx 67.4 \text{ km/s/Mpc}$$
+(Planck 2018, early universe).
+Local distance-ladder measurements give $$\sim 73$$ km/s/Mpc.
+The discrepancy between the two methods,
+above $$5\sigma$$ in current data, is the **Hubble tension**:
+unresolved.
 
 **The density parameters:**
 
-$$\Omega_m \approx 0.315$$ (matter — dark + baryonic)
-$$\Omega_\Lambda \approx 0.685$$ (dark energy)
-$$\Omega_k \approx 0$$ (spatial curvature — flat)
-$$\Omega_r \approx 9 \times 10^{-5}$$ (radiation)
+$$\Omega_m \approx 0.315$$ (matter, dark + baryonic).
+$$\Omega_\Lambda \approx 0.685$$ (dark energy).
+$$\Omega_k \approx 0$$ (spatial curvature, flat).
+$$\Omega_r \approx 9 \times 10^{-5}$$ (radiation).
 
 The universe is flat, dominated by dark energy,
 and expanding at an accelerating rate.
@@ -651,7 +658,7 @@ and expanding at an accelerating rate.
 Extrapolating backward:
 $$a \to 0$$ as $$t \to 0$$.
 
-At $$t \approx 10^{-43}$$ s (Planck time):
+At $$t \approx 10^{-43}$$ s (Planck time),
 the energy density exceeds Planck density.
 GR breaks down.
 
@@ -663,7 +670,6 @@ Quantum gravity must take over.
 ## X. Where GR Fails
 
 GR is, empirically, the most successful theory in physics.
-
 It is also, mathematically, incomplete.
 
 **Singularities:**
@@ -690,7 +696,7 @@ with the expectation value of a quantum operator (right side):
 
 $$G_{\mu\nu} = \frac{8\pi G}{c^4}\langle\hat{T}_{\mu\nu}\rangle$$
 
-This is the **semiclassical approximation** —
+This is the **semiclassical approximation**,
 used by Hawking to derive Hawking radiation.
 
 It is not fundamental.
@@ -699,20 +705,21 @@ must quantize the metric itself.
 
 **The cosmological constant problem:**
 
-As discussed in the Planck scale essay:
+As discussed in the Planck scale essay,
 the quantum field theory prediction for $$\Lambda$$
 exceeds the observed value by $$10^{122}$$.
 
 This is the worst prediction in physics.
-It involves GR and quantum field theory simultaneously —
+It involves GR and quantum field theory simultaneously,
 and we cannot reconcile them.
 
 **Dark matter and dark energy:**
 
 The Friedmann equations fit cosmological data
 only if we include:
-$$\Omega_{DM} \approx 0.265$$ — unknown matter
-$$\Omega_\Lambda \approx 0.685$$ — unknown energy
+
+- $$\Omega_{DM} \approx 0.265$$: unknown matter.
+- $$\Omega_\Lambda \approx 0.685$$: unknown energy.
 
 95% of the universe's content is unknown.
 
@@ -727,9 +734,9 @@ I want to say something about beauty.
 
 The Einstein equations are beautiful.
 
-Not in a superficial sense —
+Not in a superficial sense,
 not because they are short
-(ten coupled nonlinear PDEs is not short) —
+(ten coupled nonlinear PDEs is not short),
 but because of what they express:
 
 **The geometry of spacetime
@@ -744,18 +751,16 @@ The stage is part of the play.
 Spacetime is not a container for physics.
 Spacetime is physics.
 
-This is what general relativity discovered —
+This is what general relativity discovered:
 not just a theory of gravity
-but a new conception of what spacetime is:
-not absolute, not fixed, not prior to physics —
-
-**dynamic, curved, responsive,
+but a new conception of what spacetime is.
+Not absolute, not fixed, not prior to physics,
+but **dynamic, curved, responsive,
 inseparable from the matter and energy
 that inhabit it.**
 
 The universe is not a box.
-It is a conversation —
-between geometry and matter,
+It is a conversation: between geometry and matter,
 between curvature and motion,
 between the shape of space
 and the paths of things through it.
@@ -771,31 +776,51 @@ We are still learning what it means.
 
 ---
 
+## Falling
+
+There are physics ideas you understand, and there are physics ideas you carry. General relativity is the second kind for me.
+
+I learned it as an undergraduate in İzmir, on a chalkboard, from a man who is no longer alive. What got me wasn't the field equations. Those came later, and with effort. What got me was something quieter: the equivalence principle.
+
+A man falling from a roof feels no gravity. I had heard this many times. But the day I understood that this is not a thought experiment, not a trick, not a metaphor, that this is actually what gravity is, something in the world rearranged itself. Gravity is not a force pulling on the falling man. The falling man is moving along the straightest possible path through curved spacetime. There is no force. There is only geometry, and a body following it. Falling is the most natural thing in the universe.
+
+I have thought about this many times since, in contexts that have nothing to do with physics. People who shape you bend the geometry of the world you move through. The trajectory you take afterward is not the trajectory you would have taken without them. It is, in the most literal sense the geometry allows, theirs as well as yours.
+
+This is not consolation, exactly. It is just true. The universe is a manifold. The metric depends on what is in it. *Spacetime tells matter how to move; matter tells spacetime how to curve.* The people who teach you the framework are part of the framework.
+
+The happiest thought of Einstein's life was about a man falling. I think about this often. It is a tender image, not a tragic one. He is weightless. His keys hover beside him. For one moment, before he hits the ground, the universe has lifted the weight of itself off him. Maybe that is what good teaching does. Not protection from gravity, exactly. The brief discovery that there is no gravity, only geometry, and you are inside it.
+
+---
+
 *Essential reading:*
 
-*Einstein — "The Foundation of the General Theory*
-*of Relativity" (1916)*
-*Annalen der Physik 49, 769*
-*— the original paper*
+*Einstein, "The Foundation of the General Theory of Relativity" (1916).*
+*Annalen der Physik 49, 769.*
+*The original paper.*
 
 
-*Misner, Thorne & Wheeler — Gravitation (1973)*
-*— the bible; 1279 pages; essential*
+*Misner, Thorne & Wheeler,* Gravitation *(1973).*
+*The bible. 1279 pages. Essential.*
 
 
-*Carroll — Spacetime and Geometry (2004)*
-*— the best modern textbook*
+*Carroll,* Spacetime and Geometry *(2004).*
+*The best modern textbook.*
 
 
-*Wald — General Relativity (1984)*
-*— mathematically rigorous; essential for serious study*
+*Wald,* General Relativity *(1984).*
+*Mathematically rigorous. Essential for serious study.*
 
 
-*Penrose — The Road to Reality (2004)*
-*— the most ambitious book in physics*
+*Penrose,* The Road to Reality *(2004).*
+*The most ambitious book in physics.*
 
 
 *For the historically inclined:*
 
-*Pais — Subtle is the Lord (1982)*
-*— the definitive Einstein biography*
+*Pais,* Subtle is the Lord *(1982).*
+*The definitive Einstein biography.*
+
+---
+
+*Bana GR öğreten ve şu anda hayatta olmayan hocam, Durmuş Ali Demir'e saygıyla. Hayatta değilken bile beni inspire ettiğiniz için sonsuz teşekkürler. Sizi tanidigim icin, sizin ogrenciniz oldugum icin sonsuz gurur duyuyorum.*
+
