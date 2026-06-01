@@ -282,7 +282,7 @@ ninja.data = [{
         },
       },{id: "post-spontaneous-symmetry-breaking-when-the-universe-chose-a-direction",
         
-          title: "Spontaneous Symmetry Breaking — When the Universe Chose a Direction",
+          title: "Spontaneous Symmetry Breaking: When the Universe Chose a Direction",
         
         description: "The Lagrangian is symmetric. The vacuum is not. This asymmetry between the laws and their solution is the origin of mass, the origin of phases of matter, and possibly the origin of everything.",
         section: "Posts",
