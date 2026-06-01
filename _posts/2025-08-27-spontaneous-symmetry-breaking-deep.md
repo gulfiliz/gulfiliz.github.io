@@ -121,7 +121,7 @@ if a continuous symmetry group $$G$$
 is spontaneously broken to a subgroup $$H$$,
 the number of Goldstone bosons equals:
 
-$$n_{GB} = \dim G - \dim H$$
+$$n_{GB} = \dim G - \dim H$$ (in Lorentz-invariant theories)
 
 The Goldstone bosons correspond to
 the broken generators of $$G$$.
@@ -156,9 +156,12 @@ Hence massless.
 **Examples:**
 
 Ferromagnet breaking $$O(3) \to O(2)$$:
-2 broken generators → 2 Goldstone bosons = **magnons** (spin waves).
+2 broken generators, but only 1 **magnon** with quadratic dispersion.
+(Non-relativistic systems can have fewer Goldstones than the naive count.
+This is the **Nielsen-Chadha** exception.)
 
-Antiferromagnet: similar, with **magnons**.
+Antiferromagnet breaking $$O(3) \to O(2)$$:
+2 broken generators → 2 **magnons** with linear dispersion.
 
 Superfluid $$^4$$He breaking $$U(1)$$:
 1 broken generator → 1 Goldstone boson = **phonon**.
