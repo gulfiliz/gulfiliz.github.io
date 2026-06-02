@@ -260,7 +260,7 @@ ninja.data = [{
         },
       },{id: "post-martin-eden-the-book-that-knows-too-much-about-you",
         
-          title: "Martin Eden — The Book That Knows Too Much About You",
+          title: "Martin Eden: The Book That Knows Too Much About You",
         
         description: "On Jack London&#39;s most personal novel, and why some books are not read but survived.",
         section: "Posts",
