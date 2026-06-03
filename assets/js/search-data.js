@@ -225,6 +225,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/decoherence/";
           
         },
+      },{id: "post-goethe-ii-faust-part-two",
+        
+          title: "Goethe II: Faust, Part Two",
+        
+        description: "The second part of Goethe&#39;s masterwork, twenty-four years in the writing: Helena, the reclaimed land, the dead Faust left behind, and whether striving is its own redemption or only its own excuse.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/faustii/";
+          
+        },
       },{id: "post-goethe-i-faust-part-one",
         
           title: "Goethe I: Faust, Part One",
