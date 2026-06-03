@@ -214,17 +214,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/new-orleans/";
           
         },
-      },{id: "post-decoherence-why-quantum-computers-are-hard",
-        
-          title: "Decoherence — Why Quantum Computers Are Hard",
-        
-        description: "The fragility of quantum information and the war against noise.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/decoherence/";
-          
-        },
       },{id: "post-goethe-ii-faust-part-two",
         
           title: "Goethe II: Faust, Part Two",
