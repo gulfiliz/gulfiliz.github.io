@@ -196,7 +196,7 @@ ninja.data = [{
         
           title: "New Orleans — Where Jazz Lives in the Streets",
         
-        description: "Christmas ticket to Turkey didn&#39;t happen. Instead, New Orleans and jazz everywhere.",
+        description: "Christmas ticket to Türkiye didn&#39;t happen. Instead, New Orleans and jazz everywhere.",
         section: "Posts",
         handler: () => {
           
