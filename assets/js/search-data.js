@@ -249,7 +249,7 @@ ninja.data = [{
         },
       },{id: "post-the-game-of-go-the-most-human-game-ever-invented",
         
-          title: "The Game of Go — The Most Human Game Ever Invented",
+          title: "The Game of Go: The Most Human Game Ever Invented",
         
         description: "On Weiqi, AlphaGo, and why 19×19 intersections contain everything.",
         section: "Posts",
