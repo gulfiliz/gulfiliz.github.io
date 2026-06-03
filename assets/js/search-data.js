@@ -227,9 +227,9 @@ ninja.data = [{
         },
       },{id: "post-goethe-39-s-faust-the-man-who-made-a-deal-with-the-devil-and-won",
         
-          title: "Goethe&#39;s Faust — The Man Who Made a Deal With the Devil and...",
+          title: "Goethe&#39;s Faust: The Man Who Made a Deal With the Devil and Won...",
         
-        description: "On the greatest work in the German language — a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end.",
+        description: "On the greatest work in the German language: a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end.",
         section: "Posts",
         handler: () => {
           
