@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nietzsche — God Is Dead, and We Have Killed Him
-date: 2025-12-30
+date: 2025-12-01
 description: On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.
 tags: skepsis, metaxy, fragmenta, philosophy, EN,
 ---
