@@ -212,13 +212,14 @@ Years later, on a Go server, a French player wrote *femme fatale* under one of o
 
 I was furious. The server showed my gender. It did not show my face or my name. Instead of commenting on the game he had something to say about me. I cursed him out. I blocked him. I walked away.
 
-He reached out through other people, weeks later. He told me he had been following my games for some time. He apologized. We talked. We came to love each other deeply. He became my Go advisor, and has been for years.
+He reached out through other people, weeks later. He told me he had been following my games for some time. He apologized. We talked. We came to love and respect each other deeply. He became my Go advisor, and has been for years.
 
-I will not name him. He hates being public. (Yes, I know how that sounds. I am joking and also not joking. He is genuinely well known. But this is his preference, and I keep it.)
+I will not name him. He hates being public. :) 
+(Yes, I know how that sounds. I am joking and also not joking. He is genuinely well known.)
 
 The nickname stayed. He still calls me *femme fatale*. So do my friends in France and in China.
 
-It was through him that I learned how late I was. Top players in East Asia start at four or five. They are professionals by eighteen. I was twenty-two. Twenty-two is very, very, very late. My advisor said: no giving up. I went to tournaments. He came to Japan with me. He was with me in Beijing when my paperwork for China was being processed. I won, mostly.
+It was through him that I learned how late I was. Top players in East Asia start at four or five. They are professionals by eighteen. I was twenty-two. Twenty-two is very, very, very late. My advisor said: no giving up! I went to tournaments. He came to Japan with me. He was with me in Beijing when my paperwork for China was being processed. He likes talking nonstop about me to Go community, lucky me not knowing Chinese. I would blush! :) Thanks to him I could reach 6-dan. 
 
 There is no formal age limit at the American Go Association or the European Go Federation. There is one in China, Korea, and Japan: around eighteen, with very rare exceptions. Good references can help. I think I will not take that path. The honest version is that I have not decided.
 
@@ -230,15 +231,13 @@ I have kept my Go identity private. This was a decision I made with my advisor. 
 
 In Japan I am Nobara.
 
-The name was given to me by Ryo Ichiriki, a 9p Japanese professional and (since people sometimes ask) my favorite player in the world. Not my advisor. My name in Turkish is Gül, which means rose. In Japanese, *bara*. *No-bara* is wild rose. He said it was because I am resilient, and he called me Nobara, and it stuck. My Japanese friends still call me that.
+The name was given to me by Ryo, one of my best friends, a 9p Japanese professional and (since people sometimes ask) my favorite player in the world. My name in Turkish is Gül, which means rose. In Japanese, *bara*. *No-bara* is wild rose. He said it was because I am resilient, and he called me Nobara, and it stuck. My Japanese friends still call me that.
 
-They tell me I play like a samurai.
+They tell me I play like a samurai! It turns out I am only not sharp when I am writing.
 
 I think they mean the style. I play *aji-tesuji*, the long trap, the move that does not yet look like what it is. My opponent plays comfortably, never suspecting, never tightening up. Then suddenly, in some corner of the board, every stone they have put down is gone. I do not even do this consciously most of the time. It is the way the board shapes itself for me. My opponents tend to be angry afterward.
 
-The most extraordinary game of my life was a simul in Beijing against a hundred opponents. China has Go players I had not imagined a single city could contain. I will not tell you how it went. I will only say that I was the one who walked from board to board.
-
-It turns out I am only not sharp when I am writing.
+The most extraordinary game of my life was a simul in Beijing against a hundred opponents. China has Go players I had not imagined a single city could contain. I will not tell you how it went. I will only say that I was the one who walked from board to board. I was challenged by young brilliant Chinese kids! It was awesome.
 
 ---
 
@@ -248,7 +247,7 @@ For me, Lee Sedol was unbeatable. I went into those five games the way most Go p
 
 My advisor, by the way, had been gathering server games for AI research for some time before AlphaGo became AlphaGo. After Move 37 became Move 37, he wrote to me: *AlphaGo learned that one from you.* We laugh about it. I think he was half-serious.
 
-What I do not joke about is what watching those games did to me. I came out of them understanding that something I had not understood was possible. I was a physics undergraduate. By the end of 2016 I was making plans to pivot to computer science. Deep learning and reinforcement learning had walked into my life on those five days in Seoul, and they were not leaving.
+What I do not joke about is what watching those games did to me. I came out of them understanding that something I had not understood was possible. I had physics undergraduate degree. By the end of 2016 I was making plans to pivot to computer science. Deep learning and reinforcement learning had walked into my life on those five days in Seoul, and they were not leaving.
 
 Lee Sedol won one game out of five. The wedge in Game 4 was the proudest move I have ever seen a human being make.
 
