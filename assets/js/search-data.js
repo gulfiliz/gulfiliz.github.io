@@ -225,11 +225,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/decoherence/";
           
         },
-      },{id: "post-goethe-39-s-faust-the-man-who-made-a-deal-with-the-devil-and-won",
+      },{id: "post-goethe-i-faust-part-one",
         
-          title: "Goethe&#39;s Faust: The Man Who Made a Deal With the Devil and Won...",
+          title: "Goethe I: Faust, Part One",
         
-        description: "On the greatest work in the German language: a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end.",
+        description: "On the first part of Goethe&#39;s masterwork: the scholar at the end of knowledge, the wager in heaven, the destruction of Gretchen, and Mephistopheles, the most interesting character in literature.",
         section: "Posts",
         handler: () => {
           
