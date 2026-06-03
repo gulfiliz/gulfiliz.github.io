@@ -192,23 +192,23 @@ Go teaches you that:
 
 I learned Go in Korea, the summer I was twenty-one.
 
-I had gone there for a quantum optics internship in my second year of physics undergrad. The professor at home wrote the reference letter. Years later, my Go teacher in Korea, who had been my host for the internship, told me what the letter had said: *Filiz has not even taken quantum mechanics yet. She only knows what she has taught herself. But she learns quickly. At worst, you can teach her Go. Be careful. She might beat you.*
+I had gone there for a quantum optics internship in my second year of physics undergrad. The professor at home wrote the reference letter. Years later, my Go teacher in Korea, who had been my host for the internship, told me what the letter had said: *Filiz has not even taken quantum mechanics yet. She only knows what she has taught herself. But she learns quickly. At worst, you can teach her Go game. Be careful. She might beat you.*
 
 I think my professor at home knew me better than I knew myself at twenty-one.
 
-The first day in the lab my Korean teacher said, all right then, let us play with what you taught yourself. We sat down. I beat him. Beginner's luck, I think now. I do not know what he thought then.
+The first day in the lab my Korean teacher said, all right then, let us teach you the game. We sat down. Rules were super simple, it took his 3 minutes to explain. I was liek, it that all? He said, yes! And we started playing our first game. I beat him. Beginner's luck, I think now. I do not know what he thought then. :)
 
 I do not know whether I went to Korea to do quantum optics or to learn Go. To say South Korea called me there to learn Go would be too romantic. So I will say it.
 
-I lived in Daejeon for two and a half months. The city had a slogan about being a bike city, *It is Daejeon, it is bike,* and I rode for hours every day. After the lab I went looking for grandfathers in the parks. They were always there, hunched over their boards, slapping stones down. We did not share a language. They did not speak English or Turkish, and I did not speak Korean. We understood each other anyway. They were so happy when I beat them. Some of them began waiting for me to come out of the lab. I have not forgotten their faces.
+I lived in Daejeon for two and a half months. The city had a slogan about being a bike city, *It is Daejeon, it is bike,* and I rode for hours every day. After the lab I went looking for grandfathers in the parks. They were always there, hunched over their boards, slapping stones down. We did not share a language. They did not speak English or Turkish, and I did not speak Korean. We understood each other anyway. They were so happy when I beat them! They were laughing all the time! Some of them began waiting for me to come out of the lab. I have not forgotten their faces. It was so hard to say good-bye. 
 
-Then I went home. The semester started. I drowned in classes. Go stayed in Korea.
+Then I went home. The semester started. I drowned in classes. Go stayed in Korea...
 
 ---
 
 ## Femme Fatale
 
-Years later, on a Go server, a French player wrote *femme fatale* under one of our games.
+A few years later, on a Go server, a French player commented *femme fatale* under one of my game.
 
 I was furious. The server showed my gender. It did not show my face or my name. Instead of commenting on the game he had something to say about me. I cursed him out. I blocked him. I walked away.
 
