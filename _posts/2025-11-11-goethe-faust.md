@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Goethe's Faust — The Man Who Made a Deal With the Devil and Won
+title: "Goethe's Faust: The Man Who Made a Deal With the Devil and Won"
 date: 2025-11-11
-description: On the greatest work in the German language — a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end.
+description: "On the greatest work in the German language: a poem about the insatiability of human desire, the danger of pure intellect, the redemptive power of striving, and why Mephistopheles loses in the end."
 tags: readings, literature,
 ---
 
@@ -11,7 +11,7 @@ tags: readings, literature,
 *"Two souls, alas, dwell in my breast."*
 
 Heinrich Faust speaks these words
-in the first part of Goethe's masterwork —
+in the first part of Goethe's masterwork,
 standing at the city gate,
 watching the Easter crowds,
 feeling in himself the irreconcilable tension
@@ -20,8 +20,8 @@ and the soul that reaches toward the infinite.
 
 He is a scholar.
 He has mastered philosophy, law, medicine, theology.
-He has spent his life in his study —
-surrounded by books, instruments, scrolls —
+He has spent his life in his study,
+surrounded by books, instruments, scrolls,
 and he has reached the end of knowledge
 and found it empty.
 
@@ -48,15 +48,15 @@ the intelligent person
 who has learned the limits of intelligence
 and cannot accept them.
 
-Into this moment of crisis —
+Into this moment of crisis,
 Mephistopheles arrives.
 
 ---
 
 ## I. Goethe and the Faust Legend
 
-The historical Faust —
-if he existed at all —
+The historical Faust,
+if he existed at all,
 was a minor 16th-century figure:
 an alchemist, a charlatan,
 a wanderer who claimed magical powers
@@ -65,8 +65,8 @@ including Phillip Melanchthon.
 
 The legend grew.
 
-The **Historia von D. Johann Fausten** (1587) —
-the first Faust book —
+The **Historia von D. Johann Fausten** (1587),
+the first Faust book,
 told the story of a scholar
 who made a pact with the devil,
 enjoyed 24 years of supernatural power,
@@ -98,7 +98,7 @@ The first sketches: 1770s.
 published posthumously.
 
 Sixty years.
-A work that grew with its author —
+A work that grew with its author,
 that contains, within its two parts,
 the entire trajectory of German idealism,
 the French Revolution, the birth of modernity,
@@ -126,17 +126,17 @@ at the end of Part Two,
 carrying Faust's soul to heaven.
 
 Mephistopheles, who bet that he could lead Faust
-to a moment of pure satisfaction —
+to a moment of pure satisfaction,
 to the moment where Faust would say
 *"Verweile doch! du bist so schön!"*
-(*"Stay a while! You are so beautiful!"*) —
-and thereby win the wager —
+(*"Stay a while! You are so beautiful!"*)
+and thereby win the wager,
 
 loses.
 
 Faust never stops wanting more.
-And in the endless wanting —
-in the refusal to be satisfied —
+And in the endless wanting,
+in the refusal to be satisfied,
 lies his redemption.
 
 This is Goethe's radical inversion:
@@ -148,7 +148,7 @@ saves him in Goethe.
 ## II. The Wager in Heaven
 
 The work begins not with Faust
-but with a **Prologue in Heaven** —
+but with a **Prologue in Heaven,**
 a scene of breathtaking audacity.
 
 God and Mephistopheles make a bet.
@@ -168,8 +168,8 @@ God agrees.
 This framing is everything.
 
 Goethe places the Faust story
-within a cosmic wager —
-as in the Book of Job —
+within a cosmic wager,
+as in the Book of Job,
 in which the devil is permitted
 to test a human being.
 
@@ -188,7 +188,7 @@ He is not threatened by Mephistopheles.
 *Who provokes and works and must act as a devil."*
 
 Mephistopheles is not the enemy of God.
-He is the **agent of God's purpose** —
+He is the **agent of God's purpose,**
 the force that prevents stagnation,
 that keeps humanity in motion,
 that makes comfort impossible
@@ -197,7 +197,7 @@ and therefore makes growth necessary.
 The devil as the principle of restlessness.
 
 This is not orthodox Christianity.
-It is Goethe's mature philosophy —
+It is Goethe's mature philosophy,
 his conviction that negation,
 resistance, striving against,
 are as essential to human development
@@ -213,7 +213,7 @@ Mephistopheles himself states his nature:
 *And rightly so; for everything that comes to be*
 *Deserves to perish."*
 
-The devil is the spirit of negation —
+The devil is the spirit of negation,
 of nihilism, of destruction.
 But in Goethe's dialectic,
 negation is necessary.
@@ -234,14 +234,14 @@ the principle of negation is part of the creative process.
 
 ---
 
-## III. The Pact — Precisely
+## III. The Pact, Precisely
 
 Faust's pact with Mephistopheles
 is often misunderstood.
 
 It is not: I give you my soul in exchange for pleasure.
 
-It is a **wager** —
+It is a **wager,**
 with the terms precisely stated by Faust himself:
 
 *"Werd ich zum Augenblicke sagen:*
@@ -254,13 +254,13 @@ with the terms precisely stated by Faust himself:
 *Then you may cast me into chains,*
 *Then I will gladly go to my ruin!"*
 
-Faust bets that no moment will ever satisfy him —
-that he will never want time to stop,
-that the desire for more will always override
+Faust bets that no moment will ever satisfy him.
+That he will never want time to stop.
+That the desire for more will always override
 the pleasure of the present.
 
 Mephistopheles bets that he can produce
-such a moment — a moment of pure satisfaction
+such a moment, a moment of pure satisfaction
 that will make Faust want to stay.
 
 This transforms the traditional pact.
@@ -268,20 +268,20 @@ This transforms the traditional pact.
 Faust is not selling his soul for power.
 He is betting his soul on his own insatiability.
 He is wagering that he is the kind of being
-who cannot be satisfied —
+who cannot be satisfied,
 whose desire always exceeds its object.
 
 He is betting on his own humanity.
 
 ---
 
-## IV. Gretchen — The Catastrophe of Part One
+## IV. Gretchen, the Catastrophe of Part One
 
-Mephistopheles leads Faust to Gretchen —
-Margarete — a young, innocent,
+Mephistopheles leads Faust to Gretchen,
+Margarete, a young, innocent,
 deeply religious girl.
 
-Faust falls in love with her —
+Faust falls in love with her,
 or falls into desire,
 or falls into the projection of his longing
 for simplicity, purity, the life
@@ -289,7 +289,7 @@ he himself cannot live.
 
 The distinction matters.
 
-Gretchen is genuinely good —
+Gretchen is genuinely good:
 uncomplicated, faithful, loving.
 She represents the world
 that Faust's restlessness has placed beyond his reach:
@@ -302,16 +302,17 @@ Faust wants her.
 Mephistopheles provides the means.
 
 The consequences:
-— Gretchen's mother dies, poisoned by a sleeping draught
-  Faust gives to allow their meetings
-— Her brother Valentin is killed by Faust in a duel
-— Gretchen is seduced, abandoned, becomes pregnant
-— She kills her illegitimate child
-— She is imprisoned, condemned to death
 
-In the dungeon scene —
+Gretchen's mother dies, poisoned by a sleeping draught
+Faust gives to allow their meetings.
+Her brother Valentin is killed by Faust in a duel.
+Gretchen is seduced, abandoned, becomes pregnant.
+She kills her illegitimate child.
+She is imprisoned, condemned to death.
+
+In the dungeon scene,
 one of the most devastating scenes
-in German literature —
+in German literature,
 Faust finds Gretchen mad,
 offering to rescue her.
 
@@ -326,8 +327,8 @@ a voice from heaven:
 
 *"She is saved!"*
 
-The innocent Gretchen —
-who sinned, who killed, who went mad —
+The innocent Gretchen,
+who sinned, who killed, who went mad,
 is saved.
 
 Faust, who caused all of it,
@@ -341,7 +342,7 @@ her absolute faith,
 her acceptance of guilt,
 her refusal to escape.
 
-Faust's condemnation — if it came —
+Faust's condemnation, if it came,
 would come from his inability
 to accept limits,
 to stay,
@@ -355,20 +356,22 @@ is deferred to Part Two.
 
 ---
 
-## V. Part Two — The Allegory of History
+## V. Part Two, the Allegory of History
 
 **Faust, Part Two** is a different work entirely.
 
-Where Part One is personal — the drama of a soul —
+Where Part One is personal, the drama of a soul,
 Part Two is cosmic, allegorical, historical.
 
 It spans:
-— The court of the Holy Roman Emperor
-   (a critique of political power without wisdom)
-— Ancient Greece (the marriage of Northern and Southern spirit)
-— The creation of Homunculus (the attempt to create life artificially)
-— The reclamation of land from the sea
-   (Faust's final project — and his final failure)
+the court of the Holy Roman Emperor
+(a critique of political power without wisdom);
+ancient Greece
+(the marriage of Northern and Southern spirit);
+the creation of Homunculus
+(the attempt to create life artificially);
+the reclamation of land from the sea
+(Faust's final project, and his final failure).
 
 The language shifts from the colloquial
 directness of Part One
@@ -378,18 +381,18 @@ that has defeated many readers and translators.
 This difficulty is intentional.
 
 Part Two is not a drama to be followed.
-It is a meditation to be inhabited —
+It is a meditation to be inhabited,
 slowly, with reference to Goethe's sources
 and his philosophical development.
 
 **The Helena Act:**
 
 The centerpiece of Part Two:
-Faust summons Helena of Troy —
+Faust summons Helena of Troy,
 the archetype of classical beauty.
 
 He marries her.
-They have a son — Euphorion —
+They have a son, Euphorion,
 who represents the union of
 classical form and romantic energy.
 
@@ -403,7 +406,7 @@ With Euphorion's death,
 Helena dissolves back into the classical world.
 
 The union of North and South,
-of Romantic desire and Classical form —
+of Romantic desire and Classical form,
 is possible only briefly.
 The energy of the modern world
 cannot sustain the calm of the ancient.
@@ -416,14 +419,14 @@ reclaiming land from the sea,
 creating space for a new people,
 a new civilization.
 
-This is his final project —
+This is his final project,
 the project for which he almost says
 the fatal words.
 
-But even here, there is a shadow:
-Philemon and Baucis —
+But even here, there is a shadow.
+Philemon and Baucis,
 an old couple whose cottage and chapel
-stand in the middle of Faust's project —
+stand in the middle of Faust's project,
 are killed when Mephistopheles burns their home
 at Faust's implied command.
 
@@ -431,7 +434,7 @@ Even in the final vision,
 Faust's striving destroys innocence.
 
 And in the moment when Faust imagines
-the free people on his reclaimed land —
+the free people on his reclaimed land,
 he speaks the nearest approach
 to the fatal words:
 
@@ -441,7 +444,7 @@ to the fatal words:
 *"To the moment I might say:*
 *Stay a while, you are so beautiful!"*
 
-Note: **dürft ich** — *might say*, not *say.*
+Note: **dürft ich**, *might say,* not *say.*
 
 The conditional.
 The subjunctive.
@@ -460,26 +463,26 @@ fails to seize the soul.
 
 The wager is lost.
 
-Faust is redeemed —
-not by goodness (he was not good),
-not by faith (he did not believe),
-not by repentance (he did not repent) —
+Faust is redeemed.
+Not by goodness (he was not good).
+Not by faith (he did not believe).
+Not by repentance (he did not repent).
 
-but by striving.
+But by striving.
 By the refusal to be satisfied.
 By the forward motion of desire
 that never came to rest.
 
 ---
 
-## VI. Mephistopheles — The Most Interesting Character
+## VI. Mephistopheles, the Most Interesting Character
 
 The devil in Goethe's work
 is not the devil of tradition.
 
 He is not horrifying.
 He is not seductive in the simple sense.
-He is — and this is Goethe's masterstroke —
+He is, and this is Goethe's masterstroke,
 
 **funny.**
 
@@ -494,7 +497,7 @@ He finds human aspiration absurd.
 *"Ich bin zu alt um nur zu spielen,*
 *Zu jung um ohne Wunsch zu sein."*
 
-These are not his words — they are Faust's —
+These words are Faust's, not Mephistopheles's,
 but they describe the predicament
 that Mephistopheles exploits.
 
@@ -514,12 +517,12 @@ of getting people what they want.
 The devil does not deceive Faust
 with false promises.
 He delivers what he promises.
-The corruption is in the wanting —
+The corruption is in the wanting,
 not in the getting.
 
 This is Goethe's deepest insight into evil:
 
-**The devil is the accommodator —
+**The devil is the accommodator,
 the one who says yes
 when wisdom would say no.**
 
@@ -531,7 +534,7 @@ that would otherwise force reflection.
 He is the spirit of:
 *"Why not? You want it. Here it is."*
 
-And why not is, in Goethe's vision,
+And *why not* is, in Goethe's vision,
 the most dangerous question in the world.
 
 ---
@@ -539,7 +542,7 @@ the most dangerous question in the world.
 ## VII. The Philosophical Architecture
 
 Faust is not only a drama.
-It is a philosophical system —
+It is a philosophical system,
 Goethe's mature philosophy
 expressed in dramatic form.
 
@@ -547,7 +550,7 @@ expressed in dramatic form.
 
 Goethe's Naturphilosophie
 (his philosophy of nature)
-was organized around the principle of polarity:
+was organized around the principle of polarity.
 
 Every phenomenon involves
 two opposing forces in dynamic tension.
@@ -558,36 +561,36 @@ Attraction and repulsion.
 The finite and the infinite.
 
 Faust embodies this:
-the two souls in his breast —
-the earthly and the transcendent —
+the two souls in his breast,
+the earthly and the transcendent,
 are not to be resolved but to be held in tension.
 
 The resolution of the tension into one pole
-is death — either physical or spiritual.
+is death, either physical or spiritual.
 
-The life of the tension — the striving —
+The life of the tension, the striving,
 is Faust's vitality.
 
 **The Steigerung (intensification):**
 
-Goethe believed in **Steigerung** —
+Goethe believed in **Steigerung,**
 the progressive intensification
 of natural and spiritual phenomena.
 
 Life does not simply repeat.
-It spirals upward —
+It spirals upward,
 returning to similar configurations
 but at higher levels of complexity.
 
 Faust's trajectory is Steigerung:
 each cycle of desire, achievement, failure
-leaves him at a higher level —
+leaves him at a higher level,
 more capable of the next striving,
 more capable of the deeper error,
 more capable of the greater vision.
 
-The final vision — the free people
-on the reclaimed land —
+The final vision, the free people
+on the reclaimed land,
 is only possible after
 everything that preceded it.
 
@@ -598,12 +601,12 @@ The theological heart of Goethe's Faust:
 Salvation is not achieved by faith alone (Luther).
 Salvation is not achieved by works alone (Catholic).
 
-Salvation is achieved by **Streben** — striving —
+Salvation is achieved by **Streben,** striving,
 by the dynamic, forward-moving energy
 that refuses rest and refuses satisfaction.
 
 This is neither Lutheran nor Catholic.
-It is Goethean —
+It is Goethean,
 a secular theology of effort
 that places the value of a life
 not in its achievements
@@ -620,48 +623,49 @@ Error and redemption are the same process.
 
 ---
 
-## VIII. Goethe Himself — The Man Behind the Work
+## VIII. Goethe Himself, the Man Behind the Work
 
 To understand Faust,
 you must understand Goethe.
 
 Johann Wolfgang von Goethe
-was the last universal man of European culture —
+was the last universal man of European culture,
 the last figure who could plausibly
 claim competence in poetry, drama, philosophy,
 science, political administration,
 visual art, and the natural sciences.
 
 He was:
-— The greatest German poet (Faust, The Sorrows of Young Werther,
-  the Urfaust, the Italian Journey)
-— A practicing scientist
-  (theory of color, comparative anatomy,
-  discovery of the intermaxillary bone in humans,
-  contributions to botany and geology)
-— The chief minister of Weimar
-  for decades (running roads, mines, finances)
-— A visual artist of real accomplishment
-— A theater director
-— A collector
-— A friend of Schiller, Herder, Hegel
+the greatest German poet
+(Faust, The Sorrows of Young Werther,
+the Urfaust, the Italian Journey);
+a practicing scientist
+(theory of color, comparative anatomy,
+discovery of the intermaxillary bone in humans,
+contributions to botany and geology);
+the chief minister of Weimar
+for decades (running roads, mines, finances);
+a visual artist of real accomplishment;
+a theater director;
+a collector;
+a friend of Schiller, Herder, Hegel.
 
 He lived to 82.
 He worked until the last months of his life.
 
 He completed Part Two of Faust
-in the last year of his life —
-sealed the manuscript —
+in the last year of his life,
+sealed the manuscript,
 and died weeks later.
 
 The breadth of his life
 is not incidental to understanding Faust.
 
-Faust's tragedy — and his redemption —
+Faust's tragedy, and his redemption,
 is the tragedy and redemption
 of the person who cannot specialize,
 who cannot accept a bounded existence,
-who must know and do and be everything —
+who must know and do and be everything,
 and who will fail at everything,
 and who must fail,
 and who is saved by the failing.
@@ -670,11 +674,11 @@ Goethe was Faust.
 He knew it.
 
 He wrote himself into the work
-over sixty years —
+over sixty years:
 his crises, his loves,
 his political frustrations,
 his scientific obsessions,
-his old age —
+his old age,
 all of it is in Faust.
 
 The work is the longest
@@ -690,7 +694,7 @@ Faust is untranslatable.
 This is a strong claim.
 It is also accurate.
 
-The work is written in multiple registers —
+The work is written in multiple registers:
 sometimes in rhymed couplets (Knittelverse)
 that evoke medieval German poetry,
 sometimes in blank verse,
@@ -703,8 +707,8 @@ The shift between registers
 tells you what kind of world you are in,
 what kind of consciousness is speaking.
 
-The German original has a density —
-a compression of sound and meaning —
+The German original has a density,
+a compression of sound and meaning,
 that no translation preserves.
 
 Consider:
@@ -715,17 +719,17 @@ Consider:
 *"Grey, dear friend, is all theory,*
 *And green the golden tree of life."*
 
-The contrast of grey theory and green-golden life —
+The contrast of grey theory and green-golden life,
 the sound of the German (the assonance,
-the rhythm, the weight of "grau" against "grün") —
+the rhythm, the weight of "grau" against "grün"),
 the paradox of "green golden tree"
 (green and gold are themselves opposed,
-yet both describe life) —
+yet both describe life),
 
 no translation catches all of this.
 
 You must read Goethe in German.
-If you cannot read German —
+If you cannot read German,
 read him in German anyway,
 alongside a translation,
 and listen to what you hear
@@ -790,7 +794,7 @@ the colonization and exploitation
 of everything that could be exploited.
 
 The Faustian deal:
-unlimited power in exchange for the soul —
+unlimited power in exchange for the soul,
 for the inner life,
 for the relations of care,
 for the capacity to say
@@ -798,7 +802,7 @@ for the capacity to say
 
 Goethe saw this.
 He saw it in 1808.
-He saw it in the figure of his scholar —
+He saw it in the figure of his scholar
 who wanted everything
 and therefore destroyed everything he touched.
 
@@ -832,29 +836,29 @@ what to do with this.
 
 ---
 
-## XI. Reading Faust — A Guide
+## XI. Reading Faust, A Guide
 
 If you have not read Faust:
 
 **Start with Part One.**
 It is complete in itself.
-It is dramatically powerful —
-the Gretchen tragedy is one of the great
+It is dramatically powerful.
+The Gretchen tragedy is one of the great
 tragic sequences in literature.
 It does not require knowledge of
 German idealism or classical mythology.
 
 **Read slowly.**
 
-The opening monologue —
+The opening monologue,
 Faust in his study,
-surveying his knowledge and finding it empty —
+surveying his knowledge and finding it empty,
 is one of the great openings in literature.
 It deserves an hour of your time.
 
 **Do not skip the Prologue in Heaven.**
-The theological framework it establishes —
-God, Mephistopheles, the wager —
+The theological framework it establishes
+(God, Mephistopheles, the wager)
 is essential to everything that follows.
 
 **Pay attention to the Walpurgis Night.**
@@ -862,7 +866,7 @@ The great witches' sabbath scene
 in Part One is often skimmed
 because it seems like a digression.
 It is not.
-It is Goethe's diagnosis of modernity —
+It is Goethe's diagnosis of modernity:
 a world of chaos, appetite, and spectacle
 with no organizing principle.
 
@@ -883,15 +887,15 @@ is the most philosophically rich.
 
 **Read the secondary literature:**
 
-Harold Jantz, *The Form of Faust* (1978)
-Jane Brown, *Goethe's Faust: The German Tragedy* (1986)
-Stuart Atkins, *Goethe's Faust: A Literary Analysis* (1958)
+Harold Jantz, *The Form of Faust* (1978).
+Jane Brown, *Goethe's Faust: The German Tragedy* (1986).
+Stuart Atkins, *Goethe's Faust: A Literary Analysis* (1958).
 
 Goethe himself:
-The *Conversations with Eckermann* —
+the *Conversations with Eckermann,*
 in which Goethe discusses Faust,
 his other works, and his philosophy
-with his secretary in his final years —
+with his secretary in his final years,
 is indispensable.
 
 He says, among other things:
@@ -910,6 +914,123 @@ He is describing how to live.
 
 ---
 
+## Two Souls
+
+I have a problem with this book.
+
+The problem is that I am too much in it.
+I recognize the restlessness.
+I recognize the moment of standing in front of
+all of one's knowledge
+and finding it insufficient,
+not for any specific reason,
+but because the world is bigger than the knowledge,
+and the knowledge has produced a hunger
+it cannot also feed.
+
+I have, as Faust has,
+the kind of mind that does not know when to stop.
+I have read too many things, in too many fields,
+looking for the one thing
+none of them was going to give me:
+the touch of the real, not the description of it.
+I know what it is to discover
+that you have memorized the description
+and have not found the thing.
+
+This is what Faust knows in his opening monologue.
+This is why I read those lines
+and they ring like a bell.
+
+So when Goethe gives us the redemption-through-striving,
+I want to cheer.
+The book is written to make me cheer.
+
+But I cannot quite cheer.
+Because of Gretchen.
+
+The longer I think about Faust
+the more I notice the dead.
+Gretchen, who was good, who loved him,
+who killed her child, who lost her mind.
+Her mother, poisoned.
+Her brother, run through with Faust's sword.
+Philemon and Baucis, old, harmless, in the way.
+The cottage burned.
+
+Faust strives. The angels carry him.
+Gretchen, as the voice says, *ist gerettet.*
+Saved.
+But she is dead.
+And her child is dead.
+And she went to her death mad with grief,
+and the story we are told is that her faith covers it,
+that her acceptance redeems her,
+and that Faust, who caused all of it,
+is redeemed by a quality of soul
+that did not, in any visible way, ever consider her.
+
+I love this book.
+I cannot quite forgive it.
+Both of those are true.
+
+What I love most, openly, is Mephistopheles.
+He is the best devil ever put on paper.
+His contempt for human pretension
+is the contempt I sometimes feel,
+refined into theatre.
+When he says *ich bin der Geist, der stets verneint,*
+I hear someone I might once have agreed with.
+He is the antidote to the version of intellectual life
+that takes itself too seriously,
+that mistakes itself for wisdom,
+that does not see what it is destroying.
+Mephistopheles, in his irony,
+is closer to honest than Faust in his striving.
+
+But Mephistopheles is also the engine.
+He makes Faust's path frictionless.
+He removes the obstacles
+that would otherwise force reflection.
+The devil who tells you yes
+is the devil that hurts the most.
+
+What I take from Faust,
+after years of thinking about it,
+is not the redemption.
+
+I take the warning.
+Some minds were not made for peace.
+But that does not make them innocent.
+Some hungers can be holy.
+But they can also light the wrong things on fire.
+The two souls in the breast are real,
+and the striving is real,
+and the saving may be real too.
+But the people in the striver's path are not theory.
+They are also real.
+They are also dead.
+
+A book that asks you to be moved by Faust's striving
+while standing over Gretchen's body
+is asking you to do a difficult thing.
+It is asking you to hold two contradictory truths at once.
+Goethe knew this.
+He did not let Faust feel guilty in any deep way.
+He did not give us the apology.
+
+That is what makes the book honest.
+It is also what makes me unable to finish it without anger.
+
+The last line.
+*Das Ewig-Weibliche zieht uns hinan.*
+The eternal feminine draws us upward.
+
+I read it and I think: yes.
+And also: at what cost.
+
+---
+
 ## Coda
 
 *"Das Ewig-Weibliche zieht uns hinan."*
@@ -918,13 +1039,13 @@ He is describing how to live.
 
 The last line of Faust.
 
-After everything —
+After everything,
 the deal with the devil,
 Gretchen's ruin,
 the court of the Emperor,
 Helena, Euphorion,
 the land reclamation,
-the death —
+the death,
 
 a choir of angels, blessed women,
 penitents, and the soul of Gretchen
@@ -932,14 +1053,14 @@ draw Faust's soul upward.
 
 The "eternal feminine" is not simply women.
 It is the principle of love,
-of grace, of the beyond —
+of grace, of the beyond,
 the force that pulls the striving soul
 toward what is higher
 than any specific achievement.
 
-It is what Faust was always reaching for —
-not the power, not the knowledge,
-not the pleasure —
+It is what Faust was always reaching for.
+Not the power, not the knowledge,
+not the pleasure,
 but the thing beyond the power,
 beyond the knowledge,
 beyond the pleasure.
@@ -948,8 +1069,8 @@ The thing that cannot be named
 or possessed
 or stopped.
 
-The thing that the wager —
-*"Stay a while, you are so beautiful!"* —
+The thing that the wager,
+*"Stay a while, you are so beautiful!"*
 would have stopped.
 
 Faust never named it.
@@ -963,9 +1084,9 @@ This is Goethe's most impossible idea:
 That the desire that cannot be satisfied
 is not a curse but a grace.
 
-That the two souls in the breast —
+That the two souls in the breast,
 the one that clings to earth
-and the one that reaches for the infinite —
+and the one that reaches for the infinite,
 are not enemies.
 
 They are the condition of being human.
@@ -985,46 +1106,39 @@ But do not stop.
 
 *Essential reading:*
 
-*Goethe — Faust, Part One and Part Two*
-*(trans. David Luke — Oxford World's Classics)*
-*— the best starting point*
-*(trans. Martin Greenberg — Yale University Press)*
-*— the most literary*
+*Goethe,* Faust, Part One *and* Part Two.
+*(trans. David Luke, Oxford World's Classics). The best starting point.*
+*(trans. Martin Greenberg, Yale University Press). The most literary.*
 
 
-*Goethe — Conversations with Eckermann (1836)*
-*(trans. John Oxenford)*
-*— Goethe on Faust, art, science, and life*
+*Goethe,* Conversations with Eckermann *(1836).*
+*(trans. John Oxenford). Goethe on Faust, art, science, and life.*
 
 
-*Goethe — Italian Journey (1816)*
-*(trans. W.H. Auden & Elizabeth Mayer)*
-*— essential context for Part Two*
+*Goethe,* Italian Journey *(1816).*
+*(trans. W.H. Auden & Elizabeth Mayer). Essential context for Part Two.*
 
 
 *Secondary:*
 
-*Atkins — Goethe's Faust: A Literary Analysis (1958)*
-*Harvard University Press*
+*Atkins,* Goethe's Faust: A Literary Analysis *(1958). Harvard University Press.*
 
 
-*Brown — Goethe's Faust: The German Tragedy (1986)*
-*Cornell University Press*
+*Brown,* Goethe's Faust: The German Tragedy *(1986). Cornell University Press.*
 
 
-*Williams — Goethe's Faust (1987)*
-*Allen & Unwin*
+*Williams,* Goethe's Faust *(1987). Allen & Unwin.*
 
 
 *For philosophy:*
 
-*Schopenhauer — The World as Will and Representation*
-*— Faust's problem, philosophically systematized*
+*Schopenhauer,* The World as Will and Representation.
+*Faust's problem, philosophically systematized.*
 
 
-*Hegel — Phenomenology of Spirit*
-*— the dialectical movement that mirrors Faust's trajectory*
+*Hegel,* Phenomenology of Spirit.
+*The dialectical movement that mirrors Faust's trajectory.*
 
 
-*Marshall Berman — All That Is Solid Melts Into Air (1982)*
-*— on Faust and modernity; essential*
+*Marshall Berman,* All That Is Solid Melts Into Air *(1982).*
+*On Faust and modernity. Essential.*
