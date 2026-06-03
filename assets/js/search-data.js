@@ -238,7 +238,7 @@ ninja.data = [{
         },
       },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
         
-          title: "The Hard Problem of Consciousness — Why the Brain Is Not Enough",
+          title: "The Hard Problem of Consciousness: Why the Brain Is Not Enough",
         
         description: "On qualia, the explanatory gap, and the most difficult question in all of philosophy and science.",
         section: "Posts",
