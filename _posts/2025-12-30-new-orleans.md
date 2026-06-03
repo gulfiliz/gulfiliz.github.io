@@ -18,9 +18,9 @@ In Turkish, it means don't talk nonsense to me. Don't ramble. Don't make excuses
 
 I was about six years old when I first heard this word. I didn't understand it. *Jazz?* What does it mean to make jazz? The "jazz" word sounded strange in my mouth. Foreign. Weird. Strange. Cool. Full of air.
 
-Then one night, randomly on TV — on one of TRT (National public broadcaster of Türkiye)'s channels, I think — there was a jazz night. A documentary kind of thing.
+Then one night, randomly on TV — on one of TRT's channels (National public broadcaster of Türkiye), I think — there was a jazz night. A documentary kind of thing.
 
-There was a huge instrument that you blow into. The sound was unlike anything I had ever heard for my 6 year old entire life. A saxophone. For some reason, I loved this word, too. :)
+There was a huge instrument that you blow into. The sound was unlike anything my six-year-old self had ever heard. A saxophone. For some reason, I loved this word, too. :)
 
 Two interesting words for little Filiz!
 
@@ -28,7 +28,7 @@ From that moment on, I started saying I loved jazz music among my friends and ad
 
 The adults around me just smiled, I don't think they knew much about it either. And my friends replied with do not make jazz to us, ahahahha.
 
-But I kept saying it anyway. I think, I loved it before I understood it.
+But I kept saying it anyway. I think I loved it before I understood it.
 
 I love jazz music. I love it *a lot.*
 
@@ -36,11 +36,11 @@ I love jazz music. I love it *a lot.*
 
 ## The Ticket
 
-This past Christmas, I had a ticket from Houston to Amsterdam (a new place to visit, I was super excited!) and then to my hometown Izmir. Ten days! And, come back. I was packed. I was ready...
+This past Christmas, I had a ticket from Houston to Amsterdam (a new place to visit, I was super excited!) and then to my hometown İzmir. Ten days! And, come back. I was packed. I was ready...
 
 But I had a health issue and my doctor said the flight might be difficult for me. So I had to burn the ticket (yeah, I always buy the cheapest one and never had an issue!).
 
-And guess where I went with my friends instead.
+And guess where I went instead.
 
 New Orleans, Louisiana!
 
@@ -58,7 +58,7 @@ A place where jazz plays in the streets, in its soul, in its cafés. And it was 
 
 ## French in America
 
-I went to a French-focused school in Türkiye. We learned that Francophone culture was the height of sophistication. We learned to revere France.
+I went to a French-focused school in Türkiye. We learned that Francophone culture was the height of sophistication. We learned to revere France. :)
 
 Then I walked down the streets of New Orleans and heard French. Americans speaking French with American accents. A Parisian would cringe, they always find everything cringe, ahahhha. A nice Parisian(!) would definitely say "you speak sloppy French" to someone from New Orleans. But it was French!
 
@@ -89,13 +89,13 @@ I ate constantly.
 
 Gumbo. Seafood. So much seafood. Beignets at Café du Monde. Powdered sugar on my face, my hands, my dog Nikko.
 
-I saw fried alligator on a menu. Some Americans eat interesting things too, I thought.
+I saw fried alligator on a menu. Americans can eat interesting things too, I thought.
 
 Most restaurants and cafés were pet-friendly. This isn't a common practice in Dallas. For the first time, I had the chance to dine in with my dog.
 
 By the way, seafood pizza is a must try! 
 
-There was a place called Luna Pizza just a 30-seconds walk from the hotel we stayed at. I absolutely loved every pizza I tried there. :)
+There was a place called Luna Pizza just a 30-second walk from the hotel we stayed at. I absolutely loved every pizza I tried there. :)
 
 <div class="row">
     <div class="col-md-6">
@@ -205,7 +205,7 @@ Every corner had jazz. Every café. Every bar. It didn't matter where you went. 
 
 The drive back to Dallas took seven hours.
 
-I had burned a ticket to home. Instead, I went to a city where jazz lives in the streets, in the cafés, in the restaurants. Everywhere...
+I had burned a ticket home. Instead, I went to a city where jazz lives in the streets, in the cafés, in the restaurants. Everywhere...
 
 I will definitely go back! It is a great weekend getaway activity!
 
