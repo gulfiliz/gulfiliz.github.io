@@ -192,17 +192,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/sartre/";
           
         },
-      },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
-        
-          title: "Nietzsche — God Is Dead, and We Have Killed Him",
-        
-        description: "On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/nietzsche/";
-          
-        },
       },{id: "post-new-orleans-where-jazz-lives-in-the-streets",
         
           title: "New Orleans — Where Jazz Lives in the Streets",
@@ -212,6 +201,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/new-orleans/";
+          
+        },
+      },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
+        
+          title: "Nietzsche — God Is Dead, and We Have Killed Him",
+        
+        description: "On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nietzsche/";
           
         },
       },{id: "post-goethe-ii-faust-part-two",
