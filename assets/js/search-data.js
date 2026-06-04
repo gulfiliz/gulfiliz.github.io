@@ -205,9 +205,9 @@ ninja.data = [{
         },
       },{id: "post-nietzsche-god-is-dead-and-we-have-killed-him",
         
-          title: "Nietzsche — God Is Dead, and We Have Killed Him",
+          title: "Nietzsche: God Is Dead, and We Have Killed Him",
         
-        description: "On the most misread philosopher in history — will to power, eternal recurrence, and the Übermensch.",
+        description: "On the most misread philosopher in history: will to power, eternal recurrence, and the Übermensch.",
         section: "Posts",
         handler: () => {
           
