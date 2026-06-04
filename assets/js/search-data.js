@@ -183,7 +183,7 @@ ninja.data = [{
         },
       },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
         
-          title: "Sartre — Existence Precedes Essence, and That Is Terrifying",
+          title: "Sartre: Existence Precedes Essence, and That Is Terrifying",
         
         description: "On radical freedom, bad faith, and the philosopher who said you are condemned to be free.",
         section: "Posts",
