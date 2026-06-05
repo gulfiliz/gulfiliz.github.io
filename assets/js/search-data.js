@@ -412,17 +412,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/measurement-problem-deep/";
           
         },
-      },{id: "post-zaman-obsesyonum-üzerine",
-        
-          title: "Zaman Obsesyonum Üzerine",
-        
-        description: "Saatle ilk tanışmamdan bugüne.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/zaman-obsesyonum/";
-          
-        },
       },{id: "post-epictetus-the-slave-who-was-free",
         
           title: "Epictetus: The Slave Who Was Free",
