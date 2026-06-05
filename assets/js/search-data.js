@@ -161,9 +161,9 @@ ninja.data = [{
         },
       },{id: "post-the-standard-model-the-most-successful-theory-ever-written",
         
-          title: "The Standard Model — The Most Successful Theory Ever Written",
+          title: "The Standard Model: The Most Successful Theory Ever Written",
         
-        description: "How we fit the entire universe onto one page — and what that page cannot explain.",
+        description: "How we fit the entire universe onto one page, and what that page cannot explain.",
         section: "Posts",
         handler: () => {
           
