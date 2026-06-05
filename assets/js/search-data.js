@@ -139,9 +139,9 @@ ninja.data = [{
         },
       },{id: "post-quantum-computing-separating-the-revolution-from-the-hype",
         
-          title: "Quantum Computing — Separating the Revolution from the Hype",
+          title: "Quantum Computing: Separating the Revolution from the Hype",
         
-        description: "A quantum researcher&#39;s honest guide to what quantum computers can and cannot do — and why the headlines are almost always wrong.",
+        description: "A quantum researcher&#39;s honest guide to what quantum computers can and cannot do, and why the headlines are almost always wrong.",
         section: "Posts",
         handler: () => {
           
