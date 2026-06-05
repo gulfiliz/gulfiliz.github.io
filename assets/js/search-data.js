@@ -546,7 +546,7 @@ ninja.data = [{
         },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
         
-          title: "In Defense of Boredom — Why Doing Nothing Is the Most Radical Act...",
+          title: "In Defense of Boredom: Why Doing Nothing Is the Most Radical Act Left...",
         
         description: "On the disappearance of boredom, what we lost with it, and why sitting with emptiness might be the most important thing you can do today.",
         section: "Posts",
