@@ -119,7 +119,7 @@ ninja.data = [{
         
           title: "The System That Rewards Visibility Over Knowledge",
         
-        description: "On the structural inversion at the heart of contemporary intellectual life — where being seen has replaced knowing, where platform has replaced depth, and where the loudest voice wins regardless of what it says.",
+        description: "On the structural inversion at the heart of contemporary intellectual life, where being seen has replaced knowing, where platform has replaced depth, and where the loudest voice wins regardless of what it says.",
         section: "Posts",
         handler: () => {
           
