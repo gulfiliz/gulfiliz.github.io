@@ -106,7 +106,7 @@ ninja.data = [{
         },
       },{id: "post-camus-39-s-the-stranger-on-indifference-honesty-and-the-unbearable-lightness-of-not-pretending",
         
-          title: "Camus&#39;s The Stranger — On Indifference, Honesty, and the Unbearable Lightness of Not...",
+          title: "Camus&#39;s The Stranger: On Indifference, Honesty, and the Unbearable Lightness of Not Pretending...",
         
         description: "A close reading of the most misread novel of the twentieth century.",
         section: "Posts",
