@@ -128,9 +128,9 @@ ninja.data = [{
         },
       },{id: "post-the-holographic-principle-is-the-universe-a-projection",
         
-          title: "The Holographic Principle — Is the Universe a Projection?",
+          title: "The Holographic Principle: Is the Universe a Projection?",
         
-        description: "On Bekenstein, Hawking, &#39;t Hooft, Susskind, and Maldacena — and why the universe may contain less information than you think.",
+        description: "On Bekenstein, Hawking, &#39;t Hooft, Susskind, and Maldacena, and why the universe may contain less information than you think.",
         section: "Posts",
         handler: () => {
           
