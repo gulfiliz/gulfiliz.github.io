@@ -150,7 +150,7 @@ ninja.data = [{
         },
       },{id: "post-the-philosopher-39-s-nephew-on-nepotism-merit-and-the-betrayal-of-ideas",
         
-          title: "The Philosopher&#39;s Nephew — On Nepotism, Merit, and the Betrayal of Ideas",
+          title: "The Philosopher&#39;s Nephew: On Nepotism, Merit, and the Betrayal of Ideas",
         
         description: "Plato gave the Academy to his nephew instead of Aristotle. It is the oldest academic scandal in history. It is also happening right now, everywhere.",
         section: "Posts",
