@@ -645,4 +645,3 @@ The pseudo-intellectual cannot afford to be...
 *On the days when I perform rather than think.*
 *Which is more days than I would like.*
 
-
