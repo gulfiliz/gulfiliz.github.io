@@ -82,11 +82,11 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
-      },{id: "post-logical-operators-code-geometry",
+      },{id: "post-logical-operators-code-degeneracy-and-the-geometry-of-quantum-codes",
         
-          title: "Logical Operators Code Geometry",
+          title: "Logical Operators, Code Degeneracy, and the Geometry of Quantum Codes",
         
-        description: "",
+        description: "The deep structure of quantum error correcting codes, the symplectic geometry of Pauli space, the algebraic definition of logical operators, code degeneracy, and why the distance of a code is a geometric quantity.",
         section: "Posts",
         handler: () => {
           
