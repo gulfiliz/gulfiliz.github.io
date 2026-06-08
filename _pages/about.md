@@ -12,7 +12,7 @@ profile:
 
 news: false
 selected_papers: false
-social: false 
+social: true 
 ---
 Merhaba, ben Filiz. Fizikçi ve bilgisayar bilimcisiyim; özellikle kuantum hesaplama ile ilgileniyorum. Edebiyatı çok seviyorum, özellikle Rus edebiyatını. Aynı zamanda dolma kalem meraklısıyım ve çocukluğumdan beri özel ve limitli üretim kalemler biriktiriyorum; kendimce bir dolma kalem koleksiyoneriyim.
 Astronomiyi çok seviyorum; boş zamanlarımda özellikle modüler origamiyle uğraşır ve Go (Igo/Baduk/Weiqi) oynamaktan büyük keyif alırım. İzmirliyim ve şu anda Dallas’ta yaşıyorum. 
@@ -32,9 +32,3 @@ Fragments in Fragmenta, unexamined truths in Sképsis, and the in-between in Met
 
 Here you’ll find my travel notes, reflections on philosophy, origami, the game of Go, fountain pens, research logs, and reading notes — all gathered in one place.
 
----
-Here is how you can reach out to me:
-
-e-mail: gulfilizakinalp@gmail.com
-
-SNS: https://x.com/Filiz_Phys
