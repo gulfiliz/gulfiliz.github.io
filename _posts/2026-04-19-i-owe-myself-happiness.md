@@ -9,7 +9,9 @@ tags: justfiliz,
 Three years ago I went to a routine eye appointment.
 
 I wear glasses.
+
 Every six months, a check-up.
+
 Nothing special.
 
 The doctor was looking
