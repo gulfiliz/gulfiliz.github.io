@@ -1,20 +1,21 @@
+
 ---
 layout: post
-title: Logical Operators, Code Degeneracy, and the Geometry of Quantum Codes
+title: "Logical Operators, Code Degeneracy, and the Geometry of Quantum Codes"
 date: 2026-03-14
-description: The deep structure of quantum error correcting codes — the symplectic geometry of Pauli space, the algebraic definition of logical operators, code degeneracy, and why the distance of a code is a geometric quantity.
+description: The deep structure of quantum error correcting codes, the symplectic geometry of Pauli space, the algebraic definition of logical operators, code degeneracy, and why the distance of a code is a geometric quantity.
 tags: research-logs,
 ---
 
-The previous essay introduced
+My previous post introduced
 quantum error correction through
 the stabilizer formalism.
-https://gulfiliz.github.io/blog/2026/qec/
+[https://gulfiliz.github.io/blog/2026/qec/](https://gulfiliz.github.io/blog/2026/qec/)
 
 It described what stabilizer codes do.
 
-This essay describes what they are —
-the mathematical structure underneath:
+This post describes what they are:
+the mathematical structure underneath,
 the symplectic geometry of Pauli space,
 the precise definition of logical operators,
 the meaning of code degeneracy,
@@ -78,8 +79,8 @@ where:
 
 $$\Omega = \begin{pmatrix} 0 & I_n \\ I_n & 0 \end{pmatrix}$$
 
-This is a symplectic form on $$\mathbb{F}_2^{2n}$$ —
-the space $$(\mathbb{F}_2^{2n}, \Omega)$$
+This is a symplectic form on $$\mathbb{F}_2^{2n}$$,
+and the space $$(\mathbb{F}_2^{2n}, \Omega)$$
 is a symplectic vector space.
 
 The entire theory of stabilizer codes
@@ -91,21 +92,21 @@ lives in this symplectic geometry.
 
 A stabilizer code with $$m$$ independent generators
 corresponds to an $$m \times 2n$$
-binary matrix $$H$$ —
-the rows are the symplectic representations
+binary matrix $$H$$,
+where the rows are the symplectic representations
 of the generators.
 
 **The isotropic condition:**
 
-The stabilizer group is abelian —
+The stabilizer group is abelian,
 all generators commute.
 In the symplectic representation:
 
 $$H \Omega H^T = 0 \pmod{2}$$
 
-This is the **isotropic condition** —
+This is the **isotropic condition**,
 the rowspace of $$H$$ is an isotropic subspace
-of $$(\mathbb{F}_2^{2n}, \Omega)$.
+of $$(\mathbb{F}_2^{2n}, \Omega)$$.
 
 An isotropic subspace has the property
 that every pair of vectors in it
@@ -124,7 +125,7 @@ with $$|S| = 2^m$$ elements (as a set of vectors)
 and $$\dim(S) = m$$.
 
 The code space $$\mathcal{C}$$
-is the $$+1$$ eigenspace of all stabilizers —
+is the $$+1$$ eigenspace of all stabilizers,
 a $$2^{n-m}$$-dimensional subspace
 of the $$2^n$$-dimensional Hilbert space.
 
@@ -139,8 +140,8 @@ when the $$m$$ generators are independent.
 The effective number of independent stabilizers
 is $$\text{rank}(H)$$ over $$\mathbb{F}_2$$.
 
-If the generators are not independent —
-if some generator is the product of others —
+If the generators are not independent,
+if some generator is the product of others,
 then $$\text{rank}(H) < m$$
 and the code encodes more logical qubits:
 
@@ -148,7 +149,7 @@ $$k = n - \text{rank}(H)$$
 
 This is why computing $$k$$ for a given
 polynomial pair in BB codes
-requires explicit rank computation —
+requires explicit rank computation,
 not just counting generators.
 
 ---
@@ -167,11 +168,7 @@ $$S^\perp = \{\mathbf{v} \in \mathbb{F}_2^{2n} :
 \langle \mathbf{s}, \mathbf{v} \rangle_s = 0
 \; \forall \mathbf{s} \in S\}$$
 
-$$= \text{rowspace}(H\Omega)^\perp$$
-
-Explicitly:
-
-$$S^\perp = \ker(H\Omega) \pmod{2}$$
+$$= \ker(H\Omega) \pmod{2}$$
 
 **The key inclusion:**
 
@@ -186,25 +183,23 @@ $$S^\perp / S$$
 
 has dimension:
 
-$$\dim(S^\perp) - \dim(S)
-= (n + k) - (n - k) = 2k$$
+$$\dim(S^\perp) - \dim(S) = 2k$$
 
-Wait — let me be precise.
+To be precise:
 
 $$\dim(S) = n - k$$
-$$\dim(S^\perp) = 2n - (n-k) = n + k$$
+$$\dim(S^\perp) = 2n - \dim(S) = n + k$$
 
 (since $$S^\perp$$ is the symplectic complement of $$S$$
-in a $$2n$$-dimensional space, and
-$$\dim(S^\perp) = 2n - \dim(S)$$)
+in a $$2n$$-dimensional space).
 
 $$\dim(S^\perp/S) = (n+k) - (n-k) = 2k$$
 
 **Logical operators:**
 
-Elements of $$S^\perp \setminus S$$ —
+Elements of $$S^\perp \setminus S$$,
 operators that commute with all stabilizers
-but are not themselves stabilizers —
+but are not themselves stabilizers,
 are the **logical operators.**
 
 For $$k$$ logical qubits,
@@ -216,7 +211,7 @@ satisfying:
 
 $$[\bar{X}_i, \bar{Z}_j] = 0 \text{ for } i \neq j$$
 
-$$\{\bar{X}_i, \bar{Z}_i\} \neq 0
+$$\{\bar{X}_i, \bar{Z}_i\} = 0
 \text{ (they anticommute)}$$
 
 $$[\bar{X}_i, S] = 0, \quad [\bar{Z}_i, S] = 0
@@ -224,8 +219,8 @@ $$[\bar{X}_i, S] = 0, \quad [\bar{Z}_i, S] = 0
 
 In the symplectic picture:
 the $$2k$$-dimensional space $$S^\perp/S$$
-carries a symplectic structure inherited from $$\Omega$$ —
-the logical operators form a symplectic basis
+carries a symplectic structure inherited from $$\Omega$$,
+and the logical operators form a symplectic basis
 of this quotient space.
 
 **Non-uniqueness of logical operators:**
@@ -241,19 +236,18 @@ up to multiplication by stabilizers.
 
 This is crucial for decoding:
 the decoder does not need to
-identify the exact error —
-it only needs to identify the error
-up to stabilizer equivalence.
+identify the exact error,
+only the error up to stabilizer equivalence.
 
 ---
 
-## IV. Code Distance — The Geometric Picture
+## IV. Code Distance, The Geometric Picture
 
 The code distance $$d$$ is defined as:
 
 $$d = \min \{wt(\mathbf{v}) : \mathbf{v} \in S^\perp \setminus S\}$$
 
-where $$wt(\mathbf{v})$$ is the Hamming weight —
+where $$wt(\mathbf{v})$$ is the Hamming weight,
 the number of nonzero positions.
 
 **Interpretation:**
@@ -267,30 +261,37 @@ can be uniquely identified and corrected.
 
 An error of weight $$\geq d/2$$
 may map a codeword to another codeword
-(after correction) — a logical error.
+(after correction), producing a logical error.
 
 **Separate X and Z distances:**
 
-For CSS codes, the distance separates:
+For CSS codes with $$C_2 \subseteq C_1$$,
+the distance separates.
+
+Logical X operators correspond to cosets
+of $$C_2$$ in $$C_1$$:
 
 $$d_X = \min\{wt(\mathbf{v}) :
-\mathbf{v} \in C_1 \setminus C_2^\perp\}$$
+\mathbf{v} \in C_1 \setminus C_2\}$$
+
+Logical Z operators correspond to cosets
+of $$C_1^\perp$$ in $$C_2^\perp$$:
 
 $$d_Z = \min\{wt(\mathbf{v}) :
-\mathbf{v} \in C_2 \setminus C_1^\perp\}$$
+\mathbf{v} \in C_2^\perp \setminus C_1^\perp\}$$
 
 $$d = \min(d_X, d_Z)$$
 
 Finding the code distance requires finding
 the minimum-weight codeword
-in a coset of a binary linear code —
+in a coset of a binary linear code,
 a problem equivalent to
 **minimum-weight codeword** in the quotient code.
 
 This is NP-hard in general.
 
-For specific code families —
-BB codes in particular —
+For specific code families,
+BB codes in particular,
 special structure can be exploited
 to compute distance efficiently.
 
@@ -304,51 +305,38 @@ with no classical analogue:
 
 **Definition:**
 
-A code is **degenerate** if there exists
-an error $$E \notin S$$ —
-not a stabilizer —
-with the same syndrome as the identity
-(i.e., $$E \in S^\perp$$)
-but with weight $$< d$$.
+A code is **degenerate** if the stabilizer group $$S$$
+contains a non-identity element
+of weight less than $$d$$.
 
-Equivalently:
-there exist elements of $$S^\perp \setminus S$$
-with weight less than $$d$$.
-
-Wait — this would contradict the definition of $$d$$.
-
-Let me be more careful.
-
-**The precise definition:**
-
-A code is degenerate if there exists
-an error $$E$$ with $$wt(E) \leq \lfloor (d-1)/2 \rfloor$$
-that is in the stabilizer group $$S$$ —
-a low-weight stabilizer.
-
-Equivalently: $$S$$ contains elements
-of weight $$< d$$.
-
-In a non-degenerate code:
-all stabilizers have weight $$\geq d$$.
+In a non-degenerate code,
+all non-identity stabilizers have weight $$\geq d$$.
 Different errors of weight $$< d/2$$
-produce different syndromes —
-unique decoding is possible.
+produce different syndromes,
+and unique decoding is possible.
 
-In a degenerate code:
+In a degenerate code,
 some stabilizers have weight $$< d$$.
-Errors of weight $$< d/2$$ that are stabilizers
-produce the zero syndrome —
-they are not detected.
-But they also do not corrupt the logical state
+
+Errors that happen to coincide
+with a low-weight stabilizer
+produce the zero syndrome,
+they are not detected,
+but they also do not corrupt the logical state
 (since they are stabilizers).
+
+More generally,
+different physical errors that differ
+by a stabilizer give the same syndrome,
+and they require the same correction
+(modulo stabilizers).
 
 **The implication for decoding:**
 
 In a degenerate code,
 multiple physical errors can correspond
-to the same correction —
-the decoder does not need to
+to the same correction.
+The decoder does not need to
 identify the exact error,
 only its equivalence class in $$S^\perp/S$$.
 
@@ -356,19 +344,19 @@ This can be advantageous:
 degenerate codes can potentially achieve
 better effective thresholds
 because the stabilizer structure
-automatically corrects some errors.
+automatically absorbs some errors.
 
 **BB codes and degeneracy:**
 
-BB codes are generically degenerate —
-the circulant structure of the stabilizer matrix
+BB codes are generically degenerate.
+The circulant structure of the stabilizer matrix
 produces low-weight stabilizers
 (products of generators)
-that fall within the correction radius.
+that fall below the code distance.
 
-Quantifying the degeneracy —
+Quantifying the degeneracy,
 counting the low-weight stabilizers
-and their effect on the effective distance —
+and their effect on the effective distance,
 is an active area of research.
 
 ---
@@ -377,7 +365,7 @@ is an active area of research.
 
 The structure of a stabilizer code
 is naturally represented
-as a **Tanner graph** —
+as a **Tanner graph**,
 a bipartite graph connecting
 qubits (variable nodes) to stabilizers (check nodes).
 
@@ -395,8 +383,8 @@ separate Tanner graphs for X-checks and Z-checks.
 **The LDPC condition:**
 
 A code is LDPC if:
-— Each variable node has degree $$\leq w_c$$ (constant)
-— Each check node has degree $$\leq w_r$$ (constant)
+- Each variable node has degree $$\leq w_c$$ (constant)
+- Each check node has degree $$\leq w_r$$ (constant)
 
 In physical terms:
 each qubit participates in at most $$w_c$$ stabilizers,
@@ -404,8 +392,8 @@ and each stabilizer acts on at most $$w_r$$ qubits.
 
 **Cycles in the Tanner graph:**
 
-The **girth** of the Tanner graph —
-the length of the shortest cycle —
+The **girth** of the Tanner graph,
+the length of the shortest cycle,
 is critical for decoding performance.
 
 Belief propagation on a cycle-free graph
@@ -416,22 +404,24 @@ Short cycles cause BP to oscillate
 and fail to converge.
 
 For BB codes:
-the Tanner graph has girth $$\geq 6$ —
-no cycles of length 4.
-This is a consequence of the
-group algebra structure.
+well-chosen polynomial pairs
+produce Tanner graphs with girth $$\geq 6$$,
+avoiding length-4 cycles.
+This is not automatic from the group algebra structure
+alone but follows from careful polynomial selection,
+exploiting the algebra to rule out short cycles.
 
 Higher girth → better BP performance.
 
 The girth is determined by
-the specific polynomial pair $$(a, b)$$ —
-different polynomial choices give
+the specific polynomial pair $$(a, b)$$.
+Different polynomial choices give
 different girth values,
 affecting decoder performance.
 
 ---
 
-## VII. The Polynomial Structure of BB Codes — In Depth
+## VII. The Polynomial Structure of BB Codes, In Depth
 
 We now examine the algebraic structure
 of BB codes more carefully.
@@ -454,7 +444,7 @@ the group relations.
 
 Each element $$f(x,y) \in
 \mathbb{F}_2[\mathbb{Z}_L \times \mathbb{Z}_M]$$
-corresponds to an $$LM \times LM$$ matrix —
+corresponds to an $$LM \times LM$$ matrix,
 a block circulant matrix
 with circulant blocks.
 
@@ -472,52 +462,34 @@ corresponding to $$a$$ and $$b$$.
 
 The CSS orthogonality condition:
 
-$$H_X H_Z^T = AB^T + BA^T = 0 \pmod{2}$$
+$$H_X H_Z^T = AB + BA = 0 \pmod{2}$$
+
+Since $$A$$ and $$B$$ are elements
+of the commutative group algebra
+$$\mathbb{F}_2[\mathbb{Z}_L \times \mathbb{Z}_M]$$,
+$$AB = BA$$ holds automatically,
+and the condition $$AB + BA = 0$$
+is satisfied by construction.
 
 In the group algebra:
-$$ab^* + ba^* = 0$$
-where $$f^*(x,y) = f(x^{-1}, y^{-1})$$
-is the "conjugate" polynomial.
+$$ab + ba = 0$$ with $$ab = ba$$ automatic.
 
 **The number of logical qubits:**
 
-$$k = 2\dim\ker\begin{pmatrix}H_X \\ H_Z\end{pmatrix}
-- 2(n - \text{rank}(H_X) - \text{rank}(H_Z))$$
-
-More precisely:
-
-$$k = n - \text{rank}(H_X) - \text{rank}(H_Z)
-+ \text{rank}(H_X \cap \ker H_Z)$$
-
-Wait — the correct formula for a CSS code:
-
-$$k = k_1 + k_2 - n$$
-
-where $$k_1 = n - \text{rank}(H_Z)$$
-and $$k_2 = n - \text{rank}(H_X)$$.
-
-Therefore:
+For a CSS code with $$n$$ physical qubits:
 
 $$k = n - \text{rank}(H_X) - \text{rank}(H_Z)$$
 
 For BB codes with $$n = 2LM$$:
 
-$$k = 2(LM - \text{rank}(A))
-+ 2(LM - \text{rank}(B)) - 2LM$$
+$$\text{rank}(H_X) = \text{rank}(H_Z) = \text{rank}([A \mid B])$$
 
-No — let me be careful.
-$$H_X = [A \mid B]$$ has dimensions
-$$LM \times 2LM$$.
-$$\text{rank}(H_X) \leq LM$$.
+by the CSS symmetry between $$H_X$$ and $$H_Z$$.
 
-The formula:
+Therefore:
 
-$$k = 2LM - \text{rank}(H_X) - \text{rank}(H_Z)$$
-
-Since $$H_X = [A \mid B]$$ and $$H_Z = [B^T \mid A^T]$$
-and both have the same rank by the CSS structure:
-
-$$k = 2(LM - \text{rank}([A \mid B]))$$
+$$k = 2LM - 2\,\text{rank}([A \mid B])
+= 2(LM - \text{rank}([A \mid B]))$$
 
 The rank of $$[A \mid B]$$
 depends on the specific polynomials $$a, b$$
@@ -530,19 +502,10 @@ the rank can be computed using
 the Smith normal form or
 the eigenvalue structure of the circulant matrices.
 
-For the group $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$:
-
-The group algebra decomposes as:
-
-$$\mathbb{F}_2[\mathbb{Z}_{12} \times \mathbb{Z}_6]
-\cong \prod_{d_1 | 12, d_2 | 6}
-\mathbb{F}_2[\mathbb{Z}_{d_1} \times \mathbb{Z}_{d_2}]^{m(d_1,d_2)}$$
-
-where the product is over divisors
-and $$m(d_1, d_2)$$ are multiplicities.
-
-The rank of $$[A \mid B]$$ decomposes
-into contributions from each component —
+For the group $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$,
+the group algebra decomposes
+into a product of simpler components
+indexed by divisors of the group orders,
 allowing efficient rank computation.
 
 This algebraic structure
@@ -575,61 +538,49 @@ Proving $$d \geq d_0$$
 requires showing that
 no logical operator has weight $$< d_0$$.
 
-This is harder — it requires ruling out
+This is harder.
+It requires ruling out
 all low-weight elements of $$S^\perp \setminus S$$.
 
 For small codes: exhaustive search.
 For large codes: probabilistic arguments
 or structural properties of the code.
 
-**The distance of [[72, 12, 7]] codes:**
+**The [[72, 12, 7]] codes:**
 
-For the specific family of BB codes
-in $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$
-with $$n = 144$$ physical qubits:
+In my own research on BB codes
+over $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$,
+systematic polynomial search yielded
+a family of $$[[72, 12, 7]]$$ codes.
 
-Codes with $$k = 12$$ and $$d = 7$$
-are found by:
+These are *end-cycle* codes in the
+Shaw-Terhal morphing framework,
+where $$n = LM = 72$$
+rather than the standard BB length
+$$n = 2LM = 144$$.
 
-1. Enumerating polynomial pairs $$(a, b)$$
-   of weight 3 over $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$
-2. For each pair, computing $$k$$
+The construction:
+
+1. Begin with a mid-cycle BB code
+   on $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$
+   with $$n = 144$$.
+2. Apply a morphing reduction
+   that halves the qubit count,
+   producing an end-cycle code with $$n = 72$$.
+3. Enumerate polynomial pairs $$(a, b)$$
+   of weight 3.
+4. For each pair, compute $$k$$
    (via rank computation)
-3. For pairs with $$k = 12$$,
-   computing $$d$$ (via logical operator search)
-4. Keeping pairs with $$d \geq 7$$
+   and $$d$$ (via logical operator search).
+5. Keep pairs with $$k = 12$$ and $$d \geq 7$$.
 
-Wait — the group order is $$LM = 12 \times 6 = 72$$,
-so $$n = 2 \times 72 = 144$$.
-
-But codes with parameters $$[[72, 12, 7]]$$
-have $$n = 72$$ — half the standard BB code length.
-
-The resolution:
-BB codes can also be constructed
-with $$n = LM$$ by using
-a different matrix structure —
-or the $$[[72, 12, 7]]$$ codes
-come from a group of order 36,
-not 72.
-
-For $$\mathbb{Z}_{12} \times \mathbb{Z}_6$$
-with $$LM = 72$$:
-
-Standard BB code: $$n = 2 \times 72 = 144$$.
-
-The $$[[72, 12, 7]]$$ codes arise from
-a different construction —
-possibly from a subgroup of order 36,
-or from a modified CSS structure
-that uses a single circulant
-rather than the $$[A \mid B]$$ structure.
-
-The precise construction
-and the novelty of specific polynomial pairs —
-their relationship to Shaw & Terhal's
-Table VIII constructions —
-is the active research question.
+This yielded thirteen previously uncatalogued
+$$[[72, 12, 7]]$$ codes,
+with weight-11 stabilizers
+(a higher-weight trade-off compared to
+Shaw's weight-9 construction in his Table VIII)
+in exchange for new polynomial families
+not found by Shaw's systematic enumeration.
 
 ---
 
@@ -638,9 +589,9 @@ is the active research question.
 Two codes are **equivalent**
 if one can be obtained from the other
 by a combination of:
-— Qubit permutations
-— Local Clifford operations (single-qubit unitaries)
-— Qubit relabeling
+- Qubit permutations
+- Local Clifford operations (single-qubit unitaries)
+- Qubit relabeling
 
 Equivalent codes have the same parameters
 $$(n, k, d)$$ but are "the same code"
@@ -651,7 +602,7 @@ from a fault-tolerance perspective.
 The automorphism group $$\text{Aut}(\mathcal{C})$$
 of a stabilizer code:
 the set of physical operations
-that map the code to itself —
+that map the code to itself,
 that permute codewords among codewords.
 
 $$\text{Aut}(\mathcal{C}) \leq \mathcal{C}_n$$
@@ -659,7 +610,7 @@ $$\text{Aut}(\mathcal{C}) \leq \mathcal{C}_n$$
 where $$\mathcal{C}_n$$ is the Clifford group.
 
 A larger automorphism group
-means more structure —
+means more structure,
 more potential transversal gates,
 more symmetries to exploit.
 
@@ -673,16 +624,16 @@ $$\mathbb{Z}_L \times \mathbb{Z}_M$$.
 Translating all qubits by a group element $$g$$:
 $$(A, B) \to (g \cdot A, g \cdot B)$$
 
-maps the code to itself —
-this translation is an automorphism.
+maps the code to itself.
+This translation is an automorphism.
 
 Different polynomial pairs
 may have additional automorphisms
 beyond the translation symmetry.
 
 The automorphism group determines
-which logical gates can be implemented transversally —
-the transversal gate group is exactly
+which logical gates can be implemented transversally.
+The transversal gate group is exactly
 the automorphism group
 (intersected with the logical Clifford group).
 
@@ -695,61 +646,67 @@ with useful transversal gate sets.
 
 ## X. Topological Codes as Geometric Codes
 
-The surface code — and toric code —
+The surface code and toric code
 have a beautiful geometric interpretation
 that illuminates their distance properties.
 
 **The toric code as a chain complex:**
 
 The toric code lives on a torus $$T^2$$.
-Qubits on edges. Stabilizers on plaquettes (Z) and vertices (X).
+Qubits on edges.
+Stabilizers at vertices (X-type stars)
+and plaquettes (Z-type faces).
 
 This is a 2D **chain complex**:
 
-$$\mathbb{F}_2^{|V|} \xrightarrow{\partial_1}
-\mathbb{F}_2^{|E|} \xrightarrow{\partial_2}
-\mathbb{F}_2^{|F|}$$
+$$\mathbb{F}_2^{|F|}
+\xrightarrow{\partial_2} \mathbb{F}_2^{|E|}
+\xrightarrow{\partial_1} \mathbb{F}_2^{|V|}$$
 
 where $$V, E, F$$ are vertices, edges, faces.
 
-The boundary maps $$\partial_1, \partial_2$$ are
-the vertex-edge and edge-face incidence matrices.
+The boundary maps:
+- $$\partial_2$$ sends each face
+  to the sum of edges on its boundary
+- $$\partial_1$$ sends each edge
+  to the sum of its endpoints
 
 The stabilizers:
-$$H_X = \partial_2^T$$ (face operators)
-$$H_Z = \partial_1$$ (vertex operators)
+$$H_X = \partial_1$$ (vertex operators / stars)
+$$H_Z = \partial_2^T$$ (face operators / plaquettes)
 
 The CSS orthogonality:
-$$H_X H_Z^T = \partial_2^T \partial_1^T
-= (\partial_1 \partial_2)^T = 0$$
 
-follows from $$\partial_1 \partial_2 = 0$$ —
-the fundamental identity of a chain complex
+$$H_X H_Z^T = \partial_1 \partial_2 = 0$$
+
+follows from the fundamental identity
+of a chain complex
 (the boundary of a boundary is zero).
 
 The logical operators:
-$$k = 2\dim H_1(T^2; \mathbb{F}_2) = 4$$
 
-Wait — for the toric code: $$k = 2$$.
-For the surface code: $$k = 1$$.
+$$k = \dim H_1(T^2; \mathbb{F}_2) = 2$$
+
+For the toric code on a torus: $$k = 2$$.
+For the surface code on a planar patch with boundary: $$k = 1$$.
 
 The logical operators correspond to
-non-contractible cycles on the torus —
+non-contractible cycles on the torus,
 cycles that cannot be deformed to a point.
 
 The distance: the length of the
 shortest non-contractible cycle
 $$= L$$ (the lattice side length).
 
-This geometric picture makes the distance transparent:
-the code distance is a topological invariant
+This geometric picture makes the distance transparent.
+The code distance is a topological invariant
 of the underlying surface.
 
 **Hypergraph product codes:**
 
 Tillich & Zémor (2014) generalized this
 using the **hypergraph product**
-of two classical codes:
+of two classical codes.
 
 Given classical codes with check matrices
 $$H_1$$ and $$H_2$$:
@@ -772,11 +729,14 @@ If both classical codes are LDPC with linear distance:
 the hypergraph product code is qLDPC
 with linear distance and constant rate.
 
-BB codes are related to hypergraph product codes —
-the specific circulant structure
-is a special case of the
-hypergraph product construction
-for cyclic codes.
+BB codes share structural features
+with hypergraph product codes
+(both arise from algebraic constructions
+that combine smaller classical codes),
+but BB codes are a distinct construction
+based on group algebras over abelian groups.
+Both are special cases of the broader
+**lifted product code** family.
 
 ---
 
@@ -785,100 +745,118 @@ for cyclic codes.
 **Classical Singleton bound:**
 
 A classical $$[n, k, d]$$ code satisfies:
+
 $$k \leq n - d + 1$$
 
 Codes achieving this bound (MDS codes)
-are optimal — maximum distance for given rate.
+are optimal: maximum distance for given rate.
 
 Reed-Solomon codes achieve the Singleton bound.
 
-**Quantum Singleton bound:**
+**Quantum Singleton bound (Knill-Laflamme):**
 
-For a non-degenerate $$[[n, k, d]]$$ code:
+For any $$[[n, k, d]]$$ quantum code:
 
-$$k \leq n - 4(d-1)$$
+$$k \leq n - 2(d-1)$$
 
-This is more restrictive than the classical bound —
-quantum codes pay a higher overhead
-for a given distance.
+The factor of 2 (rather than the classical 1)
+reflects the no-cloning theorem
+and the need to protect against
+both X-type and Z-type errors.
+
+The smallest stabilizer code,
+the $$[[5, 1, 3]]$$ code,
+saturates this bound:
+$$1 \leq 5 - 2(2) = 1$$.
+
+It is an MDS quantum code,
+the analogue of the classical $$[3, 1, 3]$$ repetition code
+but achieving the optimal rate-distance tradeoff
+for quantum codes.
 
 **Degenerate codes and the bound:**
 
-Degenerate codes can potentially
-violate the quantum Singleton bound —
-their effective distance,
-accounting for the degeneracy,
-may exceed what non-degenerate codes achieve.
-
-Whether degenerate codes actually
-improve the encoding rate
+Whether degenerate codes can violate
+the quantum Singleton bound
 is a subtle and active research question.
+
+The Singleton bound applies to all
+$$[[n, k, d]]$$ stabilizer codes,
+but degenerate codes can have effective
+error correction properties that exceed
+what their distance alone would suggest.
 
 For BB codes:
 the parameters $$[[144, 12, 12]]$$
 give $$k/n = 1/12$$ and $$d = 12$$.
 
 The quantum Singleton bound:
-$$k \leq n - 4(d-1) = 144 - 44 = 100$$
 
-So $$k = 12$$ is well below the bound —
-the code is far from Singleton-optimal.
+$$k \leq n - 2(d-1) = 144 - 22 = 122$$
+
+So $$k = 12$$ is well below the bound.
+The code is far from Singleton-optimal.
 
 But the relevant comparison
-is not the Singleton bound —
-it is the surface code,
-which achieves $$k = 1$$
+is not the Singleton bound.
+It is the surface code,
+which achieves only $$k = 1$$
 for comparable $$n$$ and $$d$$.
+
+Against the surface code,
+the BB construction is dramatically better.
+Against the Singleton bound,
+there is room to grow.
 
 ---
 
 ## XII. Connecting the Geometry to the Physics
 
-The mathematical structures described here —
+The mathematical structures described here,
 symplectic geometry, chain complexes,
-quotient spaces, automorphism groups —
+quotient spaces, automorphism groups,
 are not abstract decorations.
 
 They connect directly to physical questions.
 
 **The symplectic structure**
-determines which operators commute —
+determines which operators commute,
 the fundamental constraint on
-what can be measured simultaneously.
+what can be measured together.
 
 **The rank of H**
-determines how many logical qubits are encoded —
+determines how many logical qubits are encoded,
 a direct consequence of
 the linear algebra of the stabilizer group.
 
 **The quotient space $$S^\perp/S$$**
-is the logical Hilbert space —
+is the logical Hilbert space,
 the space in which quantum information lives.
 Its symplectic structure determines
 the commutation relations of logical operators.
 
 **Code degeneracy**
-determines the decoder's task:
-degenerate codes have a larger equivalence class
-of correctable errors —
+determines the decoder's task.
+Degenerate codes have a larger equivalence class
+of correctable errors,
 potentially improving the effective threshold.
 
 **The distance**
 is a minimum-weight problem
-in a coset of a linear code —
+in a coset of a linear code,
 connected to the geometry of
 the Tanner graph and the
 combinatorics of the stabilizer group.
 
 **The automorphism group**
-determines the transversal gate set —
+determines the transversal gate set,
 which logical gates can be implemented
 without spreading errors.
 
 Finding a code with good parameters
-and a useful automorphism group —
+and a useful automorphism group,
 for example, one that includes
-the logical T gate transversally —
+the logical T gate transversally,
 is the goal of the polynomial search.
 
 This is the research program:
@@ -894,73 +872,63 @@ d \geq d_{target}, \quad
 
 The space is finite but large.
 The constraints are computationally intensive.
-The rewards — a code that allows
+The rewards,
+a code that allows
 fault-tolerant universal computation
-with lower overhead than current approaches —
+with lower overhead than current approaches,
 are significant.
 
 ---
 
 *Essential reading:*
 
-*Gottesman — "Stabilizer Codes and Quantum Error Correction" (1997)*
-*PhD thesis, Caltech — Chapter 2 for the symplectic formalism*
+*Gottesman. "Stabilizer Codes and Quantum Error Correction" (1997).*
+*PhD thesis, Caltech. Chapter 2 for the symplectic formalism.*
 
+*Calderbank, Rains, Shor & Sloane.*
+*"Quantum Error Correction via Codes over GF(4)" (1998).*
+*IEEE Trans. Inf. Theory 44, 1369.*
+*The symplectic / GF(4) connection.*
 
-*Calderbank, Rains, Shor & Sloane —*
-*"Quantum Error Correction via Codes over GF(4)" (1998)*
-*IEEE Trans. Inf. Theory 44, 1369*
-*— the symplectic/GF(4) connection*
-
-
-*Tillich & Zémor —*
+*Tillich & Zémor.*
 *"Quantum LDPC Codes With Positive Rate*
-*and Minimum Distance Proportional to the Square Root of the Blocklength" (2014)*
-*IEEE Trans. Inf. Theory 60, 1193*
-*— hypergraph product codes*
+*and Minimum Distance Proportional to the Square Root of the Blocklength" (2014).*
+*IEEE Trans. Inf. Theory 60, 1193.*
+*Hypergraph product codes.*
 
+*Panteleev & Kalachev.*
+*"Quantum LDPC Codes With Almost Linear Minimum Distance" (2022).*
+*IEEE Trans. Inf. Theory 68, 213.*
 
-*Panteleev & Kalachev —*
-*"Quantum LDPC Codes With Almost Linear*
-*Minimum Distance" (2022)*
-*IEEE Trans. Inf. Theory 68, 213*
-
-
-*Bravyi et al. —*
+*Bravyi et al.*
 *"High-Threshold and Low-Overhead*
-*Fault-Tolerant Quantum Memory" (2024)*
-*Nature 627, 778*
-*— BB code construction and parameters*
-
+*Fault-Tolerant Quantum Memory" (2024).*
+*Nature 627, 778.*
+*BB code construction and parameters.*
 
 *For the homological perspective:*
 
-*Freedman & Hastings —*
-*"Quantum Systems on Non-k-Hyperfinite Complexes" (2013)*
-*arXiv:1301.1995*
+*Freedman & Hastings.*
+*"Quantum Systems on Non-k-Hyperfinite Complexes" (2013).*
+*arXiv:1301.1995.*
 
-
-*Breuckmann & Eberhardt —*
-*"Quantum Low-Density Parity-Check Codes" (2021)*
-*PRX Quantum 2, 040101*
-*— the best review of qLDPC codes*
-
+*Breuckmann & Eberhardt.*
+*"Quantum Low-Density Parity-Check Codes" (2021).*
+*PRX Quantum 2, 040101.*
+*The best review of qLDPC codes.*
 
 *For distance computation:*
 
-*Leon — "A Probabilistic Algorithm for Computing*
-*Minimum Weights of Large Error-Correcting Codes" (1988)*
-*IEEE Trans. Inf. Theory 34, 1354*
+*Leon. "A Probabilistic Algorithm for Computing*
+*Minimum Weights of Large Error-Correcting Codes" (1988).*
+*IEEE Trans. Inf. Theory 34, 1354.*
 
-
-*Barg & Zemor — distance bounds for random codes*
-
+*Barg & Zémor on distance bounds for random codes.*
 
 *For automorphisms and transversal gates:*
 
-*Rains — "Quantum Codes of Minimum Distance Two" (1999)*
-*IEEE Trans. Inf. Theory 45, 266*
+*Rains. "Quantum Codes of Minimum Distance Two" (1999).*
+*IEEE Trans. Inf. Theory 45, 266.*
 
-
-*Gottesman — "Theory of Fault-Tolerant Quantum Computation" (1998)*
-*Phys. Rev. A 57, 127*
+*Gottesman. "Theory of Fault-Tolerant Quantum Computation" (1998).*
+*Phys. Rev. A 57, 127.*
