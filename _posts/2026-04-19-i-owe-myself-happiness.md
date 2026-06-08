@@ -6,7 +6,7 @@ description: I owe myself happiness. This is how I learned that.
 tags: justfiliz, 
 ---
 
-Two years ago I went to a routine eye appointment.
+Three years ago I went to a routine eye appointment.
 
 I wear glasses.
 Every six months, a check-up.
@@ -17,11 +17,11 @@ when she paused.
 
 She asked if I got headaches.
 
-I said yes, always.
+I said yes, always!
 I drink a lot of caffeine,
 I don't drink enough water,
 I have sleep problems.
-I had normalized the headaches a long time ago.
+I had normalized the headaches a long time ago...
 
 Then a second doctor came into the room.
 Then a third.
@@ -30,7 +30,8 @@ said hello to me,
 and turned back to the images.
 
 I watched all of this and told myself:
-*it's nothing.*
+* eyyy, filizco, it's nothing, do not worry about it! *
+* tabii ki böyle demedim, konuşsanıza amk diye saydırdım içimden. *
 
 One of them asked if I had numbness
 in my arms or hands.
@@ -100,7 +101,7 @@ I understood why they were reacting this way.
 They know my life.
 They know that I have navigated most of it
 without the safety net
-that most people don't even notice they have —
+that most people don't even notice they have,
 the people who are simply there,
 who you don't have to explain anything to,
 who would show up.
@@ -266,9 +267,9 @@ I was happy too.
 But I had learned something.
 
 I needed to take better care of myself.
-Everything outside of me —
+Everything outside of me,
 every obligation, every responsibility,
-every job, every person —
+every job, every person,
 was a fraction of my life.
 
 The main thing was me!
@@ -284,14 +285,14 @@ Physically, psychologically, emotionally.
 
 I kept that promise to myself for a long time.
 
-Then — being in a foreign country,
-the workload, the school, the pressure —
+Then, being in a foreign country,
+the workload, the school, the pressure,
 somewhere the thread broke again.
 Not as badly as before,
 but I still wasn't meeting all my own needs.
 
 A few weeks ago,
-my body reminded me again —
+my body reminded me again:
 iron deficiency, heavy period, heart palpitations, shortness of breath.
 
 I remembered the girl in the MRI machine
@@ -316,8 +317,8 @@ on things that move me toward
 a better version of myself.
 
 I already don't keep people around me who exhaust me.
-But the ones I've felt obligated to —
-the ones who drain me for no real reason —
+But the ones I've felt obligated to,
+the ones who drain me for no real reason,
 I'm going to give them only what's necessary.
 Nothing more.
 
