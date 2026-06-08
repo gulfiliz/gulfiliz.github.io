@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/fine-tuned-universe/";
           
         },
+      },{id: "post-the-problem-of-the-self-does-quot-you-quot-exist",
+        
+          title: "The Problem of the Self: Does &quot;You&quot; Exist?",
+        
+        description: "Hume, Parfit, Buddhism, and the unsettling possibility that nobody is home.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/problem-of-the-self/";
+          
+        },
       },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
         
           title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
