@@ -30,6 +30,7 @@ said hello to me,
 and turned back to the images.
 
 I watched all of this and told myself:
+
 *eyyy, filizco, it's nothing, do not worry about it!
 tabii ki böyle demedim, konuşsanıza amk diye saydırdım içimden.*
 
