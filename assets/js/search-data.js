@@ -62,7 +62,7 @@ ninja.data = [{
         },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
-          title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
+          title: "A Manifesto Against Pseudo-Intellectualism: On the Most Dangerous People in the Room",
         
         description: "Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.",
         section: "Posts",
