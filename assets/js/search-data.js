@@ -522,6 +522,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/chingiz-aitmatov/";
           
         },
+      },{id: "post-erotapokriseis-ii",
+        
+          title: "Erotapokriseis II",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/erotapokriseis-ii/";
+          
+        },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
         
           title: "Plato — The Cave, the Sun, and the Man Who Chose to Die...",
