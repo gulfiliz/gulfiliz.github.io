@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
-        
-          title: "Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters...",
-        
-        description: "Camus called it the only serious philosophical question. Seneca said time is the only thing that belongs to us. Both are asking the same thing from different directions.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/is-life-worth-living/";
-          
-        },
-      },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
+        },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
         
           title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
         
@@ -69,6 +58,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/against-pseudo-intellectuals/";
+          
+        },
+      },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
+        
+          title: "Is Life Worth Living? Camus, Seneca, and the Only Question That Matters",
+        
+        description: "Camus called it the only serious philosophical question. Seneca said time is the only thing that belongs to us. Both are asking the same thing from different directions.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/is-life-worth-living/";
           
         },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
