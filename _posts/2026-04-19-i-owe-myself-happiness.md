@@ -81,6 +81,9 @@ I really don’t.” But his voice, his whole energy on the phone,
 changed completely. I knew him well enough to know 
 he looked it up the moment we hung up.
 
+M was at work that day.
+I texted him the news.
+
 M called me a little later,
 after he had done his own research.
 He is deeply religious.
@@ -93,9 +96,9 @@ other people take for granted, and now this on top of everything?
 He shouldn't do this.*
 His voice broke a little.
 
-**I have had a great life. Hard, yes, but genuinely, fully great.
+**I have had a great life. Hard one, yes, but genuinely, fully great.
 If today were my last day, I would have no remorse.
-My close friends know this about me!**
+My closest friends know this about me!**
 
 I understood why they were reacting this way.
 They know my life.
@@ -137,13 +140,18 @@ but I accepted that truth a long time ago.
 
 I have always tried to live fully
 in whatever moment I am in.
-That is how my grandmother raised me.
+That is how my grandmother raised me!
+
+For the MRI, they gave me an appointment for two weeks later.
+I cannot explain how vulnerable you feel
+being far away from home
+when you are having such health problems.
 
 I was not going to sit at home for two weeks
 feeling sorry for myself.
 
-The week after the appointment,
-we bought tickets to New York.
+The week after the eye appointment,
+We bought tickets to New York.
 We flew there.
 We strolled the city, ate incredible east coast cuisine, visited every bookstore I loved
 spent hours in museums in front of paintings I love.
@@ -151,10 +159,40 @@ We stayed in Hoboken and every morning
 I woke up to the Manhattan skyline.
 
 The MS thought came back occasionally.
-If you have MS, you can collapse suddenly.
+Most of the time, I was having fun.
+NYC is the kind of city that pulls you in,
+that makes you forget.
+
+But if you have MS, you can collapse suddenly.
 That was frightening.
 But if I had MS, there was nothing I could do about it.
 I would only know when I knew.
+
+What unsettled me more
+was the fear that came into M's eyes,
+every now and then,
+when he thought I wasn't looking.
+It was chilling.
+
+I was okay with waiting.
+He was not.
+He was ready to give everything he had,
+to fly to Turkey,
+to do anything,
+to learn the truth immediately.
+
+Everyone has their test in life.
+This was his.
+
+By his thirties he had reached the C-suite,
+his life financially secured.
+
+But the woman he loved,
+and the others closest to him,
+kept dealing with problems
+money could not solve!
+
+That was, truly, his test!
 
 ---
 
@@ -293,7 +331,7 @@ but I still wasn't meeting all my own needs.
 
 A few weeks ago,
 my body reminded me again:
-iron deficiency, heavy period, heart palpitations, shortness of breath.
+iron deficiency, heavy periods, heart palpitations, shortness of breath.
 
 I remembered the girl in the MRI machine
 who held herself together for sixty minutes
@@ -323,6 +361,7 @@ I'm going to give them only what's necessary.
 Nothing more.
 
 I love myself.
+I will love myself more!
 I want to spend my life
 with the people and things
 that make me feel that.
