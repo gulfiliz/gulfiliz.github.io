@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Logical Operators, Code Degeneracy, and the Geometry of Quantum Codes"
