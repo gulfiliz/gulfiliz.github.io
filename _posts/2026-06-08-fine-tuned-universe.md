@@ -10,7 +10,7 @@ There are numbers written into the fabric of the universe.
 
 Not derived from any deeper principle.
 Not explained by any known theory.
-Simply measured.
+Simply measured!
 
 The fine structure constant:
 
@@ -36,7 +36,7 @@ not vastly different, slightly,
 the universe would contain no stars,
 no chemistry,
 no complexity,
-no life.
+no life. (Yes!)
 
 This is the **fine-tuning problem.**
 
@@ -53,7 +53,7 @@ It is either:
 (e) a pseudo-problem that dissolves under scrutiny
 
 Physicists disagree, fiercely,
-about which.
+about which. :)
 
 I will show you why all of these answers
 have something to recommend them
