@@ -51,7 +51,7 @@ ninja.data = [{
         },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
-          title: "A Manifesto Against Pseudo-Intellectualism: On the Most Dangerous People in the Room",
+          title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
         
         description: "Not a polite essay. A reckoning with the people who weaponize the appearance of knowledge while being its most committed enemies.",
         section: "Posts",
@@ -622,20 +622,6 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%67%75%6C%66%69%6C%69%7A%69%73%69%6B@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-twitter_username',
-        title: 'Twitter_username',
-        section: 'Socials',
-        handler: () => {
-          window.open("", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
