@@ -24,10 +24,12 @@ I said yes, always!
 I drink a lot of caffeine,
 I don't drink enough water,
 I have sleep problems.
+
 I had normalized the headaches a long time ago...
 
 Then a second doctor came into the room.
 Then a third.
+
 Each one looked at the screen,
 said hello to me,
 and turned back to the images.
@@ -35,6 +37,7 @@ and turned back to the images.
 I watched all of this and told myself:
 
 *eyyy, filizco, it's nothing, do not worry about it!*
+
 *tabii ki böyle demedim, konuşsanıza amk diye saydırdım içimden.*
 
 One of them asked if I had numbness
@@ -106,6 +109,7 @@ after he had done his own research.
 
 He is deeply religious.
 Faith is the center of his life.
+
 But that day he was angry (very unusual of him.)
 
 *I'm angry at God, Filiz.*
