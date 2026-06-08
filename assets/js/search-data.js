@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
+        },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
+        
+          title: "The Fine-Tuned Universe: Why the Constants Are What They Are",
+        
+        description: "The fundamental constants of nature appear to be precisely calibrated for the existence of complexity. Change any of them slightly, and the universe becomes sterile. This is either the deepest fact about reality, or the most dangerous idea in physics.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/fine-tuned-universe/";
+          
+        },
+      },{id: "post-on-an-mri-machine-a-forgotten-memory-and-the-most-important-thing-i-have-learned-about-myself",
         
           title: "On an MRI Machine, a Forgotten Memory, and the Most Important Thing I...",
         
