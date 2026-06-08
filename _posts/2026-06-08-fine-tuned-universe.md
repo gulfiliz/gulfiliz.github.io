@@ -43,9 +43,13 @@ This is the **fine-tuning problem.**
 It is either:
 
 (a) the most profound clue about the nature of reality
+
 (b) a selection effect masquerading as a deep truth
+
 (c) evidence for a multiverse
+
 (d) evidence for design
+
 (e) a pseudo-problem that dissolves under scrutiny
 
 Physicists disagree, fiercely,
