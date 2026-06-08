@@ -55,8 +55,8 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
@@ -256,7 +256,7 @@ jekyll-archives:
       tag: archive
       category: archive
 
-display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "TR" , "EN" , "readings" , "philosophy" , "physics" , "quantum" , "post-truth" , "literature" , "filizinbetween" , "justfiliz" ]
+display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "readings" , "philosophy" , "physics" , "quantum" , "post-truth" , "literature" , "erotapokriseis" , "filizinbetween" , "justfiliz" ]
 display_categories: ["2024", "2025", "2026"]
 
 # -----------------------------------------------------------------------------
