@@ -574,48 +574,39 @@ not just what I am against.
 I am for the person who reads a paper
 and asks: does this argument actually work?
 
-I am for the person who encounters a new idea
+The one who meets a new idea
 and sits with the discomfort of not yet understanding it,
-rather than immediately assimilating it
-into what they already know.
+instead of folding it into what they already know.
 
-I am for the person who changes their mind
-when the evidence changes,
-not because changing your mind is fashionable,
-but because it is what thinking requires.
+Who changes their mind when the evidence changes,
+not because it is fashionable,
+but because thinking requires it.
 
-I am for the person who says
-*I don't know* without shame,
+Who says *I don't know* without shame,
 and means it as an invitation to find out,
-not as the end of the conversation.
+not the end of the conversation.
 
-I am for the person who is more interested
-in being right
-than in appearing right.
+Who would rather be right than appear right.
 
 I am for the slow thinker,
-the person who takes years to write a book
-because the ideas required years to develop.
+the one who takes years to write a book
+because the ideas needed years to develop.
+The careful reader
+who marks the margins,
+returns to the hard passages,
+argues with the author in their head.
 
-I am for the careful reader,
-the person who reads slowly,
-who marks up the margins,
-who returns to difficult passages,
-who argues with the author in their head.
+And I am for the honest failure:
+the one who publishes the result that kills the hypothesis,
+reports the null finding,
+says we were wrong, here is what we learned.
 
-I am for the honest failure,
-the person who publishes the result that contradicts
-their hypothesis,
-who reports the null finding,
-who says: we were wrong, here is what we learned.
-
-I am for genuine intellectual humility,
-not the performed humility of the person
-who says *of course I could be wrong*
-and then proceeds as if they cannot be,
-but the lived humility of the person
-who has been wrong enough times
-to know it can always happen again.
+The humility I mean is not performed,
+not the *of course I could be wrong*
+that proceeds as if it cannot be.
+It is lived,
+earned by being wrong enough times
+to know it can happen again.
 
 This is not a low standard.
 
@@ -653,4 +644,5 @@ The pseudo-intellectual cannot afford to be...
 *Including against myself.*
 *On the days when I perform rather than think.*
 *Which is more days than I would like.*
+
 
