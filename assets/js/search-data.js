@@ -95,7 +95,7 @@ ninja.data = [{
         },
       },{id: "post-quantum-error-correction-protecting-quantum-information-from-decoherence",
         
-          title: "Quantum Error Correction — Protecting Quantum Information From Decoherence",
+          title: "Quantum Error Correction: Protecting Quantum Information From Decoherence",
         
         description: "Why quantum computers need error correction, how the stabilizer formalism works, what LDPC codes bring to the table, and the current state of fault-tolerant quantum computation.",
         section: "Posts",
