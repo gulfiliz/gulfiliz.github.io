@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters
-date: 2026-04-21
+title: "Is Life Worth Living? Camus, Seneca, and the Only Question That Matters"
+date: 2026-03-29
 description: Camus called it the only serious philosophical question. Seneca said time is the only thing that belongs to us. Both are asking the same thing from different directions.
-tags: skepsis,
+tags: skepsis, philosophy, metaxy, 
 ---
 
 My first attempt to read *The Myth of Sisyphus* was at 26.
 
 Camus opens the book with:
 
-*"There is but one truly serious philosophical problem,
-and that is suicide."*
+*"There is but one truly serious philosophical problem,*
+*and that is suicide."*
 
 I put it down after the first sentence.
 Not because it was difficult.
@@ -55,8 +55,8 @@ I knew why I was living.
 
 So, Camus again. At 35.
 
-*"There is but one truly serious philosophical problem,
-and that is suicide."*
+*"There is but one truly serious philosophical problem,*
+*and that is suicide."*
 
 This time I understood:
 it is not an invitation.
@@ -69,8 +69,8 @@ You are drifting.
 
 ---
 
-*"There is but one truly serious philosophical problem,
-and that is suicide."*
+*"There is but one truly serious philosophical problem,*
+*and that is suicide."*
 
 This is not provocation for its own sake.
 It is a precise philosophical claim,
@@ -97,7 +97,7 @@ begins at the moment you stop deferring it.
 
 ---
 
-## I. The Absurd — Precisely Defined
+## I. The Absurd, Precisely Defined
 
 Camus is often misread as a nihilist.
 He is the opposite.
@@ -122,9 +122,9 @@ when you question it.
 its total indifference
 to that demand.
 
-*"The absurd is born of the confrontation
-between the human need
-and the unreasonable silence of the world."*
+*"The absurd is born of the confrontation*
+*between the human need*
+*and the unreasonable silence of the world."*
 
 Neither term alone produces the absurd.
 A human being without the need for meaning: no absurd.
@@ -179,7 +179,7 @@ This is Camus's answer.
 
 ---
 
-## II. Sisyphus — The Argument in Image
+## II. Sisyphus, The Argument in Image
 
 Camus takes the myth of Sisyphus
 and reads it as the image of the human condition.
@@ -243,18 +243,18 @@ from the top of the hill back to the boulder.
 During the ascent: effort, engagement, the task.
 During the descent: consciousness.
 
-*"I leave Sisyphus at the foot of the mountain!
-One always finds one's burden again.
-But Sisyphus teaches the higher fidelity
-that negates the gods and raises rocks.
-He too considers things to be good.
-This universe henceforth without a master
-seems to him neither sterile nor futile.
-Each atom of that stone,
-each mineral flake of that night-filled mountain,
-in itself forms a world.
-The struggle itself toward the heights
-is enough to fill a man's heart."*
+*"I leave Sisyphus at the foot of the mountain!*
+*One always finds one's burden again.*
+*But Sisyphus teaches the higher fidelity*
+*that negates the gods and raises rocks.*
+*He too considers things to be good.*
+*This universe henceforth without a master*
+*seems to him neither sterile nor futile.*
+*Each atom of that stone,*
+*each mineral flake of that night-filled mountain,*
+*in itself forms a world.*
+*The struggle itself toward the heights*
+*is enough to fill a man's heart."*
 
 The descent is the moment of freedom,
 the moment between the futility of the top
@@ -266,7 +266,7 @@ From the need for his condition to be otherwise.
 
 ---
 
-## III. Seneca — The Urgency of Time
+## III. Seneca, The Urgency of Time
 
 Lucius Annaeus Seneca wrote
 his *Letters to Lucilius* around 65 CE,
@@ -287,8 +287,8 @@ The most important sentence:
 
 *"Omnia, Lucili, aliena sunt, tempus tantum nostrum est."*
 
-*"Everything, Lucilius, belongs to others;
-time alone is ours."*
+*"Everything, Lucilius, belongs to others;*
+*time alone is ours."*
 
 When I first read this, my reaction was:
 really? Is that all we have?
@@ -355,10 +355,14 @@ of calculating what you have,
 what you have spent,
 what remains.
 
-*"Reckon up the days of your life,
-and you will find that very few
-— and those the refuse of humanity —
-have been given to you."*
+*"Persuade tibi hoc sic esse ut scribo:*
+*quaedam tempora eripiuntur nobis,*
+*quaedam subducuntur, quaedam effluunt."*
+
+*"Convince yourself that this is true:*
+*some moments are snatched from us,*
+*some are stolen,*
+*and some slip away."*
 
 Not the days you were alive.
 The days that were genuinely yours,
@@ -453,7 +457,7 @@ aimed at the same object.
 
 ---
 
-## V. The Absurd and Time — Together
+## V. The Absurd and Time, Together
 
 Read together, Camus and Seneca
 produce a complete philosophical position.
@@ -523,7 +527,7 @@ It is the only freedom any of us has.
 
 ---
 
-## VI. The Only Serious Question — Revisited
+## VI. The Only Serious Question, Revisited
 
 Camus said there is only one serious philosophical question.
 
@@ -589,17 +593,17 @@ Different words.
 
 *Further reading:*
 
-*Camus — The Myth of Sisyphus (1942)*
-*(trans. Justin O'Brien — Vintage)*
-*— read the full essay, not just the famous lines*
+*Camus.* The Myth of Sisyphus *(1942).*
+*(trans. Justin O'Brien, Vintage).*
+*Read the full essay, not just the famous lines.*
 
-*Seneca — Letters to Lucilius (c. 65 CE)*
-*(trans. Robin Campbell — Penguin Classics)*
-*— Letters I, III, and LXXVII especially*
+*Seneca.* Letters to Lucilius *(c. 65 CE).*
+*(trans. Robin Campbell, Penguin Classics).*
+*Letters I, III, and LXXVII especially.*
 
-*Seneca — On the Shortness of Life*
-*(trans. C.D.N. Costa — Penguin Classics)*
+*Seneca.* On the Shortness of Life.
+*(trans. C.D.N. Costa, Penguin Classics).*
 
-*Matthew Sharpe — Camus, Philosophe (2015)*
+*Matthew Sharpe.* Camus, Philosophe *(2015).*
 
-*Miriam Griffin — Seneca: A Philosopher in Politics (1976)*
+*Miriam Griffin.* Seneca: A Philosopher in Politics *(1976).*
