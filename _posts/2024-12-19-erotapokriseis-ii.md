@@ -3,13 +3,19 @@ layout: post
 title: "Erotapokriseis II"
 date: 2024-12-19
 description: Reader questions, answered. 
-tags: fragmenta, EN,
+tags: erotapokriseis, 
 ---
+EN:
 
-Hello, my dear readers.
-I've written back to most of your emails,
-but I wanted to answer a few of your questions here too.
-Thank you so much for reading and feedbacks. 
+Hello, my dear readers,
+I've responded to most of your emails, but I thought I'd answer a few of your questions here as well.
+Thank you so much for reading and for your thoughtful feedback. It means a lot to me.
+
+TR:
+
+Merhaba sevgili okurlarım,
+Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
+Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
 
 ---
 
@@ -42,7 +48,7 @@ This question came in Turkish.
 
 **4) Q:** Hayat nasıl gidiyor?
 
-**A:** Tesekkür ederim.
+**A:** Teşekkür ederim.
 Yuvarlanıyoruz diyelim. :)
 
 
