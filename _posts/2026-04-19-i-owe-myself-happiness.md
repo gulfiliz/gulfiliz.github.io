@@ -31,8 +31,8 @@ and turned back to the images.
 
 I watched all of this and told myself:
 
-**eyyy, filizco, it's nothing, do not worry about it!
-tabii ki böyle demedim, konuşsanıza amk diye saydırdım içimden.**
+*eyyy, filizco, it's nothing, do not worry about it!
+tabii ki böyle demedim, konuşsanıza amk diye saydırdım içimden.*
 
 One of them asked if I had numbness
 in my arms or hands.
