@@ -73,9 +73,9 @@ ninja.data = [{
         },
       },{id: "post-seneca-on-time-death-and-the-art-of-living-before-you-die",
         
-          title: "Seneca — On Time, Death, and the Art of Living Before You Die...",
+          title: "Seneca: On Time, Death, and the Art of Living Before You Die",
         
-        description: "The most human of the Stoics — on wasted time, genuine friendship, and why we are all dying badly.",
+        description: "The most human of the Stoics. On wasted time, genuine friendship, and why we are all dying badly.",
         section: "Posts",
         handler: () => {
           
