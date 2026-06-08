@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-",
-        
-          title: "",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/2024-12-28-chingiz-aitmatov/";
-          
-        },
-      },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
+        },{id: "post-is-life-worth-living-camus-seneca-and-the-only-question-that-matters",
         
           title: "Is Life Worth Living? — Camus, Seneca, and the Only Question That Matters...",
         
@@ -520,6 +509,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/intolerance-for-superficiality/";
+          
+        },
+      },{id: "post-chingiz-aitmatov-the-writer-who-carried-a-whole-world-on-his-back",
+        
+          title: "Chingiz Aitmatov — The Writer Who Carried a Whole World on His Back...",
+        
+        description: "On the most important writer you may never have read, and why that is a loss you should correct immediately.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/chingiz-aitmatov/";
           
         },
       },{id: "post-plato-the-cave-the-sun-and-the-man-who-chose-to-die",
