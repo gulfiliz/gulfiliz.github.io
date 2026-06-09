@@ -23,14 +23,13 @@ Fragmenta’da kırıntılar, Sképsis’te sorgulanmamış doğrular, Metaxy’
 Burada gezi notlarımı, felsefe üzerine düşüncelerimi, origamiyi, Go oyununu, dolma kalemleri, araştırma günlüğümü ve okuma notlarımı bulacaksınız — hepsi tek bir yerde. 
 
 ---
-
-Hey, this is Filiz. I'm a physicist and computer scientist with a strong interest in quantum computing. I love literature, especially Russian literature. I'm also a fountain pen enthusiast and have been collecting special and limited editions since my childhood.
-I really enjoy stargazing, and I spend my time doing origami and playing Go (Igo/Baduk/Weiqi). I’m originally from the beautiful city of Izmir, Türkiye, and currently residing in Dallas.
+Hey, this is Filiz. I’m a physicist and computer scientist, originally from the beautiful city of Izmir, Türkiye, and currently residing in Dallas.
 
 This is my intellectual space.
+
 Fragments in Fragmenta, unexamined truths in Sképsis, and the in-between in Metaxy.
 
-Here you’ll find my travel notes, reflections on philosophy, origami, the game of Go, fountain pens, research logs, and reading notes — all gathered in one place.
+Here, you’ll find travel notes, philosophical reflections, origami, the game of Go, fountain pens, research logs on QFT, HEP, and quantum computing, and reading notes on Russian literature and the classics — all gathered in one place.
 
 ---
 
