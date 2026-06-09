@@ -577,6 +577,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/the-measurement-problem/";
           
         },
+      },{id: "post-erotapokriseis-i",
+        
+          title: "Erotapokriseis I",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/erotapokriseis-i/";
+          
+        },
       },{id: "post-in-defense-of-boredom-why-doing-nothing-is-the-most-radical-act-left",
         
           title: "In Defense of Boredom: Why Doing Nothing Is the Most Radical Act Left...",
