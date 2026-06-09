@@ -9,7 +9,7 @@ EN:
 
 Hello my dear readers,
 I've responded to most of your emails, but I thought I'd answer a few of your questions here as well.
-Thank you so much for reading and for your thoughtful feedback. It means a lot to me.
+Thank you so much for reading and for your thoughtful feedback. It means a lot to me. 
 
 TR:
 
