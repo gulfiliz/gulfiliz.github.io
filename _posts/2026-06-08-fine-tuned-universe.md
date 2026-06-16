@@ -798,7 +798,9 @@ and becomes something else.
 Philosophy.
 Cosmology.
 Metaphysics.
-Perhaps theology.
+Perhaps theology. 
+
+( My dear reader please, do not get mad at me. It's all because I read too much Popper! Ahahaha, fan girl Filizco!) :)
 
 The honest scientist acknowledges this edge.
 
