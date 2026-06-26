@@ -57,13 +57,14 @@ This question came in Turkish.
 ---
 
 **7) Q:** Your [Hard Problem of Consciousness]({% post_url 2025-10-11-hard-problem-consciousness %}) essay says the brain isn't enough to explain experience. Does that gap comfort you or unsettle you?
-**A:** I'm comfortable with uncertainty. I'm comfortable with scientific facts. They're not there to comfort or discomfort me.
+
+**A:** I’m comfortable with uncertainty. I’m comfortable with scientific facts. They’re not there to comfort or discomfort me. The gap is just a gap; my job is not to be soothed by it, but to look at it honestly.
 
 ---
 
 This question came in Turkish.
 
 **8) Q:** [Sartre]({% post_url 2026-01-04-sartre %}) "özgürlüğe mahkûmuz" diyor. Kötü bir günde bu özgürlük size bir armağan gibi mi geliyor, yoksa bir ceza gibi mi?
-**A:** Özgürlük ceza ya! Kendi hayatını sırtlamak dehşet büyük bir sorumluluk. Çok yorucu. Keşke bir map olsa, ya da birisi benim yerime yaşasa. Rusya'da kölelik kalktığında çoğu kişi efendisini bırakıp gitmemiş. Bunu ilk okuduğumda çok rahatsız olmuştum. Ama şu an anlıyorum. Öyle.
+**A:** Özgürlük ceza ya! Kendi hayatını sırtlamak dehşet büyük bir sorumluluk. Çok yorucu. Keşke bir map olsa, ya da birisi benim yerime yaşasa. Rusya'da serflik kalktığında çoğu kişi efendisini bırakıp gitmemiş. Bunu ilk okuduğumda çok rahatsız olmuştum. Ama şu an anlıyorum. Öyle.
 
 ---
