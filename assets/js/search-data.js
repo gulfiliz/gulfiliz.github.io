@@ -335,6 +335,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/general-relativity/";
           
         },
+      },{id: "post-erotapokriseis-vii",
+        
+          title: "Erotapokriseis VII",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/erotapokriseis-vii/";
+          
+        },
       },{id: "post-the-crisis-in-fundamental-physics-an-honest-assessment",
         
           title: "The Crisis in Fundamental Physics: An Honest Assessment",
