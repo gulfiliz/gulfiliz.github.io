@@ -44,7 +44,8 @@ This question came in Turkish.
 ---
 
 **5) Q:** Nikko got powdered sugar all over her at Café du Monde, I loved that. Honest question: is she a good travel companion or a tiny chaos agent?
-**A:** Ah, Nikko is the cutest. I'm blessed to have her. She was still a puppy back then, and she's super social, also a bit of an attention wh**e :D She kept jumping and humping on people. It was hard to travel with her.
+
+**A:** Ah, Nikko is the cutest. I’m so blessed to have her. She was still a puppy back then, and she was extremely social, also a tiny attention monster :D She wanted everyone to notice her, pet her, love her, basically worship her. So yes, she was adorable, but traveling with her was chaos.
 
 ---
 
