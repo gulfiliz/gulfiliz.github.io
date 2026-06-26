@@ -368,6 +368,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/gogol-the-overcoat/";
           
         },
+      },{id: "post-erotapokriseis-vi",
+        
+          title: "Erotapokriseis VI",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/erotapokriseis-vi/";
+          
+        },
       },{id: "post-look-up-a-letter-to-anyone-who-has-forgotten-the-sky",
         
           title: "Look Up — A Letter to Anyone Who Has Forgotten the Sky",
