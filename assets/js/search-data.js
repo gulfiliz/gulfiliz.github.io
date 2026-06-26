@@ -478,6 +478,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/america-and-its-geniuses/";
           
         },
+      },{id: "post-erotapokriseis-iii",
+        
+          title: "Erotapokriseis III",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/erotapokriseis-iii/";
+          
+        },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
         
           title: "Quantum Chromodynamics — The Violent Heart of Matter",
