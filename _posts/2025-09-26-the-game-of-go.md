@@ -212,9 +212,9 @@ A few years later, on a Go server, a French player commented *femme fatale* unde
 
 I was furious. The server showed my gender. It did not show my face or my name. Instead of commenting on the game he had something to say about me. I cursed him out. I blocked him. I walked away.
 
-He reached out through other people, weeks later. He told me he had been following my games for some time. He apologized. We talked. We came to love and respect each other deeply. He became my Go advisor, and has been for years.
+He reached out through other people, weeks later. He told me he had been following my games for some time and complimented to my unique style. He apologized. We talked. We came to love and respect each other deeply. He became my Go advisor, and has been for years.
 
-I will not name him. He hates being public. :) 
+I will not name him. He hates being public. :) Ahaha, he actually loves being the center of attention.
 (Yes, I know how that sounds. I am joking and also not joking. He is genuinely well known.)
 
 The nickname stayed. He still calls me *femme fatale*. So do my friends in France and in China.
@@ -231,13 +231,13 @@ I have kept my Go identity private. This was a decision I made with my advisor. 
 
 In Japan I am Nobara.
 
-The name was given to me by Ryo, one of my best friends, a 9p Japanese professional and (since people sometimes ask) my favorite player in the world. My name in Turkish is Gül, which means rose. In Japanese, *bara*. *No-bara* is wild rose. He said it was because I am resilient, and he called me Nobara, and it stuck. My Japanese friends still call me that.
+The name was given to me by Ryo, one of my best friends, a 9p Japanese professional and (since people sometimes ask) my favorite player in the world. My name in Turkish is Gül, which means rose. In Japanese, *bara*. *No-bara* is wild rose. He said it was because I am emotional and resilient, and he called me Nobara, and it stuck. My Japanese friends still call me that.
 
-They tell me I play like a samurai! It turns out I am only not sharp when I am writing.
+They tell me I play like a samurai! It turns out I am only not sharp when I am writing. :D
 
 I think they mean the style. I play *aji-tesuji*, the long trap, the move that does not yet look like what it is. My opponent plays comfortably, never suspecting, never tightening up. Then suddenly, in some corner of the board, every stone they have put down is gone. I do not even do this consciously most of the time. It is the way the board shapes itself for me. My opponents tend to be angry afterward.
 
-The most extraordinary game of my life was a simul in Beijing against a hundred opponents. China has Go players I had not imagined a single city could contain. I will not tell you how it went. I will only say that I was the one who walked from board to board. I was challenged by young brilliant Chinese kids! It was awesome.
+The most extraordinary game of my life was a simul in Beijing against a hundred opponents (Weiqi pupils). China has Go players I had not imagined a single city could contain. I will not tell you how it went. I will only say that I was the one who walked from board to board. I was challenged by young brilliant Chinese kids (they were super sharp!). It was awesome.
 
 ---
 
