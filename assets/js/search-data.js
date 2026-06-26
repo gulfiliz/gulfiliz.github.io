@@ -434,6 +434,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/measurement-problem-deep/";
           
         },
+      },{id: "post-erotapokriseis-iv",
+        
+          title: "Erotapokriseis IV",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/erotapokriseis-iv/";
+          
+        },
       },{id: "post-epictetus-the-slave-who-was-free",
         
           title: "Epictetus: The Slave Who Was Free",
