@@ -148,6 +148,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/visibility-over-knowledge/";
           
         },
+      },{id: "post-erotapokriseis-ix",
+        
+          title: "Erotapokriseis IX",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/erotapokriseis-ix/";
+          
+        },
       },{id: "post-the-holographic-principle-is-the-universe-a-projection",
         
           title: "The Holographic Principle: Is the Universe a Projection?",
