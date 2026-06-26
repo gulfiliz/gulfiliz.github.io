@@ -43,4 +43,5 @@ This question came in Turkish.
 
 **A:** Yanlış cevap beni hiç korkutmuyor; o zaten işin yarısı, bir gün biri düzeltir. Beni korkutan ikincisi: ömrümü güzel ama yanlış bir soruya adayıp bunu en sonda fark etmek. SUSY'ye bütün kariyerini verenler vardı. O yüzden cevaplarıma değil, sorularıma dikkat ediyorum. Yanlış tepeye tırmanmak, yavaş tırmanmaktan beterdir.
 
+
 ---
