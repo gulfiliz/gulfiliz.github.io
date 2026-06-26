@@ -203,6 +203,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/bells-theorem/";
           
         },
+      },{id: "post-erotapokriseis-viii",
+        
+          title: "Erotapokriseis VIII",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/erotapokriseis-viii/";
+          
+        },
       },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
         
           title: "Sartre: Existence Precedes Essence, and That Is Terrifying",
