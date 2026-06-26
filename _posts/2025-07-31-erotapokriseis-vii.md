@@ -32,6 +32,7 @@ Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız i
 This question came in Turkish.
 
 **3) Q:** [Gogol's Overcoat]({% post_url 2025-07-09-gogol-the-overcoat %}) yazınızda Akaki'nin içtiği değil, içmediği çayları düşündüğünüzü yazmışsınız: kendini küçülterek bir paltonun var olmasına izin veren adam. Sizi en çok yaralayanın onun düşüşü değil, "düşecek bir yeri olmaması" olduğunu söylüyorsunuz. Hiç kendinizi, sadece görülmek için bir "palto" biriktirirken yakaladınız mı?
+
 **A:** Ah, evet. Utanarak söylüyorum ama evet! Akaki'yi bu yüzden bu kadar yakından tanıyorum; bazen ben de görülmek için bir palto diktim. Tek farkımız şu: benim düşecek bir yerim vardı, onun yoktu. Asıl mesele de bu zaten. Bazılarımız palto kaybedince üşür, bazılarımız yok olur.
 
 ---
@@ -39,5 +40,7 @@ This question came in Turkish.
 This question came in Turkish.
 
 **4) Q:** [The Crisis in Fundamental Physics]({% post_url 2025-07-13-crisis-in-physics %}) yazınızda "asıl kriz yanlış teorilere sahip olmamız değil; doğru soruları henüz bulamamış olmamız" diyorsunuz. Bir araştırmacı olarak sizi daha çok ne korkutuyor: yanlış cevabı vermek mi, yoksa hayatınızı yanlış soruya adadığınızı çok geç fark etmek mi?
+
 **A:** Yanlış cevap beni hiç korkutmuyor; o zaten işin yarısı, bir gün biri düzeltir. Beni korkutan ikincisi: ömrümü güzel ama yanlış bir soruya adayıp bunu en sonda fark etmek. SUSY'ye bütün kariyerini verenler vardı. O yüzden cevaplarıma değil, sorularıma dikkat ediyorum. Yanlış tepeye tırmanmak, yavaş tırmanmaktan beterdir.
+
 ---
