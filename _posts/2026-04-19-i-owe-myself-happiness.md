@@ -6,13 +6,18 @@ description: I owe myself happiness. This is how I learned that.
 tags: justfiliz, 
 ---
 
+---
+layout: post
+title: On an MRI Machine, a Forgotten Memory, and the Most Important Thing I Have Learned About Myself
+date: 2026-04-19
+description: I owe myself happiness. This is how I learned that.
+tags: justfiliz, 
+---
+
 Three years ago I went to a routine eye appointment.
 
 I wear glasses.
-
-Every six months, a check-up.
-
-Nothing special.
+Every six months, a check-up. Nothing special.
 
 The doctor was looking
 at medical images of my retina
@@ -27,8 +32,7 @@ I have sleep problems.
 
 I had normalized the headaches a long time ago...
 
-Then a second doctor came into the room.
-Then a third.
+Then a second doctor came into the room. Then a third.
 
 Each one looked at the screen,
 said hello to me,
@@ -43,8 +47,7 @@ I watched all of this and told myself:
 One of them asked if I had numbness
 in my arms or hands.
 
-I said yes, actually.
-I did.
+I said yes, actually. I did.
 
 They spoke quietly among themselves.
 Then they told me:
@@ -70,9 +73,7 @@ When I grew up
 and she was no longer with me,
 I kept the habit.
 
-Find a crowded place first.
-Let your mind settle.
-Then go home.
+Find a crowded place first. Let your mind settle. Then go home.
 
 I sat in the café
 and looked up
@@ -83,9 +84,9 @@ Multiple sclerosis.
 
 I sat with that for a while.
 
-Then, I called my closest friends:
+Then I called my closest friends.
 
-My friend, N, started crying almost immediately.
+My friend N started crying almost immediately.
 
 *Life is so unfair, Filiz.*
 *This is so unfair.*
@@ -101,8 +102,7 @@ changed completely.
 I knew him well enough to know
 he looked it up the moment we hung up.
 
-M was at work that day.
-I texted him the news.
+M was at work that day. I texted him the news.
 
 M called me a little later,
 after he had done his own research.
@@ -110,13 +110,13 @@ after he had done his own research.
 He is deeply religious.
 Faith is the center of his life.
 
-But that day he was angry (very unusual of him.)
+But that day he was angry (very unusual of him).
 
 *I'm angry at God, Filiz.*
 *He hasn't given you things*
 *other people take for granted,*
 *and now this on top of everything?*
-*He shouldn't do this.*
+*He shouldn't do this!*
 
 His voice broke a little.
 
@@ -124,8 +124,10 @@ His voice broke a little.
 **Hard one, yes,**
 **but genuinely, fully great.**
 
+**I traveled the most beautiful places on earth, tasted the foods I wanted to try, always blessed with the best people. Ben dünyada olduğum için her zaman çok mutluydum!**
+
 **If today were my last day,**
-**I would have no remorse.**
+**I would have no remorse about myself!**
 
 **My closest friends know this about me!**
 
@@ -146,8 +148,7 @@ And they were frightened
 for someone who has already
 carried more than her share.
 
-I listened to all of them.
-I told them it would be okay.
+I listened to all of them. I told them it would be okay.
 I didn't know yet if that was true,
 but it felt like the right thing to say.
 
@@ -158,18 +159,11 @@ on the other side of the equation.
 The one doing the reassuring,
 not the one being reassured.
 
-I didn't mind.
-That is just how I am built.
+I didn't mind. That is just how I am built.
 
 But I also knew, somewhere,
 that I needed to be as careful with myself
 as my friends were being with me.
-
-I am sensitive, yes.
-And deeply emotional.
-
-But I am also incredibly strong.
-More resilient than most people know.
 
 I may never fully come to terms
 with how unfair life is,
@@ -180,6 +174,8 @@ in whatever moment I am in.
 
 That is how my grandmother raised me!
 
+---
+
 For the MRI,
 they gave me an appointment for two weeks later.
 
@@ -189,14 +185,13 @@ being far away from home
 when you are having such health problems.
 
 I was not going to sit at home for two weeks
-feeling sorry for myself.
+feeling sorry for myself! Not for Filizko! :)
 
 The week after the eye appointment,
-we bought tickets to New York.
-We flew there.
+we bought tickets to New York. We flew there.
 
 We strolled the city,
-ate incredible east coast cuisine,
+ate incredible East Coast cuisine,
 visited every bookstore I loved,
 spent hours in museums
 in front of paintings I love.
@@ -212,8 +207,7 @@ that makes you forget.
 
 The MS thought came back occasionally.
 
-If you have MS, you can collapse suddenly.
-That was frightening.
+If you have MS, you can collapse suddenly. That was frightening.
 But if I had MS, there was nothing I could do about it.
 I would only know when I knew.
 
@@ -224,27 +218,12 @@ when he thought I wasn't looking.
 
 It was chilling.
 
-I was okay with waiting.
-He was not.
+I was okay with waiting. He was not!
 
-He was ready to give everything he had,
-to fly to Turkey,
-to do anything,
-to learn the truth immediately.
+He was ready to do anything,
+to learn the truth immediately...
 
-Everyone has their test in life.
-This was his.
-
-By his thirties
-he had reached the C-suite,
-his life financially secured.
-
-But the woman he loved,
-and the others closest to him,
-kept dealing with problems
-money could not solve!
-
-That was, truly, his test!
+He was in NYC with me, but his brain had no break until exam day!
 
 ---
 
@@ -277,14 +256,13 @@ The technician said:
 I really couldn't.
 My heart was trying to leave my chest.
 
-It's a terrible machine,
-it makes terrible sounds
+It's a terrible machine, it makes terrible sounds
 and you cannot move at all.
 
 But I genuinely needed to know.
 Whether I had MS or not.
 
-The uncertainty was one thing,
+The uncertainty was one thing.
 I can tolerate uncertainty.
 But this uncertainty was different.
 
@@ -308,8 +286,7 @@ My heart was beating loud enough
 to feel in my chest
 for the first four or five minutes.
 
-And then, from somewhere,
-a memory came.
+And then, from somewhere, a memory came.
 
 Something I hadn't thought about
 in twenty-four years.
@@ -327,14 +304,13 @@ then operated,
 removed the bad things.
 
 She had serious heart problems
-and had gone through open heart surgery.
+and had gone through open-heart surgery.
 
 I asked: *Weren't you scared? In the closed machine?*
 
 She said:
 *I was scared.*
-*But then I thought of you,*
-*and it passed.*
+*But then I thought of you, and it passed.*
 
 That memory came to me in the machine.
 
@@ -358,9 +334,11 @@ The technician said:
 
 A few weeks passed.
 
+I did not pray to God. I do not know, I just could not...
+
 Then the results came in.
 
-It was not MS!!!
+It was not MS!!! (Yesss beeeh!!!)
 
 It was something called pseudotumor cerebri.
 
@@ -368,11 +346,9 @@ Hypothyroidism and extra weight
 were putting pressure on my spine.
 
 Not even a real tumor.
-There was treatment.
-There was a solution.
+There was treatment. There was a solution.
 
-Everyone was very happy.
-I was happy too.
+Everyone was very happy. I was happy too.
 
 But I had learned something.
 
@@ -396,16 +372,12 @@ always taken on more than I should.
 But this moment was clear:
 I needed to take care of myself.
 
-Physically.
-Psychologically.
-Emotionally.
+Physically. Psychologically. Emotionally.
 
 I kept that promise to myself for a long time.
 
 Then, being in a foreign country,
-the workload,
-the school,
-the pressure,
+the workload, the school, the pressure,
 somewhere the thread broke again.
 
 Not as badly as before,
@@ -435,9 +407,14 @@ so she could learn the truth.
 ---
 
 I don't want my body to have to remind me again.
+And honestly, I do not know whether I am lucky enough to be reminded again.
+Not everyone has that chance, right?
 
-Everything else can wait.
-Everyone else can wait.
+I am grateful to God for those reminders.
+
+So..
+
+Everything else can wait. Everyone else can wait.
 
 I am only going to spend my energy
 on things that make me happy,
@@ -470,4 +447,3 @@ that aren't already moving toward me.
 **And I intend to pay it.**
 
 ---
-
