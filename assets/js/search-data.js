@@ -379,6 +379,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/special-relativity/";
           
         },
+      },{id: "post-erotapokriseis-v",
+        
+          title: "Erotapokriseis V",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/erotapokriseis-v/";
+          
+        },
       },{id: "post-geometry-let-no-one-ignorant-of-geometry-enter",
         
           title: "Geometry: Let No One Ignorant of Geometry Enter",
