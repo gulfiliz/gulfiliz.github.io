@@ -6,14 +6,6 @@ description: I owe myself happiness. This is how I learned that.
 tags: justfiliz, 
 ---
 
----
-layout: post
-title: On an MRI Machine, a Forgotten Memory, and the Most Important Thing I Have Learned About Myself
-date: 2026-04-19
-description: I owe myself happiness. This is how I learned that.
-tags: justfiliz, 
----
-
 Three years ago I went to a routine eye appointment.
 
 I wear glasses.
@@ -58,6 +50,8 @@ An MRI would be a good idea.
 I tried to get more information.
 They said there could be many causes.
 The MRI would tell us more.
+
+---
 
 I walked out of the office
 and went directly to a café.
@@ -124,7 +118,10 @@ His voice broke a little.
 **Hard one, yes,**
 **but genuinely, fully great.**
 
-**I traveled the most beautiful places on earth, tasted the foods I wanted to try, always blessed with the best people. Ben dünyada olduğum için her zaman çok mutluydum!**
+**I traveled the most beautiful places on earth, 
+tasted the foods I wanted to try, always blessed with 
+the best people. 
+Ben dünyada olduğum için her zaman çok mutluydum!**
 
 **If today were my last day,**
 **I would have no remorse about myself!**
