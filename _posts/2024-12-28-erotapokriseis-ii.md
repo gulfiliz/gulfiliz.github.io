@@ -26,17 +26,27 @@ I'm going to drag him through the mud in my essay on nepotism, ahaha. Wait for i
 
 ---
 
-**2) Q:** In your essay on [the measurement problem]({% post_url 2024-11-09-the-measurement-problem %}), you wrote about decoherence as though it were something mystical. Why?
+**2) Q:** How’s Dallas been treating you? Do you have any favorite restaurants there?
+
+**A:** Dallas is treating me… warmly. Maybe a little too warmly. :)
+
+I’m originally from İzmir, so I still miss the sea, Urla, and that feeling of being close to the water. Dallas is very different from that, and the heat can be a bit much for me. But I’m slowly making peace with it. My weekdays are usually very busy with school and work, so I don’t always get to enjoy the city as much as I’d like.
+
+Weekends are better. I try to spend time with people I love and go out to places that make me happy. I don’t know if I have one single favorite restaurant, but I usually enjoy Japanese ( Kura Sushi, Coco Ichibanya), Korean (Manna BBQ, bb.q Chicken (I'm in love with their Gangnam and Cheesling wings)), and some Mediterranean places. 
+
+---
+
+**3) Q:** In your essay on What is the measurement problem? [the measurement problem]({% post_url 2024-11-09-the-measurement-problem %}), you wrote about decoherence as though it were something mystical. Why?
 
 **A:** The title of that essay is not "What is the measurement problem?"
 It is "What does it mean to measure something?"
-I'd suggest reading it again.
+I'd suggest reading it again, answer is there :) 
 
 ---
 
 This question came in Turkish.
 
-**3) Q:** Cengiz Aytmatov'un Cengiz Han'a Küsen Bulut kitabını okudunuz mu? Okumadıysanız kesin tavsiye.
+**4) Q:** Cengiz Aytmatov'un Cengiz Han'a Küsen Bulut kitabını okudunuz mu? Okumadıysanız kesin tavsiye.
 
 **A:** Ah, elbette okudum! Yazımda sadece birkaç eserinden bahsetmek zorunda kaldım çok uzun olmaması adına. 
 Mesela Selvi Boylum Al Yazmalım bile bir blog yazısı hak ediyor kendi başına. Çok sevgiler.
@@ -46,7 +56,7 @@ Mesela Selvi Boylum Al Yazmalım bile bir blog yazısı hak ediyor kendi başın
 
 This question came in Turkish.
 
-**4) Q:** Hayat nasıl gidiyor?
+**5) Q:** Hayat nasıl gidiyor?
 
 **A:** Teşekkür ederim.
 Yuvarlanıyoruz diyelim. :)
