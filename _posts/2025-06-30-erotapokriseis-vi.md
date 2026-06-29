@@ -45,3 +45,28 @@ This question came in Turkish.
 **A:** Yetiyor, hem de fazlasıyla. Post-truth gerçekliği tartışmalı kıldı, ama o ışık tartışmaya girmiyor ki; iznini istemeden gözüne çarpıyor. Ekran bize bir şey gösterir, gökyüzü bize çarpar. Farkı da bu: simülasyon bizi izleyici yapar, Andromeda ise şahit. 2,5 milyon yıl yol gelmiş bir foton karşısında insan numara yapamıyor. İyi ki de yapamıyor aslında.
 
 ---
+
+**5) Q:** Are you in a relationship? I am curious about your love life.
+
+**A:** I have to admit, I find this question a little funny and trivial! After all these posts, this is what you are curious about? :)
+I understand the curiosity, but I do not really like sharing my private life on social media, on my blog, or on the internet in general. Some parts of life should remain unlabeled, unposted, and unperformed.
+
+So, respectfully, I will keep that to myself!
+
+---
+
+**6) Q:** What is something you simply cannot tolerate in life?
+
+**A:** Cruelty disguised as intelligence.
+I cannot tolerate people who mistake being harsh for being honest, or being cynical for being intelligent. There is a particular kind of person who thinks kindness is naïve, humility is weakness, and sensitivity is something to be mocked. I find that unbearable. I also cannot tolerate vulgarity of character, not in the superficial sense but the deeper kind: people who humiliate others, who perform their status, who speak without grace, who turn every room into a stage for their ego. Life is already difficult enough. I do not want to be around people who make it uglier on purpose.
+
+And one more thing, quieter but just as intolerable to me: evasion of honesty disguised as comfort. I cannot stand the kind of reassurance that softens a structural problem instead of naming it, the "it's going fine" that withholds rather than reveals. When something is broken, I would rather be told plainly than be protected from the truth. I prefer analysis to reassurance, and I find it hard to trust warmth that comes at the cost of honesty. Being shielded from reality, even out of kindness, feels to me like a quiet form of disrespect, both to me and to the truth itself. If you care about someone, you tell them what is actually wrong. Comfort that requires omission is not comfort; it is avoidance wearing a gentler face.
+
+---
+
+**7) Q:** Is home a place for you, or more of a feeling?
+
+**A:** This question looks like a cliché, but it really isn't. Thank you for asking it. And I think I might be one of the most objective people you could come across in trying to answer it, because of where I'm standing.
+My answer is this. Home used to be a specific place for me. It was Urla, it was İzmir. Then I lost my grandmother, and now I'm in Dallas. While I'm far away, an illusion forms in me, maybe a defense mechanism: that she is still alive, still there in İzmir. But every time I actually go back to İzmir, it hurts so much. I feel such disappointment, because I see that she isn't there anymore. So that place isn't my home either. When I'm there, I can't bring myself to miss Dallas, but the place I'm in now isn't home the way it used to be either.
+I think home is definitely a feeling. Wherever the person you love, the person you love most, happens to be, that is where your home is. Once that person is gone, the place loses its old meaning.
+That's just how it is...
