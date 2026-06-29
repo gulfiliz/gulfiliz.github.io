@@ -78,5 +78,7 @@ Levin, not because I resemble him completely, but because I understand that rest
 
 So perhaps the honest answer is this: my mind is often with Ivan, my longing is with Levin, and my heart would like to become a little more like Alyosha. 
 
-Thank you again, hugs!
+Thank you again, hugs! 
+
+
 
