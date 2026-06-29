@@ -38,6 +38,8 @@ This question came in Turkish.
 
 **A:** Twitching. :)
 
+P.S. I responded him the long version.
+
 ---
 
 This question came in Turkish.
@@ -61,3 +63,7 @@ This question came in Turkish.
 **A:** Ay, bunu cevaplamak çok zor. Fizik benim yumuşak karnım. Hepsi önemli, hepsi vay be. :D :D Ama silah zoruyla bir tane seçtirseniz: Bell teoremi. Evrenin yerel olmadığının kanıtlanmış olması içimi hâlâ bi şey ediyor. Ne bilmiyorum! :)
 
 ---
+
+**7) Q:** Where do you place yourself between science and literature?
+
+**A:** 
