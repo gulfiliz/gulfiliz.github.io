@@ -38,3 +38,13 @@ Ayrıca, Poe geç anlaşıldı ama hiç eğilmeden yazdı; korkulacak şey eğil
 
 ---
 
+**4) Q:** What quality do you value most in people?
+
+**A:** **A:** Maturity and humility.
+
+I like grounded people. Substantial people. People who have a certain weight to them, not in a performative way, but in the way they carry themselves. People often say that communication is the most important thing: open communication, honesty, saying things clearly. And yes, of course, all of that matters. But I think two people can only really meet each other if they have a similar level of maturity. If you are not standing on the same emotional ground, even honesty becomes difficult. Open communication does not save you. Good intentions get wasted. If you asked me what the people I love and value most have in common, I would probably say this: they are mature in a similar way. They know how to listen. They know when to speak. They do not turn every disagreement into a wound or every silence into an insult. There is a steadiness in them that makes life easier.
+
+The other thing is humility. We all come from different backgrounds, different families, different chances, different kinds of luck. The things we have in life should not be sold as personal virtues. They should be things we are grateful for. The moment someone starts performing their money, their car, their degree, their title, I lose interest. I do not need to know that person further. They still have a long way to go in life. I like people who are humble, who know how to sit among people, how to speak with respect, how not to make themselves the center of every room. The funny thing is, my own humility is often misunderstood. People sometimes read my warmth as romantic interest, or they mistake my gentleness for weakness. Some men, especially, think that because I am kind and warm, I must be in love with them. Others think they can underestimate me. But hell no, cicimmm :). That is my quality. It has nothing to do with you.
+
+
+
