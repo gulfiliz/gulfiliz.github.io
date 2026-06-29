@@ -86,3 +86,10 @@ With much love.
 
 **A:** I allow myself to fail! This may sound simple, but it took me a long time to learn. I do not owe anyone constant success. I do not owe anyone a perfect version of myself. I do not owe the world a life without mistakes. Failure hurts, of course. I am not pretending that I am always graceful about it. I am human, after all. Sometimes I cry, sometimes I get angry with myself, sometimes I feel ashamed. Sometimes it really does feel as if everything is over, as if one mistake has swallowed the whole future. But after a while, I try to return to the work itself. I ask what can be learned, what can be repaired, and what must simply be endured. I think failure becomes unbearable only when we turn it into identity. Failing at something does not mean I am a failure. It only means I tried something difficult, and this time it did not work. So I let myself fail. I let it hurt. And then I continue. Quietly, stubbornly, without making a tragedy out of being human.
 
+---
+
+**11) Q:** What does a typical Sunday morning look like for you?
+
+**A:** I try to get out of the house as fast as I can, otherwise I just rot at home. If I'm on my own, I grab my book and head straight to Starbucks, bagel and coffee, and start the day quickly. If I'm with people, on Sundays I prefer going to Eggsellent Cafe (I lived in Carrollton for 4 years and this cafe was near my home, now I moved to Plano but still go there for breakfast!) for a nice breakfast, and sometimes I go with my Turkish friends to places where we can have a proper Turkish breakfast. The point is just to get out of the house. Then I come home and pick up my day where I left off. But if I don't leave the house, Sunday usually goes by empty for me, and I really don't like that.
+
+---
