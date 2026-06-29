@@ -54,6 +54,8 @@ This reader sent a long email; I'll try to relay the question as closely as I ca
 
 **A:** Structure.
 
+P.S. I gave her the long answer in the email.
+
 ---
 
 **7) Q:** You folded a crane for everyone you love and left them with Sadako in Hiroshima. Will you write on Hiroshima?
@@ -70,7 +72,7 @@ This reader sent a long email; I'll try to relay the question as closely as I ca
 
 **9) Q:** You celebrate the flaneur and "purposeless presence," yet you've confessed you can't sit idle for twenty seconds and that boş durma is a curse. Aren't you more American than you'd like to admit?
 
-**A:** Ah, I can be neither American nor flaneur. I'm always in the metaxy!
+**A:** Ah, Filizko can be neither American nor flaneur. I'm always in the metaxy!
 
 ---
 
@@ -82,7 +84,7 @@ This reader sent a long email; I'll try to relay the question as closely as I ca
 
 **11) Q:** Your whole blog demands depth from its reader. Is the blog itself a filter, a way of only meeting people who pass the test before they ever reach you?
 
-**A:** Ah, not at all. I can meet you at whatever depth you want. But getting here was painful. My whole life went by like a teenager's. Filtre miltre yok, bam bam bam! :)
+**A:** Ah, not at all. I can meet you at whatever depth you want. But getting here was painful. My whole life went by like a teenager's. Filtre miltre yok, bam bam bam! :) 
 
 ---
 
@@ -93,3 +95,19 @@ This reader sent a long email; I'll try to relay the question as closely as I ca
 Edit 2025/03/19: Found it! Ink, of all things. I switched to an iron-gall ink that keeps changing color for days after it dries, darkening as it oxidizes. Watching a finished page keep changing without me did something quiet to my idea of "finished." I now distrust the word. Cheers! :) 
 
 ---
+
+This question came in Turkish, and the reader is asking me to marry him. I may be the first woman to receive a proposal through a blog.
+
+**13) Q:** Evlen benimle!
+
+**A:** Çok şekersiniz. Neyimden böyle hoşlandınız bilemedim ama tahmin ettiğiniz kişi olmayabilirim. Sevgiler. :)
+
+---
+
+This question came in Turkish.
+
+**14) Q:** Bu kadar okumak ve derin düşünmek özel hayatınızda sorun çıkartmıyor mu?
+
+**A:** Çok güzel bir soru bu. Çok teşekkür ederim.
+
+İstediğim kadar kitap okuyamıyorum, çoğu okumam gençlikten. Yani çok okuyan birisi miyim emin değilim. Derin düşünüyor muyum onu da bilmiyorum. Etrafımda sevdiğim ve çok değer verdiğim insanlar var ve bu kişiler tarafından da çok sevdildiğimi ve değerli görüldüğümü biliyorum, sağ olsunlar. Yani olduğum halimle kabul ediliyorum, kimseden de kendimin aynısını asla beklemiyorum. Küçük circle, belki de beni koruyan şey. Sorunuzu cevaplayabildim mi bilemiyorum. Çok sevgiler.
