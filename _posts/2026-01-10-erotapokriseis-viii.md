@@ -20,7 +20,10 @@ Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız i
 ---
 
 **1) Q:** Small question, but I'm curious: what are you writing all these essays with? Which pen, which ink?
+
 **A:** Thank you so much, this is a very sweet question. I have a notebook in which I write essays like these, and the name of my notebook is: fragmenta-sképsis-metaxy :) I usually love writing with a fountain pen. But these essays, of course, I write on my computer. I don't transfer them from the notebook to the computer; I sit down and write. Love!
+
+These days I write in my journal with my Meisterstück, F nib, Pilot Iroshizuku Ajisai, that soft hydrangea blue, in a Rhodia notebook. Cheers!
 
 ---
 
@@ -68,3 +71,18 @@ This question came in Turkish.
 **A:** Özgürlük ceza ya! Kendi hayatını sırtlamak dehşet büyük bir sorumluluk. Çok yorucu. Keşke bir map olsa, ya da birisi benim yerime yaşasa. Rusya'da serflik kalktığında çoğu kişi efendisini bırakıp gitmemiş. Bunu ilk okuduğumda çok rahatsız olmuştum. Ama şu an anlıyorum. Öyle.
 
 ---
+
+**9) Q:** When are you happiest?
+
+**A:** One day I'll come back to this question and really answer it.
+I've been fighting hypothyroidism for a long time now. Every period I lose an incredible amount of blood, and I'm severely anemic. I can't think the way I used to. I'm not sharp. My hormones are completely upside down. I don't even have the energy to be happy. The anemia keeps me from sleeping, my body never gets to rest. I can't remember the last time I was truly happy. Happiness seems to get shorter as you get older. I'm so tired. This turned into venting, I know.
+I'm very sick right now. But believe me, I'm someone who finds happiness in small things. A tiny kawaii stationery item. A pen that writes beautifully. My dog curling up closer to me at night. Someone I love holding me tightly, and knowing that in that moment I can finally put down the mask of being strong.
+I haven't answered your question, but I hope one day I will. Tired, sleepless, anemic, and brain-fogged.
+With much love.
+
+---
+
+**10) Q:** How do you deal with failure?
+
+**A:** I allow myself to fail! This may sound simple, but it took me a long time to learn. I do not owe anyone constant success. I do not owe anyone a perfect version of myself. I do not owe the world a life without mistakes. Failure hurts, of course. I am not pretending that I am always graceful about it. I am human, after all. Sometimes I cry, sometimes I get angry with myself, sometimes I feel ashamed. Sometimes it really does feel as if everything is over, as if one mistake has swallowed the whole future. But after a while, I try to return to the work itself. I ask what can be learned, what can be repaired, and what must simply be endured. I think failure becomes unbearable only when we turn it into identity. Failing at something does not mean I am a failure. It only means I tried something difficult, and this time it did not work. So I let myself fail. I let it hurt. And then I continue. Quietly, stubbornly, without making a tragedy out of being human.
+
