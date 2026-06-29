@@ -66,4 +66,8 @@ This question came in Turkish.
 
 **7) Q:** Where do you place yourself between science and literature?
 
-**A:** 
+**A:**  I don't think I have to place myself between them. That framing assumes they sit on opposite ends of something, and I've never felt that. For me they are two faces of the same impulse: the wish to see the world clearly, without pretense. 
+
+Science answers "how." The mechanism, the measurable. Literature answers what it is actually like, what living from the inside feels like. A scientific law can tell me the truth, but it cannot tell me what it was to lose my grandmother. Ivan Karamazov's question doesn't get solved in any equation. I carry both because neither is enough on its own. Physics gives me the structure of the world; literature gives me what it means to live inside that structure. And maybe the part I love most: both are looking at the same thing. Seeing why a cyclotomic structure breaks symmetry at exactly that point, and seeing why a Chekhov story aches at exactly that sentence, feel to me like the same kind of understanding. Noticing the pattern beneath the surface. It isn't a coincidence that Zhivago is both a doctor and a poet. Those two are the same person's attention, turned in different directions.
+So I don't choose. Science tells me how the world works, literature tells me what it is like to be in it. Without one, the other would stay incomplete.
+That's just how it is. :)
