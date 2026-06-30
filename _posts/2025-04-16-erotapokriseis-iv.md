@@ -46,5 +46,49 @@ I like grounded people. Substantial people. People who have a certain weight to 
 
 The other thing is humility. We all come from different backgrounds, different families, different chances, different kinds of luck. The things we have in life should not be sold as personal virtues. They should be things we are grateful for. The moment someone starts performing their money, their car, their degree, their title, I lose interest. I do not need to know that person further. They still have a long way to go in life. I like people who are humble, who know how to sit among people, how to speak with respect, how not to make themselves the center of every room. The funny thing is, my own humility is often misunderstood. People sometimes read my warmth as romantic interest, or they mistake my gentleness for weakness. Some men, especially, think that because I am kind and warm, I must be in love with them. Others think they can underestimate me. But hell no, cicimmm :). That is my quality. It has nothing to do with you.
 
+---
 
+**5) Q:** What quality of yours are you most proud of?
 
+**A:** This is a beautiful question. I will try to answer it without sounding arrogant.
+
+I think the quality I am most proud of is my self-respect, and the fact that it remains intact no matter who is in front of me, what I feel, or how much I care. For example, I can love someone deeply. I can be willing to do almost anything for the people I love. I am not afraid of effort, loyalty, or sacrifice. But my self-respect is non-negotiable. That is the line. 
+
+I know this may sound like a cliché, because everyone likes to think they have self-respect. But for me, self-respect is not something I talk about only when life is easy. It is something that has to work when I am hurt, attached, tempted, or heartbroken.
+
+If I part ways with a friend/partner, for example, I do not stalk them. I do not keep looking back. I do not say this because I never feel the desire to look. Of course I do. I am human! But I know how to stop myself. I may feel the impulse, but I do not obey every impulse. My will is stronger than my curiosity, my longing, and sometimes even my sadness.
+I have a very strong will. Very strong!
+
+---
+
+**6) Q:** What tiny etiquette rule matters a lot to you?
+
+**A:** I will answer this one as a woman.
+
+I care a lot about whether someone knows how to behave in the presence of a woman. How they sit, how they speak, how much space they take, how they use their hands, whether they make lazy sexist comments or assumptions about her background — these things matter to me. For example, stretching your legs toward a woman, sitting across from her with your legs spread open, flossing your teeth in front of her, or speaking to her with a kind of careless familiarity is not charming. I am not your mother or your sister. The fact that we work in the same place, study at the same school, or belong to the same interest group does not exempt you from basic manners.
+
+I also find it deeply unattractive when men assume that every woman will automatically be impressed by their education, money, title, or status. That kind of confidence does not look powerful to me. It looks a little pathetic. Not in an old-fashioned, performative way. I do not need theater. I just appreciate basic grace, respect, and composure.
+
+---
+
+**7) Q:** What do people usually assume about you that is wrong?
+
+**A:** People usually assume that I am very serious and difficult to approach.
+
+I think I may look a little intimidating from the outside, especially when I am quiet or focused. But once people get to know me, they usually realize that I am much warmer, funnier, and more playful than they expected. I have heard some version of “Oh, you are actually so much fun” many times. :)
+
+---
+
+**8) Q:** Does knowledge make a person better, or only more alone?
+
+**A:** Knowledge only makes a person informed! That is all! 
+
+It does not automatically make you kinder, wiser, humbler, or more decent. It only gives you information. What you do with that information is a matter of character.
+
+---
+
+**9) Q:** What is your faith?
+
+**A:** This is a private question, and I do not think the answer really matters that much. Perhaps the better question is whether I believe in God or not. Yes, I believe in God. Whether the God I believe in is exactly the same God everyone else has in mind, I am not entirely sure. But perhaps that is true for most of us. With love. :)
+
+---
