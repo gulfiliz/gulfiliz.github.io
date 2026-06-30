@@ -579,7 +579,7 @@ ninja.data = [{
         },
       },{id: "post-nikko-i-adopted-a-shiba-inu",
         
-          title: "Nikko - I adopted a Shiba Inu.",
+          title: "Nikko — I adopted a Shiba Inu :)",
         
         description: "I adopted a Shiba Inu.",
         section: "Posts",
