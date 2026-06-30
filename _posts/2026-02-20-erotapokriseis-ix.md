@@ -71,3 +71,22 @@ This question came in Turkish.
 Science answers "how." The mechanism, the measurable. Literature answers what it is actually like, what living from the inside feels like. A scientific law can tell me the truth, but it cannot tell me what it was to lose my grandmother. Ivan Karamazov's question doesn't get solved in any equation. I carry both because neither is enough on its own. Physics gives me the structure of the world; literature gives me what it means to live inside that structure. And maybe the part I love most: both are looking at the same thing. Seeing why a cyclotomic structure breaks symmetry at exactly that point, and seeing why a Chekhov story aches at exactly that sentence, feel to me like the same kind of understanding. Noticing the pattern beneath the surface. It isn't a coincidence that Zhivago is both a doctor and a poet. Those two are the same person's attention, turned in different directions.
 So I don't choose. Science tells me how the world works, literature tells me what it is like to be in it. Without one, the other would stay incomplete.
 That's just how it is. :)
+
+---
+
+**8) Q:** What do you admit you have terrible taste in?
+
+**A:** Ahahah, what a cute question. When I came to America I noticed something: everyone decorates everything so beautifully. I absolutely don't get home decor. I'm hopeless at it. So when I bought my first place, I didn't get any knick-knacks or decorations. Let's just say it might be the most minimalist home in the world. As an excuse, I get to go "oh those just collect dust, I'm a minimalist." It's not like I don't try when no one's around, but no, it never works, nothing ever looks right. Even the walls are bare. :) That's just how I am, what can I do.
+
+---
+
+**9) Q:** What is the most attractive intellectual quality?
+
+**A:** Intellectual humility.
+
+I find it very attractive when someone is intelligent enough to think deeply, but humble enough to know that intelligence does not make them superior. I like people who can say “I don’t know” without feeling diminished by it. For me, the most attractive intellectual quality is not having read the most books, knowing the most theories, or winning every argument. It is the ability to remain serious, curious, and honest in front of truth. I do not like performative intelligence. I do not like people who use knowledge to humiliate others, decorate their ego, or make every conversation a competition. That kind of intelligence feels vulgar to me.
+
+What I admire is quieter: someone who thinks carefully, listens carefully, changes their mind when necessary, and does not need to turn every thought into a performance. A beautiful mind, for me, is not only sharp. It is also disciplined, generous, and humble.
+
+---
+
