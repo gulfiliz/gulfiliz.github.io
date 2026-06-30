@@ -566,6 +566,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/erotapokriseis-iii/";
           
         },
+      },{id: "post-nikko",
+        
+          title: "Nikko",
+        
+        description: "I adopted a Shiba Inu.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/nikko/";
+          
+        },
       },{id: "post-quantum-chromodynamics-the-violent-heart-of-matter",
         
           title: "Quantum Chromodynamics — The Violent Heart of Matter",
