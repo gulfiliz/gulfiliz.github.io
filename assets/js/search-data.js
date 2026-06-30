@@ -577,9 +577,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/erotapokriseis-iii/";
           
         },
-      },{id: "post-nikko",
+      },{id: "post-nikko-i-adopted-a-shiba-inu",
         
-          title: "Nikko",
+          title: "Nikko - I adopted a Shiba Inu.",
         
         description: "I adopted a Shiba Inu.",
         section: "Posts",
