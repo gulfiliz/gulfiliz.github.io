@@ -225,9 +225,9 @@ ninja.data = [{
             window.location.href = "/blog/2026/erotapokriseis-viii/";
           
         },
-      },{id: "post-airo",
+      },{id: "post-airo-i-adopted-a-second-shiba-inu",
         
-          title: "Airo",
+          title: "Airo - I adopted a second Shiba Inu!",
         
         description: "A second Shiba Inu joined us.",
         section: "Posts",
