@@ -257,7 +257,7 @@ jekyll-archives:
       tag: archive
       category: archive
 
-display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "readings" , "philosophy" , "physics" , "quantum" , "post-truth" , "literature" , "erotapokriseis" , "filizinbetween" , "justfiliz" ]
+display_tags: ["fragmenta" , "skepsis" , "metaxy" , "research-logs" , "readings" , "philosophy" , "physics" , "quantum" , "post-truth" , "literature" , "erotapokriseis" , "travel-notes" "filizinbetween" , "justfiliz" ]
 display_categories: ["2024", "2025", "2026"]
 
 # -----------------------------------------------------------------------------
