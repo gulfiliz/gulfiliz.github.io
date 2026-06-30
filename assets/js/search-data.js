@@ -225,6 +225,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/erotapokriseis-viii/";
           
         },
+      },{id: "post-airo",
+        
+          title: "Airo",
+        
+        description: "A second Shiba Inu joined us.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/airo/";
+          
+        },
       },{id: "post-sartre-existence-precedes-essence-and-that-is-terrifying",
         
           title: "Sartre: Existence Precedes Essence, and That Is Terrifying",
