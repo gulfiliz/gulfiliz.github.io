@@ -25,6 +25,7 @@ Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız i
 ---
 
 **2) Q:** You admit Epictetus makes you "feel personally attacked" ([Epictetus]({% post_url 2025-04-11-epictetus %})): the test of philosophy isn't what you can say but what you can bear. By that test, honestly, how are you doing?
+
 **A:** Terribly! But at least I know it now. :)
 
 ---
@@ -32,6 +33,7 @@ Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız i
 This question came in Turkish.
 
 **3) Q:** [The Country That Ate Its Own Geniuses]({% post_url 2025-03-17-america-and-its-geniuses %}) yazınızda Poe, Melville, Dickinson, Ives, hepsi ancak öldükten sonra anlaşıldı. Açık konuşalım: bir yazar olsaydınız sizi anlaşılmamak mı daha çok korkuturdu, yoksa çok geç anlaşılmak mı?
+
 **A:** İkisi de değil. Beni korkutan, anlaşılmak için yazmaya başladığım gün olurdu.
 
 Ayrıca, Poe geç anlaşıldı ama hiç eğilmeden yazdı; korkulacak şey eğilmek, geç kalmak değil. Çok sevgiler!
@@ -40,7 +42,7 @@ Ayrıca, Poe geç anlaşıldı ama hiç eğilmeden yazdı; korkulacak şey eğil
 
 **4) Q:** What quality do you value most in people?
 
-**A:** **A:** Maturity and humility.
+**A:** Maturity and humility.
 
 I like grounded people. Substantial people. People who have a certain weight to them, not in a performative way, but in the way they carry themselves. People often say that communication is the most important thing: open communication, honesty, saying things clearly. And yes, of course, all of that matters. But I think two people can only really meet each other if they have a similar level of maturity. If you are not standing on the same emotional ground, even honesty becomes difficult. Open communication does not save you. Good intentions get wasted. If you asked me what the people I love and value most have in common, I would probably say this: they are mature in a similar way. They know how to listen. They know when to speak. They do not turn every disagreement into a wound or every silence into an insult. There is a steadiness in them that makes life easier.
 
