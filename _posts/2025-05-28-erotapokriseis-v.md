@@ -80,5 +80,24 @@ So perhaps the honest answer is this: my mind is often with Ivan, my longing is 
 
 Thank you again, hugs! 
 
+---
 
+**9) Q:** Which fictional villain do you secretly think has a point?
 
+**A:** Frankenstein’s creature.
+
+Though even calling him a villain feels a little unfair. I do not justify what he does, but I understand the wound he speaks from. To be created, abandoned, feared, and then blamed for becoming monstrous feels like one of literature’s cruelest moral traps. Sometimes the real horror is not the monster. It is the person who creates life and then refuses responsibility for it. And thank you so much for the heartfelt email C.!
+
+( Milton's satan, Javert, Magneto are also other candidates. Ahahah :) )
+
+---
+
+**10) Q:** Have you ever realized you were completely wrong about something and changed your mind?
+
+**A:** Yes, absolutely!
+
+I have realized I was wrong many times, and I have changed my mind many times: about people, about ideas, about what I thought I wanted, and sometimes about myself. I do not see changing my mind as a weakness. I think there is something beautiful about being able to outgrow your own certainty. Staying loyal to an old version of yourself just because she was once convinced feels much more embarrassing to me.
+
+And I feel the same way about apologizing. I have never seen an apology as a loss of dignity. On the contrary, I think being able to say “I was wrong” is one of the cleanest forms of strength. I have to admit, I do not have much patience for people who cannot apologize. Apologizing is a beautiful thing.
+
+--- 
