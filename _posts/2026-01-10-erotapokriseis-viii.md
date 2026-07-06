@@ -37,7 +37,9 @@ This question came in Turkish.
 
 **3) Q:** [Nietzsche]({% post_url 2025-12-01-nietzsche %}) and the eternal recurrence: this exact life, all of it, the same losses and the same joys, lived again and again forever. Could you say yes to it?
 
-**A:** Ahaaa! Hard question. :) And a hard yes!
+**A:** Ahaaa! Hard question. :) And a hard yes! 
+
+(Amor fati, baby!) :D 
 
 ---
 
@@ -96,5 +98,10 @@ With much love.
 **11) Q:** What does a typical Sunday morning look like for you?
 
 **A:** I try to get out of the house as fast as I can, otherwise I just rot at home. If I'm on my own, I grab my book and head straight to Starbucks, bagel and coffee, and start the day quickly. If I'm with people, on Sundays I prefer going to Eggsellent Cafe (I lived in Carrollton for 4 years and this cafe was near my home, now I moved to Plano but still go there for breakfast!) for a nice breakfast, and sometimes I go with my Turkish friends to places where we can have a proper Turkish breakfast. The point is just to get out of the house. Then I come home and pick up my day where I left off. But if I don't leave the house, Sunday usually goes by empty for me, and I really don't like that.
+
+---
+
+**12) Q:** Bir insanda zekâ mı, nezaket mi, mizah mı daha tehlikeli biçimde etkileyici?
+**A:** Hiçbiri! Cevap: Merhamet.
 
 ---
