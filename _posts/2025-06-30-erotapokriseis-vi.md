@@ -70,3 +70,37 @@ And one more thing, quieter but just as intolerable to me: evasion of honesty di
 My answer is this. Home used to be a specific place for me. It was Urla, it was İzmir. Then I lost my grandmother, and now I'm in Dallas. While I'm far away, an illusion forms in me, maybe a defense mechanism: that she is still alive, still there in İzmir. But every time I actually go back to İzmir, it hurts so much. I feel such disappointment, because I see that she isn't there anymore. So that place isn't my home either. When I'm there, I can't bring myself to miss Dallas, but the place I'm in now isn't home the way it used to be either.
 I think home is definitely a feeling. Wherever the person you love, the person you love most, happens to be, that is where your home is. Once that person is gone, the place loses its old meaning.
 That's just how it is...
+
+--- 
+
+**8) Q:** What do you think you have unusually good taste in?
+
+**A:** People. I can tell within one conversation whether someone has a real inner life or is performing one, and I have never once been wrong about a person, never! :)
+And depth. I have very good taste in what is worth my time. I can sense the difference between something that looks profound and something that is, in a book, in a person, in a physics idea. It's the same instinct every time.
+
+---
+
+**9) Q:** Çok popüler olup da sizin hiç sevemediğiniz bir şey var mı?
+
+**A:** Offf, bir sürü. 
+
+(Bir Amerika'li okuyucumda çok benzer bir soru sormuş, O'na verdiğim cevap, siz okuduğunuzda kültür kodlarimizla resone edebilecek mi emin değilim ama Amerika'da en populer en sevemediğim şeyi bir sonraki soruda paylaşiyorum. )
+
+----
+
+**10) Q:** What is something very popular that you just cannot get into?
+
+**A:** Yes. The performance of healing!
+
+I do not dislike healing, of course. I dislike the way it has become an aesthetic, a vocabulary, almost a little costume people wear. Everyone is “protecting their peace,” “setting boundaries,” “choosing growth,” and somehow still being completely unkind. I find that very hard to take seriously.
+
+----
+
+**11) Q:** What is something people dismiss that you actually take seriously?
+
+**A:** Small signs.
+
+The way someone speaks to a waiter. The way their face changes when they are corrected. The little cruelty hidden inside a joke. The tiny hesitation before they congratulate someone else. People dismiss these things as insignificant, but I take them very seriously. Character rarely announces itself dramatically. Most of the time, it leaks out in small moments. :)
+
+----
+
