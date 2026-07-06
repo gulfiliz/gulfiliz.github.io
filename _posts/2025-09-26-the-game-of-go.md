@@ -229,9 +229,9 @@ I have kept my Go identity private. This was a decision I made with my advisor. 
 
 ## Nobara
 
-In Japan I am Nobara.
+In Japan I am Nobara!
 
-The name was given to me by Ryo, one of my best friends, a 9p Japanese professional and (since people sometimes ask) my favorite player in the world. My name in Turkish is Gül, which means rose. In Japanese, *bara*. *No-bara* is wild rose. He said it was because I am emotional and resilient, and he called me Nobara, and it stuck. My Japanese friends still call me that.
+The nickname was given to me by Ryo, one of my best friends, a 9p Japanese professional and (since people sometimes ask) my favorite player in the world. My name in Turkish is Gül, which means rose. In Japanese, *bara*. *No-bara* is wild rose. He said it was because I am both too emotional and too resilient, and he called me Nobara, and it stuck! My Japanese friends still call me that. ( before you guys ask, yeah I watched JJK!)
 
 They tell me I play like a samurai! It turns out I am only not sharp when I am writing. :D
 
@@ -269,11 +269,11 @@ I have been back to Japan many times since. You can guess what one of my suitcas
 
 I had visited the Nihon Ki-in when I was twenty-three and still about 2-dan. I played a game against a nine-year-old named Yoshi. He was amateur 3-dan. He beat me very badly.
 
-After the game he looked at my face and said, *I will make you forget your defeat.* He took me to Coco Ichibanya for curry. He paid. *Women do not pay,* he informed me. *Think of it as a date.* I worked very hard not to laugh.
+After the game he looked at my face and said, *I will make you forget your defeat.* He took me to Coco Ichibanya for curry (It was something I never ate, I was so skeptical to try!). He paid. Ahahha, yes! He paid and  *Women do not pay,* he informed me. *Think of it as a date.* I worked very hard not to laugh. :D 
 
-(He is at Tokyo University now. I hear he has grown into something of a womanizer. The signs were there.)
+(He is at Tokyo University now. He still plays very well. I hear he has grown into something of a womanizer. The signs were there.)
 
-The curry was so spicy I could not leave the bathroom for three or four days. I forgot the defeat entirely. He was right.
+The curry was so spicy I could not leave the restroom for three or four days. I forgot the defeat entirely. He was right. :D
 
 There is a Coco Ichibanya in Dallas. I live near it. I go there whenever I lose at something. A bad exam. Something at work. A Go game. It does not matter what. The point is the curry. The point is the gesture made by a nine-year-old in Tokyo who had just dismantled me at my favorite game and then decided I had suffered enough.
 
