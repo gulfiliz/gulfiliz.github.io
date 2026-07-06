@@ -104,3 +104,12 @@ The way someone speaks to a waiter. The way their face changes when they are cor
 
 ----
 
+**12) Q:** What are you unapologetically basic about?
+
+**A:** Coffee shops.
+
+I know it is painfully basic, but I love sitting in a coffee shop with a book, a notebook, and a pen as if I am about to understand the entire human condition between two sips of coffee. Also long walks, bookstores, pretty stationery, and taking pictures of the sky. I refuse to be embarrassed by any of it.
+
+--- 
+
+
