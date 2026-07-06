@@ -94,3 +94,32 @@ It does not automatically make you kinder, wiser, humbler, or more decent. It on
 **A:** This is a private question, and I do not think the answer really matters that much. Perhaps the better question is whether I believe in God or not. Yes, I believe in God. Whether the God I believe in is exactly the same God everyone else has in mind, I am not entirely sure. But perhaps that is true for most of us. With love. :)
 
 ---
+
+
+**10) Q:** If you could fight with one historical figure, who would it be? 
+
+**A:** Kant.
+
+I’m still not entirely over the fact that he shut every door to God, the soul, and metaphysics, only to sneak them back in through morality.
+
+And by “fight,” I don’t mean shouting. I mean a long, serious, unnecessarily passionate argument at a table somewhere.
+
+(I should add that I am not really a fight person. I did not grow up in a loud or combative home; I was raised by my grandmother in a very safe, quiet, and peaceful one. Raised voices, slammed doors, and dramatic arguments are simply not my language. I believe almost anything can be resolved by talking, and if it cannot, I would rather leave than become part of the noise.)
+
+---
+
+**11) Q:** What are you a little elitist about?
+
+**A:** Taste.
+Not expensive taste, not brand-name taste. I mean the ability to recognize when something has soul. A sentence, a room, a pen, a book, a conversation, even a silence. I am a little elitist about things that are not merely impressive, but alive.
+
+& 
+
+Books.
+Not in the sense of judging people by how much they read. I do not think reading automatically makes someone deep or interesting. But I do become a little suspicious when someone says they read, and then I look at what they read and think, perhaps cruelly, that they might have been better off not reading at all.
+
+What I care about is not the performance of reading, but whether a person has a private life with ideas: a book, a question, an obsession, some little corner of the mind where they go to be alone!
+
+---
+
+
