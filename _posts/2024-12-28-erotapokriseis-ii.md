@@ -84,3 +84,16 @@ Maybe I can write a post about it here too!
 My first fountain pen was a Pelikan, and I still have many Pelikan pens in my collection. They write beautifully, but I usually find them a little too light. I think I prefer heavier pens, though not *Waterman-heavy*. :) For a beginner, I would highly recommend the LAMY AL-star. It has a very nice weight in the hand, and I love its simple Bauhaus-inspired design. The body is made of anodized aluminum, so it feels a little more substantial than the plastic LAMY Safari, while still being light enough for everyday writing. It is also very beginner-friendly. You can use LAMY T10 cartridges, which is the easiest option, or you can buy a LAMY Z28 converter and fill it with bottled ink. If you want to make the experience more personal and beautiful, I would suggest trying a Pilot Iroshizuku ink in a color you love. That is one of the pleasures of fountain pens: the pen is only half of the experience; the ink is the other half. Another nice thing about the AL-star is that it has a transparent ergonomic grip, an ink window so you can see when you are running low, and interchangeable steel nibs. You can start with a Fine or Medium nib, and later try Extra Fine, Broad, or even calligraphy nibs without buying a whole new pen.
 
 Just don’t forget to clean your pen with lukewarm water from time to time, especially when changing ink colors. Fountain pens are not difficult to use, but they do like a little care. :)
+
+---
+
+**8) Q:** Hayatınızda en çok hangi konuda “aşırı seçici”siniz?
+
+**A:** Ay ben çok seçici birisiyim o kadar çok şey var ki :) 
+
+Sanırım hayatıma kimi aldığıma.
+Arkadaş, partner, akraba fark etmez; yakınlık benim için kan bağıyla ya da tesadüfle değil, güvenle, incelikle ve sahicilikle kurulur.
+
+---
+
+
