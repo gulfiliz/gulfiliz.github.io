@@ -428,7 +428,7 @@ I'm going to give them only what's necessary.
 Nothing more.
 
 I love myself.
-I will love myself more!
+I will love myself more! 
 
 I want to spend my life
 with the people and things
