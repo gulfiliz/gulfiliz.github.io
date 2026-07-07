@@ -71,6 +71,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/renormalization-group/";
           
         },
+      },{id: "post-erotapokriseis-xi",
+        
+          title: "Erotapokriseis XI",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/erotapokriseis-xi/";
+          
+        },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
         
           title: "A Manifesto Against Pseudo-Intellectualism — On the Most Dangerous People in the Room...",
