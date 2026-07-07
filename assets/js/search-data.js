@@ -493,7 +493,7 @@ ninja.data = [{
         
           title: "Filizko go her masters degree, yay!",
         
-        description: "Filizko go her masters degree, yay!",
+        description: "I got my masters degree in Computer Science!",
         section: "Posts",
         handler: () => {
           
