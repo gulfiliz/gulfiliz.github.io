@@ -16,18 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-erotapokriseis-xii",
-        
-          title: "Erotapokriseis XII",
-        
-        description: "Reader questions, answered.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/erotapokriseis-xii/";
-          
-        },
-      },{id: "post-filizko-went-to-la-for-quantum-things",
+        },{id: "post-filizko-went-to-la-for-quantum-things",
         
           title: "Filizko Went to LA for Quantum Things",
         
@@ -842,6 +831,34 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%67%75%6C%66%69%6C%69%7A%69%73%69%6B@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/filiz_phys", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/gulfiliz", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
