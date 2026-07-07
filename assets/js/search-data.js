@@ -104,6 +104,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/seneca/";
           
         },
+      },{id: "post-erotapokriseis-x",
+        
+          title: "Erotapokriseis X",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/erotapokriseis-x/";
+          
+        },
       },{id: "post-logical-operators-code-degeneracy-and-the-geometry-of-quantum-codes",
         
           title: "Logical Operators, Code Degeneracy, and the Geometry of Quantum Codes",
