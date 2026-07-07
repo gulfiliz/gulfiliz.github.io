@@ -500,9 +500,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/geometry/";
           
         },
-      },{id: "post-filizko-go-her-masters-degree-yay",
+      },{id: "post-filizko-got-her-masters-degree-yay",
         
-          title: "Filizko go her masters degree, yay!",
+          title: "Filizko got her masters degree, yay!",
         
         description: "I got my masters degree in Computer Science!",
         section: "Posts",
