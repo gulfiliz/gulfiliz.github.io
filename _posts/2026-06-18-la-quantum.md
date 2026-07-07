@@ -33,5 +33,28 @@ And not only that: I have now swum on both sides of the Pacific.
 
 Dance dance, baby. :)
 
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 24px 0;">
+  <img src="{{ '/assets/img/IMG_7966.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_7968.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_7980.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_7981.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_7983.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_7994.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_7995.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8002.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8004.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8006.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8027.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8042.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8082.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8085.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8120.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8124.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8128.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8176.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8184.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+  <img src="{{ '/assets/img/IMG_8189.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+</div>
 
+<img src="{{ '/assets/img/IMG_8209.jpg' | relative_url }}" alt="LA" style="width: 100%; border-radius: 12px; margin: 24px 0;">
 
