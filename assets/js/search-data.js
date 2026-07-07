@@ -262,7 +262,7 @@ ninja.data = [{
         
           title: "Airo — I adopted a second Shiba Inu :)",
         
-        description: "A second Shiba Inu joined us.",
+        description: "A small life update, Ai-chan joined us.",
         section: "Posts",
         handler: () => {
           
