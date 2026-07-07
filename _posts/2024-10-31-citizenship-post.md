@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Filizko Became an American Citizen, Yay!"
+title: "Filizko Became an American Citizen!"
 date: 2024-10-31
 description: A small life update, I became an American citizen.
 tags: life-updates
