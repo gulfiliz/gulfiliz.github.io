@@ -324,17 +324,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/goethe-faust/";
           
         },
-      },{id: "post-filizko-became-an-american-citizen-yay",
-        
-          title: "Filizko Became an American Citizen, Yay!",
-        
-        description: "A small life update, I became an American citizen.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/citizenship-post/";
-          
-        },
       },{id: "post-the-hard-problem-of-consciousness-why-the-brain-is-not-enough",
         
           title: "The Hard Problem of Consciousness: Why the Brain Is Not Enough",
