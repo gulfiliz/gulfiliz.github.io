@@ -94,7 +94,7 @@ So perhaps I did not disappear.
 I just changed places.
 With love. :)
 
-And thank you so much for following my journey on different platforms. 
+And thank you so much for following my journey on different platforms! That means a lot.
 
 ---
 
