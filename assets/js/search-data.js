@@ -27,6 +27,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/erotapokriseis-xii/";
           
         },
+      },{id: "post-filizko-went-to-la-for-quantum-things",
+        
+          title: "Filizko Went to LA for Quantum Things",
+        
+        description: "A small life update from Los Angeles, UCLA, and quantum things.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/la-quantum/";
+          
+        },
       },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
         
           title: "The Fine-Tuned Universe: Why the Constants Are What They Are",
