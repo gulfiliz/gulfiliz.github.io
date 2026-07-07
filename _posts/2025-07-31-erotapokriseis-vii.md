@@ -57,6 +57,7 @@ I still find that incredibly beautiful. Cheers!
 This question came in Turkish.
 
 **6) Q:** Anneanneniz size en çok ne öğretti? 
+
 **A:** Merhameti. ( Daha çok şey yazmak istiyorum ama gözlerim doluyor ve ben şu an kafedeyim ve buradaki tanışlarımın/arkadaşlarımın endişelenmesini istemiyorum.) Çok sevgiler!
 
 ---
@@ -75,3 +76,25 @@ I can never love an ungrateful person, and I won't keep one in my life. If someo
 Edit August 4, 2025 : Loyalty, honestly. Not the loud kind, just people who remember what you did for them and don't disappear when it stops being convenient. I can forgive almost anything except ingratitude. Everything else I value probably comes back to that.
 
 ---
+
+**9) Q:** If I’m ever in Dallas, can I take you out?
+
+**A:** What makes you think I’m available? 
+
+---
+
+**10) Q:** I’ve been reading your work since your Medium days. Why did you stop posting there? I still go back and read some of your old pieces sometimes. You had so many readers there. Where did you go?
+
+
+**A:** Thanks so much! 
+Ever since Medium became more tied to paid reading, I no longer felt very comfortable writing there. I could never ask people to pay just to read my thoughts. That would not feel very Filiz of me.
+My purpose in writing has always been to share.
+There is a Turkish saying: tebdili mekânda ferahlık vardır. I wish I could translate it properly for you, but it means something like, “a change of place brings relief.”
+So perhaps I did not disappear.
+I just changed places.
+With love. :)
+
+And thank you so much for following my journey on different platforms. 
+
+---
+
