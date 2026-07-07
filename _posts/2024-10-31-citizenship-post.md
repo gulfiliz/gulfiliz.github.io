@@ -41,7 +41,6 @@ P.P.S. Anneanneciğimin yazması boynumdaydı. Kensisi zaten hep kalbimde!
 (On this beautiful and important day, I wore my dear grandma’s scarf around my neck. She was, as always, in my heart.)
 
 <div style="display: flex; flex-direction: column; gap: 20px; margin: 24px 0;">
-  <img src="{{ '/assets/img/IMG_1725.jpg' | relative_url }}" alt="Citizenship" style="width: 100%; border-radius: 12px;">
   <img src="{{ '/assets/img/IMG_1772.jpg' | relative_url }}" alt="Citizenship" style="width: 100%; border-radius: 12px;">
   <img src="{{ '/assets/img/IMG_1783.jpg' | relative_url }}" alt="Citizenship" style="width: 100%; border-radius: 12px;">
   <img src="{{ '/assets/img/IMG_1784.jpg' | relative_url }}" alt="Citizenship" style="width: 100%; border-radius: 12px;">
