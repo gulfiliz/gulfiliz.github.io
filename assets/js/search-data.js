@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
+        },{id: "post-erotapokriseis-xii",
+        
+          title: "Erotapokriseis XII",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/erotapokriseis-xii/";
+          
+        },
+      },{id: "post-the-fine-tuned-universe-why-the-constants-are-what-they-are",
         
           title: "The Fine-Tuned Universe: Why the Constants Are What They Are",
         
