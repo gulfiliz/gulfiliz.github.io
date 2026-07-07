@@ -731,6 +731,17 @@ ninja.data = [{
             window.location.href = "/blog/2024/the-measurement-problem/";
           
         },
+      },{id: "post-filizko-became-an-american-citizen-yay",
+        
+          title: "Filizko Became an American Citizen, Yay!",
+        
+        description: "A small life update, I became an American citizen.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/citizenship-post/";
+          
+        },
       },{id: "post-erotapokriseis-i",
         
           title: "Erotapokriseis I",
