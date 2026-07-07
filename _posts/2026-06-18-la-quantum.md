@@ -7,7 +7,7 @@ tags: life-updates
 categories: life-updates,
 ---
 
-Filizko went to LA for quantum things. :)
+Filizko went to LA for quantum things. :) 
 
 I visited UCLA for a quantum workshop, which still sounds a little unreal to write. There was sunshine, palm trees, physics, computer science, too much coffee, and many moments where I quietly thought, “Wait, this is my life now?”
 
