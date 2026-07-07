@@ -489,6 +489,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/geometry/";
           
         },
+      },{id: "post-filizko-go-her-masters-degree-yay",
+        
+          title: "Filizko go her masters degree, yay!",
+        
+        description: "Filizko go her masters degree, yay!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/masters/";
+          
+        },
       },{id: "post-wittgenstein-the-philosopher-who-tried-to-kill-philosophy",
         
           title: "Wittgenstein: The Philosopher Who Tried to Kill Philosophy",
