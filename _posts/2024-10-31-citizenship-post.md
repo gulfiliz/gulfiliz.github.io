@@ -35,9 +35,9 @@ But I am grateful.
 
 And I am proud!
 
-P.S. I was so happy, so I forgot to take photos from the celebration with my loved ones. Whole Roadhouse Steakhouse was happy that day! :) I am attaching here the naturalized people's home countries. It's indeed a melting pot, huh? And also President Biden's heartfelt letter. I am not crying, you are crying :))
+P.S. I was so happy, so I forgot to take photos from the celebration with my loved ones. Whole Texas Roadhouse was happy that day! :) I am attaching here the naturalized people's home countries. It's indeed a melting pot, huh? And also President Biden's heartfelt letter. I am not crying, you are crying :))
 
-P.P.S. Anneanneciğimin yazması boynumdaydı. Kensisi zaten hep kalbimde! 
+P.P.S. Anneanneciğimin yazması boynumdaydı. Kendisi zaten hep kalbimde! 
 (On this beautiful and important day, I wore my dear grandma’s scarf around my neck. She was, as always, in my heart.)
 
 <div style="display: flex; flex-direction: column; gap: 20px; margin: 24px 0;">
