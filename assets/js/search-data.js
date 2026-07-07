@@ -636,7 +636,7 @@ ninja.data = [{
         
           title: "Nikko — I adopted a Shiba Inu :)",
         
-        description: "I adopted a Shiba Inu.",
+        description: "A small life update, I adopted a Shiba Inu.",
         section: "Posts",
         handler: () => {
           
