@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fine-Tuned Universe: Why the Constants Are What They Are"
-date: 2026-06-26
+date: 2026-06-02
 description: The fundamental constants of nature appear to be precisely calibrated for the existence of complexity. Change any of them slightly, and the universe becomes sterile. This is either the deepest fact about reality, or the most dangerous idea in physics.
 tags: research-logs, physics,
 ---
