@@ -10,9 +10,9 @@ profile:
   image_circular: false
   more_info:
 
-news: false
+news: true
 selected_papers: false
-social: false
+social: true
 ---
 Merhaba, ben Filiz. Fizikçi ve bilgisayar bilimcisiyim; özellikle kuantum hesaplama ile ilgileniyorum. Edebiyatı çok seviyorum, özellikle Rus edebiyatını. Aynı zamanda dolma kalem meraklısıyım ve çocukluğumdan beri özel ve limitli üretim kalemler biriktiriyorum; kendimce bir dolma kalem koleksiyoneriyim.
 Astronomiyi çok seviyorum; boş zamanlarımda özellikle modüler origamiyle uğraşır ve Go (Igo/Baduk/Weiqi) oynamaktan büyük keyif alırım. İzmirliyim ve şu anda Dallas’ta yaşıyorum. 
