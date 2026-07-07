@@ -687,9 +687,9 @@ ninja.data = [{
             window.location.href = "/blog/2025/intolerance-for-superficiality/";
           
         },
-      },{id: "post-filizko-won-her-go-games-in-beijing",
+      },{id: "post-filizko-went-to-beijing-for-go-things",
         
-          title: "Filizko Won Her Go Games in Beijing",
+          title: "Filizko Went to Beijing for Go Things",
         
         description: "A small life update from Beijing, three Go games, and a very cold December in China.",
         section: "Posts",
