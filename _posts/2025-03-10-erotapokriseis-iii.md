@@ -111,3 +111,7 @@ This question came in Turkish.
 **A:** Çok güzel bir soru bu. Çok teşekkür ederim.
 
 İstediğim kadar kitap okuyamıyorum, çoğu okumam gençlikten. Yani çok okuyan birisi miyim emin değilim. Derin düşünüyor muyum onu da bilmiyorum. Etrafımda sevdiğim ve çok değer verdiğim insanlar var ve bu kişiler tarafından da çok sevdildiğimi ve değerli görüldüğümü biliyorum, sağ olsunlar. Yani olduğum halimle kabul ediliyorum, kimseden de kendimin aynısını asla beklemiyorum. Küçük circle, belki de beni koruyan şey. Sorunuzu cevaplayabildim mi bilemiyorum. Çok sevgiler.
+
+---
+
+
