@@ -35,7 +35,7 @@ I’m originally from İzmir, so I still miss the sea, Urla, and that feeling of
 Weekends are better. I try to spend time with people I love and go out to places that make me happy. I don’t know if I have one single favorite restaurant, but I usually enjoy Japanese ( Kura Sushi, Coco Ichibanya), Korean (Manna BBQ, bb.q Chicken (I'm in love with their Gangnam and Cheesling wings)), and some Mediterranean places and also mainstream American places like Roadhouse, Rudy's BBQ, Torchy's Tacos, Red Lobster bla bla :)
 
 
-P.S. I fotgot Rodeo Goat, I tried all of the bugers in their menu! Yes :)
+P.S. I forgot Rodeo Goat, I tried all of the bugers in their menu! Yes :)
 
 ---
 
@@ -43,7 +43,7 @@ P.S. I fotgot Rodeo Goat, I tried all of the bugers in their menu! Yes :)
 
 **A:** The title of that essay is not "What is the measurement problem?"
 It is "What does it mean to measure something?"
-I'd suggest reading it again, answer is there :) 
+I'd suggest reading it again, I promise, answer is there :) 
 
 ---
 
