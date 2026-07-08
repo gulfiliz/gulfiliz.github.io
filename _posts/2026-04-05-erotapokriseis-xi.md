@@ -77,6 +77,7 @@ But romanticizing is free, right? :) So, poetically: yes. It feels like the univ
 
 ---
 
+This is almost the same question as Q1, asked by two different people. I tried to answer it the way the reader asked:
 
 **9) Q:** Why does the renormalization group feel less like a physics technique and more like a worldview?
 
