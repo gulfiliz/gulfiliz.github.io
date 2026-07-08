@@ -20,7 +20,11 @@ Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız i
 ---
 
 **1) Q:** You've now written two essays on how America exiles its thinkers and buys them back with Europe's approval, [The Country That Ate Its Own Geniuses]({% post_url 2025-03-17-america-and-its-geniuses %}) and [Why American Intellectuals Are Invisible]({% post_url 2025-02-16-american-anti-intellectualism %}). You left İzmir to go there. Be honest: are you writing about America, or about a fear for yourself?
+
 **A:** :) Hehehhe. :).
+Not enough, heheheheheheheheh :) 
+
+P.S. I gave him the long answer in the email without hehehehes :)
 
 ---
 
