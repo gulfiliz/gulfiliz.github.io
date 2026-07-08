@@ -59,7 +59,7 @@ This question did not came in Turkish, but I liked to answer it. So here is the 
 
 This question came in Turkish.
 
-**5) Q:** Bir yıldan fazladır neredeyse her hafta yeni bir yazı çıkıyor, harika bir blog, üstüne PhD, go kariyeri, bu cevaplara zaman ayırmanız. Hiç uyuyor musunuz? :)
+**5) Q:** Bir yıldan fazladır neredeyse her hafta yeni bir yazı çıkıyor, harika bir blog, üstüne okul, iş, go kariyeri, bu cevaplara zaman ayırmanız. Hiç uyuyor musunuz? :)
 
 **A:** Çok tesekkür ederim, çok şekersiniz! Hakikaten uyuyamıyorum. Vücudum hiç dinlenemiyor. Kansızlığım baya kötü durumda ve Amerika'da sadece 8 kez Iron-IV verdiler ve gerisini sen kendin halletmelisin dediler takviye alarak. Halbuki çok iyi bir sağlık güvencem var! Bazen nefessiz kalıyorum. Bazen bir ayda aldığım tüm demir takviyesini bir adette kaybediyorum. Zor geçiyor biraz. Şu hayatta sağlığımdan başka sorunum yok diyebilirim ama maalesef o da çok büyük sorun! 
 
