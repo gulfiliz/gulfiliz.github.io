@@ -23,6 +23,10 @@ And not only that: I have now swum on both sides of the Pacific.
 
 Dance dance, baby. :)
 
+P.S. Zlatko tweeted a photo from the workshop, I look so happy and I do not know why! :D 
+https://x.com/zlatko_minev/status/2067037518294573488
+
+
 <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; margin: 24px 0;">
   <img src="{{ '/assets/img/IMG_7966.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
   <img src="{{ '/assets/img/IMG_7968.jpg' | relative_url }}" alt="LA" style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
