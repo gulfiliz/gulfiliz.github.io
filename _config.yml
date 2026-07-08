@@ -3,7 +3,7 @@ first_name: Gül
 middle_name: Filiz
 last_name: AKINALP
 contact_note: gulfilizakinalp@gmail.com
-description: >
+description: " Gul Filiz Akinalp's intellectual space — notes on physics, research,  quantum computing, philosophy, literature, and everything in between."
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
