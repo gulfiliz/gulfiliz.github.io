@@ -87,3 +87,6 @@ Some things are relevant, some are irrelevant, and some only look important beca
 
 What remains true after you zoom out? That is the question. :) 
 
+---
+
+
