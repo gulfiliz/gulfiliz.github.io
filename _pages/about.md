@@ -32,3 +32,5 @@ This is my intellectual space! Fragments in *Fragmenta*, unexamined truths in *S
 Here, you’ll find the things that keep me curious: travel notes, philosophical reflections, origami, the game of Go, fountain pens, research logs on QFT, HEP, foundations of physics, and QC, and reading notes on Russian literature and the classics — all gathered in one place.
 
 A little archive of the things I think about, return to, question, love, and refuse to leave unfinished. 
+
+---
