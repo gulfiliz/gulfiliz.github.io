@@ -68,6 +68,17 @@ layout: default
     {% endif %}
     <div id="markdown-content">
       {{ content }}
+{% assign share_url = page.url | absolute_url | url_encode %}
+{% assign share_title = page.title | url_encode %}
+<div class="post-share" style="margin:2.2rem 0; display:flex; align-items:center; gap:1rem; flex-wrap:wrap; font-size:1.15rem;">
+  <span style="font-weight:600; font-size:0.95rem;">Paylaş:</span>
+  <a href="https://twitter.com/intent/tweet?url={{ share_url }}&text={{ share_title }}" title="X"><i class="fa-brands fa-x-twitter"></i></a>
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ share_url }}" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}" title="Facebook"><i class="fa-brands fa-facebook-f"></i></a>
+  <a href="https://api.whatsapp.com/send?text={{ share_title }}%20{{ share_url }}" title="WhatsApp"><i class="fa-brands fa-whatsapp"></i></a>
+  <a href="https://www.reddit.com/submit?url={{ share_url }}&title={{ share_title }}" title="Reddit"><i class="fa-brands fa-reddit-alien"></i></a>
+  <a href="mailto:?subject={{ share_title }}&body={{ share_url }}" title="E-posta"><i class="fa-solid fa-envelope"></i></a>
+</div>
     </div>
   </article>
 
