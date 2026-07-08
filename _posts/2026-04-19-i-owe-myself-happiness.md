@@ -80,7 +80,8 @@ I sat with that for a while.
 
 Then I called my closest friends.
 
-My friend N started crying almost immediately.
+My friend N started crying almost immediately. 
+It's her thing, and it is the exact reason why I love her. 
 
 *Life is so unfair, Filiz.*
 *This is so unfair.*
@@ -114,19 +115,19 @@ But that day he was angry (very unusual of him).
 
 His voice broke a little.
 
-**I have had a great life.**
-**Hard one, yes,**
-**but genuinely, fully great.**
+I have had a great life.
+Hard one, yes,
+but genuinely, fully great.
 
-**I traveled the most beautiful places on earth, 
+I traveled the most beautiful places on earth, 
 tasted the foods I wanted to try, always blessed with 
 the best people. 
-Ben dünyada olduğum için her zaman çok mutluydum!**
+Ben dünyada olduğum için her zaman çok mutluydum!
 
-**If today were my last day,**
-**I would have no remorse about myself!**
+If today were my last day,
+I would have no remorse about myself!
 
-**My closest friends know this about me!**
+My closest friends know this about me!
 
 I understood why they were reacting this way.
 They know my life.
