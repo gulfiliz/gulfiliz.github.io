@@ -109,3 +109,7 @@ And I feel the same way about apologizing. I have never seen an apology as a los
 Every gift I’ve ever received has been beautiful and precious to me. I could never put a price on any of them. A smooth, lovely gel pen, a magnet someone picked out while thinking of me, or a pin given with the words “this reminded me of you” would all make me just as happy.
 
 But if I’m being honest, the most unforgettable gift I’ve ever received was a piano. Not because it was expensive. I’ve been given things that were more expensive than a piano. But because of the timing, and the tenderness behind it. I had casually mentioned one day that, as a child, I had always wanted to learn the piano, but never had the chance. The next day, I was given one. It felt like a small, unfinished dream of mine had been heard and gently placed back in my hands.That meant so much to me. It’s still hard for me to describe. (I hate crying!)
+
+---
+
+
