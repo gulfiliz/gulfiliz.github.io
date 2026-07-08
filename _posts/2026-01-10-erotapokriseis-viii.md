@@ -102,6 +102,7 @@ With much love.
 ---
 
 **12) Q:** Bir insanda zekâ mı, nezaket mi, mizah mı daha tehlikeli biçimde etkileyici?
+
 **A:** Hiçbiri! Cevap: Merhamet.
 
 ---
