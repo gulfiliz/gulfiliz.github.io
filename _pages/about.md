@@ -12,7 +12,7 @@ profile:
 
 news: true
 selected_papers: false
-social: true
+social: false
 ---
 
 Hey, this is Filiz. I’m a physicist and computer scientist, originally from the beautiful city of Izmir, Türkiye, and currently living in Dallas.
