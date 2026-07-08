@@ -41,7 +41,7 @@ This question came in Turkish.
 
 **4) Q:** [The Crisis in Fundamental Physics]({% post_url 2025-07-13-crisis-in-physics %}) yazınızda "asıl kriz yanlış teorilere sahip olmamız değil; doğru soruları henüz bulamamış olmamız" diyorsunuz. Bir araştırmacı olarak sizi daha çok ne korkutuyor: yanlış cevabı vermek mi, yoksa hayatınızı yanlış soruya adadığınızı çok geç fark etmek mi?
 
-**A:** Yanlış cevap beni hiç korkutmuyor; o zaten işin yarısı, bir gün biri düzeltir. Beni korkutan ikincisi: ömrümü güzel ama yanlış bir soruya adayıp bunu en sonda fark etmek. SUSY'ye bütün kariyerini verenler vardı. O yüzden cevaplarıma değil, sorularıma dikkat ediyorum. Yanlış tepeye tırmanmak, yavaş tırmanmaktan beterdir.
+**A:** Yanlış cevap beni hiç korkutmuyor; o zaten işin yarısı, bir gün biri düzeltir. Beni korkutan ikincisi: ömrümü güzel ama yanlış bir soruya adayıp bunu en sonda fark etmek. SUSY'ye bütün kariyerini verenler vardı. O yüzden cevaplarıma değil, sorularıma dikkat ediyorum. Yanlış tepeye tırmanmak, yavaş tırmanmaktan beterdir. Bence :)
 
 ---
 
