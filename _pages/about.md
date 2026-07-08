@@ -15,6 +15,17 @@ selected_papers: false
 social: false
 ---
 
+Merhaba, ben Filiz. Fizikçi ve bilgisayar bilimciyim. İzmirliyim ve şu anda Dallas’ta yaşıyorum.
+
+Burası benim düşünsel alanım.
+
+**Fragmenta**’da parçaları, **Sképsis**’te sorgulanmamış hakikatleri, **Metaxy**’de ise benim gözümden arada kalanları bulacaksınız.
+
+Burada paylaşmak istediklerim genel olarak seyahat notları, felsefi düşünceler, origami, Go oyunu, dolma kalemler, QFT, HEP ve kuantum hesaplama üzerine araştırma günlükleri; Rus edebiyatı ve klasikler üzerine okuma notları olacak.
+
+Düşündüğüm, tekrar tekrar döndüğüm, sorguladığım, sevdiğim ve yarım bırakmaya razı olmadığım şeylerin küçük bir arşivi gibi düşünebilirsiniz. Çok sevgiler.
+
+---
 
 Hey, this is Filiz. I’m a physicist and computer scientist, originally from the beautiful city of Izmir, Türkiye, and currently living in Dallas.
 
