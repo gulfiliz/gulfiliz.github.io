@@ -101,3 +101,11 @@ I have realized I was wrong many times, and I have changed my mind many times: a
 And I feel the same way about apologizing. I have never seen an apology as a loss of dignity. On the contrary, I think being able to say “I was wrong” is one of the cleanest forms of strength. I have to admit, I do not have much patience for people who cannot apologize. Apologizing is a beautiful thing.
 
 --- 
+
+**11) Q:** What was the most beautiful gift you’ve ever received, the one that made you happiest?
+
+**A:** My reader from Medium. :) Thanks for the question. 
+
+Every gift I’ve ever received has been beautiful and precious to me. I could never put a price on any of them. A smooth, lovely gel pen, a magnet someone picked out while thinking of me, or a pin given with the words “this reminded me of you” would all make me just as happy.
+
+But if I’m being honest, the most unforgettable gift I’ve ever received was a piano. Not because it was expensive. I’ve been given things that were more expensive than a piano. But because of the timing, and the tenderness behind it. I had casually mentioned one day that, as a child, I had always wanted to learn the piano, but never had the chance. The next day, I was given one. It felt like a small, unfinished dream of mine had been heard and gently placed back in my hands.That meant so much to me. It’s still hard for me to describe. (I hate crying!)
