@@ -899,6 +899,16 @@ does not have time to hear...
 
 ---
 
+P.S. : Some people felt I was being a bit unfair to pragmatism. You’re right!
+
+That’s what happens when you isolate one point and put it under the microscope in a single piece: it can start to look like I’m singling it out as the culprit. There is, of course, a valid point in what you’re saying though: pragmatism is a useful key for understanding American anti-intellectualism. But when it’s placed alone in the defendant’s chair, it may have come across as a bit too reductive. This is my promise to my readers:
+
+I’ll come back to pragmatism and try to make myself better understood.
+
+Warmly! 
+
+---
+
 *Further reading:*
 
 *Tocqueville, Democracy in America (1835),*
