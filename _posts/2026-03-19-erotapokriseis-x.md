@@ -5,17 +5,17 @@ date: 2026-03-19
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
+
 EN:
 
-Hello, my dear readers,
-I've responded to most of your emails, but I thought I'd answer a few of your questions here as well.
-Thank you so much for reading and for your thoughtful feedback. It means a lot to me.
+Hello my dear readers,
+I’ve been reading your emails with great pleasure. Some of your questions were too thoughtful to disappear into private replies, so I decided to collect a few of them here. Thank you for your kindness, curiosity, and careful reading. :)
+
 
 TR:
 
 Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+E-postalarınızı büyük bir keyifle okuyorum. Bazı sorularınız özel cevapların içinde kaybolamayacak kadar düşünceliydi; bu yüzden birkaçını burada bir araya getirmek istedim. Nezaketiniz, merakınız ve dikkatli okumanız için çok teşekkür ederim. Yakında doğum günüm geliyor, keşke orada olsaydım. Çok sevgiler. :)
 
 ---
 
