@@ -5,15 +5,17 @@ date: 2025-07-31
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
+
 EN:
 
-Hello, my dear readers, Thank you, truly, for the emails you’ve sent. It means a lot to me.
+My dear readers,
+Thank you for your emails, your questions, your disagreements, and your generous attention! I have replied to many of you already, but some questions kept lingering in my mind after I answered them. Those are the ones I wanted to share here. :)
+
 
 TR:
 
-Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+Sevgili okurlarım,
+E-postalarınız, sorularınız, itirazlarınız ve cömert dikkatiniz için çok teşekkür ederim. Çoğunuza zaten dönüş yaptım, fakat bazı sorular cevapladıktan sonra bile zihnimde kalmaya devam etti. Burada paylaşmak istedim bazılarını, çok çok teşekkürler!
 
 ---
 
