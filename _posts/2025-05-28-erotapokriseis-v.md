@@ -5,17 +5,16 @@ date: 2025-05-28
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
+
 EN:
 
-Hello, my dear readers,
-Thank you, truly, for the emails you’ve sent. Some of your questions have stayed with me in the quietest, most meaningful way, and I felt they deserved a place here. I wanted to answer them openly, in case others have been carrying the same thoughts too.
-It means more than I can easily say that you read my words, and even more that you read them with such care. :)
+Hello again, my dear readers!
+Some of your questions arrived like letters, some like puzzles, and some like tiny philosophical traps. Naturally, I loved them. I’ve answered many of you by email, but I thought a few of these deserved a place here as well. :)
 
 TR:
 
-Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+Yeniden merhaba sevgili okurlarım,
+Bazı sorularınız mektup gibi geldi, bazıları bilmece gibi, bazılarıysa küçük felsefi tuzaklar gibiydi, ahaha! Türkiye özlemim sizinle diniyor birazda olsa. Doğal olarak hepsini çok sevdim. Çoğunuza e-posta ile dönüş yaptım, ama bazı soruların burada da yer almayı hak ettiğini düşündüm. Çok sevgiler.
 
 ---
 
