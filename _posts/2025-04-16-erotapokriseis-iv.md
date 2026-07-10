@@ -8,14 +8,13 @@ tags: erotapokriseis,
 
 EN:
 
-Hello again, my dear readers,
-Your emails this time were so thoughtful that I couldn't keep the answers to myself. So here are a few of them, out loud, for anyone wondering the same things. Thank you for reading me, and for reading me so closely. It means more than I can say. :)
+Dear readers,
+Your emails have been one of the quiet joys of writing here. I cannot always answer everything at once, but I do read them with care. Today, I wanted to bring a few of your questions into this space and answer them in the open. Thank you so much! :)
 
 TR:
 
-Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+Sevgili okurlarım,
+Burada yazmanın en sessiz ama en güzel taraflarından biri, sizden gelen e-postalar. Her şeye hemen cevap veremiyorum, ama hepsini özenle okuyorum. Bugün bazı sorularınızı buraya taşımak ve açıkça yanıtlamak istedim. Benimle birlikte düşündüğünüz için teşekkür ederim!
 
 ---
 
