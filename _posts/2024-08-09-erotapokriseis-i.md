@@ -5,17 +5,18 @@ date: 2024-08-09
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
+
 EN:
 
-Hello my dear readers,
-I've responded to most of your emails, but I thought I'd answer a few of your questions here as well.
-Thank you so much for reading and for your thoughtful feedback. It means a lot to me. 
+Hello, my dear readers,
+After moving from Medium to here, I thought — and worried — that I might lose some of you. But seeing your emails made me so happy, and honestly, a little emotional. I’ve responded to all of them, but I thought I’d answer a few of your questions here as well, continuing our tradition of erotapokriseis! Thank you for always writing to me, reading me carefully, and sometimes asking questions that are much harder than they first appear. It means a lot to me. Cheers!
+
 
 TR:
 
 Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
 Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+
 
 ---
 
