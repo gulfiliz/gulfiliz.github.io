@@ -5,17 +5,16 @@ date: 2026-04-05
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
+
 EN:
 
-Hello, my dear readers,
-I've responded to most of your emails, but I thought I'd answer a few of your questions here as well.
-Thank you so much for reading and for your thoughtful feedback. It means a lot to me.
+Helloggg my dear readers,
+One of the sweetest surprises of keeping this blog has been discovering the questions that come back to me from the other side of the screen. I’ve answered most of your messages, but I wanted to save a few of them here, in this little archive of conversations.
 
 TR:
 
-Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+Sevgili okurlarım,
+Bu blogu yazmanın en tatlı sürprizlerinden biri, ekranın öbür tarafından bana dönen sorular oldu her zaman! İyi ki varsınız! Mesajlarınızın çoğuna cevap verdim, ama bazılarını bu küçük sohbet arşivinde saklamak istedim. :)
 
 ---
 
