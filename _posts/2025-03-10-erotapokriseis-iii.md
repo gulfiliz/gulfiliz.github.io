@@ -8,13 +8,11 @@ tags: erotapokriseis,
 EN:
 
 Hello, my dear readers,
-I've gotten 9 emails about my latest posts and I tried to respond to all of them, but I thought I'd answer a few of your questions here as well. The questions below are just the parts I've extracted from those emails. I hope they might also serve as answers for other readers wondering the same things. Thank you for your time.
-
+I’ve received many kind and thoughtful messages from you lately. I answered most of them privately, but a few questions felt like they belonged here too. Much love!
 TR:
 
 Merhaba sevgili okurlarım,
-Bu sefer aldığım tüm e-postalar yabancı okurlarımdandı. 
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+Son zamanlarda sizden çok güzel ve düşünceli mesajlar aldım. Çoğuna özel olarak dönüş yaptım, ama bazı soruların burada da yer bulması gerektiğini düşündüm. Çok sevgiler. :)
 
 ---
 
