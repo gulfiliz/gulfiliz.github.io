@@ -5,16 +5,16 @@ date: 2025-06-30
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
+
 EN:
 
 Hello, my dear readers,
-Thank you so much for reading and for your thoughtful feedback. It means a lot to me.
+Every time I receive your questions, I am reminded that writing is never really a monologue. It becomes more interesting when someone reads closely enough to ask back! I’ve answered most of your emails, but here are a few questions I wanted to answer publicly.
 
 TR:
 
 Merhaba sevgili okurlarım,
-Çoğunuzun e-postasına dönüş yaptım, ancak gelen bazı soruları burada da yanıtlamak istedim.
-Yazılarımı okuduğunuz ve değerli geri bildirimlerinizi paylaştığınız için çok teşekkür ederim. Hepsi benim için çok kıymetli.
+Sizden gelen soruları her okuduğumda, yazmanın aslında hiçbir zaman tam anlamıyla tek taraflı olmadığını hatırlıyorum. E-postalarınızın çoğuna dönüş yaptım, ama bazı soruları burada da yanıtlamak istedim.
 
 ---
 
