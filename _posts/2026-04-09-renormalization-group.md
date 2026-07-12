@@ -226,7 +226,7 @@ the system is scale-invariant.
 
 This produces **power law behavior:**
 
-$$\xi \sim |T - T_c|^{-\nu}$$
+$$\xi \sim \lvert T - T_c \rvert^{-\nu}$$
 
 The correlation length $$\xi$$ diverges
 as $$T \to T_c$$.
@@ -234,9 +234,11 @@ as $$T \to T_c$$.
 All other thermodynamic quantities
 exhibit power laws near $$T_c$$:
 
-$$m \sim |T - T_c|^\beta \quad \text{(magnetization)}$$
-$$\chi \sim |T - T_c|^{-\gamma} \quad \text{(susceptibility)}$$
-$$C \sim |T - T_c|^{-\alpha} \quad \text{(specific heat)}$$
+$$m \sim \lvert T - T_c \rvert^{\beta} \quad \text{(magnetization)}$$
+
+$$\chi \sim \lvert T - T_c \rvert^{-\gamma} \quad \text{(susceptibility)}$$
+
+$$C \sim \lvert T - T_c \rvert^{-\alpha} \quad \text{(specific heat)}$$
 
 The **critical exponents** $$\nu, \beta, \gamma, \alpha, \delta, \eta$$
 are universal: same for all systems in the universality class.
