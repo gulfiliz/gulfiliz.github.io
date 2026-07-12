@@ -50,11 +50,12 @@ the **Schrödinger equation:**
 $$i\hbar \frac{\partial}{\partial t}|\psi\rangle = \hat{H}|\psi\rangle$$
 
 This evolution is:
-- **Linear:** if $$|\psi_1\rangle$$ and $$|\psi_2\rangle$$ are solutions,
-  so is $$\alpha|\psi_1\rangle + \beta|\psi_2\rangle$$
-- **Unitary:** it preserves the norm $$\langle\psi|\psi\rangle = 1$$
-- **Deterministic:** given $$|\psi(t_0)\rangle$$,
-  $$|\psi(t)\rangle$$ is uniquely determined
+
+- **Linear:** if $\lvert\psi_1\rangle$ and $\lvert\psi_2\rangle$ are solutions,
+  so is $\alpha\lvert\psi_1\rangle + \beta\lvert\psi_2\rangle$
+- **Unitary:** it preserves the norm $\langle\psi\vert\psi\rangle = 1$
+- **Deterministic:** given $\lvert\psi(t_0)\rangle$,
+  $\lvert\psi(t)\rangle$ is uniquely determined
 - **Time-reversible:** run it backward, get the same physics
 
 Upon measurement of an observable $$\hat{A}$$
