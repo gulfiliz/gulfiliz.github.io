@@ -866,6 +866,13 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
+        id: 'social-substack_link',
+        title: 'Substack_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://gulfilizakinalp.substack.com", "_blank");
+        },
+      },{
         id: 'social-instagram_link',
         title: 'Instagram_link',
         section: 'Socials',
