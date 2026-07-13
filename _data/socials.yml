@@ -9,6 +9,10 @@ linkedin_username: gulfilizakinalp
 instagram_username: gulfilizakinalp
 # inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
+instagram_link:
+  logo: fa-brands fa-instagram
+  title: Instagram
+  url: https://www.instagram.com/gulfilizakinalp
 goodreads_link:
   logo: fa-brands fa-goodreads
   title: Goodreads
