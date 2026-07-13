@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Erotapokriseis XI"
-date: 2026-04-05
+date: 2026-04-09
 description: Reader questions, answered. 
 tags: erotapokriseis, 
 ---
@@ -20,7 +20,7 @@ Bu blogu yazmanın en tatlı sürprizlerinden biri, ekranın öbür tarafından 
 
 ---
 
-**1) Q:** Why does the renormalization group feel less like a technique in physics and more like a way of thinking?  [renormalization group]({% post_url 2026-04-09-renormalization-group %})
+**1) Q:** Why does the renormalization group feel less like a technique in physics and more like a way of thinking?  [renormalization group]({% post_url 2026-04-05-renormalization-group %})
 
 **A:** Because it isn't a tool you reach for; it's a lens you can't put down. A technique answers one question. RG tells you which questions even survive once you step back far enough to see the shape of a thing. After a while you start asking it of everything, not just physics: what stays true when I stop looking so closely? That is not a method. That is a way of seeing.
 
@@ -28,7 +28,7 @@ Bu blogu yazmanın en tatlı sürprizlerinden biri, ekranın öbür tarafından 
 
 **2) Q:** When the scale of something changes, does its truth change as well?
 
-**A:** The parameters do. The electric charge you measure literally depends on how closely you look. But I'd resist saying truth changes; what changes is which description is the honest one at that scale. The world isn't lying to you at low resolution. It's telling you a coarser truth, and RG is the grammar that connects the coarse one to the fine one.
+**A:** The parameters do. The electric charge you measure literally depends on how closely you look. What changes, though, is not the truth itself but which description is the honest one at that scale. The world isn't lying to you at low resolution. It's telling you a coarser truth, and RG is the grammar that connects the coarse one to the fine one.
 
 ---
 
@@ -40,7 +40,7 @@ Bu blogu yazmanın en tatlı sürprizlerinden biri, ekranın öbür tarafından 
 
 **4) Q:** Why does the idea of universality affect you so much: because order emerges from chaos, or because different systems seem to speak the same language?
 
-**A:** The second, and it isn't close. Order from chaos is beautiful, but I've made my peace with it. What undoes me is that a lump of iron and a jar of fluid near their critical points obey the exact same numbers, having never met, sharing nothing underneath. It's the universe rhyming with itself across systems that have no business sounding alike. Universality is the closest physics comes to admitting reality has only a few real ideas and endless disguises. I will write a blog post on Chaos very soon! Tbh, you inspired me to write one! Cheers. :)
+**A:** The second, and it isn't close. Order from chaos is beautiful, but I've made my peace with it. What undoes me is that a lump of iron and a jar of fluid near their critical points obey the exact same numbers, having never met, sharing none of the details. What they do share is the deep grammar: the same symmetry, the same dimension, the same short reach of interaction. It's the universe rhyming with itself, and the rhyme has a reason, which somehow makes it more chilling, not less. Universality is the closest physics comes to admitting reality has only a few real ideas and endless disguises. I will write a blog post on Chaos very soon! Tbh, you inspired me to write one! Cheers. :)
 
 ---
 
@@ -87,5 +87,3 @@ Some things are relevant, some are irrelevant, and some only look important beca
 What remains true after you zoom out? That is the question. :) 
 
 ---
-
-
