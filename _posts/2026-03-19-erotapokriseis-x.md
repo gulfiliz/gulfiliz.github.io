@@ -32,7 +32,7 @@ And perhaps the saddest part is that the genuine expert often looks less impress
 
 **A:** This is totaly my perspective from my readings of Camus : The absurd is not coldness toward life. It is the refusal to comfort ourselves with meanings we did not actually earn. Camus is not asking us to feel less; he is asking us to stop lying about what the universe has promised us. In that sense, the absurd is not despair, but the final form of honesty.
 
-
+---
 
 
 **3) Q:** I have not read the Camus's stranger yet. Does The Stranger tell us more about morality, or about society’s fear of authenticity?
