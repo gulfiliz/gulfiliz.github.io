@@ -15,7 +15,7 @@ selected_papers: false
 social: false
 ---
 
-Merhaba, ben Filiz. Fizikçi ve bilgisayar bilimciyim. İzmirliyim ve Dallas’ta yaşıyorum.
+**TR:** Merhaba, ben Filiz. Fizikçi ve bilgisayar bilimciyim. İzmirliyim ve Dallas’ta yaşıyorum.
 
 Burası benim düşünsel alanım! *Fragmenta*’da parçaları, *Sképsis*’te sorgulanmamış hakikatleri, *Metaxy*’de ise benim gözümden arada kalanları bulacaksınız. 
 
@@ -25,7 +25,7 @@ Düşündüğüm, tekrar tekrar döndüğüm, sorguladığım, sevdiğim ve yar�
 
 ---
 
-Hey, this is Filiz. I’m a physicist and computer scientist, originally from the beautiful city of Izmir, Türkiye, and currently living in Dallas.
+**EN:** Hey, this is Filiz. I’m a physicist and computer scientist, originally from the beautiful city of Izmir, Türkiye, and currently living in Dallas.
 
 This is my intellectual space! Fragments in *Fragmenta*, unexamined truths in *Sképsis*, and the in-between in *Metaxy*. 
 
