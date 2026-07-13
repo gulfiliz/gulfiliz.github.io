@@ -9,11 +9,13 @@ tags: erotapokriseis,
 EN:
 
 Helloggg my dear readers,
+
 One of the sweetest surprises of keeping this blog has been discovering the questions that come back to me from the other side of the screen. I’ve answered most of your messages, but I wanted to save a few of them here, in this little archive of conversations.
 
 TR:
 
 Sevgili okurlarım,
+
 Bu blogu yazmanın en tatlı sürprizlerinden biri, ekranın öbür tarafından bana dönen sorular oldu her zaman! İyi ki varsınız! Mesajlarınızın çoğuna cevap verdim, ama bazılarını bu küçük sohbet arşivinde saklamak istedim. :)
 
 ---
@@ -44,11 +46,9 @@ Bu blogu yazmanın en tatlı sürprizlerinden biri, ekranın öbür tarafından 
 
 **5) Q:** If physics tells us that the same explanation does not hold at every scale, could that also be true of human life?
 
-**A:** I need to think about this one a little more. 
+**A:** We stopped demanding a single explanation for every scale; we use quarks for one regime and fluids for another, and nobody calls that failure... I think, I need to think about this one a little more. 
 
-We stopped demanding a single explanation for every scale; we use quarks for one regime and fluids for another, and nobody calls that failure...
-
-I will answer this later. Thanks for the question!
+I will answer this later. Sorry! Thanks for the question! 
 
 ---
 
