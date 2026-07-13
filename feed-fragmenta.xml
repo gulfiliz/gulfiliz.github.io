@@ -1,0 +1,30 @@
+---
+permalink: /feed-fragmenta.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fragmenta · Sképsis · Metaxy — Fragmenta</title>
+    <link>https://gulfiliz.github.io/</link>
+    <atom:link href="{{ '/feed-fragmenta.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
+    <description>Fragmenta essays — full posts.</description>
+    <language>tr</language>
+    {% for post in site.posts %}
+    {% assign tag_string = post.tags | join: " " %}
+    {% if tag_string contains "fragmenta" %}
+    {% unless tag_string contains "philosophy" or tag_string contains "physics" or tag_string contains "quantum" %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description><![CDATA[
+        {{ post.content | replace: 'src="/', 'src="https://gulfiliz.github.io/' | replace: 'href="/', 'href="https://gulfiliz.github.io/' }}
+        <p><em>This essay was originally published at <a href="{{ post.url | absolute_url }}">gulfiliz.github.io</a>.</em></p>
+      ]]></description>
+    </item>
+    {% endunless %}
+    {% endif %}
+    {% endfor %}
+  </channel>
+</rss>
