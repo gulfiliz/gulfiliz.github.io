@@ -8,10 +8,6 @@ github_username: gulfiliz
 linkedin_username: gulfilizakinalp
 # inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
-substack_link:
-  logo: fa-solid fa-newspaper
-  title: Substack
-  url: https://gulfilizakinalp.substack.com
 instagram_link:
   logo: fa-brands fa-instagram
   title: Instagram
@@ -24,6 +20,10 @@ pinterest_link:
   logo: fa-brands fa-pinterest
   title: Pinterest
   url: https://www.pinterest.com/GulFiliz_pins/_profile/
+substack_link:
+  logo: fa-solid fa-newspaper
+  title: Substack
+  url: https://gulfilizakinalp.substack.com
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
