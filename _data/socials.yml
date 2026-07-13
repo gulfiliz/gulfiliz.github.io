@@ -5,9 +5,18 @@
 email: gulfilizakinalp@gmail.com # your email address
 x_username: filiz_phys
 github_username: gulfiliz
-linkedin_username: gulfilizakinalp/
+linkedin_username: gulfilizakinalp
+instagram_username: gulfilizakinalp
 # inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
+goodreads_link:
+  logo: fa-brands fa-goodreads
+  title: Goodreads
+  url: https://www.goodreads.com/user/show/92186842-g-l-filiz-akinalp
+pinterest_link:
+  logo: fa-brands fa-pinterest
+  title: Pinterest
+  url: https://www.pinterest.com/GulFiliz_pins/_profile/
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
