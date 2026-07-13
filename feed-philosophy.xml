@@ -9,7 +9,9 @@ permalink: /feed-philosophy.xml
     <atom:link href="{{ '/feed-philosophy.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
     <description>Philosophy essays — full posts.</description>
     <language>tr</language>
-    {% for post in site.tags.philosophy %}
+    {% for post in site.posts %}
+    {% assign tag_string = post.tags | join: " " %}
+    {% if tag_string contains "philosophy" %}
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <link>{{ post.url | absolute_url }}</link>
@@ -20,6 +22,7 @@ permalink: /feed-philosophy.xml
         <p><em>Bu yazı ilk olarak <a href="{{ post.url | absolute_url }}">gulfiliz.github.io</a> adresinde yayınlandı.</em></p>
       ]]></description>
     </item>
+    {% endif %}
     {% endfor %}
   </channel>
 </rss>
