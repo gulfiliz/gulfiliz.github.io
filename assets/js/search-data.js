@@ -71,17 +71,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/time/";
           
         },
-      },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
-        
-          title: "The Renormalization Group: The Deepest Idea in Physics",
-        
-        description: "Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/renormalization-group/";
-          
-        },
       },{id: "post-erotapokriseis-xi",
         
           title: "Erotapokriseis XI",
@@ -91,6 +80,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2026/erotapokriseis-xi/";
+          
+        },
+      },{id: "post-the-renormalization-group-the-deepest-idea-in-physics",
+        
+          title: "The Renormalization Group: The Deepest Idea in Physics",
+        
+        description: "Why physics at different scales decouples, how universality emerges from microscopic chaos, and why the RG is not a technique but a way of thinking about reality.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/renormalization-group/";
           
         },
       },{id: "post-a-manifesto-against-pseudo-intellectualism-on-the-most-dangerous-people-in-the-room",
