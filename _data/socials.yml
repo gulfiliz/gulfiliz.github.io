@@ -9,7 +9,7 @@ linkedin_username: gulfilizakinalp
 # inspirehep_id: 1010907 # Inspire HEP author ID
 rss_icon: true # comment this line to hide the RSS icon
 substack_link:
-  logo: fa-brands fa-substack
+  logo: fa-solid fa-newspaper
   title: Substack
   url: https://gulfilizakinalp.substack.com
 instagram_link:
