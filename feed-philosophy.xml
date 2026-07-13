@@ -7,7 +7,7 @@ permalink: /feed-philosophy.xml
     <title>Fragmenta · Sképsis · Metaxy — Philosophy</title>
     <link>https://gulfiliz.github.io/</link>
     <atom:link href="{{ '/feed-philosophy.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    <description>Philosophy essays — short introductions with links to the full posts.</description>
+    <description>Philosophy essays — full posts.</description>
     <language>tr</language>
     {% for post in site.tags.philosophy %}
     <item>
@@ -16,8 +16,8 @@ permalink: /feed-philosophy.xml
       <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <description><![CDATA[
-        {% if post.description %}<p>{{ post.description }}</p>{% else %}<p>{{ post.excerpt | strip_html | truncate: 240 }}</p>{% endif %}
-        <p><a href="{{ post.url | absolute_url }}">Yazının tamamı blogda →</a></p>
+        {{ post.content | replace: 'src="/', 'src="https://gulfiliz.github.io/' | replace: 'href="/', 'href="https://gulfiliz.github.io/' }}
+        <p><em>Bu yazı ilk olarak <a href="{{ post.url | absolute_url }}">gulfiliz.github.io</a> adresinde yayınlandı.</em></p>
       ]]></description>
     </item>
     {% endfor %}
