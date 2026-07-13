@@ -15,6 +15,7 @@ I’ve been reading your emails with great pleasure. Some of your questions were
 TR:
 
 Merhaba sevgili okurlarım,
+
 E-postalarınızı büyük bir keyifle okuyorum. Bazı sorularınız özel cevapların içinde kaybolamayacak kadar düşünceliydi; bu yüzden birkaçını burada bir araya getirmek istedim. Nezaketiniz, merakınız ve dikkatli okumanız için çok teşekkür ederim. Yakında doğum günüm geliyor, keşke orada olsaydım. Çok sevgiler. :)
 
 ---
