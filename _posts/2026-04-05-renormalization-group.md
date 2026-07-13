@@ -9,9 +9,9 @@ tags: research-logs, physics, EN,
 There is an idea in physics
 that is so deep
 that once you understand it,
-you cannot unsee it.
+you cannot unsee it!
 
-It is everywhere.
+It is everywhere...
 
 In the flow of a turbulent river.
 In the behavior of magnets near the critical point.
