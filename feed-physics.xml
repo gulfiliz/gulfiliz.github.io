@@ -1,0 +1,31 @@
+---
+permalink: /feed-physics.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fragmenta · Sképsis · Metaxy — Physics &amp; Research</title>
+    <link>https://gulfiliz.github.io/</link>
+    <atom:link href="{{ '/feed-physics.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
+    <description>Physics, quantum, and research-log posts — introductions with links to the full essays.</description>
+    <language>tr</language>
+    {% for post in site.posts %}
+    {% assign tag_string = post.tags | join: " " %}
+    {% if tag_string contains "physics" or tag_string contains "quantum" or tag_string contains "research-logs" %}
+    {% unless tag_string contains "philosophy" %}
+    <item>
+      <title>{{ post.title | xml_escape }}</title>
+      <link>{{ post.url | absolute_url }}</link>
+      <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <description><![CDATA[
+        {% if post.description %}<p>{{ post.description }}</p>{% else %}<p>{{ post.excerpt | strip_html | truncate: 280 }}</p>{% endif %}
+        <p>This post contains equations and figures that render best on the original site.</p>
+        <p><a href="{{ post.url | absolute_url }}"><strong>Read the full essay at gulfiliz.github.io &rarr;</strong></a></p>
+      ]]></description>
+    </item>
+    {% endunless %}
+    {% endif %}
+    {% endfor %}
+  </channel>
+</rss>
