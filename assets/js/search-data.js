@@ -856,7 +856,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/gulfilizakinalp/", "_blank");
+          window.open("https://www.linkedin.com/in/gulfilizakinalp", "_blank");
         },
       },{
         id: 'social-rss',
@@ -864,6 +864,27 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-instagram_link',
+        title: 'Instagram_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.instagram.com/gulfilizakinalp", "_blank");
+        },
+      },{
+        id: 'social-goodreads_link',
+        title: 'Goodreads_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.goodreads.com/user/show/92186842-g-l-filiz-akinalp", "_blank");
+        },
+      },{
+        id: 'social-pinterest_link',
+        title: 'Pinterest_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.pinterest.com/GulFiliz_pins/_profile/", "_blank");
         },
       },{
       id: 'light-theme',
