@@ -884,7 +884,7 @@ ninja.data = [{
         title: 'Pinterest_link',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.pinterest.com/GulFiliz_pins/_profile/", "_blank");
+          window.open("https://www.pinterest.com/GulFilizAKINALP/_profile/", "_blank");
         },
       },{
         id: 'social-substack_link',
