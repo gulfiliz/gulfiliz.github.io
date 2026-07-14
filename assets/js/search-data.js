@@ -877,14 +877,14 @@ ninja.data = [{
         title: 'Goodreads_link',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.goodreads.com/user/show/92186842-g-l-filiz-akinalp", "_blank");
+          window.open("https://www.goodreads.com/gulfilizakinalp", "_blank");
         },
       },{
         id: 'social-pinterest_link',
         title: 'Pinterest_link',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.pinterest.com/GulFilizAKINALP/_profile/", "_blank");
+          window.open("https://www.pinterest.com/GulFilizAKINALP", "_blank");
         },
       },{
         id: 'social-substack_link',
