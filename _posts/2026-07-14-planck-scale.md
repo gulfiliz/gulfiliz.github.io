@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Planck Scale: Where Physics Ends and the Unknown Begins"
-date: 2026-01-23
+date: 2026-07-14
 description: At 10⁻³⁵ meters, our best theories break down simultaneously. This is the edge of what we can know, not a technical problem.
 tags: research-logs, physics, quantum, EN,
 ---
