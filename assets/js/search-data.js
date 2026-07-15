@@ -214,6 +214,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/quantum-computing-hype/";
           
         },
+      },{id: "post-the-planck-scale-where-physics-ends-and-the-unknown-begins",
+        
+          title: "The Planck Scale: Where Physics Ends and the Unknown Begins",
+        
+        description: "At 10⁻³⁵ meters, our best theories break down simultaneously. This is the edge of what we can know, not a technical problem.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/planck-scale/";
+          
+        },
       },{id: "post-the-philosopher-39-s-nephew-on-nepotism-merit-and-the-betrayal-of-ideas",
         
           title: "The Philosopher&#39;s Nephew: On Nepotism, Merit, and the Betrayal of Ideas",
