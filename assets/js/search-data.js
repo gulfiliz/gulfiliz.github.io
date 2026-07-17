@@ -870,13 +870,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/gulfilizakinalp", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-instagram_link',
         title: 'Instagram_link',
         section: 'Socials',
