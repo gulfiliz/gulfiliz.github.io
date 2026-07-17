@@ -7,7 +7,7 @@ x_username: filiz_phys
 github_username: gulfiliz
 linkedin_username: gulfilizakinalp
 # inspirehep_id: 1010907 # Inspire HEP author ID
-rss_icon: true # comment this line to hide the RSS icon
+#rss_icon: false # comment this line to hide the RSS icon
 instagram_link:
   logo: fa-brands fa-instagram
   title: Instagram
