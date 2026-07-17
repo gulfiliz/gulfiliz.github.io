@@ -3,7 +3,7 @@
 layout: page
 permalink: /erotapokriseis/ask/
 title: Erotapokriseis
-description: sizden gelenlere / from you
+description: questions / sorularınız 
 nav: false
 ---
 
@@ -51,7 +51,6 @@ nav: false
   </button>
   <p id="ask-form-status" style="margin-top:1rem; font-size:0.9rem;"></p>
 </form>
-```
 
   </div>
 </div>
@@ -70,15 +69,15 @@ document.getElementById('ask-filiz-form').addEventListener('submit', function(e)
       form.reset();
       document.getElementById('ask-form-wrapper').innerHTML =
         '<p style="font-size: 1.1rem;">' +
-        'Sorunuz alındı, teşekkürler. Yanıtlar Erotapokriseis köşesinde yer alacak. Çok teşeskkür ederim, çok sevgiler!<br><br>' +
+        'Sorunuz alındı, teşekkürler. Yanıtlar Erotapokriseis köşesinde yer alacak! Çok teşekkür ederim, çok sevgiler!<br><br>' +
         'Your question has been received, thank you so much! Answers will appear in the Erotapokriseis column over time.' +
         '</p>';
     } else {
-      status.textContent = 'Bir şeyler ters gitti, tekrar dener misiniz? · Something went wrong, please try again.';
+      status.textContent = 'Bir şeyler ters gitti, tekrar deneyebilir misiniz? · Something went wrong, please try again.';
       status.style.color = 'crimson';
     }
   }).catch(() => {
-    status.textContent = 'Bağlantı hatası, tekrar dener misiniz? · Connection error, please try again.';
+    status.textContent = 'Bağlantı hatası, tekrar deneyebilir misiniz? · Connection error, please try again.';
     status.style.color = 'crimson';
   });
 });
