@@ -842,6 +842,62 @@ ninja.data = [{
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
           section: "News",},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%67%75%6C%66%69%6C%69%7A%61%6B%69%6E%61%6C%70@%67%6D%61%69%6C.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/filiz_phys", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/gulfiliz", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/gulfilizakinalp", "_blank");
+        },
+      },{
+        id: 'social-instagram_link',
+        title: 'Instagram_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.instagram.com/gulfilizakinalp", "_blank");
+        },
+      },{
+        id: 'social-goodreads_link',
+        title: 'Goodreads_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.goodreads.com/gulfilizakinalp", "_blank");
+        },
+      },{
+        id: 'social-pinterest_link',
+        title: 'Pinterest_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.pinterest.com/GulFilizAKINALP", "_blank");
+        },
+      },{
+        id: 'social-substack_link',
+        title: 'Substack_link',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://gulfilizakinalp.substack.com", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
