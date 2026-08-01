@@ -2,28 +2,28 @@
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
-#email: gulfilizakinalp@gmail.com # your email address
-#x_username: filiz_phys
-#github_username: gulfiliz
-#linkedin_username: gulfilizakinalp
+email: gulfilizakinalp@gmail.com # your email address
+x_username: filiz_phys
+github_username: gulfiliz
+linkedin_username: gulfilizakinalp
 # inspirehep_id: 1010907 # Inspire HEP author ID
 #rss_icon: false # comment this line to hide the RSS icon
-#instagram_link:
-  # logo: fa-brands fa-instagram
-  # title: Instagram
-  # url: https://www.instagram.com/gulfilizakinalp
-#goodreads_link:
-  # logo: fa-brands fa-goodreads
-  # title: Goodreads
-  # url: https://www.goodreads.com/gulfilizakinalp
-# pinterest_link:
-#   logo: fa-brands fa-pinterest
-#   title: Pinterest
-#   url: https://www.pinterest.com/GulFilizAKINALP
-# substack_link:
-#   logo: fa-solid fa-newspaper
-#   title: Substack
-#   url: https://gulfilizakinalp.substack.com
+instagram_link:
+  logo: fa-brands fa-instagram
+  title: Instagram
+  url: https://www.instagram.com/gulfilizakinalp
+goodreads_link:
+  logo: fa-brands fa-goodreads
+  title: Goodreads
+  url: https://www.goodreads.com/gulfilizakinalp
+pinterest_link:
+  logo: fa-brands fa-pinterest
+  title: Pinterest
+  url: https://www.pinterest.com/GulFilizAKINALP
+substack_link:
+  logo: fa-solid fa-newspaper
+  title: Substack
+  url: https://gulfilizakinalp.substack.com
 # scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
