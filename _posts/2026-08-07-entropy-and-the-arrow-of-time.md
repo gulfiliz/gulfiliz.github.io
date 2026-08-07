@@ -6,19 +6,27 @@ description: The only law in physics that knows which way time flows.
 tags: research-logs, physics, quantum, EN,
 ---
 
-Every fundamental law of physics is time-symmetric.
+Every fundamental law of physics is time-symmetric!
 
 Newton's equations: time-symmetric!
+
 Maxwell's equations: time-symmetric!
+
 Schrödinger's equation: time-symmetric!
+
 Even the Standard Model — with one tiny, almost negligible exception —
 is time-symmetric!
 
-Run the equations forward! Run them backward!
+Run the equations forward! 
+
+Run them backward!
+
 They don't care. ( DO NOT CARE! )
 
 And yet — you have never seen a shattered glass reassemble itself.
+
 You have never seen smoke pour back into a cigarette.
+
 You have never seen a scrambled egg unscramble.
 
 There is a direction to time. An arrow.
