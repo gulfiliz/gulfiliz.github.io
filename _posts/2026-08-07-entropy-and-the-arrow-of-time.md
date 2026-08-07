@@ -14,8 +14,7 @@ Maxwell's equations: time-symmetric!
 
 Schrödinger's equation: time-symmetric!
 
-Even the Standard Model — with one tiny, almost negligible exception —
-is time-symmetric!
+Even the Standard Model is time-symmetric (with one tiny, almost negligible exception)!
 
 Run the equations forward! 
 
