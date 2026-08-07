@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg
+title: Entropy and the Arrow of Time: Why You Cannot Unscramble an Egg
 date: 2026-08-07
 description: The only law in physics that knows which way time flows.
 tags: research-logs, physics, quantum, EN,
