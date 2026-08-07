@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Entropy and the Arrow of Time: Why You Cannot Unscramble an Egg
+title: Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg
 date: 2026-08-07
 description: The only law in physics that knows which way time flows.
 tags: research-logs, physics, quantum, EN,
@@ -212,4 +212,9 @@ Thinking has a thermodynamic cost! ( oo yeah! :) )
 The universe is running down...
 We are, briefly, running against it...
 
-That, I think, is enough!
+That, I think, is enough! 
+(Ahahahah, writing this line made me feel like I was narrating a documentary! Anyway, cheers!)
+
+P.S. I’ll add the further reading and sources later. I’m kind of sick right now! Thank you for reading. :)
+
+
