@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
+        },{id: "post-",
         
-          title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
+          title: "",
         
-        description: "The only law in physics that knows which way time flows.",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/entropy-and-the-arrow-of-time/";
+            window.location.href = "/blog/2026/2026-08-07-entropy-and-the-arrow-of-time/";
           
         },
       },{id: "post-the-planck-scale-where-physics-ends-and-the-unknown-begins",
