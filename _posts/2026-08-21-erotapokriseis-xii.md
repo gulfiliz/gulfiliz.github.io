@@ -180,7 +180,7 @@ Filiz
 
 ---
 
-**11) C:** If I could step inside your mind like a private museum, what would be waiting for me in the very first room?
+**12) C:** If I could step inside your mind like a private museum, what would be waiting for me in the very first room?
 
 
 **A:** That’s such an interesting question. Thank you for asking! 
