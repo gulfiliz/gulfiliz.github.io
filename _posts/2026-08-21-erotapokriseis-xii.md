@@ -17,9 +17,7 @@ But! We are not actually leaving GitHub. I will still post everything here, and 
 
 Basically: WE ARE STILL ON GITHUB! And, and, aaaand... this took some courage, but I opened the anonymous question box again. :D You can now write to me anonymously under every post. I just hope we do not return to the same gossip-y, absurd questions from before. Please behave. :D For now, the anonymous box will stay open under each post, and you can ask me whatever you would like there.
 
-And really, thank you so much.
-
-Thanks for reading. :)
+And really, thank you so much.:)
 
 ---
 
@@ -37,7 +35,6 @@ Merhaba sevgili okurlarım :)
 **A:** Suspicion, mostly. In physics, whenever a number looks suspiciously tuned, it often means we are missing the deeper theory that makes it inevitable, not that someone set a dial. Wonder at the universe always; but "fine-tuned" is usually nature telling me my equations aren't finished yet. :) 
 
 And for the second question: Not really, because we don't actually know they could have been otherwise. We have no complete theory of where the constants come from, and ignorance isn't the same as contingency. Reality isn't weakened by our not reaching the bottom; it's just still holding something back.
-
 
 ---
 
@@ -142,7 +139,6 @@ This question came in Turkish.
 
 **9) Q:** MR yazınız kalbime çok dokundu. Kendimize mutluluk borcumuz var hakikaten. Şimdi nasılsınız? İyileştiniz mi?
 
-
 **A:** Ah, ne mutlu bana duygularim yaziyi okuyana gecebildiyse... Tesekkur ederim. Daha iyiyim. Her gun iyi olmaya calisiyorum. Calisiyorum, yeni seyler ogreniyorum, geziyorum, haftasonlarimi dolu dolu geciriyorum. Sevdigim yemekleri yiyorum. Daha da iyi olacagim. Daha mutlu olmak istiyorum. Vucudumu iyilestirmeye calisiyorum. Iyilesecegim. :)
 
 ---
@@ -180,7 +176,7 @@ Filiz
 
 ---
 
-**12) C:** If I could step inside your mind like a private museum, what would be waiting for me in the very first room?
+**12) Q:** If I could step inside your mind like a private museum, what would be waiting for me in the very first room?
 
 
 **A:** That’s such an interesting question. Thank you for asking! 
