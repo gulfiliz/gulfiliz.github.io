@@ -51,7 +51,7 @@ So I think sameness is closer to continuity than identity. A river is still call
 
 ---
 
-**3) Q:** When scale changes ([The Renormalization Group]({% post_url 2026-04-09-renormalization-group %})), do only the equations change, or does the language of reality change too?
+**3) Q:** When scale changes ([The Renormalization Group]({% post_url 2026-04-05-renormalization-group %})), do only the equations change, or does the language of reality change too?
 
 **A:** Both, and that is the deep part. The couplings run with scale, yes, but so does the vocabulary of what we are willing to call fundamental. Quarks and gluons give way to protons, protons to nuclei, and yesterday’s ontology quietly becomes today’s microscopic detail. Renormalization is not merely the statement that our equations depend on scale. It is the rather inconvenient fact that nature seems under no obligation to preserve our favorite description of it. Reality speaks a different dialect at every scale, and reductionism does not get to declare one of them the only honest one!
 
