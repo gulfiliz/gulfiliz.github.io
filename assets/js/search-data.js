@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
+        },{id: "post-erotapokriseis-xii",
+        
+          title: "Erotapokriseis XII",
+        
+        description: "Reader questions, answered.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/erotapokriseis-xii/";
+          
+        },
+      },{id: "post-entropy-and-the-arrow-of-time-why-you-cannot-unscramble-an-egg",
         
           title: "Entropy and the Arrow of Time — Why You Cannot Unscramble an Egg...",
         
