@@ -3,7 +3,7 @@ layout: post
 title: Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us Better Than We Know Ourselves
 date: 2026-08-28
 description: On Hesiod's cosmogony, the violence at the origin of things, and why the myth of Oedipus is not about incest but about the unbearable desire to know.
-tags: readings, philosophy, metaxy, skepsis, fragmenta, EN,
+tags: readings, philosophy, fragmenta, skepsis, metaxy,
 ---
 
 *To Nevzat Kaya, thank you for inspiring me!*
@@ -11,18 +11,18 @@ tags: readings, philosophy, metaxy, skepsis, fragmenta, EN,
 *He pulled me out of a room
 where intelligence worshipped itself,
 where STEM had already decided
-what counted as knowing
-(STEM elitism kills the wonder!).*
+what counted as knowing!
+Yes, indeed, STEM elitism kills wonder!*
 
 *He reminded me that I am human first:
 a hungry animal,
 thirsty for story, for myths,
 for everything the equations leave out!*
 
----
-
 *I do not know how to thank him enough.
 Endless thanks.*
+
+---
 
 Before there was anything,
 there was Chaos.
