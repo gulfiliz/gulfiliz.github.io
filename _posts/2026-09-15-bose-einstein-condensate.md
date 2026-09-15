@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bose-Einstein Condensation - When Quantum Mechanics Becomes Visible
+title: Bose-Einstein Condensation: When Quantum Mechanics Becomes Visible
 date: 2026-09-15
 description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity."
 tags: research-logs, physics, quantum, EN,
@@ -98,11 +98,11 @@ In a normal Bose gas, $$\langle\hat{\psi}\rangle = 0$$; in a BEC, $$\langle\hat{
 
 $$\rho^{(1)}(\mathbf{r}, \mathbf{r}') = \langle\hat{\psi}^\dagger(\mathbf{r})\hat{\psi}(\mathbf{r}')\rangle$$
 
-For a normal system, $$\rho^{(1)}(\mathbf{r}, \mathbf{r}') \to 0$$ as $$|\mathbf{r} - \mathbf{r}'| \to \infty$$. For a BEC,
+For a normal system, $$\rho^{(1)}(\mathbf{r}, \mathbf{r}') \to 0$$ as $$\lvert\mathbf{r} - \mathbf{r}'\rvert \to \infty$$. For a BEC,
 
 $$\rho^{(1)}(\mathbf{r}, \mathbf{r}') \to \Psi^*(\mathbf{r})\Psi(\mathbf{r}')$$
 
-as $$|\mathbf{r} - \mathbf{r}'| \to \infty$$: the off-diagonal elements remain finite at large separations, **off-diagonal long-range order**. ODLRO is the defining property of a BEC; it holds even in interacting systems where other definitions break down.
+as $$\lvert\mathbf{r} - \mathbf{r}'\rvert \to \infty$$: the off-diagonal elements remain finite at large separations, **off-diagonal long-range order**. ODLRO is the defining property of a BEC; it holds even in interacting systems where other definitions break down.
 
 ---
 
@@ -110,9 +110,9 @@ as $$|\mathbf{r} - \mathbf{r}'| \to \infty$$: the off-diagonal elements remain f
 
 For a dilute, weakly interacting BEC at zero temperature, the condensate wavefunction obeys the **Gross-Pitaevskii equation (GPE)**:
 
-$$i\hbar\frac{\partial\Psi}{\partial t} = \left[-\frac{\hbar^2\nabla^2}{2m} + V_{ext}(\mathbf{r}) + g|\Psi|^2\right]\Psi$$
+$$i\hbar\frac{\partial\Psi}{\partial t} = \left[-\frac{\hbar^2\nabla^2}{2m} + V_{ext}(\mathbf{r}) + g\lvert\Psi\rvert^2\right]\Psi$$
 
-This is a nonlinear Schrödinger equation. The interaction term $$g|\Psi|^2$$ encodes the mean-field effect of all other condensate atoms on a single atom. The coupling constant is
+This is a nonlinear Schrödinger equation. The interaction term $$g\lvert\Psi\rvert^2$$ encodes the mean-field effect of all other condensate atoms on a single atom. The coupling constant is
 
 $$g = \frac{4\pi\hbar^2 a_s}{m}$$
 
@@ -120,11 +120,11 @@ where $$a_s$$ is the **s-wave scattering length**, the key parameter characteriz
 
 **The Thomas-Fermi approximation:** In the limit of large condensates ($$Na_s/a_{HO} \gg 1$$, where $$a_{HO}$$ is the harmonic oscillator length), the kinetic energy is negligible:
 
-$$0 = \left[V_{ext}(\mathbf{r}) + g|\Psi|^2 - \mu\right]\Psi$$
+$$0 = \left[V_{ext}(\mathbf{r}) + g\lvert\Psi\rvert^2 - \mu\right]\Psi$$
 
 For a harmonic trap $$V_{ext} = \frac{1}{2}m\omega^2 r^2$$,
 
-$$n_0(\mathbf{r}) = |\Psi|^2 = \frac{\mu - \frac{1}{2}m\omega^2 r^2}{g}$$
+$$n_0(\mathbf{r}) = \lvert\Psi\rvert^2 = \frac{\mu - \frac{1}{2}m\omega^2 r^2}{g}$$
 
 for $$r < R_{TF}$$, and $$0$$ otherwise. The Thomas-Fermi radius is
 
@@ -234,7 +234,7 @@ $$\Psi = \begin{pmatrix}\Psi_{+1}\\\Psi_0\\\Psi_{-1}\end{pmatrix}$$
 
 The interaction Hamiltonian is
 
-$$\hat{H}_{int} = \frac{c_0}{2}n^2 + \frac{c_2}{2}|\mathbf{F}|^2$$
+$$\hat{H}_{int} = \frac{c_0}{2}n^2 + \frac{c_2}{2}\lvert\mathbf{F}\rvert^2$$
 
 where $$\mathbf{F}$$ is the spin density. In the ferromagnetic case ($$c_2 < 0$$, e.g., $$^{87}$$Rb), spins align, giving a magnetized condensate. In the antiferromagnetic or polar case ($$c_2 > 0$$, e.g., $$^{23}$$Na), spins anti-align, giving spin-nematic order.
 
@@ -250,11 +250,11 @@ One of the most remarkable applications of BECs is analogue gravity (Unruh, 1981
 
 $$ds^2 = \frac{n_0}{mc_s}\left[-(c_s^2 - v^2)dt^2 - 2v_i dx^i dt + \delta_{ij}dx^i dx^j\right]$$
 
-where $$\mathbf{v}$$ is the superfluid velocity and $$c_s$$ is the speed of sound. Where the flow crosses from subsonic to supersonic ($$|\mathbf{v}| = c_s$$), an acoustic horizon can form, the analogue of a black hole event horizon. In the black-hole configuration, phonons cannot escape from the supersonic region, just as light cannot escape a black hole.
+where $$\mathbf{v}$$ is the superfluid velocity and $$c_s$$ is the speed of sound. Where the flow crosses from subsonic to supersonic ($$\lvert\mathbf{v}\rvert = c_s$$), an acoustic horizon can form, the analogue of a black hole event horizon. In the black-hole configuration, phonons cannot escape from the supersonic region, just as light cannot escape a black hole.
 
 **Analogue Hawking radiation:** Unruh showed (1981) that an acoustic horizon should emit thermal radiation, analogue Hawking radiation, at temperature
 
-$$T_H = \frac{\hbar}{2\pi k_B}\left|\frac{\partial(v - c_s)}{\partial x}\right|_{horizon}$$
+$$T_H = \frac{\hbar}{2\pi k_B}\left\lvert\frac{\partial(v - c_s)}{\partial x}\right\rvert_{horizon}$$
 
 Steinhauer reported its observation in a BEC in 2016. The result became a landmark claim in analogue-gravity experiments, although its interpretation has been debated.
 
@@ -324,19 +324,19 @@ The same physics. Different scales. One universe.
 
 **Essential reading**
 
-- Bose, "Plancks Gesetz und Lichtquantenhypothese" (1924), Z. Phys. 26, 178, and Einstein, "Quantentheorie des einatomigen idealen Gases" (1924, 1925), Sitz. Ber. Preuss. Akad. Wiss. 1924, 261; 1925, 3: the original predictions.
+*Bose, "Plancks Gesetz und Lichtquantenhypothese" (1924), Z. Phys. 26, 178, and Einstein, "Quantentheorie des einatomigen idealen Gases" (1924, 1925), Sitz. Ber. Preuss. Akad. Wiss. 1924, 261; 1925, 3: the original predictions.
 
-- Anderson et al., "Observation of Bose-Einstein Condensation in a Dilute Atomic Vapor" (1995), Science 269, 198, and Davis et al., "Bose-Einstein Condensation in a Gas of Sodium Atoms" (1995), Phys. Rev. Lett. 75, 3969: the experimental discoveries.
+Anderson et al., "Observation of Bose-Einstein Condensation in a Dilute Atomic Vapor" (1995), Science 269, 198, and Davis et al., "Bose-Einstein Condensation in a Gas of Sodium Atoms" (1995), Phys. Rev. Lett. 75, 3969: the experimental discoveries.
 
-- Pitaevskii & Stringari, *Bose-Einstein Condensation and Superfluidity* (2016), Oxford University Press: the definitive textbook.
+Pitaevskii & Stringari, *Bose-Einstein Condensation and Superfluidity* (2016), Oxford University Press: the definitive textbook.
 
-- Pethick & Smith, *Bose-Einstein Condensation in Dilute Gases* (2002), Cambridge University Press: excellent graduate text.
+Pethick & Smith, *Bose-Einstein Condensation in Dilute Gases* (2002), Cambridge University Press: excellent graduate text.
 
-- Leggett, *Quantum Liquids* (2006), Oxford University Press: BEC, superfluidity, superconductivity unified.
+Leggett, *Quantum Liquids* (2006), Oxford University Press: BEC, superfluidity, superconductivity unified.
+
 
 **For reviews**
 
-- Dalfovo et al., "Theory of Bose-Einstein condensation in trapped gases" (1999), Rev. Mod. Phys. 71, 463.
+Dalfovo et al., "Theory of Bose-Einstein condensation in trapped gases" (1999), Rev. Mod. Phys. 71, 463.
 
-- Bloch, Dalibard & Zwerger, "Many-body physics with ultracold gases" (2008), Rev. Mod. Phys. 80, 885: the comprehensive review of the field.
-
+Bloch, Dalibard & Zwerger, "Many-body physics with ultracold gases" (2008), Rev. Mod. Phys. 80, 885: the comprehensive review of the field.*
