@@ -318,7 +318,7 @@ At 10:54 in the morning, June 5, 1995, in a lab at JILA in Boulder, Cornell and 
 
 This was it. Seventy years after Einstein's prediction: a new state of matter, quantum mechanics made macroscopic, the most precise control of quantum systems ever achieved. And a window into the deep structure of reality, from rubidium atoms at tens of nanokelvin to the Higgs field that fills all of space to the quantum vacuum that seethes beneath everything.
 
-The same physics. Different scales. One universe.
+The same physics. Different scales. One universe. (yeah, physics has no problem with being romantic!)
 
 ---
 
