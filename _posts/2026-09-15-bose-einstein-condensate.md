@@ -1216,11 +1216,15 @@ to the quantum vacuum
 
 that seethes beneath everything.
 
-The same physics.
+The same physics. 
 
-Different scales.
+Different scales. 
 
 One universe.
+
+(Yeah, physics has no problem with being romantic!) 
+
+Thank you for reading. 
 
 ---
 
