@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/2026-09-15-bose-einstein-condensate/";
+          
+        },
+      },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
         
           title: "Hesiod, the Theogony, and Our Oedipal Wounds — On Myths That Know Us...",
         
