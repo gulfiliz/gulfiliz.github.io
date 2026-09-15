@@ -324,7 +324,7 @@ The same physics. Different scales. One universe.
 
 **Essential reading**
 
-*Bose, "Plancks Gesetz und Lichtquantenhypothese" (1924), Z. Phys. 26, 178, and Einstein, "Quantentheorie des einatomigen idealen Gases" (1924, 1925), Sitz. Ber. Preuss. Akad. Wiss. 1924, 261; 1925, 3: the original predictions.
+Bose, "Plancks Gesetz und Lichtquantenhypothese" (1924), Z. Phys. 26, 178, and Einstein, "Quantentheorie des einatomigen idealen Gases" (1924, 1925), Sitz. Ber. Preuss. Akad. Wiss. 1924, 261; 1925, 3: the original predictions.
 
 Anderson et al., "Observation of Bose-Einstein Condensation in a Dilute Atomic Vapor" (1995), Science 269, 198, and Davis et al., "Bose-Einstein Condensation in a Gas of Sodium Atoms" (1995), Phys. Rev. Lett. 75, 3969: the experimental discoveries.
 
@@ -339,4 +339,4 @@ Leggett, *Quantum Liquids* (2006), Oxford University Press: BEC, superfluidity, 
 
 Dalfovo et al., "Theory of Bose-Einstein condensation in trapped gases" (1999), Rev. Mod. Phys. 71, 463.
 
-Bloch, Dalibard & Zwerger, "Many-body physics with ultracold gases" (2008), Rev. Mod. Phys. 80, 885: the comprehensive review of the field.*
+Bloch, Dalibard & Zwerger, "Many-body physics with ultracold gases" (2008), Rev. Mod. Phys. 80, 885: the comprehensive review of the field.
