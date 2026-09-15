@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
+        },{id: "post-",
         
-          title: "Bose-Einstein Condensation - When Quantum Mechanics Becomes Visible",
+          title: "",
         
-        description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity.",
+        description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2026/bose-einstein-condensate/";
+            window.location.href = "/blog/2026/2026-09-15-bose-einstein-condensate/";
           
         },
       },{id: "post-hesiod-the-theogony-and-our-oedipal-wounds-on-myths-that-know-us-better-than-we-know-ourselves",
