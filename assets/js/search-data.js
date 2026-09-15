@@ -16,9 +16,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-bose-einstein-condensation-quot-when-quantum-mechanics-becomes-visible-quot",
+        },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
         
-          title: "Bose-Einstein Condensation &quot;When Quantum Mechanics Becomes Visible&quot;",
+          title: "Bose-Einstein Condensation ~ When Quantum Mechanics Becomes Visible",
         
         description: "The theoretical prediction took 70 years to realize experimentally. The result: a new state of matter where quantum mechanics operates at macroscopic scales, and a laboratory for everything from superfluidity to quantum simulation to analogue gravity.",
         section: "Posts",
