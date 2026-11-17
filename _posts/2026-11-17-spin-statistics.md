@@ -1137,7 +1137,7 @@ in the history of physics.
 
 Even the deepest theorems
 
-can be proved without being understood.
+can be proved without being understood...
 
 
 ---
