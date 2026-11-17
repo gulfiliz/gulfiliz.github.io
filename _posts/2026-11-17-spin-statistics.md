@@ -95,7 +95,7 @@ This distinction is not just taxonomic.
 
 It determines the statistical behavior
 
-of many-particle systems —
+of many-particle systems 
 
 and through that, the structure of matter.
 
@@ -118,7 +118,7 @@ The composite particles:
 
 The behavior of liquid helium-4 versus helium-3
 
-at low temperatures is dramatically different —
+at low temperatures is dramatically different;
 
 precisely because of this distinction.
 
@@ -137,12 +137,12 @@ the wavefunction is:
 $$\Psi(q_1, q_2, ..., q_N)$$
 
 
-Here $$q_i$$ labels the complete one-particle coordinates —
+Here $$q_i$$ labels the complete one-particle coordinates,
 
 including position **and spin**.
 
 
-"Identical" means genuinely indistinguishable —
+"Identical" means genuinely indistinguishable,
 
 not just similar, but physically identical.
 
@@ -210,7 +210,7 @@ The wavefunction vanishes whenever two fermions occupy the same one-particle sta
 
 Two fermions cannot be in the same **quantum state**.
 
-They can occupy the same region of space —
+They can occupy the same region of space,
 
 if their spin states differ.
 
@@ -369,7 +369,7 @@ $$[\mathcal O(x),\mathcal O(y)] = 0
 Here the metric convention is $$(+,-,-,-)$$.
 
 
-This is locality — events at spacelike separation
+This is locality; events at spacelike separation
 
 cannot influence each other.
 
@@ -531,7 +531,7 @@ Dirac's solution (1930):
 **The Dirac sea.**
 
 
-All negative-energy states are filled —
+All negative-energy states are filled
 
 by the Pauli exclusion principle,
 
@@ -554,14 +554,14 @@ Anderson discovered it in 1932.
 
 The Dirac sea picture requires fermions.
 
-For bosons, there is no Pauli exclusion —
+For bosons, there is no Pauli exclusion,
 
 you cannot fill the negative-energy states.
 
 The theory would be unstable.
 
 
-This was a powerful historical intuition —
+This was a powerful historical intuition,
 
 not the modern proof.
 
@@ -588,7 +588,7 @@ In 2D, when you exchange two particles,
 
 the path of exchange is topologically nontrivial.
 
-You can wind one particle around another —
+You can wind one particle around another 
 
 and the braid remembers how the exchange happened.
 
@@ -607,7 +607,7 @@ Particles with exchange angles other than $$0$$ or $$\pi$$
 
 (modulo $$2\pi$$) are **Abelian anyons.**
 
-They have fractional statistics —
+They have fractional statistics,
 
 neither bosonic nor fermionic.
 
@@ -646,7 +646,7 @@ is a multi-dimensional Hilbert space.
 
 Exchanging anyons performs unitary operations
 
-on this space —
+on this space:
 
 **braiding.**
 
@@ -660,7 +660,7 @@ in the collective fusion state of non-Abelian anyons.
 
 Some gates can be implemented by braiding.
 
-The computation can gain protection from topology —
+The computation can gain protection from topology,
 
 local perturbations do not easily change the encoded information.
 
@@ -715,7 +715,7 @@ $$\{Q_\alpha, Q_\beta\} = \{\bar{Q}_{\dot{\alpha}}, \bar{Q}_{\dot{\beta}}\} = 0$
 $$[P_\mu, Q_\alpha] = [P_\mu, \bar{Q}_{\dot{\alpha}}] = 0$$
 
 
-The spin-statistics theorem is not violated —
+The spin-statistics theorem is not violated,
 
 each particle still has the statistics
 
@@ -724,7 +724,7 @@ appropriate to its spin.
 
 But the spectrum is organized
 
-into **supermultiplets** —
+into **supermultiplets**,
 
 bosonic and fermionic partners
 
@@ -747,7 +747,7 @@ Clearly not the case.
 
 If SUSY describes nature,
 
-it must be broken —
+it must be broken,
 
 superpartner masses need not match
 
@@ -766,9 +766,9 @@ Or it may not exist at all.
 
 The spin-statistics theorem remains intact.
 
-SUSY is consistent with it —
+SUSY is consistent with it.
 
-it just pairs particles across the boson/fermion divide.
+It just pairs particles across the boson/fermion divide.
 
 
 ---
@@ -812,7 +812,7 @@ Each element's chemistry follows from its electron configuration.
 
 Covalent bonds require two electrons
 
-with opposite spins in the same orbital —
+with opposite spins in the same orbital,
 
 the Pauli principle allows this
 
@@ -827,7 +827,7 @@ up to the Fermi energy $$E_F$$.
 
 Low-energy changes in electron occupation
 
-are concentrated near $$E_F$$ —
+are concentrated near $$E_F$$,
 
 most deeper states are Pauli-blocked.
 
@@ -840,7 +840,7 @@ When a star exhausts its nuclear fuel,
 
 it collapses.
 
-The collapse is halted by **electron degeneracy pressure** —
+The collapse is halted by **electron degeneracy pressure**,
 
 the Pauli exclusion principle preventing
 
@@ -875,23 +875,23 @@ Their statistics helps hold up a star.
 
 **Superfluidity:**
 
-Helium-4 (bosonic) becomes superfluid below 2.17 K —
+Helium-4 (bosonic) becomes superfluid below 2.17 K.
 
 Bose-Einstein condensation is part of the story.
 
 
 But in strongly interacting liquid helium-4,
 
-only a fraction of the atoms occupy the condensate —
+only a fraction of the atoms occupy the condensate,
 
 roughly 7% at low pressure and very low temperature.
 
 
-Helium-3 (fermionic) cannot do this —
+Helium-3 (fermionic) cannot do this!
 
 Pauli exclusion prevents single atoms from condensing.
 
-It becomes superfluid only at millikelvin temperatures —
+It becomes superfluid only at millikelvin temperatures.
 
 through Cooper pairing of helium-3 atoms
 
@@ -939,7 +939,7 @@ and strong spin–orbit coupling.
 
 Dyson and Lenard proved (1967):
 
-ordinary Coulomb matter is stable in bulk —
+ordinary Coulomb matter is stable in bulk;
 
 its ground-state energy has a lower bound
 
@@ -951,14 +951,14 @@ The fermionic nature of electrons is essential.
 
 For a corresponding model of charged bosonic matter,
 
-the ground-state energy behaves as $$-N^{7/5}$$ —
+the ground-state energy behaves as $$-N^{7/5}$$,
 
 instability as the system grows.
 
 
 For ordinary fermionic matter with bounded nuclear charges,
 
-the energy instead scales extensively, $$E_0\sim -N$$ —
+the energy instead scales extensively, $$E_0\sim -N$$,
 
 stability.
 
@@ -1030,7 +1030,7 @@ And the configuration space of identical particles
 has its own nontrivial exchange paths.
 
 
-These are related topological ideas —
+These are related topological ideas,
 
 but a rotation and an exchange
 
@@ -1066,7 +1066,7 @@ is what locks these signs together.
 
 This is not coincidence.
 
-It is the deep structure of nature —
+It is the deep structure of nature,
 
 the connection between the geometry of space,
 
@@ -1081,9 +1081,9 @@ and the quantum behavior of matter.
 ## X. Why Feynman Couldn't Explain It Simply
 
 
-Richard Feynman —
+Richard Feynman;
 
-who could explain almost anything simply —
+who could explain almost anything simply,
 
 admitted in his famous lecture series:
 
