@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
+        },{id: "post-the-spin-statistics-theorem-why-half-the-universe-cannot-share-a-quantum-state",
+        
+          title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Share a Quantum State...",
+        
+        description: "The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/spin-statistics/";
+          
+        },
+      },{id: "post-bose-einstein-condensation-when-quantum-mechanics-becomes-visible",
         
           title: "Bose-Einstein Condensation — When Quantum Mechanics Becomes Visible",
         
