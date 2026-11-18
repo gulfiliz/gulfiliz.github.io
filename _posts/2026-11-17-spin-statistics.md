@@ -2,8 +2,8 @@
 layout: post
 title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Share a Quantum State"
 date: 2026-11-17
-description: "The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction."
-tags: research-logs, physics, EN,
+description: "The deepest theorem in quantum field theory: why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction."
+tags: research-logs, physics, EN
 ---
 
 
@@ -95,7 +95,7 @@ This distinction is not just taxonomic.
 
 It determines the statistical behavior
 
-of many-particle systems 
+of many-particle systems
 
 and through that, the structure of matter.
 
@@ -118,7 +118,7 @@ The composite particles:
 
 The behavior of liquid helium-4 versus helium-3
 
-at low temperatures is dramatically different;
+at low temperatures is dramatically different —
 
 precisely because of this distinction.
 
@@ -137,7 +137,7 @@ the wavefunction is:
 $$\Psi(q_1, q_2, ..., q_N)$$
 
 
-Here $$q_i$$ labels the complete one-particle coordinates,
+Here $$q_i$$ labels the complete one-particle coordinates:
 
 including position **and spin**.
 
@@ -159,7 +159,9 @@ $$|\Psi(q_1, ..., q_i, ..., q_j, ..., q_N)|^2
 = |\Psi(q_1, ..., q_j, ..., q_i, ..., q_N)|^2$$
 
 
-The wavefunction itself can change by a phase:
+For an exchange represented by a single phase,
+
+the wavefunction transforms as:
 
 
 $$\Psi(..., q_i, ..., q_j, ...) = e^{i\phi}\Psi(..., q_j, ..., q_i, ...)$$
@@ -206,11 +208,17 @@ Therefore:
 $$\Psi = 0$$
 
 
-The wavefunction vanishes whenever two fermions occupy the same one-particle state.
+The wavefunction vanishes when two complete particle coordinates coincide.
+
+And if two fermions are placed in the same one-particle state $$|u\rangle$$:
+
+$$|u\rangle_1|u\rangle_2-|u\rangle_2|u\rangle_1=0$$
+
+The antisymmetric two-particle state vanishes.
 
 Two fermions cannot be in the same **quantum state**.
 
-They can occupy the same region of space,
+They can occupy the same region of space
 
 if their spin states differ.
 
@@ -257,7 +265,7 @@ bosons prefer to pile into the same state.
 ---
 
 
-## III. The Spin-Statistics Theorem — Statement
+## III. The Spin-Statistics Theorem: Statement
 
 
 The symmetric/antisymmetric distinction is a postulate
@@ -298,11 +306,11 @@ Assigning the opposite statistics to physical fields
 
 forces a violation of at least one essential requirement:
 
-— locality, or
+- locality, or
 
-— positive-norm physical states, or
+- positive-norm physical states, or
 
-— a Hamiltonian bounded below
+- a Hamiltonian bounded below
 
 
 All of which are physically unacceptable.
@@ -369,7 +377,7 @@ $$[\mathcal O(x),\mathcal O(y)] = 0
 Here the metric convention is $$(+,-,-,-)$$.
 
 
-This is locality; events at spacelike separation
+This is locality: events at spacelike separation
 
 cannot influence each other.
 
@@ -509,7 +517,7 @@ It is forced on us by consistency.
 ---
 
 
-## V. The Dirac Sea — The Historical Picture
+## V. The Dirac Sea: The Historical Picture
 
 
 Before the modern proof,
@@ -531,16 +539,16 @@ Dirac's solution (1930):
 **The Dirac sea.**
 
 
-All negative-energy states are filled
+All negative-energy states are filled.
 
-by the Pauli exclusion principle,
+By the Pauli exclusion principle,
 
 no further electrons can fall in.
 
 
-A "hole" in the Dirac sea —
+A "hole" in the Dirac sea
 
-an absent negative-energy electron —
+(an absent negative-energy electron)
 
 behaves as a positive-energy particle
 
@@ -554,14 +562,14 @@ Anderson discovered it in 1932.
 
 The Dirac sea picture requires fermions.
 
-For bosons, there is no Pauli exclusion,
+For bosons, there is no Pauli exclusion.
 
-you cannot fill the negative-energy states.
+You cannot fill the negative-energy states.
 
 The theory would be unstable.
 
 
-This was a powerful historical intuition,
+This was a powerful historical intuition —
 
 not the modern proof.
 
@@ -573,7 +581,7 @@ made Dirac's negative-energy picture possible.
 ---
 
 
-## VI. Anyons — Beyond Bosons and Fermions
+## VI. Anyons: Beyond Bosons and Fermions
 
 
 The familiar boson–fermion version of the spin-statistics theorem
@@ -588,9 +596,9 @@ In 2D, when you exchange two particles,
 
 the path of exchange is topologically nontrivial.
 
-You can wind one particle around another 
+You can wind one particle around another.
 
-and the braid remembers how the exchange happened.
+And the braid remembers how the exchange happened.
 
 
 The phase acquired under exchange
@@ -607,7 +615,7 @@ Particles with exchange angles other than $$0$$ or $$\pi$$
 
 (modulo $$2\pi$$) are **Abelian anyons.**
 
-They have fractional statistics,
+They have fractional statistics:
 
 neither bosonic nor fermionic.
 
@@ -660,9 +668,9 @@ in the collective fusion state of non-Abelian anyons.
 
 Some gates can be implemented by braiding.
 
-The computation can gain protection from topology,
+The computation can gain protection from topology.
 
-local perturbations do not easily change the encoded information.
+Local perturbations do not easily change the encoded information.
 
 
 Not every braiding scheme is universal.
@@ -685,7 +693,7 @@ And that richness may be useful.
 ---
 
 
-## VII. Supersymmetry — Mixing Statistics
+## VII. Supersymmetry: Mixing Statistics
 
 
 **Supersymmetry (SUSY)** proposes a symmetry
@@ -715,23 +723,23 @@ $$\{Q_\alpha, Q_\beta\} = \{\bar{Q}_{\dot{\alpha}}, \bar{Q}_{\dot{\beta}}\} = 0$
 $$[P_\mu, Q_\alpha] = [P_\mu, \bar{Q}_{\dot{\alpha}}] = 0$$
 
 
-The spin-statistics theorem is not violated,
+The spin-statistics theorem is not violated.
 
-each particle still has the statistics
+Each particle still has the statistics
 
 appropriate to its spin.
 
 
 But the spectrum is organized
 
-into **supermultiplets**,
+into **supermultiplets**:
 
 bosonic and fermionic partners
 
 with equal masses in unbroken supersymmetry.
 
 
-SUSY requires:
+In supersymmetric extensions of the Standard Model:
 
 the selectron (spin 0, bosonic) is the partner of the electron (spin 1/2, fermionic).
 
@@ -747,9 +755,9 @@ Clearly not the case.
 
 If SUSY describes nature,
 
-it must be broken,
+it must be broken.
 
-superpartner masses need not match
+Superpartner masses need not match
 
 those of the particles we know.
 
@@ -774,7 +782,7 @@ It just pairs particles across the boson/fermion divide.
 ---
 
 
-## VIII. The Physical Consequences — A Catalog
+## VIII. The Physical Consequences: A Catalog
 
 
 Let me enumerate what the spin-statistics theorem
@@ -784,24 +792,26 @@ is responsible for:
 
 **Atomic structure:**
 
-The Pauli exclusion principle —
+The Pauli exclusion principle
 
-consequence of fermionic statistics —
+(a consequence of fermionic statistics)
 
-forces electrons into different shells.
+forces electrons into different quantum states
 
-Without it: all electrons in 1s orbital,
+and shapes the filling of atomic shells.
 
-all atoms hydrogen-like,
+Without it: no familiar electron-shell structure,
 
-no chemistry.
+no periodic table as we know it,
+
+no chemistry as we know it.
 
 
 **The periodic table:**
 
 The shell structure of atoms —
 
-1s², 2s²2p⁶, 3s²3p⁶3d¹⁰, ... —
+1s², 2s²2p⁶, 3s²3p⁶, 4s²3d¹⁰, ... —
 
 is the Pauli exclusion principle applied to electrons.
 
@@ -810,13 +820,17 @@ Each element's chemistry follows from its electron configuration.
 
 **Molecular bonds:**
 
-Covalent bonds require two electrons
+Many covalent bonds involve two electrons
 
-with opposite spins in the same orbital,
+with opposite spins in the same spatial bonding orbital.
 
-the Pauli principle allows this
+The Pauli principle allows this
 
 (opposite spins = different states).
+
+But a bond can form with only one electron, too,
+
+as in $$\mathrm{H_2^+}$$.
 
 
 **Metallic conductivity:**
@@ -827,9 +841,9 @@ up to the Fermi energy $$E_F$$.
 
 Low-energy changes in electron occupation
 
-are concentrated near $$E_F$$,
+are concentrated near $$E_F$$.
 
-most deeper states are Pauli-blocked.
+Most deeper states are Pauli-blocked.
 
 Transport also depends on band structure and scattering.
 
@@ -840,9 +854,9 @@ When a star exhausts its nuclear fuel,
 
 it collapses.
 
-The collapse is halted by **electron degeneracy pressure**,
+The collapse is halted by **electron degeneracy pressure**.
 
-the Pauli exclusion principle preventing
+The Pauli exclusion principle prevents
 
 electrons from being compressed into the same state.
 
@@ -882,16 +896,16 @@ Bose-Einstein condensation is part of the story.
 
 But in strongly interacting liquid helium-4,
 
-only a fraction of the atoms occupy the condensate,
+only a fraction of the atoms occupy the condensate:
 
 roughly 7% at low pressure and very low temperature.
 
 
-Helium-3 (fermionic) cannot do this!
+Helium-3 (fermionic) cannot do this.
 
 Pauli exclusion prevents single atoms from condensing.
 
-It becomes superfluid only at millikelvin temperatures.
+It becomes superfluid only at millikelvin temperatures
 
 through Cooper pairing of helium-3 atoms
 
@@ -900,7 +914,7 @@ through Cooper pairing of helium-3 atoms
 
 **Lasers:**
 
-Stimulated emission — the basis of lasers —
+Stimulated emission, the basis of lasers,
 
 is Bose enhancement:
 
@@ -939,9 +953,9 @@ and strong spin–orbit coupling.
 
 Dyson and Lenard proved (1967):
 
-ordinary Coulomb matter is stable in bulk;
+ordinary Coulomb matter is stable in bulk.
 
-its ground-state energy has a lower bound
+Its ground-state energy has a lower bound
 
 proportional to the number of particles.
 
@@ -951,16 +965,16 @@ The fermionic nature of electrons is essential.
 
 For a corresponding model of charged bosonic matter,
 
-the ground-state energy behaves as $$-N^{7/5}$$,
+the ground-state energy behaves as $$-N^{7/5}$$.
 
-instability as the system grows.
+Instability as the system grows.
 
 
 For ordinary fermionic matter with bounded nuclear charges,
 
-the energy instead scales extensively, $$E_0\sim -N$$,
+the energy instead scales extensively, $$E_0\sim -N$$.
 
-stability.
+Stability.
 
 
 **The Pauli exclusion principle is why matter doesn't collapse.**
@@ -1007,13 +1021,13 @@ But geometry is not acting alone.
 
 The way a particle transforms
 
-under rotations in 3D space —
+under rotations in 3D space
 
-integer or half-integer —
+(integer or half-integer)
 
 is tied to how identical-particle states transform
 
-under exchange —
+under exchange:
 
 symmetric or antisymmetric.
 
@@ -1030,9 +1044,9 @@ And the configuration space of identical particles
 has its own nontrivial exchange paths.
 
 
-These are related topological ideas,
+These are related topological ideas.
 
-but a rotation and an exchange
+But a rotation and an exchange
 
 are **not literally the same operation**.
 
@@ -1066,7 +1080,7 @@ is what locks these signs together.
 
 This is not coincidence.
 
-It is the deep structure of nature,
+It is the deep structure of nature:
 
 the connection between the geometry of space,
 
@@ -1081,9 +1095,9 @@ and the quantum behavior of matter.
 ## X. Why Feynman Couldn't Explain It Simply
 
 
-Richard Feynman;
+Richard Feynman —
 
-who could explain almost anything simply,
+who could explain almost anything simply —
 
 admitted in his famous lecture series:
 
@@ -1137,7 +1151,7 @@ in the history of physics.
 
 Even the deepest theorems
 
-can be proved without being understood...
+can be proved without being understood.
 
 
 ---
@@ -1146,49 +1160,49 @@ can be proved without being understood...
 *Essential reading:*
 
 
-*Pauli — "The Connection Between Spin and Statistics" (1940)*
+*Pauli, "The Connection Between Spin and Statistics" (1940)*
 
 *Phys. Rev. 58, 716*
 
-*— the original proof*
+*The original proof*
 
 
-*Lüders & Zumino — "Connection Between Spin and Statistics" (1958)*
+*Lüders & Zumino, "Connection Between Spin and Statistics" (1958)*
 
 *Phys. Rev. 110, 1450*
 
-*— the rigorous modern proof*
+*The rigorous modern proof*
 
 
-*Duck & Sudarshan — "Toward an understanding of the spin-statistics theorem" (1998)*
+*Duck & Sudarshan, "Toward an understanding of the spin-statistics theorem" (1998)*
 
 *Am. J. Phys. 66, 284*
 
-*— the most accessible discussion*
+*The most accessible discussion*
 
 
-*Streater & Wightman — PCT, Spin and Statistics, and All That (1964)*
+*Streater & Wightman, PCT, Spin and Statistics, and All That (1964)*
 
-*— the axiomatic QFT treatment*
+*The axiomatic QFT treatment*
 
 
-*Wilczek — "Quantum Mechanics of Fractional-Spin Particles" (1982)*
+*Wilczek, "Quantum Mechanics of Fractional-Spin Particles" (1982)*
 
 *Phys. Rev. Lett. 49, 957*
 
-*— anyons*
+*Anyons*
 
 
 *For the mathematically serious:*
 
 
-*Weinberg — The Quantum Theory of Fields, Vol. 1*
+*Weinberg, The Quantum Theory of Fields, Vol. 1*
 
-*— Chapter 5 for the definitive treatment*
+*Chapter 5 for the definitive treatment*
 
 
-*Feynman — [The Feynman Lectures on Physics, Vol. III, Chapter 4](https://www.feynmanlectures.caltech.edu/III_04.html)*
+*Feynman, [The Feynman Lectures on Physics, Vol. III, Chapter 4](https://www.feynmanlectures.caltech.edu/III_04.html)*
 
-*— the original lecture quoted above*
+*The original lecture quoted above*
 
-*For the free-field quantization details: [David Tong — Quantum Field Theory](https://www.damtp.cam.ac.uk/user/tong/qft.html)*
+*For the free-field quantization details: [David Tong, Quantum Field Theory](https://www.damtp.cam.ac.uk/user/tong/qft.html)*
