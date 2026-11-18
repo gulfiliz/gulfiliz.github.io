@@ -20,7 +20,7 @@ ninja.data = [{
         
           title: "The Spin-Statistics Theorem — Why Half the Universe Cannot Share a Quantum State...",
         
-        description: "The deepest theorem in quantum field theory — why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.",
+        description: "The deepest theorem in quantum field theory: why integer-spin particles are sociable and half-integer-spin particles are antisocial, and why the universe depends on this distinction.",
         section: "Posts",
         handler: () => {
           
